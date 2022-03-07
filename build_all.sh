@@ -2,4 +2,5 @@
 
 SCRIPT_DIR=$(cd $(dirname "${BASH_SOURCE[0]}") && pwd)
 
-docker build -t flights-db $SCRIPT_DIR/db
+$SCRIPT_DIR/db/build_image.sh
+$SCRIPT_DIR/migration/build_image.sh

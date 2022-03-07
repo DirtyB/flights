@@ -5,3 +5,9 @@ services:
     ports:
       - 5432:5432
 
+  migration:
+    image: flights-migration:latest
+    depends_on:
+      - db
+
+
