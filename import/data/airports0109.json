@@ -1,1 +1,76 @@
-{"status":"ok","page":109,"data":[{"id":"CYCY","name":"CLYDE RIVER,"country":"CAN","lat":"Canada","lon":70.48591388888889},{"id":"CYFB","name":"IQALUIT,"country":"CAN","lat":"Canada","lon":63.756572222222225},{"id":"CYHK","name":"GJOA HAVEN,"country":"CAN","lat":"Canada","lon":68.635475},{"id":"CYUX","name":"HALL BEACH,"country":"CAN","lat":"Canada","lon":68.77576944444445},{"id":"CYGT","name":"IGLOOLIK,"country":"CAN","lat":"Canada","lon":69.3646611111111},{"id":"CYLC","name":"KIMMIRUT,"country":"CAN","lat":"Canada","lon":62.848061111111114},{"id":"CYXP","name":"PANGNIRTUNG,"country":"CAN","lat":"Canada","lon":66.14488055555556},{"id":"CYBB","name":"KUGAARUK,"country":"CAN","lat":"Canada","lon":68.53590555555556},{"id":"CYIO","name":"POND INLET,"country":"CAN","lat":"Canada","lon":72.6895138888889},{"id":"CYRT","name":"RANKIN INLET,"country":"CAN","lat":"Canada","lon":62.81066111111111}]}
+{
+    "status": "ok",
+    "page": 109,
+    "data": [
+        {
+            "id": "CYCY",
+            "name": "CLYDE RIVER",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 70.48591388888889
+        },
+        {
+            "id": "CYFB",
+            "name": "IQALUIT",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 63.756572222222225
+        },
+        {
+            "id": "CYHK",
+            "name": "GJOA HAVEN",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 68.635475
+        },
+        {
+            "id": "CYUX",
+            "name": "HALL BEACH",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 68.77576944444445
+        },
+        {
+            "id": "CYGT",
+            "name": "IGLOOLIK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 69.3646611111111
+        },
+        {
+            "id": "CYLC",
+            "name": "KIMMIRUT",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 62.848061111111114
+        },
+        {
+            "id": "CYXP",
+            "name": "PANGNIRTUNG",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 66.14488055555556
+        },
+        {
+            "id": "CYBB",
+            "name": "KUGAARUK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 68.53590555555556
+        },
+        {
+            "id": "CYIO",
+            "name": "POND INLET",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 72.6895138888889
+        },
+        {
+            "id": "CYRT",
+            "name": "RANKIN INLET",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 62.81066111111111
+        }
+    ]
+}

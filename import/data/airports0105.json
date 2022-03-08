@@ -1,1 +1,76 @@
-{"status":"ok","page":105,"data":[{"id":"CYFT","name":"MAKKOVIK,"country":"CAN","lat":"Canada","lon":55.07725277777778},{"id":"CYMH","name":"MARY'S HARBOUR,"country":"CAN","lat":"Canada","lon":52.302816666666665},{"id":"CYDP","name":"NAIN,"country":"CAN","lat":"Canada","lon":56.55061666666666},{"id":"CYAY","name":"ST ANTHONY,"country":"CAN","lat":"Canada","lon":51.391891666666666},{"id":"CYYT","name":"ST. JOHN'S INTL,"country":"CAN","lat":"Canada","lon":47.61861944444445},{"id":"CYJT","name":"STEPHENVILLE,"country":"CAN","lat":"Canada","lon":48.54145},{"id":"CYWK","name":"WABUSH,"country":"CAN","lat":"Canada","lon":52.922725},{"id":"LFVP","name":"SAINT PIERRE","country":"France","lat":46.76305555555555,"lon":-56.174166666666665},{"id":"CYZX","name":"GREENWOOD,"country":"CAN","lat":"Canada","lon":44.98444444444444},{"id":"CYHZ","name":"HALIFAX/STANFIELD INTL,"country":"CAN","lat":"Canada","lon":44.87968055555556}]}
+{
+    "status": "ok",
+    "page": 105,
+    "data": [
+        {
+            "id": "CYFT",
+            "name": "MAKKOVIK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 55.07725277777778
+        },
+        {
+            "id": "CYMH",
+            "name": "MARY'S HARBOUR",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 52.302816666666665
+        },
+        {
+            "id": "CYDP",
+            "name": "NAIN",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 56.55061666666666
+        },
+        {
+            "id": "CYAY",
+            "name": "ST ANTHONY",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 51.391891666666666
+        },
+        {
+            "id": "CYYT",
+            "name": "ST. JOHN'S INTL",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 47.61861944444445
+        },
+        {
+            "id": "CYJT",
+            "name": "STEPHENVILLE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 48.54145
+        },
+        {
+            "id": "CYWK",
+            "name": "WABUSH",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 52.922725
+        },
+        {
+            "id": "LFVP",
+            "name": "SAINT PIERRE",
+            "country": "France",
+            "lat": 46.76305555555555,
+            "lon": -56.174166666666665
+        },
+        {
+            "id": "CYZX",
+            "name": "GREENWOOD",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 44.98444444444444
+        },
+        {
+            "id": "CYHZ",
+            "name": "HALIFAX/STANFIELD INTL",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 44.87968055555556
+        }
+    ]
+}

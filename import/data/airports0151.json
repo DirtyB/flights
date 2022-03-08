@@ -1,1 +1,76 @@
-{"status":"ok","page":151,"data":[{"id":"SBCY","name":"CUIABA/MARECHAL RONDON,"country":"BRA","lat":"Brazil","lon":-15.65},{"id":"SBCZ","name":"CRUZEIRO DO SUL/CRUZEIRO DO SUL,"country":"BRA","lat":"Brazil","lon":-7.599444444444444},{"id":"SBDN","name":"PRESIDENTE PRUDENTE/PRESIDENTE PRUDENTE,"country":"BRA","lat":"Brazil","lon":-22.178333333333335},{"id":"SBEG","name":"MANAUS/EDUARDO GOMES,"country":"BRA","lat":"Brazil","lon":-3.0388888888888888},{"id":"SBES","name":"SAO PEDRO DA ALDEIA/SAO PEDRO DA ALDEIA,"country":"BRA","lat":"Brazil","lon":-22.816666666666666},{"id":"SBFI","name":"FOZ DO IGUACU/CATARATAS,"country":"BRA","lat":"Brazil","lon":-25.60027777777778},{"id":"SBFL","name":"FLORIANOPOLIS/HERCILIO LUZ,"country":"BRA","lat":"Brazil","lon":-27.67027777777778},{"id":"SBFN","name":"FERNANDO DE NORONHA/FERNANDO DE NORONHA,"country":"BRA","lat":"Brazil","lon":-3.854722222222222},{"id":"SBFZ","name":"FORTALEZA/ PINTO MARTINS,"country":"BRA","lat":"Brazil","lon":-3.7758333333333334},{"id":"SBGL","name":"RIO DE JANEIRO/GALEAO-ANTONIO CARLOS JOBIM,"country":"BRA","lat":"Brazil","lon":-22.810000000000002}]}
+{
+    "status": "ok",
+    "page": 151,
+    "data": [
+        {
+            "id": "SBCY",
+            "name": "CUIABA/MARECHAL RONDON",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -15.65
+        },
+        {
+            "id": "SBCZ",
+            "name": "CRUZEIRO DO SUL/CRUZEIRO DO SUL",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -7.599444444444444
+        },
+        {
+            "id": "SBDN",
+            "name": "PRESIDENTE PRUDENTE/PRESIDENTE PRUDENTE",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -22.178333333333335
+        },
+        {
+            "id": "SBEG",
+            "name": "MANAUS/EDUARDO GOMES",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -3.0388888888888888
+        },
+        {
+            "id": "SBES",
+            "name": "SAO PEDRO DA ALDEIA/SAO PEDRO DA ALDEIA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -22.816666666666666
+        },
+        {
+            "id": "SBFI",
+            "name": "FOZ DO IGUACU/CATARATAS",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -25.60027777777778
+        },
+        {
+            "id": "SBFL",
+            "name": "FLORIANOPOLIS/HERCILIO LUZ",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -27.67027777777778
+        },
+        {
+            "id": "SBFN",
+            "name": "FERNANDO DE NORONHA/FERNANDO DE NORONHA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -3.854722222222222
+        },
+        {
+            "id": "SBFZ",
+            "name": "FORTALEZA/ PINTO MARTINS",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -3.7758333333333334
+        },
+        {
+            "id": "SBGL",
+            "name": "RIO DE JANEIRO/GALEAO-ANTONIO CARLOS JOBIM",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -22.810000000000002
+        }
+    ]
+}

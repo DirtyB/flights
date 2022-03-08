@@ -1,1 +1,76 @@
-{"status":"ok","page":358,"data":[{"id":"KBAB","name":"BEALE AFB","country":"United States of America","lat":39.1361,"lon":-121.43658611111111},{"id":"KBYS","name":"BICYCLE LAKE AAF","country":"United States of America","lat":35.2805276666667,"lon":-116.630027666667},{"id":"KBIH","name":"EASTERN SIERRA RGNL","country":"United States of America","lat":37.373111111111115,"lon":-118.36361111111111},{"id":"KBLH","name":"BLYTHE","country":"United States of America","lat":33.619166666666665,"lon":-114.71688888888889},{"id":"KBUR","name":"BOB HOPE","country":"United States of America","lat":34.200694444444444,"lon":-118.35866666666666},{"id":"KNFG","name":"OCEANSIDE/CAMP PENDELTON MCAS,"country":"USA","lat":"United States of America","lon":33.30125555555555},{"id":"KCRQ","name":"MC CLELLAN-PALOMAR","country":"United States of America","lat":33.12825,"lon":-117.28008333333334},{"id":"KCIC","name":"CHICO MUNI","country":"United States of America","lat":39.79538888888889,"lon":-121.85841666666666},{"id":"KCNO","name":"CHINO","country":"United States of America","lat":33.97477777777778,"lon":-117.63648055555556},{"id":"KCCR","name":"BUCHANAN FIELD","country":"United States of America","lat":37.989666666666665,"lon":-122.05688888888889}]}
+{
+    "status": "ok",
+    "page": 358,
+    "data": [
+        {
+            "id": "KBAB",
+            "name": "BEALE AFB",
+            "country": "United States of America",
+            "lat": 39.1361,
+            "lon": -121.43658611111111
+        },
+        {
+            "id": "KBYS",
+            "name": "BICYCLE LAKE AAF",
+            "country": "United States of America",
+            "lat": 35.2805276666667,
+            "lon": -116.630027666667
+        },
+        {
+            "id": "KBIH",
+            "name": "EASTERN SIERRA RGNL",
+            "country": "United States of America",
+            "lat": 37.373111111111115,
+            "lon": -118.36361111111111
+        },
+        {
+            "id": "KBLH",
+            "name": "BLYTHE",
+            "country": "United States of America",
+            "lat": 33.619166666666665,
+            "lon": -114.71688888888889
+        },
+        {
+            "id": "KBUR",
+            "name": "BOB HOPE",
+            "country": "United States of America",
+            "lat": 34.200694444444444,
+            "lon": -118.35866666666666
+        },
+        {
+            "id": "KNFG",
+            "name": "OCEANSIDE/CAMP PENDELTON MCAS",
+            "country": "USA",
+            "lat": "United States of America",
+            "lon": 33.30125555555555
+        },
+        {
+            "id": "KCRQ",
+            "name": "MC CLELLAN-PALOMAR",
+            "country": "United States of America",
+            "lat": 33.12825,
+            "lon": -117.28008333333334
+        },
+        {
+            "id": "KCIC",
+            "name": "CHICO MUNI",
+            "country": "United States of America",
+            "lat": 39.79538888888889,
+            "lon": -121.85841666666666
+        },
+        {
+            "id": "KCNO",
+            "name": "CHINO",
+            "country": "United States of America",
+            "lat": 33.97477777777778,
+            "lon": -117.63648055555556
+        },
+        {
+            "id": "KCCR",
+            "name": "BUCHANAN FIELD",
+            "country": "United States of America",
+            "lat": 37.989666666666665,
+            "lon": -122.05688888888889
+        }
+    ]
+}

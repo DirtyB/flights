@@ -1,1 +1,76 @@
-{"status":"ok","page":106,"data":[{"id":"CYPD","name":"PORT HAWKESBURY,"country":"CAN","lat":"Canada","lon":45.656502777777774},{"id":"CYQY","name":"SYDNEY/J.A DOUGLAS MCCURDY,"country":"CAN","lat":"Canada","lon":46.161519444444444},{"id":"CYQI","name":"YARMOUTH,"country":"CAN","lat":"Canada","lon":43.82718055555556},{"id":"CYKD","name":"AKLAVIK/FREDDIE CARMICHAEL,"country":"CAN","lat":"Canada","lon":68.22330000000001},{"id":"CYOA","name":"EKATI,"country":"CAN","lat":"Canada","lon":64.69899722222223},{"id":"CYWJ","name":"DELINE,"country":"CAN","lat":"Canada","lon":65.211175},{"id":"CYGH","name":"FORT GOOD HOPE,"country":"CAN","lat":"Canada","lon":66.24063611111112},{"id":"CZFM","name":"FORT MCPHERSON,"country":"CAN","lat":"Canada","lon":67.40690000000001},{"id":"CYFS","name":"FORT SIMPSON,"country":"CAN","lat":"Canada","lon":61.760152777777776},{"id":"CYSM","name":"FORT SMITH,"country":"CAN","lat":"Canada","lon":60.020316666666666}]}
+{
+    "status": "ok",
+    "page": 106,
+    "data": [
+        {
+            "id": "CYPD",
+            "name": "PORT HAWKESBURY",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 45.656502777777774
+        },
+        {
+            "id": "CYQY",
+            "name": "SYDNEY/J.A DOUGLAS MCCURDY",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 46.161519444444444
+        },
+        {
+            "id": "CYQI",
+            "name": "YARMOUTH",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 43.82718055555556
+        },
+        {
+            "id": "CYKD",
+            "name": "AKLAVIK/FREDDIE CARMICHAEL",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 68.22330000000001
+        },
+        {
+            "id": "CYOA",
+            "name": "EKATI",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 64.69899722222223
+        },
+        {
+            "id": "CYWJ",
+            "name": "DELINE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 65.211175
+        },
+        {
+            "id": "CYGH",
+            "name": "FORT GOOD HOPE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 66.24063611111112
+        },
+        {
+            "id": "CZFM",
+            "name": "FORT MCPHERSON",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 67.40690000000001
+        },
+        {
+            "id": "CYFS",
+            "name": "FORT SIMPSON",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 61.760152777777776
+        },
+        {
+            "id": "CYSM",
+            "name": "FORT SMITH",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 60.020316666666666
+        }
+    ]
+}

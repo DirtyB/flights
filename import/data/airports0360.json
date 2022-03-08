@@ -1,1 +1,76 @@
-{"status":"ok","page":360,"data":[{"id":"KHWD","name":"HAYWARD EXECUTIVE","country":"United States of America","lat":37.65891666666666,"lon":-122.12174999999999},{"id":"KIPL","name":"IMPERIAL COUNTY","country":"United States of America","lat":32.83422222222222,"lon":-115.57875},{"id":"KNRS","name":"IMPERIAL BEACH NOLF (REAM FLD)","country":"United States of America","lat":32.566155555555554,"lon":-117.11352222222222},{"id":"KPOC","name":"BRACKETT FIELD","country":"United States of America","lat":34.09166666666667,"lon":-117.78177777777778},{"id":"KWJF","name":"GENERAL WM J FOX AIRFIELD","country":"United States of America","lat":34.741055555555555,"lon":-118.21863888888889},{"id":"KNLC","name":"LEMOORE NAS (REEVES FLD)","country":"United States of America","lat":36.33301111111111,"lon":-119.95208055555555},{"id":"KLVK","name":"LIVERMORE MUNI","country":"United States of America","lat":37.69338888888888,"lon":-121.82036111111111},{"id":"KLPC","name":"LOMPOC","country":"United States of America","lat":34.665619444444445,"lon":-120.46750277777778},{"id":"KLGB","name":"LONG BEACH/DAUGHERTY FIELD","country":"United States of America","lat":33.817752777777784,"lon":-118.15173055555556},{"id":"KSLI","name":"LOS ALAMITOS/AAF,"country":"USA","lat":"United States of America","lon":33.79}]}
+{
+    "status": "ok",
+    "page": 360,
+    "data": [
+        {
+            "id": "KHWD",
+            "name": "HAYWARD EXECUTIVE",
+            "country": "United States of America",
+            "lat": 37.65891666666666,
+            "lon": -122.12174999999999
+        },
+        {
+            "id": "KIPL",
+            "name": "IMPERIAL COUNTY",
+            "country": "United States of America",
+            "lat": 32.83422222222222,
+            "lon": -115.57875
+        },
+        {
+            "id": "KNRS",
+            "name": "IMPERIAL BEACH NOLF (REAM FLD)",
+            "country": "United States of America",
+            "lat": 32.566155555555554,
+            "lon": -117.11352222222222
+        },
+        {
+            "id": "KPOC",
+            "name": "BRACKETT FIELD",
+            "country": "United States of America",
+            "lat": 34.09166666666667,
+            "lon": -117.78177777777778
+        },
+        {
+            "id": "KWJF",
+            "name": "GENERAL WM J FOX AIRFIELD",
+            "country": "United States of America",
+            "lat": 34.741055555555555,
+            "lon": -118.21863888888889
+        },
+        {
+            "id": "KNLC",
+            "name": "LEMOORE NAS (REEVES FLD)",
+            "country": "United States of America",
+            "lat": 36.33301111111111,
+            "lon": -119.95208055555555
+        },
+        {
+            "id": "KLVK",
+            "name": "LIVERMORE MUNI",
+            "country": "United States of America",
+            "lat": 37.69338888888888,
+            "lon": -121.82036111111111
+        },
+        {
+            "id": "KLPC",
+            "name": "LOMPOC",
+            "country": "United States of America",
+            "lat": 34.665619444444445,
+            "lon": -120.46750277777778
+        },
+        {
+            "id": "KLGB",
+            "name": "LONG BEACH/DAUGHERTY FIELD",
+            "country": "United States of America",
+            "lat": 33.817752777777784,
+            "lon": -118.15173055555556
+        },
+        {
+            "id": "KSLI",
+            "name": "LOS ALAMITOS/AAF",
+            "country": "USA",
+            "lat": "United States of America",
+            "lon": 33.79
+        }
+    ]
+}

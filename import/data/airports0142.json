@@ -1,1 +1,76 @@
-{"status":"ok","page":142,"data":[{"id":"SVPA","name":"PUERTO AYACUCHO,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":5.62},{"id":"SVPC","name":"PUERTO CABELLO,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":10.480277777777777},{"id":"SVPM","name":"PARAMILLO,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":7.804722222222222},{"id":"SVPR","name":"PUERTO ORDAZ,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":8.288333333333334},{"id":"SVSA","name":"SAN ANTONIO DEL TACHIRA,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":7.8405555555555555},{"id":"SVSO","name":"SANTO DOMINGO,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":7.5649999999999995},{"id":"SVSP","name":"SAN FELIPE,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":10.278611111111111},{"id":"SVSR","name":"SAN FERNANDO DE APURE,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":7.883055555555556},{"id":"SVST","name":"SAN TOME,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":8.945},{"id":"SVSZ","name":"SANTA BARBARA DEL ZULIA,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":8.974166666666667}]}
+{
+    "status": "ok",
+    "page": 142,
+    "data": [
+        {
+            "id": "SVPA",
+            "name": "PUERTO AYACUCHO",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 5.62
+        },
+        {
+            "id": "SVPC",
+            "name": "PUERTO CABELLO",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 10.480277777777777
+        },
+        {
+            "id": "SVPM",
+            "name": "PARAMILLO",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 7.804722222222222
+        },
+        {
+            "id": "SVPR",
+            "name": "PUERTO ORDAZ",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 8.288333333333334
+        },
+        {
+            "id": "SVSA",
+            "name": "SAN ANTONIO DEL TACHIRA",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 7.8405555555555555
+        },
+        {
+            "id": "SVSO",
+            "name": "SANTO DOMINGO",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 7.5649999999999995
+        },
+        {
+            "id": "SVSP",
+            "name": "SAN FELIPE",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 10.278611111111111
+        },
+        {
+            "id": "SVSR",
+            "name": "SAN FERNANDO DE APURE",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 7.883055555555556
+        },
+        {
+            "id": "SVST",
+            "name": "SAN TOME",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 8.945
+        },
+        {
+            "id": "SVSZ",
+            "name": "SANTA BARBARA DEL ZULIA",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 8.974166666666667
+        }
+    ]
+}

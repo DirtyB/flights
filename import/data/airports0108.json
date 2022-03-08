@@ -1,1 +1,76 @@
-{"status":"ok","page":108,"data":[{"id":"CYZF","name":"YELLOWKNIFE,"country":"CAN","lat":"Canada","lon":62.463036111111116},{"id":"CYLT","name":"ALERT,"country":"CAN","lat":"Canada","lon":82.51777777777778},{"id":"CYAB","name":"ARCTIC BAY,"country":"CAN","lat":"Canada","lon":73.00638611111111},{"id":"CYEK","name":"ARVIAT,"country":"CAN","lat":"Canada","lon":61.093963888888894},{"id":"CYBK","name":"BAKER LAKE,"country":"CAN","lat":"Canada","lon":64.2988111111111},{"id":"CYVM","name":"QIKIQTARJUAQ,"country":"CAN","lat":"Canada","lon":67.54655277777778},{"id":"CYCB","name":"CAMBRIDGE BAY,"country":"CAN","lat":"Canada","lon":69.10792222222221},{"id":"CYTE","name":"CAPE DORSET,"country":"CAN","lat":"Canada","lon":64.230225},{"id":"CYCO","name":"KUGLUKTUK,"country":"CAN","lat":"Canada","lon":67.8167},{"id":"CYZS","name":"CORAL HARBOUR,"country":"CAN","lat":"Canada","lon":64.19336666666668}]}
+{
+    "status": "ok",
+    "page": 108,
+    "data": [
+        {
+            "id": "CYZF",
+            "name": "YELLOWKNIFE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 62.463036111111116
+        },
+        {
+            "id": "CYLT",
+            "name": "ALERT",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 82.51777777777778
+        },
+        {
+            "id": "CYAB",
+            "name": "ARCTIC BAY",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 73.00638611111111
+        },
+        {
+            "id": "CYEK",
+            "name": "ARVIAT",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 61.093963888888894
+        },
+        {
+            "id": "CYBK",
+            "name": "BAKER LAKE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 64.2988111111111
+        },
+        {
+            "id": "CYVM",
+            "name": "QIKIQTARJUAQ",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 67.54655277777778
+        },
+        {
+            "id": "CYCB",
+            "name": "CAMBRIDGE BAY",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 69.10792222222221
+        },
+        {
+            "id": "CYTE",
+            "name": "CAPE DORSET",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 64.230225
+        },
+        {
+            "id": "CYCO",
+            "name": "KUGLUKTUK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 67.8167
+        },
+        {
+            "id": "CYZS",
+            "name": "CORAL HARBOUR",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 64.19336666666668
+        }
+    ]
+}

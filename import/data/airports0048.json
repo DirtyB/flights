@@ -1,1 +1,76 @@
-{"status":"ok","page":48,"data":[{"id":"KHDE","name":"BREWSTER FIELD","country":"United States of America","lat":40.452088888888895,"lon":-99.336475},{"id":"KIML","name":"IMPERIAL MUNI","country":"United States of America","lat":40.510325,"lon":-101.62014444444443},{"id":"KEAR","name":"KEARNEY RGNL","country":"United States of America","lat":40.72702777777778,"lon":-99.00677777777778},{"id":"KLXN","name":"JIM KELLY FIELD","country":"United States of America","lat":40.791,"lon":-99.77727777777778},{"id":"KLNK","name":"LINCOLN","country":"United States of America","lat":40.85088888888889,"lon":-96.75911111111111},{"id":"KMCK","name":"MC COOK BEN NELSON RGNL","country":"United States of America","lat":40.20627777777778,"lon":-100.59208333333333},{"id":"KOFK","name":"NORFOLK RGNL/KARL STEFAN MEMORIAL FLD","country":"United States of America","lat":41.98547222222222,"lon":-97.43511111111111},{"id":"KLBF","name":"NORTH PLATTE RGNL AIRPORT LEE BIRD FIELD","country":"United States of America","lat":41.126222222222225,"lon":-100.68366666666667},{"id":"KONL","name":"THE O'NEILL MUNI-JOHN L BAKER FIELD","country":"United States of America","lat":42.46936111111111,"lon":-98.68777777777778},{"id":"KOFF","name":"OMAHA/OFFUT AFB,"country":"USA","lat":"United States of America","lon":41.11932777777778}]}
+{
+    "status": "ok",
+    "page": 48,
+    "data": [
+        {
+            "id": "KHDE",
+            "name": "BREWSTER FIELD",
+            "country": "United States of America",
+            "lat": 40.452088888888895,
+            "lon": -99.336475
+        },
+        {
+            "id": "KIML",
+            "name": "IMPERIAL MUNI",
+            "country": "United States of America",
+            "lat": 40.510325,
+            "lon": -101.62014444444443
+        },
+        {
+            "id": "KEAR",
+            "name": "KEARNEY RGNL",
+            "country": "United States of America",
+            "lat": 40.72702777777778,
+            "lon": -99.00677777777778
+        },
+        {
+            "id": "KLXN",
+            "name": "JIM KELLY FIELD",
+            "country": "United States of America",
+            "lat": 40.791,
+            "lon": -99.77727777777778
+        },
+        {
+            "id": "KLNK",
+            "name": "LINCOLN",
+            "country": "United States of America",
+            "lat": 40.85088888888889,
+            "lon": -96.75911111111111
+        },
+        {
+            "id": "KMCK",
+            "name": "MC COOK BEN NELSON RGNL",
+            "country": "United States of America",
+            "lat": 40.20627777777778,
+            "lon": -100.59208333333333
+        },
+        {
+            "id": "KOFK",
+            "name": "NORFOLK RGNL/KARL STEFAN MEMORIAL FLD",
+            "country": "United States of America",
+            "lat": 41.98547222222222,
+            "lon": -97.43511111111111
+        },
+        {
+            "id": "KLBF",
+            "name": "NORTH PLATTE RGNL AIRPORT LEE BIRD FIELD",
+            "country": "United States of America",
+            "lat": 41.126222222222225,
+            "lon": -100.68366666666667
+        },
+        {
+            "id": "KONL",
+            "name": "THE O'NEILL MUNI-JOHN L BAKER FIELD",
+            "country": "United States of America",
+            "lat": 42.46936111111111,
+            "lon": -98.68777777777778
+        },
+        {
+            "id": "KOFF",
+            "name": "OMAHA/OFFUT AFB",
+            "country": "USA",
+            "lat": "United States of America",
+            "lon": 41.11932777777778
+        }
+    ]
+}

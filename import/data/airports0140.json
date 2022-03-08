@@ -1,1 +1,76 @@
-{"status":"ok","page":140,"data":[{"id":"SVAC","name":"ACARIGUA,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":9.553333333333335},{"id":"SVBC","name":"BARCELONA,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":10.11111111111111},{"id":"SVBI","name":"BARINAS,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":8.615},{"id":"SVBM","name":"BARQUISIMETO,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":10.042222222222222},{"id":"SVBS","name":"B. A. MARISCAL SUCRE,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":10.25},{"id":"SVCB","name":"CIUDAD BOLIVAR,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":8.122222222222224},{"id":"SVCN","name":"CANAIMA,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":6.231944444444444},{"id":"SVCR","name":"CORO,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":11.414722222222222},{"id":"SVCU","name":"CUMANA,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":10.449166666666667},{"id":"SVFM","name":"B.A. FRANCISCO DE MIRANDA,"country":"VEN","lat":"Venezuela (Bolivarian Republic of)","lon":10.485}]}
+{
+    "status": "ok",
+    "page": 140,
+    "data": [
+        {
+            "id": "SVAC",
+            "name": "ACARIGUA",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 9.553333333333335
+        },
+        {
+            "id": "SVBC",
+            "name": "BARCELONA",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 10.11111111111111
+        },
+        {
+            "id": "SVBI",
+            "name": "BARINAS",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 8.615
+        },
+        {
+            "id": "SVBM",
+            "name": "BARQUISIMETO",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 10.042222222222222
+        },
+        {
+            "id": "SVBS",
+            "name": "B. A. MARISCAL SUCRE",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 10.25
+        },
+        {
+            "id": "SVCB",
+            "name": "CIUDAD BOLIVAR",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 8.122222222222224
+        },
+        {
+            "id": "SVCN",
+            "name": "CANAIMA",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 6.231944444444444
+        },
+        {
+            "id": "SVCR",
+            "name": "CORO",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 11.414722222222222
+        },
+        {
+            "id": "SVCU",
+            "name": "CUMANA",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 10.449166666666667
+        },
+        {
+            "id": "SVFM",
+            "name": "B.A. FRANCISCO DE MIRANDA",
+            "country": "VEN",
+            "lat": "Venezuela (Bolivarian Republic of)",
+            "lon": 10.485
+        }
+    ]
+}

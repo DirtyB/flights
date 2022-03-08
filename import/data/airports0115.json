@@ -1,1 +1,76 @@
-{"status":"ok","page":115,"data":[{"id":"CYGP","name":"GASPE (MICHEL-POULIOT),"country":"CAN","lat":"Canada","lon":48.77516388888889},{"id":"CYND","name":"OTTAWA/GATINEAU,"country":"CAN","lat":"Canada","lon":45.52169166666667},{"id":"CYGV","name":"HAVRE ST-PIERRE,"country":"CAN","lat":"Canada","lon":50.28194444444444},{"id":"CYGR","name":"ILES-DE-LA-MADELEINE,"country":"CAN","lat":"Canada","lon":47.425066666666666},{"id":"CYPH","name":"INUKJUAK,"country":"CAN","lat":"Canada","lon":58.47193055555556},{"id":"CYIK","name":"IVUJIVIK,"country":"CAN","lat":"Canada","lon":62.417341666666665},{"id":"CYAS","name":"KANGIRSUK,"country":"CAN","lat":"Canada","lon":60.027252777777775},{"id":"CYVP","name":"KUUJJUAQ,"country":"CAN","lat":"Canada","lon":58.094875},{"id":"CYGW","name":"KUUJJUARAPIK,"country":"CAN","lat":"Canada","lon":55.28202777777778},{"id":"CYAH","name":"LA GRANDE-4,"country":"CAN","lat":"Canada","lon":53.754725}]}
+{
+    "status": "ok",
+    "page": 115,
+    "data": [
+        {
+            "id": "CYGP",
+            "name": "GASPE (MICHEL-POULIOT)",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 48.77516388888889
+        },
+        {
+            "id": "CYND",
+            "name": "OTTAWA/GATINEAU",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 45.52169166666667
+        },
+        {
+            "id": "CYGV",
+            "name": "HAVRE ST-PIERRE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 50.28194444444444
+        },
+        {
+            "id": "CYGR",
+            "name": "ILES-DE-LA-MADELEINE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 47.425066666666666
+        },
+        {
+            "id": "CYPH",
+            "name": "INUKJUAK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 58.47193055555556
+        },
+        {
+            "id": "CYIK",
+            "name": "IVUJIVIK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 62.417341666666665
+        },
+        {
+            "id": "CYAS",
+            "name": "KANGIRSUK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 60.027252777777775
+        },
+        {
+            "id": "CYVP",
+            "name": "KUUJJUAQ",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 58.094875
+        },
+        {
+            "id": "CYGW",
+            "name": "KUUJJUARAPIK",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 55.28202777777778
+        },
+        {
+            "id": "CYAH",
+            "name": "LA GRANDE-4",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 53.754725
+        }
+    ]
+}

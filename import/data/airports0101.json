@@ -1,1 +1,76 @@
-{"status":"ok","page":101,"data":[{"id":"CYLW","name":"KELOWNA,"country":"CAN","lat":"Canada","lon":49.95722222222223},{"id":"CYZY","name":"MACKENZIE,"country":"CAN","lat":"Canada","lon":55.29946666666667},{"id":"CZMT","name":"MASSET,"country":"CAN","lat":"Canada","lon":54.02710555555556},{"id":"CYCD","name":"NANAIMO,"country":"CAN","lat":"Canada","lon":49.05454444444444},{"id":"CYYF","name":"PENTICTON,"country":"CAN","lat":"Canada","lon":49.462575},{"id":"CYZT","name":"PORT HARDY,"country":"CAN","lat":"Canada","lon":50.680594444444445},{"id":"CYPW","name":"POWELL RIVER,"country":"CAN","lat":"Canada","lon":49.83408055555556},{"id":"CYXS","name":"PRINCE GEORGE,"country":"CAN","lat":"Canada","lon":53.88403611111111},{"id":"CYPR","name":"PRINCE RUPERT,"country":"CAN","lat":"Canada","lon":54.285891666666664},{"id":"CYDC","name":"PRINCETON,"country":"CAN","lat":"Canada","lon":49.46788611111111}]}
+{
+    "status": "ok",
+    "page": 101,
+    "data": [
+        {
+            "id": "CYLW",
+            "name": "KELOWNA",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 49.95722222222223
+        },
+        {
+            "id": "CYZY",
+            "name": "MACKENZIE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 55.29946666666667
+        },
+        {
+            "id": "CZMT",
+            "name": "MASSET",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 54.02710555555556
+        },
+        {
+            "id": "CYCD",
+            "name": "NANAIMO",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 49.05454444444444
+        },
+        {
+            "id": "CYYF",
+            "name": "PENTICTON",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 49.462575
+        },
+        {
+            "id": "CYZT",
+            "name": "PORT HARDY",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 50.680594444444445
+        },
+        {
+            "id": "CYPW",
+            "name": "POWELL RIVER",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 49.83408055555556
+        },
+        {
+            "id": "CYXS",
+            "name": "PRINCE GEORGE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 53.88403611111111
+        },
+        {
+            "id": "CYPR",
+            "name": "PRINCE RUPERT",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 54.285891666666664
+        },
+        {
+            "id": "CYDC",
+            "name": "PRINCETON",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 49.46788611111111
+        }
+    ]
+}

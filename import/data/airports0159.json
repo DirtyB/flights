@@ -1,1 +1,76 @@
-{"status":"ok","page":159,"data":[{"id":"SBVH","name":"VILHENA/VILHENA,"country":"BRA","lat":"Brazil","lon":-12.683055555555555},{"id":"SBVT","name":"VITORIA/EURICO DE AGUIAR SALLES,"country":"BRA","lat":"Brazil","lon":-20.258055555555554},{"id":"SBYS","name":"PIRASSUNUNGA/CAMPO FONTENELLE,"country":"BRA","lat":"Brazil","lon":-21.984444444444446},{"id":"SGAS","name":"ASUNCION/S.PETTIROSSI","country":"Paraguay","lat":-25.24108888888889,"lon":-57.51682777777778},{"id":"SGES","name":"CIUDAD DEL ESTE/GUARANI","country":"Paraguay","lat":-25.455294444444444,"lon":-54.84176666666667},{"id":"SUAA","name":"MONTEVIDEO/AD ANGEL S. ADAMI","country":"Uruguay","lat":-34.78916666666667,"lon":-56.264722222222225},{"id":"SUCA","name":"COLONIA/INTL LAGUNA DE LOS PATOS","country":"Uruguay","lat":-34.45138888888889,"lon":-57.76694444444444},{"id":"SUDU","name":"DURAZNO/SANTA BERNARDINA INTL. DE ALTERNATIVA","country":"Uruguay","lat":-33.35638888888889,"lon":-56.49611111111111},{"id":"SULS","name":"MALDONADO/ INTL C/C CARLOS A.CURBELO LAGUNA DEL SAUCE","country":"Uruguay","lat":-34.85722222222223,"lon":-55.09805555555556},{"id":"SUMU","name":"MONTEVIDEO/INTL.CARRASCO GRAL. CESAREO L. BERISSO","country":"Uruguay","lat":-34.83388888888889,"lon":-56.028055555555554}]}
+{
+    "status": "ok",
+    "page": 159,
+    "data": [
+        {
+            "id": "SBVH",
+            "name": "VILHENA/VILHENA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -12.683055555555555
+        },
+        {
+            "id": "SBVT",
+            "name": "VITORIA/EURICO DE AGUIAR SALLES",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -20.258055555555554
+        },
+        {
+            "id": "SBYS",
+            "name": "PIRASSUNUNGA/CAMPO FONTENELLE",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -21.984444444444446
+        },
+        {
+            "id": "SGAS",
+            "name": "ASUNCION/S.PETTIROSSI",
+            "country": "Paraguay",
+            "lat": -25.24108888888889,
+            "lon": -57.51682777777778
+        },
+        {
+            "id": "SGES",
+            "name": "CIUDAD DEL ESTE/GUARANI",
+            "country": "Paraguay",
+            "lat": -25.455294444444444,
+            "lon": -54.84176666666667
+        },
+        {
+            "id": "SUAA",
+            "name": "MONTEVIDEO/AD ANGEL S. ADAMI",
+            "country": "Uruguay",
+            "lat": -34.78916666666667,
+            "lon": -56.264722222222225
+        },
+        {
+            "id": "SUCA",
+            "name": "COLONIA/INTL LAGUNA DE LOS PATOS",
+            "country": "Uruguay",
+            "lat": -34.45138888888889,
+            "lon": -57.76694444444444
+        },
+        {
+            "id": "SUDU",
+            "name": "DURAZNO/SANTA BERNARDINA INTL. DE ALTERNATIVA",
+            "country": "Uruguay",
+            "lat": -33.35638888888889,
+            "lon": -56.49611111111111
+        },
+        {
+            "id": "SULS",
+            "name": "MALDONADO/ INTL C/C CARLOS A.CURBELO LAGUNA DEL SAUCE",
+            "country": "Uruguay",
+            "lat": -34.85722222222223,
+            "lon": -55.09805555555556
+        },
+        {
+            "id": "SUMU",
+            "name": "MONTEVIDEO/INTL.CARRASCO GRAL. CESAREO L. BERISSO",
+            "country": "Uruguay",
+            "lat": -34.83388888888889,
+            "lon": -56.028055555555554
+        }
+    ]
+}

@@ -1,1 +1,76 @@
-{"status":"ok","page":98,"data":[{"id":"CYED","name":"EDMONTON/NAMAO,"country":"CAN","lat":"Canada","lon":53.66916666666666},{"id":"CZVL","name":"EDMONTON/VILLENEUVE,"country":"CAN","lat":"Canada","lon":53.66824166666667},{"id":"CYET","name":"EDSON,"country":"CAN","lat":"Canada","lon":53.57893333333334},{"id":"CYPY","name":"FORT CHIPEWYAN,"country":"CAN","lat":"Canada","lon":58.76743888888889},{"id":"CYMM","name":"FORT MCMURRAY,"country":"CAN","lat":"Canada","lon":56.65319722222222},{"id":"CYQU","name":"GRANDE PRAIRIE,"country":"CAN","lat":"Canada","lon":55.18190277777777},{"id":"CYOJ","name":"HIGH LEVEL,"country":"CAN","lat":"Canada","lon":58.62157777777778},{"id":"CYQL","name":"LETHBRIDGE,"country":"CAN","lat":"Canada","lon":49.630227777777776},{"id":"CYLL","name":"LLOYDMINSTER,"country":"CAN","lat":"Canada","lon":53.310583333333334},{"id":"CYXH","name":"MEDICINE HAT,"country":"CAN","lat":"Canada","lon":50.01889444444444}]}
+{
+    "status": "ok",
+    "page": 98,
+    "data": [
+        {
+            "id": "CYED",
+            "name": "EDMONTON/NAMAO",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 53.66916666666666
+        },
+        {
+            "id": "CZVL",
+            "name": "EDMONTON/VILLENEUVE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 53.66824166666667
+        },
+        {
+            "id": "CYET",
+            "name": "EDSON",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 53.57893333333334
+        },
+        {
+            "id": "CYPY",
+            "name": "FORT CHIPEWYAN",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 58.76743888888889
+        },
+        {
+            "id": "CYMM",
+            "name": "FORT MCMURRAY",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 56.65319722222222
+        },
+        {
+            "id": "CYQU",
+            "name": "GRANDE PRAIRIE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 55.18190277777777
+        },
+        {
+            "id": "CYOJ",
+            "name": "HIGH LEVEL",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 58.62157777777778
+        },
+        {
+            "id": "CYQL",
+            "name": "LETHBRIDGE",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 49.630227777777776
+        },
+        {
+            "id": "CYLL",
+            "name": "LLOYDMINSTER",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 53.310583333333334
+        },
+        {
+            "id": "CYXH",
+            "name": "MEDICINE HAT",
+            "country": "CAN",
+            "lat": "Canada",
+            "lon": 50.01889444444444
+        }
+    ]
+}

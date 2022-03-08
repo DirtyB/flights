@@ -1,1 +1,76 @@
-{"status":"ok","page":56,"data":[{"id":"KGTB","name":"FORT DRUM/WHEELER-SACK AAF,"country":"USA","lat":"United States of America","lon":44.055613888888885},{"id":"KGFL","name":"FLOYD BENNETT MEMORIAL","country":"United States of America","lat":43.34122222222222,"lon":-73.61030555555556},{"id":"KISP","name":"LONG ISLAND MAC ARTHUR","country":"United States of America","lat":40.795249999999996,"lon":-73.10022222222221},{"id":"KJHW","name":"CHAUTAUQUA COUNTY/JAMESTOWN","country":"United States of America","lat":42.15338888888889,"lon":-79.25802777777778},{"id":"KMSS","name":"MASSENA INTL-RICHARDS FIELD","country":"United States of America","lat":44.93624166666666,"lon":-74.84511666666666},{"id":"KMTP","name":"MONTAUK","country":"United States of America","lat":41.07666666666667,"lon":-71.92047222222223},{"id":"KMGJ","name":"ORANGE COUNTY","country":"United States of America","lat":41.50998611111111,"lon":-74.26464444444444},{"id":"KMSV","name":"SULLIVAN COUNTY INTL","country":"United States of America","lat":41.70165,"lon":-74.79501388888889},{"id":"KSWF","name":"STEWART INTL","country":"United States of America","lat":41.50411111111111,"lon":-74.10483333333333},{"id":"KIAG","name":"NIAGARA FALLS INTL","country":"United States of America","lat":43.10755555555556,"lon":-78.94584444444445}]}
+{
+    "status": "ok",
+    "page": 56,
+    "data": [
+        {
+            "id": "KGTB",
+            "name": "FORT DRUM/WHEELER-SACK AAF",
+            "country": "USA",
+            "lat": "United States of America",
+            "lon": 44.055613888888885
+        },
+        {
+            "id": "KGFL",
+            "name": "FLOYD BENNETT MEMORIAL",
+            "country": "United States of America",
+            "lat": 43.34122222222222,
+            "lon": -73.61030555555556
+        },
+        {
+            "id": "KISP",
+            "name": "LONG ISLAND MAC ARTHUR",
+            "country": "United States of America",
+            "lat": 40.795249999999996,
+            "lon": -73.10022222222221
+        },
+        {
+            "id": "KJHW",
+            "name": "CHAUTAUQUA COUNTY/JAMESTOWN",
+            "country": "United States of America",
+            "lat": 42.15338888888889,
+            "lon": -79.25802777777778
+        },
+        {
+            "id": "KMSS",
+            "name": "MASSENA INTL-RICHARDS FIELD",
+            "country": "United States of America",
+            "lat": 44.93624166666666,
+            "lon": -74.84511666666666
+        },
+        {
+            "id": "KMTP",
+            "name": "MONTAUK",
+            "country": "United States of America",
+            "lat": 41.07666666666667,
+            "lon": -71.92047222222223
+        },
+        {
+            "id": "KMGJ",
+            "name": "ORANGE COUNTY",
+            "country": "United States of America",
+            "lat": 41.50998611111111,
+            "lon": -74.26464444444444
+        },
+        {
+            "id": "KMSV",
+            "name": "SULLIVAN COUNTY INTL",
+            "country": "United States of America",
+            "lat": 41.70165,
+            "lon": -74.79501388888889
+        },
+        {
+            "id": "KSWF",
+            "name": "STEWART INTL",
+            "country": "United States of America",
+            "lat": 41.50411111111111,
+            "lon": -74.10483333333333
+        },
+        {
+            "id": "KIAG",
+            "name": "NIAGARA FALLS INTL",
+            "country": "United States of America",
+            "lat": 43.10755555555556,
+            "lon": -78.94584444444445
+        }
+    ]
+}

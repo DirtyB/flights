@@ -1,1 +1,76 @@
-{"status":"ok","page":152,"data":[{"id":"SBGM","name":"GUAJARA-MIRIM/GUAJARA-MIRIM,"country":"BRA","lat":"Brazil","lon":-10.788333333333334},{"id":"SBGO","name":"GOIANIA/SANTA GENOVEVA,"country":"BRA","lat":"Brazil","lon":-16.629880555555555},{"id":"SBGR","name":"SAO PAULO/GUARULHOS,"country":  SP","lat":"BRA","lon":"Brazil"},{"id":"SBGW","name":"GUARATINGUETA/GUARATINGUETA,"country":"BRA","lat":"Brazil","lon":-22.791666666666668},{"id":"SBHT","name":"ALTAMIRA/ALTAMIRA,"country":"BRA","lat":"Brazil","lon":-3.2508333333333335},{"id":"SBIH","name":"ITAITUBA/ITAITUBA,"country":"BRA","lat":"Brazil","lon":-4.242222222222222},{"id":"SBIL","name":"ILHEUS/BAHIA - JORGE AMADO,"country":"BRA","lat":"Brazil","lon":-14.814722222222223},{"id":"SBIP","name":"IPATINGA/USIMINAS,"country":"BRA","lat":"Brazil","lon":-19.470555555555553},{"id":"SBIZ","name":"IMPERATRIZ/PREFEITO RENATO MOREIRA,"country":"BRA","lat":"Brazil","lon":-5.530555555555556},{"id":"SBJF","name":"JUIZ DE FORA/FRANCISCO DE ASSIS,"country":"BRA","lat":"Brazil","lon":-21.793055555555558}]}
+{
+    "status": "ok",
+    "page": 152,
+    "data": [
+        {
+            "id": "SBGM",
+            "name": "GUAJARA-MIRIM/GUAJARA-MIRIM",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -10.788333333333334
+        },
+        {
+            "id": "SBGO",
+            "name": "GOIANIA/SANTA GENOVEVA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -16.629880555555555
+        },
+        {
+            "id": "SBGR",
+            "name": "SAO PAULO/GUARULHOS",
+            "country": "SP",
+            "lat": "BRA",
+            "lon": "Brazil"
+        },
+        {
+            "id": "SBGW",
+            "name": "GUARATINGUETA/GUARATINGUETA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -22.791666666666668
+        },
+        {
+            "id": "SBHT",
+            "name": "ALTAMIRA/ALTAMIRA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -3.2508333333333335
+        },
+        {
+            "id": "SBIH",
+            "name": "ITAITUBA/ITAITUBA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -4.242222222222222
+        },
+        {
+            "id": "SBIL",
+            "name": "ILHEUS/BAHIA - JORGE AMADO",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -14.814722222222223
+        },
+        {
+            "id": "SBIP",
+            "name": "IPATINGA/USIMINAS",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -19.470555555555553
+        },
+        {
+            "id": "SBIZ",
+            "name": "IMPERATRIZ/PREFEITO RENATO MOREIRA",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -5.530555555555556
+        },
+        {
+            "id": "SBJF",
+            "name": "JUIZ DE FORA/FRANCISCO DE ASSIS",
+            "country": "BRA",
+            "lat": "Brazil",
+            "lon": -21.793055555555558
+        }
+    ]
+}
