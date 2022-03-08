@@ -9,6 +9,7 @@ ENV DB_PASSWORD=flights
 COPY . /var/migration
 
 WORKDIR /var/migration
+
 RUN npm install
 
 ENTRYPOINT npx postgrator --host=$DB_HOST --port=$DB_PORT --database=$DB_DATABASE \
