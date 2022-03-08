@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 239,
+    "data": [
+        {
+            "id": "LRTM",
+            "name": "TARGU MURES/TRANSILVANIA-TARGU MURES",
+            "country": "Romania",
+            "lat": 46.467777777777776,
+            "lon": 24.412499999999998
+        },
+        {
+            "id": "LRTR",
+            "name": "TIMISOARA/TRAIAN VUIA",
+            "country": "Romania",
+            "lat": 45.80983333333333,
+            "lon": 21.33787222222222
+        },
+        {
+            "id": "LSGC",
+            "name": "LES EPLATURES",
+            "country": "Switzerland",
+            "lat": 47.08416666666667,
+            "lon": 6.793611111111111
+        },
+        {
+            "id": "LSGG",
+            "name": "GENEVA",
+            "country": "Switzerland",
+            "lat": 46.23833333333334,
+            "lon": 6.109444444444444
+        },
+        {
+            "id": "LSGS",
+            "name": "SION",
+            "country": "Switzerland",
+            "lat": 46.219166666666666,
+            "lon": 7.326944444444444
+        },
+        {
+            "id": "LSMD",
+            "name": "DUBENDORF",
+            "country": "Switzerland",
+            "lat": 47.396966666666664,
+            "lon": 8.647191666666666
+        },
+        {
+            "id": "LSME",
+            "name": "EMMEN",
+            "country": "Switzerland",
+            "lat": 47.09215277777778,
+            "lon": 8.304847222222223
+        },
+        {
+            "id": "LSMP",
+            "name": "PAYERNE",
+            "country": "Switzerland",
+            "lat": 46.8425,
+            "lon": 6.913611111111112
+        },
+        {
+            "id": "LSZA",
+            "name": "LUGANO",
+            "country": "Switzerland",
+            "lat": 46.00361111111111,
+            "lon": 8.910277777777779
+        },
+        {
+            "id": "LSZB",
+            "name": "BERN-BELP",
+            "country": "Switzerland",
+            "lat": 46.91222222222222,
+            "lon": 7.4991666666666665
+        }
+    ]
+}

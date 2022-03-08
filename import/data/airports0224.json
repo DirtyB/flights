@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 224,
+    "data": [
+        {
+            "id": "LIBY",
+            "name": "SANTA MARIA DI LEUCA",
+            "country": "Italy",
+            "lat": 39.8166667,
+            "lon": 18.35
+        },
+        {
+            "id": "LICA",
+            "name": "LAMEZIA TERME",
+            "country": "Italy",
+            "lat": 38.90833333333333,
+            "lon": 16.241666666666667
+        },
+        {
+            "id": "LICB",
+            "name": "COMISO",
+            "country": "Italy",
+            "lat": 36.99583333333334,
+            "lon": 14.608888888888888
+        },
+        {
+            "id": "LICC",
+            "name": "CATANIA/FONTANAROSSA",
+            "country": "Italy",
+            "lat": 37.46666666666667,
+            "lon": 15.06388888888889
+        },
+        {
+            "id": "LICD",
+            "name": "LAMPEDUSA",
+            "country": "Italy",
+            "lat": 35.49805555555556,
+            "lon": 12.618333333333334
+        },
+        {
+            "id": "LICG",
+            "name": "PANTELLERIA (MIL)",
+            "country": "Italy",
+            "lat": 36.81305555555555,
+            "lon": 11.960833333333333
+        },
+        {
+            "id": "LICJ",
+            "name": "PALERMO/PUNTA RAISI",
+            "country": "Italy",
+            "lat": 38.18194444444444,
+            "lon": 13.099444444444446
+        },
+        {
+            "id": "LICR",
+            "name": "REGGIO CALABRIA",
+            "country": "Italy",
+            "lat": 38.07194444444445,
+            "lon": 15.653611111111111
+        },
+        {
+            "id": "LICT",
+            "name": "TRAPANI/BIRGI (MIL)",
+            "country": "Italy",
+            "lat": 37.912058333333334,
+            "lon": 12.493438888888887
+        },
+        {
+            "id": "LICZ",
+            "name": "CATANIA/SIGONELLA (MIL)",
+            "country": "Italy",
+            "lat": 37.40588888888889,
+            "lon": 14.923908333333333
+        }
+    ]
+}

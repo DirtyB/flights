@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 186,
+    "data": [
+        {
+            "id": "EGYM",
+            "name": "MARHAM",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.648405555555556,
+            "lon": 0.5506722222222222
+        },
+        {
+            "id": "EHAM",
+            "name": "AMSTERDAM/SCHIPHOL",
+            "country": "Netherlands",
+            "lat": 52.308055555555555,
+            "lon": 4.764166666666667
+        },
+        {
+            "id": "EHBK",
+            "name": "MAASTRICHT/MAASTRICHT AACHEN",
+            "country": "Netherlands",
+            "lat": 50.91583333333333,
+            "lon": 5.776944444444444
+        },
+        {
+            "id": "EHDL",
+            "name": "ARNHEM/DEELEN",
+            "country": "Netherlands",
+            "lat": 52.05972777777777,
+            "lon": 5.871936111111111
+        },
+        {
+            "id": "EHEH",
+            "name": "EINDHOVEN/EINDHOVEN",
+            "country": "Netherlands",
+            "lat": 51.45,
+            "lon": 5.374444444444444
+        },
+        {
+            "id": "EHGG",
+            "name": "GRONINGEN/EELDE",
+            "country": "Netherlands",
+            "lat": 53.125,
+            "lon": 6.583333333333333
+        },
+        {
+            "id": "EHGR",
+            "name": "BREDA/GILZE-RIJEN",
+            "country": "Netherlands",
+            "lat": 51.56737777777778,
+            "lon": 4.931836111111111
+        },
+        {
+            "id": "EHKD",
+            "name": "DEN HELDER/DE KOOY",
+            "country": "Netherlands",
+            "lat": 52.92361111111111,
+            "lon": 4.780555555555556
+        },
+        {
+            "id": "EHLW",
+            "name": "LEEUWARDEN/LEEUWARDEN",
+            "country": "Netherlands",
+            "lat": 53.22527222222222,
+            "lon": 5.752533333333333
+        },
+        {
+            "id": "EHRD",
+            "name": "ROTTERDAM/ROTTERDAM",
+            "country": "Netherlands",
+            "lat": 51.956944444444446,
+            "lon": 4.437222222222222
+        }
+    ]
+}

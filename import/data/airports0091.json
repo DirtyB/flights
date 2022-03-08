@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 91,
+    "data": [
+        {
+            "id": "KFLD",
+            "name": "FOND DU LAC COUNTY",
+            "country": "United States of America",
+            "lat": 43.771175,
+            "lon": -88.48843055555555
+        },
+        {
+            "id": "KHYR",
+            "name": "SAWYER COUNTY",
+            "country": "United States of America",
+            "lat": 46.02526388888889,
+            "lon": -91.4442638888889
+        },
+        {
+            "id": "KJVL",
+            "name": "SOUTHERN WISCONSIN RGNL",
+            "country": "United States of America",
+            "lat": 42.62025,
+            "lon": -89.04155555555555
+        },
+        {
+            "id": "KUNU",
+            "name": "DODGE COUNTY",
+            "country": "United States of America",
+            "lat": 43.42647222222222,
+            "lon": -88.70386111111111
+        },
+        {
+            "id": "KENW",
+            "name": "KENOSHA RGNL",
+            "country": "United States of America",
+            "lat": 42.59569444444445,
+            "lon": -87.92780555555557
+        },
+        {
+            "id": "KLSE",
+            "name": "LA CROSSE RGNL",
+            "country": "United States of America",
+            "lat": 43.879263888888886,
+            "lon": -91.2566361111111
+        },
+        {
+            "id": "KLNR",
+            "name": "TRI-COUNTY RGNL",
+            "country": "United States of America",
+            "lat": 43.21186111111111,
+            "lon": -90.17983333333333
+        },
+        {
+            "id": "KMSN",
+            "name": "DANE COUNTY RGNL-TRUAX FIELD",
+            "country": "United States of America",
+            "lat": 43.13987777777778,
+            "lon": -89.33750277777777
+        },
+        {
+            "id": "KMTW",
+            "name": "MANITOWOC COUNTY",
+            "country": "United States of America",
+            "lat": 44.12877777777778,
+            "lon": -87.68058333333333
+        },
+        {
+            "id": "KMFI",
+            "name": "MARSHFIELD MUNI",
+            "country": "United States of America",
+            "lat": 44.63688055555556,
+            "lon": -90.18932777777778
+        }
+    ]
+}

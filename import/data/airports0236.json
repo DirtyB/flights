@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 236,
+    "data": [
+        {
+            "id": "LPPS",
+            "name": "PORTO SANTO",
+            "country": "Portugal",
+            "lat": 33.07083333333334,
+            "lon": -16.349722222222223
+        },
+        {
+            "id": "LPPT",
+            "name": "LISBOA",
+            "country": "Portugal",
+            "lat": 38.774166666666666,
+            "lon": -9.134166666666665
+        },
+        {
+            "id": "LPST",
+            "name": "SINTRA",
+            "country": "Portugal",
+            "lat": 38.83416666666667,
+            "lon": -9.341111111111111
+        },
+        {
+            "id": "LQBK",
+            "name": "BANJA LUKA",
+            "country": "Bosnia and Herzegovina",
+            "lat": 44.94139722222222,
+            "lon": 17.297475000000002
+        },
+        {
+            "id": "LQSA",
+            "name": "SARAJEVO",
+            "country": "Bosnia and Herzegovina",
+            "lat": 43.82447222222223,
+            "lon": 18.331766666666667
+        },
+        {
+            "id": "LQTZ",
+            "name": "TUZLA",
+            "country": "Bosnia and Herzegovina",
+            "lat": 44.45865277777778,
+            "lon": 18.724780555555554
+        },
+        {
+            "id": "LYBE",
+            "name": "BEOGRAD/NIKOLA TESLA",
+            "country": "Serbia",
+            "lat": 44.819383333333334,
+            "lon": 20.307066666666667
+        },
+        {
+            "id": "LYBT",
+            "name": "BEOGRAD/BATAJNICA",
+            "country": "Serbia",
+            "lat": 44.941002777777776,
+            "lon": 20.25072777777778
+        },
+        {
+            "id": "LYKV",
+            "name": "KRALJEVO/LADJEVCI",
+            "country": "Serbia",
+            "lat": 43.81810277777778,
+            "lon": 20.586091666666665
+        },
+        {
+            "id": "LYNI",
+            "name": "NIS/KONSTANTIN VELIKI",
+            "country": "Serbia",
+            "lat": 43.33728888888889,
+            "lon": 21.853722222222224
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 275,
+    "data": [
+        {
+            "id": "OEKJ",
+            "name": "AL KHARJ",
+            "country": "Saudi Arabia",
+            "lat": 24.0608333,
+            "lon": 47.4108333
+        },
+        {
+            "id": "OEKK",
+            "name": "KING SAUD AIR BASE",
+            "country": "Saudi Arabia",
+            "lat": 27.90083333333333,
+            "lon": 45.528055555555554
+        },
+        {
+            "id": "OEKM",
+            "name": "KHAMIS MUSHAIT/KING KHALED AIR BASE",
+            "country": "Saudi Arabia",
+            "lat": 18.301111111111112,
+            "lon": 42.80083333333333
+        },
+        {
+            "id": "OEMA",
+            "name": "MADINAH/PRINCE MOHAMMAD BIN  ABDULAZIZ INTERNATIONAL",
+            "country": "Saudi Arabia",
+            "lat": 24.55027777777778,
+            "lon": 39.70583333333334
+        },
+        {
+            "id": "OENG",
+            "name": "NEJRAN",
+            "country": "Saudi Arabia",
+            "lat": 17.61138888888889,
+            "lon": 44.41916666666666
+        },
+        {
+            "id": "OEPA",
+            "name": "AL QAISUMAH/HAFR AL BATIN",
+            "country": "Saudi Arabia",
+            "lat": 28.335277777777776,
+            "lon": 46.125
+        },
+        {
+            "id": "OERF",
+            "name": "RAFHA",
+            "country": "Saudi Arabia",
+            "lat": 29.62638888888889,
+            "lon": 43.49055555555556
+        },
+        {
+            "id": "OERK",
+            "name": "RIYADH/KING KHALED INTERNATIONAL",
+            "country": "Saudi Arabia",
+            "lat": 24.962777777777777,
+            "lon": 46.70805555555556
+        },
+        {
+            "id": "OERR",
+            "name": "ARAR",
+            "country": "Saudi Arabia",
+            "lat": 30.906666666666666,
+            "lon": 41.138333333333335
+        },
+        {
+            "id": "OERY",
+            "name": "KING SALMAN AIR BASE",
+            "country": "Saudi Arabia",
+            "lat": 24.721944444444443,
+            "lon": 46.724722222222226
+        }
+    ]
+}

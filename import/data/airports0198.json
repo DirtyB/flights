@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 198,
+    "data": [
+        {
+            "id": "ESGG",
+            "name": "GOTEBORG/LANDVETTER",
+            "country": "Sweden",
+            "lat": 57.66,
+            "lon": 12.29111111111111
+        },
+        {
+            "id": "ESGJ",
+            "name": "JONKOPING",
+            "country": "Sweden",
+            "lat": 57.75833333333333,
+            "lon": 14.069166666666666
+        },
+        {
+            "id": "ESGP",
+            "name": "GOTEBORG/SAVE",
+            "country": "Sweden",
+            "lat": 57.775555555555556,
+            "lon": 11.870555555555557
+        },
+        {
+            "id": "ESGR",
+            "name": "SKOVDE",
+            "country": "Sweden",
+            "lat": 58.45611111111111,
+            "lon": 13.972777777777777
+        },
+        {
+            "id": "ESGT",
+            "name": "TROLLHATTAN-VANERSBORG",
+            "country": "Sweden",
+            "lat": 58.31805555555556,
+            "lon": 12.345
+        },
+        {
+            "id": "ESIB",
+            "name": "SATENAS",
+            "country": "Sweden",
+            "lat": 58.428469444444445,
+            "lon": 12.711236111111111
+        },
+        {
+            "id": "ESKN",
+            "name": "STOCKHOLM/SKAVSTA",
+            "country": "Sweden",
+            "lat": 58.78861111111111,
+            "lon": 16.90361111111111
+        },
+        {
+            "id": "ESMK",
+            "name": "KRISTIANSTAD",
+            "country": "Sweden",
+            "lat": 55.92055555555555,
+            "lon": 14.085277777777778
+        },
+        {
+            "id": "ESMQ",
+            "name": "KALMAR",
+            "country": "Sweden",
+            "lat": 56.68555555555555,
+            "lon": 16.2875
+        },
+        {
+            "id": "ESMS",
+            "name": "MALMO",
+            "country": "Sweden",
+            "lat": 55.54833333333333,
+            "lon": 13.353333333333333
+        }
+    ]
+}

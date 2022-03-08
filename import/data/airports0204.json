@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 204,
+    "data": [
+        {
+            "id": "LEAM",
+            "name": "ALMERIA",
+            "country": "Spain",
+            "lat": 36.84388888888889,
+            "lon": -2.37
+        },
+        {
+            "id": "LEAO",
+            "name": "CIUDAD REAL/ALMAGRO (HEL MILITAR)",
+            "country": "Spain",
+            "lat": 38.9533333,
+            "lon": -3.7413889
+        },
+        {
+            "id": "LEAS",
+            "name": "ASTURIAS",
+            "country": "Spain",
+            "lat": 43.56361111111111,
+            "lon": -6.034722222222222
+        },
+        {
+            "id": "LEBA",
+            "name": "CORDOBA",
+            "country": "Spain",
+            "lat": 37.841944444444444,
+            "lon": -4.848888888888888
+        },
+        {
+            "id": "LEBB",
+            "name": "BILBAO",
+            "country": "Spain",
+            "lat": 43.301111111111105,
+            "lon": -2.9105555555555553
+        },
+        {
+            "id": "LEBG",
+            "name": "BURGOS",
+            "country": "Spain",
+            "lat": 42.3575,
+            "lon": -3.613611111111111
+        },
+        {
+            "id": "LEBL",
+            "name": "BARCELONA/EL PRAT",
+            "country": "Spain",
+            "lat": 41.29694444444444,
+            "lon": 2.0783333333333336
+        },
+        {
+            "id": "LEBZ",
+            "name": "BADAJOZ",
+            "country": "Spain",
+            "lat": 38.89138888888889,
+            "lon": -6.8213888888888885
+        },
+        {
+            "id": "LECO",
+            "name": "A CORUNA",
+            "country": "Spain",
+            "lat": 43.301944444444445,
+            "lon": -8.377222222222223
+        },
+        {
+            "id": "LECV",
+            "name": "MADRID-COLMENAR VIEJO (HEL MILITAR)",
+            "country": "Spain",
+            "lat": 40.6458333,
+            "lon": -3.7358333
+        }
+    ]
+}

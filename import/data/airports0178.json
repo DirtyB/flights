@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 178,
+    "data": [
+        {
+            "id": "EGCC",
+            "name": "MANCHESTER",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.35388888888889,
+            "lon": -2.275
+        },
+        {
+            "id": "EGCN",
+            "name": "DONCASTER SHEFFIELD",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.47528333333334,
+            "lon": -1.0041361111111111
+        },
+        {
+            "id": "EGHQ",
+            "name": "NEWQUAY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 50.44083333333333,
+            "lon": -4.995277777777778
+        },
+        {
+            "id": "EGDM",
+            "name": "BOSCOMBE DOWN",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.153308333333335,
+            "lon": -1.751011111111111
+        },
+        {
+            "id": "EGDR",
+            "name": "CULDROSE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 50.08539722222223,
+            "lon": -5.254072222222222
+        },
+        {
+            "id": "EGDX",
+            "name": "ST ATHAN",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.40475277777777,
+            "lon": -3.435752777777778
+        },
+        {
+            "id": "EGDY",
+            "name": "YEOVILTON",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.008269444444444,
+            "lon": -2.6454916666666666
+        },
+        {
+            "id": "EGEO",
+            "name": "OBAN",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 56.46361111111111,
+            "lon": -5.4
+        },
+        {
+            "id": "EGFF",
+            "name": "CARDIFF",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.39666666666667,
+            "lon": -3.3433333333333333
+        },
+        {
+            "id": "EGGD",
+            "name": "BRISTOL",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.382669444444446,
+            "lon": -2.7191
+        }
+    ]
+}

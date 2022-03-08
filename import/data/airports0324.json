@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 324,
+    "data": [
+        {
+            "id": "WMKB",
+            "name": "BUTTERWORTH (RMAF)",
+            "country": "Malaysia",
+            "lat": 5.467472222222223,
+            "lon": 100.3916638888889
+        },
+        {
+            "id": "WMKC",
+            "name": "KOTA BHARU/SULTAN ISMAIL PETRA",
+            "country": "Malaysia",
+            "lat": 6.166111111111111,
+            "lon": 102.2925
+        },
+        {
+            "id": "WMKD",
+            "name": "KUANTAN",
+            "country": "Malaysia",
+            "lat": 3.769722222222222,
+            "lon": 103.20944444444444
+        },
+        {
+            "id": "WMKE",
+            "name": "KERTEH (PETRONAS)",
+            "country": "Malaysia",
+            "lat": 4.5375,
+            "lon": 103.42666666666668
+        },
+        {
+            "id": "WMKI",
+            "name": "IPOH/SULTAN AZLAN SHAH",
+            "country": "Malaysia",
+            "lat": 4.569166666666667,
+            "lon": 101.09305555555555
+        },
+        {
+            "id": "WMKJ",
+            "name": "JOHOR BAHRU/SULTAN ISMAIL",
+            "country": "Malaysia",
+            "lat": 1.6405555555555555,
+            "lon": 103.67027777777778
+        },
+        {
+            "id": "WMKK",
+            "name": "SEPANG/KL INTERNATIONAL AIRPORT",
+            "country": "Malaysia",
+            "lat": 2.743333333333333,
+            "lon": 101.69805555555556
+        },
+        {
+            "id": "WMKL",
+            "name": "PULAU LANGKAWI/INTL",
+            "country": "Malaysia",
+            "lat": 6.339449999999999,
+            "lon": 99.73356111111111
+        },
+        {
+            "id": "WMKM",
+            "name": "MALACCA",
+            "country": "Malaysia",
+            "lat": 2.2630555555555554,
+            "lon": 102.2525
+        },
+        {
+            "id": "WMKN",
+            "name": "KUALA TERENGGANU/SULTAN  MAHMUD",
+            "country": "Malaysia",
+            "lat": 5.381388888888888,
+            "lon": 103.10472222222222
+        }
+    ]
+}

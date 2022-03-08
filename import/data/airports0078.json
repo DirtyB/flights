@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 78,
+    "data": [
+        {
+            "id": "KAFW",
+            "name": "FORT WORTH ALLIANCE",
+            "country": "United States of America",
+            "lat": 32.987630555555555,
+            "lon": -97.3188
+        },
+        {
+            "id": "KHLR",
+            "name": "HOOD AAF",
+            "country": "United States of America",
+            "lat": 31.138666666666666,
+            "lon": -97.7145
+        },
+        {
+            "id": "KGLS",
+            "name": "SCHOLES INTL AT GALVESTON",
+            "country": "United States of America",
+            "lat": 29.265333333333334,
+            "lon": -94.86041666666667
+        },
+        {
+            "id": "KGLE",
+            "name": "GAINESVILLE MUNI",
+            "country": "United States of America",
+            "lat": 33.65219444444444,
+            "lon": -97.19727777777778
+        },
+        {
+            "id": "KUVA",
+            "name": "GARNER FIELD",
+            "country": "United States of America",
+            "lat": 29.211333333333332,
+            "lon": -99.74358333333333
+        },
+        {
+            "id": "KGVT",
+            "name": "MAJORS",
+            "country": "United States of America",
+            "lat": 33.06783888888889,
+            "lon": -96.06533333333333
+        },
+        {
+            "id": "KHRL",
+            "name": "VALLEY INTL",
+            "country": "United States of America",
+            "lat": 26.22711111111111,
+            "lon": -97.6551388888889
+        },
+        {
+            "id": "KDWH",
+            "name": "DAVID WAYNE HOOKS MEMORIAL",
+            "country": "United States of America",
+            "lat": 30.061833333333333,
+            "lon": -95.55277777777778
+        },
+        {
+            "id": "KHOU",
+            "name": "WILLIAM P HOBBY",
+            "country": "United States of America",
+            "lat": 29.645416666666666,
+            "lon": -95.27883333333334
+        },
+        {
+            "id": "KIAH",
+            "name": "GEORGE BUSH INTERCONTINENTAL/HOUSTON",
+            "country": "United States of America",
+            "lat": 29.984444444444446,
+            "lon": -95.34144444444443
+        }
+    ]
+}

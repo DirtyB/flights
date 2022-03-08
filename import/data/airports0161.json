@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 161,
+    "data": [
+        {
+            "id": "SCIP",
+            "name": "ISLA DE PASCUA/AD MATAVERI",
+            "country": "Chile",
+            "lat": -27.16472222222222,
+            "lon": -109.42166666666667
+        },
+        {
+            "id": "SCJO",
+            "name": "OSORNO/AD CANAL BAJO-CARLOS HOTT S.",
+            "country": "Chile",
+            "lat": -40.61138888888889,
+            "lon": -73.06055555555555
+        },
+        {
+            "id": "SCPQ",
+            "name": "DALCAHUE/AD MOCOPULLI",
+            "country": "Chile",
+            "lat": -42.34038888888889,
+            "lon": -73.71569444444445
+        },
+        {
+            "id": "SCSE",
+            "name": "LA SERENA/AD LA FLORIDA",
+            "country": "Chile",
+            "lat": -29.91638888888889,
+            "lon": -71.19944444444445
+        },
+        {
+            "id": "SCTE",
+            "name": "PUERTO MONTT/AD EL TEPUAL",
+            "country": "Chile",
+            "lat": -41.43888888888888,
+            "lon": -73.09388888888888
+        },
+        {
+            "id": "SCVD",
+            "name": "VALDIVIA/AD PICHOY",
+            "country": "Chile",
+            "lat": -39.64944444444444,
+            "lon": -73.08638888888889
+        },
+        {
+            "id": "SAAG",
+            "name": "GUALEGUAYCHU (ER)",
+            "country": "Argentina",
+            "lat": -33.00555555555555,
+            "lon": -58.61277777777778
+        },
+        {
+            "id": "SAAR",
+            "name": "ROSARIO/ISLAS MALVINAS (SF)",
+            "country": "Argentina",
+            "lat": -32.90361111111111,
+            "lon": -60.78444444444444
+        },
+        {
+            "id": "SAAV",
+            "name": "SANTA FE/SAUCE VIEJO (SF)",
+            "country": "Argentina",
+            "lat": -31.710841666666667,
+            "lon": -60.81126666666666
+        },
+        {
+            "id": "SABE",
+            "name": "AEROPARQUE J. NEWBERY (CABA)",
+            "country": "Argentina",
+            "lat": -34.55888888888889,
+            "lon": -58.41638888888889
+        }
+    ]
+}

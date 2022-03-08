@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 169,
+    "data": [
+        {
+            "id": "EDDW",
+            "name": "BREMEN",
+            "country": "Germany",
+            "lat": 53.047399999999996,
+            "lon": 8.786747222222223
+        },
+        {
+            "id": "EDFE",
+            "name": "FRANKFURT-EGELSBACH",
+            "country": "Germany",
+            "lat": 49.96082222222223,
+            "lon": 8.641461111111111
+        },
+        {
+            "id": "EDFH",
+            "name": "FRANKFURT-HAHN",
+            "country": "Germany",
+            "lat": 49.94867222222222,
+            "lon": 7.263891666666667
+        },
+        {
+            "id": "EDFM",
+            "name": "MANNHEIM CITY",
+            "country": "Germany",
+            "lat": 49.47270555555556,
+            "lon": 8.51426388888889
+        },
+        {
+            "id": "EDGS",
+            "name": "SIEGERLAND",
+            "country": "Germany",
+            "lat": 50.707658333333335,
+            "lon": 8.082969444444444
+        },
+        {
+            "id": "EDHK",
+            "name": "KIEL-HOLTENAU",
+            "country": "Germany",
+            "lat": 54.379469444444446,
+            "lon": 10.145147222222223
+        },
+        {
+            "id": "EDHL",
+            "name": "LUEBECK-BLANKENSEE",
+            "country": "Germany",
+            "lat": 53.805366666666664,
+            "lon": 10.719222222222223
+        },
+        {
+            "id": "EDJA",
+            "name": "MEMMINGEN",
+            "country": "Germany",
+            "lat": 47.988822222222225,
+            "lon": 10.239483333333332
+        },
+        {
+            "id": "EDLN",
+            "name": "MOENCHENGLADBACH",
+            "country": "Germany",
+            "lat": 51.23027777777778,
+            "lon": 6.504444444444444
+        },
+        {
+            "id": "EDLP",
+            "name": "PADERBORN/LIPPSTADT",
+            "country": "Germany",
+            "lat": 51.614088888888894,
+            "lon": 8.616316666666666
+        }
+    ]
+}

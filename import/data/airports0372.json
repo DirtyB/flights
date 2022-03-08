@@ -1,0 +1,55 @@
+{
+    "status": "ok",
+    "page": 372,
+    "data": [
+        {
+            "id": "KGNV",
+            "name": "GAINESVILLE RGNL",
+            "country": "United States of America",
+            "lat": 29.690055555555556,
+            "lon": -82.27177777777777
+        },
+        {
+            "id": "KHWO",
+            "name": "NORTH PERRY",
+            "country": "United States of America",
+            "lat": 26.00122222222222,
+            "lon": -80.24072222222222
+        },
+        {
+            "id": "KHST",
+            "name": "HOMESTEAD AFB",
+            "country": "United States of America",
+            "lat": 25.48855,
+            "lon": -80.38356666666667
+        },
+        {
+            "id": "KIMM",
+            "name": "IMMOKALEE RGNL",
+            "country": "United States of America",
+            "lat": 26.433819444444445,
+            "lon": -81.401375
+        },
+        {
+            "id": "KCRG",
+            "name": "JACKSONVILLE EXECUTIVE AT CRAIG",
+            "country": "United States of America",
+            "lat": 30.336333333333332,
+            "lon": -81.51444444444445
+        },
+        {
+            "id": "KNIP",
+            "name": "JACKSONVILLE NAS (TOWERS FIELD)",
+            "country": "United States of America",
+            "lat": 30.233855555555557,
+            "lon": -81.6749638888889
+        },
+        {
+            "id": "KJAX",
+            "name": "JACKSONVILLE INTL",
+            "country": "United States of America",
+            "lat": 30.494055555555555,
+            "lon": -81.68783333333333
+        }
+    ]
+}

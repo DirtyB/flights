@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 257,
+    "data": [
+        {
+            "id": "HDAM",
+            "name": "AMBOULI",
+            "country": "Djibouti",
+            "lat": 11.547222222222222,
+            "lon": 43.159444444444446
+        },
+        {
+            "id": "HEAR",
+            "name": "EL ARISH / INTL",
+            "country": "Egypt",
+            "lat": 31.073333333333334,
+            "lon": 33.83583333333333
+        },
+        {
+            "id": "HEAT",
+            "name": "ASYUT / INTL",
+            "country": "Egypt",
+            "lat": 27.04638888888889,
+            "lon": 31.011944444444445
+        },
+        {
+            "id": "HEAX",
+            "name": "ALEXANDRIA / INTL",
+            "country": "Egypt",
+            "lat": 31.18166666666667,
+            "lon": 29.94638888888889
+        },
+        {
+            "id": "HEBA",
+            "name": "BORG EL ARAB / INTL",
+            "country": "Egypt",
+            "lat": 30.918055555555558,
+            "lon": 29.695833333333333
+        },
+        {
+            "id": "HEBL",
+            "name": "ABU SIMBEL",
+            "country": "Egypt",
+            "lat": 22.375833333333333,
+            "lon": 31.611666666666668
+        },
+        {
+            "id": "HECA",
+            "name": "CAIRO/INTL",
+            "country": "Egypt",
+            "lat": 30.11138888888889,
+            "lon": 31.413888888888888
+        },
+        {
+            "id": "HEGN",
+            "name": "HURGHADA / INTL",
+            "country": "Egypt",
+            "lat": 27.178611111111113,
+            "lon": 33.80083333333333
+        },
+        {
+            "id": "HELX",
+            "name": "LUXOR / INTL",
+            "country": "Egypt",
+            "lat": 25.670833333333334,
+            "lon": 32.70638888888889
+        },
+        {
+            "id": "HEMA",
+            "name": "MARSA ALAM / INTL",
+            "country": "Egypt",
+            "lat": 25.558055555555555,
+            "lon": 34.58305555555556
+        }
+    ]
+}

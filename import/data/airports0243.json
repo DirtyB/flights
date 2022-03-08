@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 243,
+    "data": [
+        {
+            "id": "LTBR",
+            "name": "BURSA/YENISEHIR (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 40.255833333333335,
+            "lon": 29.561944444444446
+        },
+        {
+            "id": "LTBS",
+            "name": "MUGLA/DALAMAN (MIL.CIV.)",
+            "country": "Turkey",
+            "lat": 36.712500000000006,
+            "lon": 28.79138888888889
+        },
+        {
+            "id": "LTBU",
+            "name": "TEKIRDAG/CORLU (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 41.129444444444445,
+            "lon": 27.906388888888888
+        },
+        {
+            "id": "LTBY",
+            "name": "ESKISEHIR/HASAN POLATKAN",
+            "country": "Turkey",
+            "lat": 39.8125,
+            "lon": 30.520555555555553
+        },
+        {
+            "id": "LTCA",
+            "name": "ELAZIG (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 38.59777777777778,
+            "lon": 39.28138888888889
+        },
+        {
+            "id": "LTCC",
+            "name": "DIYARBAKIR (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 37.8925,
+            "lon": 40.20111111111111
+        },
+        {
+            "id": "LTCD",
+            "name": "ERZINCAN (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 39.713055555555556,
+            "lon": 39.52055555555555
+        },
+        {
+            "id": "LTCE",
+            "name": "ERZURUM (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 39.95583333333334,
+            "lon": 41.17055555555555
+        },
+        {
+            "id": "LTCF",
+            "name": "KARS/HARAKANI",
+            "country": "Turkey",
+            "lat": 40.56222222222222,
+            "lon": 43.11472222222223
+        },
+        {
+            "id": "LTCG",
+            "name": "TRABZON",
+            "country": "Turkey",
+            "lat": 40.99583333333334,
+            "lon": 39.78527777777778
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 203,
+    "data": [
+        {
+            "id": "LDLO",
+            "name": "LOSINJ/LOSINJ I.",
+            "country": "Croatia",
+            "lat": 44.56590555555555,
+            "lon": 14.393188888888888
+        },
+        {
+            "id": "LDOS",
+            "name": "OSIJEK/KLISA",
+            "country": "Croatia",
+            "lat": 45.46266666666667,
+            "lon": 18.810155555555557
+        },
+        {
+            "id": "LDPL",
+            "name": "PULA",
+            "country": "Croatia",
+            "lat": 44.89353333333333,
+            "lon": 13.922191666666667
+        },
+        {
+            "id": "LDRI",
+            "name": "RIJEKA/KRK I",
+            "country": "Croatia",
+            "lat": 45.21688888888889,
+            "lon": 14.570266666666667
+        },
+        {
+            "id": "LDSB",
+            "name": "BRAC/BRAC I.",
+            "country": "Croatia",
+            "lat": 43.285719444444446,
+            "lon": 16.679719444444444
+        },
+        {
+            "id": "LDSP",
+            "name": "SPLIT/KASTELA",
+            "country": "Croatia",
+            "lat": 43.53894444444444,
+            "lon": 16.29796388888889
+        },
+        {
+            "id": "LDZA",
+            "name": "ZAGREB/PLESO",
+            "country": "Croatia",
+            "lat": 45.74293055555555,
+            "lon": 16.06877777777778
+        },
+        {
+            "id": "LDZD",
+            "name": "ZADAR/ZEMUNIK",
+            "country": "Croatia",
+            "lat": 44.108269444444446,
+            "lon": 15.346697222222224
+        },
+        {
+            "id": "LEAB",
+            "name": "ALBACETE",
+            "country": "Spain",
+            "lat": 38.948611111111106,
+            "lon": -1.8633333333333335
+        },
+        {
+            "id": "LEAL",
+            "name": "ALICANTE-ELCHE",
+            "country": "Spain",
+            "lat": 38.282222222222224,
+            "lon": -0.5580555555555556
+        }
+    ]
+}

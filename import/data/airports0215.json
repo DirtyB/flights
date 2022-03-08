@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 215,
+    "data": [
+        {
+            "id": "LFOV",
+            "name": "LAVAL-ENTRAMMES",
+            "country": "France",
+            "lat": 48.032222222222224,
+            "lon": -0.7427777777777778
+        },
+        {
+            "id": "LFPB",
+            "name": "PARIS-LE BOURGET",
+            "country": "France",
+            "lat": 48.96944444444445,
+            "lon": 2.441388888888889
+        },
+        {
+            "id": "LFPC",
+            "name": "CREIL",
+            "country": "France",
+            "lat": 49.25361111111111,
+            "lon": 2.5191666666666666
+        },
+        {
+            "id": "LFPG",
+            "name": "PARIS-CHARLES DE GAULLE",
+            "country": "France",
+            "lat": 49.00972222222222,
+            "lon": 2.5477777777777777
+        },
+        {
+            "id": "LFPM",
+            "name": "MELUN-VILLAROCHE",
+            "country": "France",
+            "lat": 48.60527777777778,
+            "lon": 2.6708333333333334
+        },
+        {
+            "id": "LFPN",
+            "name": "TOUSSUS-LE-NOBLE",
+            "country": "France",
+            "lat": 48.749722222222225,
+            "lon": 2.111111111111111
+        },
+        {
+            "id": "LFPO",
+            "name": "PARIS-ORLY",
+            "country": "France",
+            "lat": 48.723333333333336,
+            "lon": 2.3794444444444447
+        },
+        {
+            "id": "LFPT",
+            "name": "PONTOISE-CORMEILLES-EN-VEXIN",
+            "country": "France",
+            "lat": 49.09666666666667,
+            "lon": 2.040833333333333
+        },
+        {
+            "id": "LFPV",
+            "name": "VILLACOUBLAY-VELIZY",
+            "country": "France",
+            "lat": 48.774166666666666,
+            "lon": 2.1913888888888886
+        },
+        {
+            "id": "LFQA",
+            "name": "REIMS-PRUNAY",
+            "country": "France",
+            "lat": 49.20861111111111,
+            "lon": 4.156666666666667
+        }
+    ]
+}

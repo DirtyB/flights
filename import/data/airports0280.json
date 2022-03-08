@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 280,
+    "data": [
+        {
+            "id": "OINZ",
+            "name": "SARI/DASHT-E-NAZ",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 36.63583333333333,
+            "lon": 53.19361111111111
+        },
+        {
+            "id": "OISF",
+            "name": "FASA",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 28.892777777777777,
+            "lon": 53.72361111111111
+        },
+        {
+            "id": "OISS",
+            "name": "SHIRAZ/SHAHID DASTGHAIB INTL",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 29.540277777777778,
+            "lon": 52.58861111111111
+        },
+        {
+            "id": "OITK",
+            "name": "KHOY",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 38.42222222222222,
+            "lon": 44.97666666666667
+        },
+        {
+            "id": "OITL",
+            "name": "ARDABIL",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 38.32666666666667,
+            "lon": 48.424166666666665
+        },
+        {
+            "id": "OITR",
+            "name": "UROMIYEH",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 37.671388888888885,
+            "lon": 45.06916666666667
+        },
+        {
+            "id": "OITT",
+            "name": "TABRIZ/INTL",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 38.13388888888889,
+            "lon": 46.235
+        },
+        {
+            "id": "OITZ",
+            "name": "ZANJAN",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 36.77472222222222,
+            "lon": 48.35916666666667
+        },
+        {
+            "id": "OIYY",
+            "name": "YAZD/SHAHID SADOOGHI",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 31.90611111111111,
+            "lon": 54.27638888888889
+        },
+        {
+            "id": "OIZB",
+            "name": "ZABOL",
+            "country": "Iran (Islamic Republic of)",
+            "lat": 31.098333333333333,
+            "lon": 61.54388888888889
+        }
+    ]
+}

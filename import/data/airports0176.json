@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 176,
+    "data": [
+        {
+            "id": "EFLP",
+            "name": "LAPPEENRANTA",
+            "country": "Finland",
+            "lat": 61.045833333333334,
+            "lon": 28.148611111111112
+        },
+        {
+            "id": "EFMA",
+            "name": "MARIEHAMN",
+            "country": "Finland",
+            "lat": 60.121944444444445,
+            "lon": 19.89638888888889
+        },
+        {
+            "id": "EFMI",
+            "name": "MIKKELI",
+            "country": "Finland",
+            "lat": 61.686388888888885,
+            "lon": 27.2
+        },
+        {
+            "id": "EFOU",
+            "name": "OULU",
+            "country": "Finland",
+            "lat": 64.92916666666667,
+            "lon": 25.355555555555558
+        },
+        {
+            "id": "EFPO",
+            "name": "PORI",
+            "country": "Finland",
+            "lat": 61.46138888888889,
+            "lon": 21.797777777777778
+        },
+        {
+            "id": "EFRO",
+            "name": "ROVANIEMI",
+            "country": "Finland",
+            "lat": 66.56166666666667,
+            "lon": 25.830833333333334
+        },
+        {
+            "id": "EFSA",
+            "name": "SAVONLINNA",
+            "country": "Finland",
+            "lat": 61.94277777777778,
+            "lon": 28.945
+        },
+        {
+            "id": "EFSI",
+            "name": "SEINAJOKI",
+            "country": "Finland",
+            "lat": 62.69361111111111,
+            "lon": 22.831944444444446
+        },
+        {
+            "id": "EFTP",
+            "name": "TAMPERE-PIRKKALA",
+            "country": "Finland",
+            "lat": 61.415277777777774,
+            "lon": 23.587777777777777
+        },
+        {
+            "id": "EFTU",
+            "name": "TURKU",
+            "country": "Finland",
+            "lat": 60.514722222222225,
+            "lon": 22.261666666666667
+        }
+    ]
+}

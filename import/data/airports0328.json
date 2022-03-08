@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 328,
+    "data": [
+        {
+            "id": "YCAS",
+            "name": "CASINO",
+            "country": "Australia",
+            "lat": -28.883333333333333,
+            "lon": 153.06666666666666
+        },
+        {
+            "id": "YCBA",
+            "name": "COBAR",
+            "country": "Australia",
+            "lat": -31.538333333333334,
+            "lon": 145.7938888888889
+        },
+        {
+            "id": "YCBB",
+            "name": "COONABARABRAN",
+            "country": "Australia",
+            "lat": -31.3325,
+            "lon": 149.26722222222224
+        },
+        {
+            "id": "YCBP",
+            "name": "COOBER PEDY",
+            "country": "Australia",
+            "lat": -29.040000000000003,
+            "lon": 134.72083333333333
+        },
+        {
+            "id": "YCCY",
+            "name": "CLONCURRY",
+            "country": "Australia",
+            "lat": -20.66861111111111,
+            "lon": 140.50444444444443
+        },
+        {
+            "id": "YCDU",
+            "name": "CEDUNA",
+            "country": "Australia",
+            "lat": -32.13055555555555,
+            "lon": 133.7097222222222
+        },
+        {
+            "id": "YCNM",
+            "name": "COONAMBLE",
+            "country": "Australia",
+            "lat": -30.98338888888889,
+            "lon": 148.37564444444445
+        },
+        {
+            "id": "YCFS",
+            "name": "COFFS HARBOUR",
+            "country": "Australia",
+            "lat": -30.320555555555554,
+            "lon": 153.11638888888888
+        },
+        {
+            "id": "YCIN",
+            "name": "CURTIN",
+            "country": "Australia",
+            "lat": -17.58138888888889,
+            "lon": 123.82833333333333
+        },
+        {
+            "id": "YCOM",
+            "name": "COOMA-SNOWY MOUNTAINS",
+            "country": "Australia",
+            "lat": -36.300555555555555,
+            "lon": 148.9738888888889
+        }
+    ]
+}

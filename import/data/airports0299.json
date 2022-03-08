@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 299,
+    "data": [
+        {
+            "id": "UTDD",
+            "name": "DUSHANBE",
+            "country": "Tajikistan",
+            "lat": 38.54333333333333,
+            "lon": 68.825
+        },
+        {
+            "id": "UTDL",
+            "name": "KHUJAND",
+            "country": "Tajikistan",
+            "lat": 40.215,
+            "lon": 69.69666666666667
+        },
+        {
+            "id": "UTFF",
+            "name": "FERGANA",
+            "country": "Uzbekistan",
+            "lat": 40.358333333333334,
+            "lon": 71.745
+        },
+        {
+            "id": "UTNN",
+            "name": "NUKUS",
+            "country": "Uzbekistan",
+            "lat": 42.48833333333334,
+            "lon": 59.623333333333335
+        },
+        {
+            "id": "UTNU",
+            "name": "URGENCH",
+            "country": "Uzbekistan",
+            "lat": 41.583333333333336,
+            "lon": 60.644999999999996
+        },
+        {
+            "id": "UTSA",
+            "name": "NAVOI",
+            "country": "Uzbekistan",
+            "lat": 40.11666666666667,
+            "lon": 65.17166666666667
+        },
+        {
+            "id": "UTSB",
+            "name": "BUKHARA",
+            "country": "Uzbekistan",
+            "lat": 39.775,
+            "lon": 64.48333333333333
+        },
+        {
+            "id": "UTSK",
+            "name": "KARSHI",
+            "country": "Uzbekistan",
+            "lat": 38.80333333333333,
+            "lon": 65.77333333333333
+        },
+        {
+            "id": "UTSS",
+            "name": "SAMARKAND",
+            "country": "Uzbekistan",
+            "lat": 39.7,
+            "lon": 66.98333333333333
+        },
+        {
+            "id": "UTST",
+            "name": "TERMEZ",
+            "country": "Uzbekistan",
+            "lat": 37.28666666666666,
+            "lon": 67.30833333333334
+        }
+    ]
+}

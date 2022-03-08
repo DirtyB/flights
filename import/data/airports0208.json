@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 208,
+    "data": [
+        {
+            "id": "LEXJ",
+            "name": "SANTANDER/SEVE BALLESTEROS-SANTANDER",
+            "country": "Spain",
+            "lat": 43.426944444444445,
+            "lon": -3.82
+        },
+        {
+            "id": "LEZG",
+            "name": "ZARAGOZA",
+            "country": "Spain",
+            "lat": 41.66611111111111,
+            "lon": -1.0416666666666667
+        },
+        {
+            "id": "LEZL",
+            "name": "SEVILLA",
+            "country": "Spain",
+            "lat": 37.418055555555554,
+            "lon": -5.898888888888888
+        },
+        {
+            "id": "GCFV",
+            "name": "FUERTEVENTURA",
+            "country": "Spain",
+            "lat": 28.452777777777776,
+            "lon": -13.863888888888889
+        },
+        {
+            "id": "GCGM",
+            "name": "LA GOMERA",
+            "country": "Spain",
+            "lat": 28.029722222222222,
+            "lon": -17.21472222222222
+        },
+        {
+            "id": "GCHI",
+            "name": "HIERRO",
+            "country": "Spain",
+            "lat": 27.814722222222223,
+            "lon": -17.886944444444445
+        },
+        {
+            "id": "GCLA",
+            "name": "LA PALMA",
+            "country": "Spain",
+            "lat": 28.62638888888889,
+            "lon": -17.755555555555556
+        },
+        {
+            "id": "GCLP",
+            "name": "GRAN CANARIA",
+            "country": "Spain",
+            "lat": 27.931944444444447,
+            "lon": -15.386666666666667
+        },
+        {
+            "id": "GCRR",
+            "name": "LANZAROTE",
+            "country": "Spain",
+            "lat": 28.945555555555554,
+            "lon": -13.605277777777777
+        },
+        {
+            "id": "GCTS",
+            "name": "TENERIFE SUR/REINA SOFIA",
+            "country": "Spain",
+            "lat": 28.044444444444448,
+            "lon": -16.572499999999998
+        }
+    ]
+}

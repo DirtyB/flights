@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 181,
+    "data": [
+        {
+            "id": "EGNT",
+            "name": "NEWCASTLE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 55.03792222222222,
+            "lon": -1.6898027777777778
+        },
+        {
+            "id": "EGNV",
+            "name": "DURHAM TEES VALLEY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 54.509166666666665,
+            "lon": -1.4294444444444445
+        },
+        {
+            "id": "EGNX",
+            "name": "EAST MIDLANDS",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.83111111111111,
+            "lon": -1.3277777777777777
+        },
+        {
+            "id": "EGOS",
+            "name": "SHAWBURY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.793625,
+            "lon": -2.6679388888888886
+        },
+        {
+            "id": "EGOV",
+            "name": "VALLEY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.24816666666667,
+            "lon": -4.535333333333333
+        },
+        {
+            "id": "EGOW",
+            "name": "WOODVALE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.581575,
+            "lon": -3.0555277777777774
+        },
+        {
+            "id": "EGPA",
+            "name": "KIRKWALL",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 58.95805555555556,
+            "lon": -2.9005555555555556
+        },
+        {
+            "id": "EGPB",
+            "name": "SUMBURGH",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 59.88138888888889,
+            "lon": -1.2938888888888889
+        },
+        {
+            "id": "EGPC",
+            "name": "WICK",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 58.45888888888889,
+            "lon": -3.093055555555556
+        },
+        {
+            "id": "EGPD",
+            "name": "ABERDEEN/DYCE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 57.2025,
+            "lon": -2.1980555555555554
+        }
+    ]
+}

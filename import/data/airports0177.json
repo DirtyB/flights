@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 177,
+    "data": [
+        {
+            "id": "EFUT",
+            "name": "UTTI",
+            "country": "Finland",
+            "lat": 60.896388888888886,
+            "lon": 26.938055555555557
+        },
+        {
+            "id": "EFVA",
+            "name": "VAASA",
+            "country": "Finland",
+            "lat": 63.04527777777778,
+            "lon": 21.764166666666668
+        },
+        {
+            "id": "EFVR",
+            "name": "VARKAUS",
+            "country": "Finland",
+            "lat": 62.17111111111111,
+            "lon": 27.86861111111111
+        },
+        {
+            "id": "EGAA",
+            "name": "BELFAST/ALDERGROVE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 54.6575,
+            "lon": -6.215833333333333
+        },
+        {
+            "id": "EGAC",
+            "name": "BELFAST/CITY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 54.61805555555556,
+            "lon": -5.8725000000000005
+        },
+        {
+            "id": "EGAE",
+            "name": "LONDONDERRY/EGLINTON",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 55.04277777777778,
+            "lon": -7.161944444444445
+        },
+        {
+            "id": "EGBB",
+            "name": "BIRMINGHAM",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.453855555555556,
+            "lon": -1.7480277777777777
+        },
+        {
+            "id": "EGEC",
+            "name": "CAMPBELTOWN",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 55.4375,
+            "lon": -5.688055555555556
+        },
+        {
+            "id": "EGBE",
+            "name": "COVENTRY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.36981111111111,
+            "lon": -1.4796805555555557
+        },
+        {
+            "id": "EGBJ",
+            "name": "GLOUCESTERSHIRE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.89416666666666,
+            "lon": -2.167222222222222
+        }
+    ]
+}

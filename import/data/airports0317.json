@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 317,
+    "data": [
+        {
+            "id": "VTBO",
+            "name": "TRAT/KHAO SMING",
+            "country": "Thailand",
+            "lat": 12.275277777777779,
+            "lon": 102.32
+        },
+        {
+            "id": "VTBS",
+            "name": "BANGKOK/SUVARNABHUMI INTL AIRPORT",
+            "country": "Thailand",
+            "lat": 13.685833333333333,
+            "lon": 100.74888888888889
+        },
+        {
+            "id": "VTBU",
+            "name": "RAYONG/U-TAPAO PATTAYA INTL  AIRPORT",
+            "country": "Thailand",
+            "lat": 12.679611111111111,
+            "lon": 101.00491666666667
+        },
+        {
+            "id": "VTCC",
+            "name": "CHIANG MAI/CHIANG MAI INTL.  AIRPORT",
+            "country": "Thailand",
+            "lat": 18.77138888888889,
+            "lon": 98.96277777777777
+        },
+        {
+            "id": "VTCH",
+            "name": "MAE HONG SON",
+            "country": "Thailand",
+            "lat": 19.301716666666668,
+            "lon": 97.97505555555556
+        },
+        {
+            "id": "VTCL",
+            "name": "LAMPANG",
+            "country": "Thailand",
+            "lat": 18.272116666666665,
+            "lon": 99.50406111111111
+        },
+        {
+            "id": "VTCN",
+            "name": "NAN/NAN NAKHON",
+            "country": "Thailand",
+            "lat": 18.80791388888889,
+            "lon": 100.78341944444445
+        },
+        {
+            "id": "VTCP",
+            "name": "PHRAE",
+            "country": "Thailand",
+            "lat": 18.13171388888889,
+            "lon": 100.16461666666667
+        },
+        {
+            "id": "VTCT",
+            "name": "CHIANG RAI/MAE FAH LUANG-CHIANG RAI INTL AIRPORT",
+            "country": "Thailand",
+            "lat": 19.952222222222222,
+            "lon": 99.88305555555554
+        },
+        {
+            "id": "VTPH",
+            "name": "PRACHUAP KHIRI KHAN/HUA HIN",
+            "country": "Thailand",
+            "lat": 12.630319444444446,
+            "lon": 99.95344444444444
+        }
+    ]
+}

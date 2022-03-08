@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 244,
+    "data": [
+        {
+            "id": "LTCI",
+            "name": "VAN/ FERIT MELEN",
+            "country": "Turkey",
+            "lat": 38.46805555555556,
+            "lon": 43.33222222222223
+        },
+        {
+            "id": "LTCJ",
+            "name": "BATMAN (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 37.93222222222222,
+            "lon": 41.11638888888889
+        },
+        {
+            "id": "LTCK",
+            "name": "MUS (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 38.74472222222222,
+            "lon": 41.66888888888889
+        },
+        {
+            "id": "LTCM",
+            "name": "SINOP",
+            "country": "Turkey",
+            "lat": 42.01583333333333,
+            "lon": 35.06638888888889
+        },
+        {
+            "id": "LTCN",
+            "name": "KAHRAMANMARAS",
+            "country": "Turkey",
+            "lat": 37.538333333333334,
+            "lon": 36.95194444444445
+        },
+        {
+            "id": "LTCO",
+            "name": "AGRI/AHMED-I HANI",
+            "country": "Turkey",
+            "lat": 39.6475,
+            "lon": 43.02861111111111
+        },
+        {
+            "id": "LTCP",
+            "name": "ADIYAMAN",
+            "country": "Turkey",
+            "lat": 37.73222222222223,
+            "lon": 38.469166666666666
+        },
+        {
+            "id": "LTCR",
+            "name": "MARDIN",
+            "country": "Turkey",
+            "lat": 37.23277777777778,
+            "lon": 40.64055555555556
+        },
+        {
+            "id": "LTCS",
+            "name": "SANLIURFA/GAP",
+            "country": "Turkey",
+            "lat": 37.45666666666667,
+            "lon": 38.90833333333333
+        },
+        {
+            "id": "LTCT",
+            "name": "IGDIR",
+            "country": "Turkey",
+            "lat": 39.97555555555556,
+            "lon": 43.87833333333333
+        }
+    ]
+}

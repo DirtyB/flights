@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 290,
+    "data": [
+        {
+            "id": "UHMD",
+            "name": "PROVIDENIYA BAY",
+            "country": "Russian Federation",
+            "lat": 64.37805555555555,
+            "lon": -173.2433333333333
+        },
+        {
+            "id": "UHMM",
+            "name": "MAGADAN/SOKOL",
+            "country": "Russian Federation",
+            "lat": 59.91111111111111,
+            "lon": 150.72055555555556
+        },
+        {
+            "id": "UHPP",
+            "name": "PETROPAVLOVSK-KAMCHATSKY/YELIZOVO",
+            "country": "Russian Federation",
+            "lat": 53.17027777777778,
+            "lon": 158.4536111111111
+        },
+        {
+            "id": "UHSS",
+            "name": "YUZHNO-SAKHALINSK/KHOMUTOVO",
+            "country": "Russian Federation",
+            "lat": 46.88861111111111,
+            "lon": 142.7175
+        },
+        {
+            "id": "UHWW",
+            "name": "VLADIVOSTOK/KNEVICHI",
+            "country": "Russian Federation",
+            "lat": 43.39805555555556,
+            "lon": 132.14888888888888
+        },
+        {
+            "id": "UIAA",
+            "name": "CHITA/KADALA",
+            "country": "Russian Federation",
+            "lat": 52.02611111111111,
+            "lon": 113.30499999999999
+        },
+        {
+            "id": "UIBB",
+            "name": "BRATSK",
+            "country": "Russian Federation",
+            "lat": 56.370555555555555,
+            "lon": 101.69861111111112
+        },
+        {
+            "id": "UIII",
+            "name": "IRKUTSK",
+            "country": "Russian Federation",
+            "lat": 52.26722222222222,
+            "lon": 104.39472222222223
+        },
+        {
+            "id": "UIUU",
+            "name": "ULAN-UDE/MUKHINO",
+            "country": "Russian Federation",
+            "lat": 51.80777777777777,
+            "lon": 107.43833333333333
+        },
+        {
+            "id": "ULAA",
+            "name": "ARKHANGELSK/TALAGI",
+            "country": "Russian Federation",
+            "lat": 64.60027777777778,
+            "lon": 40.71666666666667
+        }
+    ]
+}

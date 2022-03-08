@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 220,
+    "data": [
+        {
+            "id": "LGKL",
+            "name": "KALAMATA",
+            "country": "Greece",
+            "lat": 37.068333333333335,
+            "lon": 22.025277777777777
+        },
+        {
+            "id": "LGKO",
+            "name": "KOS/IPPOKRATIS",
+            "country": "Greece",
+            "lat": 36.79472222222222,
+            "lon": 27.09111111111111
+        },
+        {
+            "id": "LGKP",
+            "name": "KARPATHOS",
+            "country": "Greece",
+            "lat": 35.42111111111111,
+            "lon": 27.145833333333332
+        },
+        {
+            "id": "LGKR",
+            "name": "KERKIRA/IOANNIS KAPODISTRIAS",
+            "country": "Greece",
+            "lat": 39.60194444444445,
+            "lon": 19.91222222222222
+        },
+        {
+            "id": "LGKV",
+            "name": "KAVALA/MEGAS ALEXANDROS",
+            "country": "Greece",
+            "lat": 40.913888888888884,
+            "lon": 24.619722222222222
+        },
+        {
+            "id": "LGKZ",
+            "name": "KOZANI/FILIPPOS",
+            "country": "Greece",
+            "lat": 40.28583333333333,
+            "lon": 21.841666666666665
+        },
+        {
+            "id": "LGLM",
+            "name": "LIMNOS/IFAISTOS",
+            "country": "Greece",
+            "lat": 39.91722222222222,
+            "lon": 25.23638888888889
+        },
+        {
+            "id": "LGMK",
+            "name": "MIKONOS",
+            "country": "Greece",
+            "lat": 37.43722222222222,
+            "lon": 25.34722222222222
+        },
+        {
+            "id": "LGMT",
+            "name": "MITILINI/ODYSSEAS ELYTIS",
+            "country": "Greece",
+            "lat": 39.05777777777777,
+            "lon": 26.59861111111111
+        },
+        {
+            "id": "LGNX",
+            "name": "NAXOS",
+            "country": "Greece",
+            "lat": 37.08111111111111,
+            "lon": 25.368055555555557
+        }
+    ]
+}

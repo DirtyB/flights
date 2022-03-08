@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 137,
+    "data": [
+        {
+            "id": "MPMG",
+            "name": "MARCOS A. GELABERT",
+            "country": "Panama",
+            "lat": 8.973333333333333,
+            "lon": -79.55555555555556
+        },
+        {
+            "id": "MPPA",
+            "name": "PANAMA PACIFICO",
+            "country": "Panama",
+            "lat": 8.914833333333334,
+            "lon": -79.59958333333333
+        },
+        {
+            "id": "MPTO",
+            "name": "TOCUMEN",
+            "country": "Panama",
+            "lat": 9.071388888888889,
+            "lon": -79.38333333333334
+        },
+        {
+            "id": "SKAR",
+            "name": "ARMENIA/QUINDIO",
+            "country": "Colombia",
+            "lat": 4.451752777777778,
+            "lon": -75.76617222222222
+        },
+        {
+            "id": "SKBG",
+            "name": "BUCARAMANGA INTL/SANTANDER",
+            "country": "Colombia",
+            "lat": 7.126619444444444,
+            "lon": -73.18476111111111
+        },
+        {
+            "id": "SKBO",
+            "name": "BOGOTA INTL/CUNDINAMARCA",
+            "country": "Colombia",
+            "lat": 4.7016,
+            "lon": -74.14694444444446
+        },
+        {
+            "id": "SKBQ",
+            "name": "BARRANQUILLA INTL/ATLANTICO",
+            "country": "Colombia",
+            "lat": 10.88946111111111,
+            "lon": -74.78067777777778
+        },
+        {
+            "id": "SKCC",
+            "name": "CUCUTA INTL/NORTE DE SANTANDER",
+            "country": "Colombia",
+            "lat": 7.927388888888889,
+            "lon": -72.51161111111111
+        },
+        {
+            "id": "SKCG",
+            "name": "CARTAGENA INTL/BOLIVAR",
+            "country": "Colombia",
+            "lat": 10.442041666666666,
+            "lon": -75.51277777777777
+        },
+        {
+            "id": "SKCL",
+            "name": "CALI INTL/VALLE DEL CAUCA",
+            "country": "Colombia",
+            "lat": 3.543083333333333,
+            "lon": -76.38169444444443
+        }
+    ]
+}

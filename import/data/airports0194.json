@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 194,
+    "data": [
+        {
+            "id": "ENQC",
+            "name": "TROLL C",
+            "country": "Norway",
+            "lat": 60.8858333,
+            "lon": 3.6097222
+        },
+        {
+            "id": "ENRA",
+            "name": "MO I RANA/ROSSVOLL",
+            "country": "Norway",
+            "lat": 66.36388888888888,
+            "lon": 14.301388888888889
+        },
+        {
+            "id": "ENRM",
+            "name": "RORVIK/RYUM",
+            "country": "Norway",
+            "lat": 64.83833333333332,
+            "lon": 11.14611111111111
+        },
+        {
+            "id": "ENRO",
+            "name": "ROROS",
+            "country": "Norway",
+            "lat": 62.57888888888889,
+            "lon": 11.345
+        },
+        {
+            "id": "ENRS",
+            "name": "ROST",
+            "country": "Norway",
+            "lat": 67.52777777777777,
+            "lon": 12.103333333333333
+        },
+        {
+            "id": "ENRY",
+            "name": "MOSS/RYGGE",
+            "country": "Norway",
+            "lat": 59.37888888888889,
+            "lon": 10.785555555555556
+        },
+        {
+            "id": "ENSB",
+            "name": "SVALBARD/LONGYEAR",
+            "country": "Norway",
+            "lat": 78.2461111111111,
+            "lon": 15.465555555555556
+        },
+        {
+            "id": "ENSD",
+            "name": "SANDANE/ANDA",
+            "country": "Norway",
+            "lat": 61.830000000000005,
+            "lon": 6.105833333333333
+        },
+        {
+            "id": "ENSF",
+            "name": "STATFJORD A",
+            "country": "Norway",
+            "lat": 61.2166667,
+            "lon": 1.8333333
+        },
+        {
+            "id": "ENSG",
+            "name": "SOGNDAL/HAUKASEN",
+            "country": "Norway",
+            "lat": 61.15611111111111,
+            "lon": 7.137777777777778
+        }
+    ]
+}

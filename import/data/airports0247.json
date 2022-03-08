@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 247,
+    "data": [
+        {
+            "id": "GUCY",
+            "name": "CONAKRY/GBESSIA",
+            "country": "Guinea",
+            "lat": 9.576888888888888,
+            "lon": -13.611916666666666
+        },
+        {
+            "id": "GLRB",
+            "name": "MONROVIA/ROBERTS INTL",
+            "country": "Liberia",
+            "lat": 6.240444444444445,
+            "lon": -10.359877777777777
+        },
+        {
+            "id": "GMAD",
+            "name": "AGADIR/AL MASSIRA",
+            "country": "Morocco",
+            "lat": 30.322499999999998,
+            "lon": -9.411388888888888
+        },
+        {
+            "id": "GMAG",
+            "name": "GUELMIME",
+            "country": "Morocco",
+            "lat": 29.016944444444444,
+            "lon": -10.061388888888889
+        },
+        {
+            "id": "GMAT",
+            "name": "TAN-TAN/PLAGE BLANCHE",
+            "country": "Morocco",
+            "lat": 28.448333333333334,
+            "lon": -11.161388888888888
+        },
+        {
+            "id": "GMFF",
+            "name": "FES/SAISS",
+            "country": "Morocco",
+            "lat": 33.92722222222222,
+            "lon": -4.977777777777778
+        },
+        {
+            "id": "GMFK",
+            "name": "ERRACHIDIA/MOULAY ALI CHERIF",
+            "country": "Morocco",
+            "lat": 31.948055555555555,
+            "lon": -4.400555555555556
+        },
+        {
+            "id": "GMFO",
+            "name": "OUJDA/ANGADS",
+            "country": "Morocco",
+            "lat": 34.78611111111111,
+            "lon": -1.9255555555555555
+        },
+        {
+            "id": "GMME",
+            "name": "RABAT/SALE",
+            "country": "Morocco",
+            "lat": 34.05138888888889,
+            "lon": -6.751666666666667
+        },
+        {
+            "id": "GMMI",
+            "name": "ESSAOUIRA/MOGADOR",
+            "country": "Morocco",
+            "lat": 31.399166666666666,
+            "lon": -9.683055555555555
+        }
+    ]
+}

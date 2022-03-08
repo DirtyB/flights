@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 268,
+    "data": [
+        {
+            "id": "FMNM",
+            "name": "MAHAJANGA/PH. TSIRANANA",
+            "country": "Madagascar",
+            "lat": -15.666666666666666,
+            "lon": 46.35111111111111
+        },
+        {
+            "id": "FMNN",
+            "name": "NOSY-BE/FASCENE",
+            "country": "Madagascar",
+            "lat": -13.318055555555555,
+            "lon": 48.30916666666666
+        },
+        {
+            "id": "FMSD",
+            "name": "TOLAGNARO",
+            "country": "Madagascar",
+            "lat": -25.03805555555556,
+            "lon": 46.95611111111111
+        },
+        {
+            "id": "FMEE",
+            "name": "LA REUNION-ROLAND GARROS",
+            "country": "France",
+            "lat": -20.89,
+            "lon": 55.51638888888889
+        },
+        {
+            "id": "FMEP",
+            "name": "SAINT PIERRE PIERREFONDS",
+            "country": "France",
+            "lat": -21.321666666666665,
+            "lon": 55.425555555555555
+        },
+        {
+            "id": "FNBG",
+            "name": "BENGUELA/17 DE SETEMBRO",
+            "country": "Angola",
+            "lat": -12.61,
+            "lon": 13.403611111111111
+        },
+        {
+            "id": "FNCA",
+            "name": "CABINDA/CABINDA",
+            "country": "Angola",
+            "lat": -5.586666666666666,
+            "lon": 12.188611111111111
+        },
+        {
+            "id": "FNHU",
+            "name": "HUAMBO/ALBANO MACHADO",
+            "country": "Angola",
+            "lat": -12.8,
+            "lon": 15.75
+        },
+        {
+            "id": "FNLU",
+            "name": "LUANDA/4 DE FEVEREIRO",
+            "country": "Angola",
+            "lat": -8.855491666666666,
+            "lon": 13.23391111111111
+        },
+        {
+            "id": "FNUB",
+            "name": "LUBANGO/MUKANKA",
+            "country": "Angola",
+            "lat": -14.924444444444443,
+            "lon": 13.571666666666667
+        }
+    ]
+}

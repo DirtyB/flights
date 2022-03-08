@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 187,
+    "data": [
+        {
+            "id": "EHVK",
+            "name": "UDEN/VOLKEL",
+            "country": "Netherlands",
+            "lat": 51.65720833333333,
+            "lon": 5.707825000000001
+        },
+        {
+            "id": "EHVL",
+            "name": "VLIEHORS",
+            "country": "Netherlands",
+            "lat": 53.25,
+            "lon": 4.9166667
+        },
+        {
+            "id": "EHWO",
+            "name": "BERGEN OP ZOOM/WOENSDRECHT",
+            "country": "Netherlands",
+            "lat": 51.449,
+            "lon": 4.342141666666667
+        },
+        {
+            "id": "EHFS",
+            "name": "VLISSINGEN",
+            "country": "Netherlands",
+            "lat": 51.4486111,
+            "lon": 3.6022222
+        },
+        {
+            "id": "EICK",
+            "name": "CORK",
+            "country": "Ireland",
+            "lat": 51.84138888888889,
+            "lon": -8.49111111111111
+        },
+        {
+            "id": "EIDL",
+            "name": "DONEGAL",
+            "country": "Ireland",
+            "lat": 55.04416666666666,
+            "lon": -8.341111111111111
+        },
+        {
+            "id": "EIDW",
+            "name": "DUBLIN",
+            "country": "Ireland",
+            "lat": 53.421388888888885,
+            "lon": -6.27
+        },
+        {
+            "id": "EIKN",
+            "name": "IRELAND WEST",
+            "country": "Ireland",
+            "lat": 53.91027777777778,
+            "lon": -8.81861111111111
+        },
+        {
+            "id": "EIKY",
+            "name": "KERRY",
+            "country": "Ireland",
+            "lat": 52.18083333333333,
+            "lon": -9.523888888888889
+        },
+        {
+            "id": "EIME",
+            "name": "CASEMENT",
+            "country": "Ireland",
+            "lat": 53.30305555555555,
+            "lon": -6.455277777777778
+        }
+    ]
+}

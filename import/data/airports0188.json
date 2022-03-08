@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 188,
+    "data": [
+        {
+            "id": "EINN",
+            "name": "SHANNON",
+            "country": "Ireland",
+            "lat": 52.70197777777778,
+            "lon": -8.924816666666667
+        },
+        {
+            "id": "EISG",
+            "name": "SLIGO",
+            "country": "Ireland",
+            "lat": 54.280277777777776,
+            "lon": -8.599166666666667
+        },
+        {
+            "id": "EIWF",
+            "name": "WATERFORD",
+            "country": "Ireland",
+            "lat": 52.18722222222222,
+            "lon": -7.086944444444444
+        },
+        {
+            "id": "EKAH",
+            "name": "AARHUS",
+            "country": "Denmark",
+            "lat": 56.300016666666664,
+            "lon": 10.619008333333333
+        },
+        {
+            "id": "EKBI",
+            "name": "BILLUND",
+            "country": "Denmark",
+            "lat": 55.740322222222225,
+            "lon": 9.151777777777777
+        },
+        {
+            "id": "EKCH",
+            "name": "KOBENHAVN/KASTRUP",
+            "country": "Denmark",
+            "lat": 55.617916666666666,
+            "lon": 12.655972222222223
+        },
+        {
+            "id": "EKEB",
+            "name": "ESBJERG",
+            "country": "Denmark",
+            "lat": 55.52594166666667,
+            "lon": 8.553402777777778
+        },
+        {
+            "id": "EKGC",
+            "name": "GORM C (PRIVATE HELIDECK)",
+            "country": "Denmark",
+            "lat": 55.5797222,
+            "lon": 4.7588889
+        },
+        {
+            "id": "EKHA",
+            "name": "HALFDAN A (PRIVATE HELIDECKS)",
+            "country": "Denmark",
+            "lat": 55.5188889,
+            "lon": 5.0011111
+        },
+        {
+            "id": "EKHD",
+            "name": "HARALD (PRIVATE HELIDECK)",
+            "country": "Denmark",
+            "lat": 56.3441667,
+            "lon": 4.2719444
+        }
+    ]
+}

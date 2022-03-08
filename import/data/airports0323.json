@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 323,
+    "data": [
+        {
+            "id": "WBGS",
+            "name": "SIBU",
+            "country": "Malaysia",
+            "lat": 2.2641166666666668,
+            "lon": 111.98258611111112
+        },
+        {
+            "id": "WBKK",
+            "name": "KOTA KINABALU/INTL",
+            "country": "Malaysia",
+            "lat": 5.9447222222222225,
+            "lon": 116.05305555555556
+        },
+        {
+            "id": "WBKL",
+            "name": "LABUAN (RMAF)",
+            "country": "Malaysia",
+            "lat": 5.301666666666667,
+            "lon": 115.24833333333333
+        },
+        {
+            "id": "WBKS",
+            "name": "SANDAKAN",
+            "country": "Malaysia",
+            "lat": 5.901666666666667,
+            "lon": 118.04861111111111
+        },
+        {
+            "id": "WBKT",
+            "name": "KUDAT",
+            "country": "Malaysia",
+            "lat": 6.9233333,
+            "lon": 116.8372222
+        },
+        {
+            "id": "WBKW",
+            "name": "TAWAU",
+            "country": "Malaysia",
+            "lat": 4.3133333333333335,
+            "lon": 118.12194444444444
+        },
+        {
+            "id": "WBSB",
+            "name": "BRUNEI/INTL",
+            "country": "Brunei Darussalam",
+            "lat": 4.9442,
+            "lon": 114.92835277777779
+        },
+        {
+            "id": "WMAU",
+            "name": "MERSING",
+            "country": "Malaysia",
+            "lat": 2.3833333,
+            "lon": 103.865
+        },
+        {
+            "id": "WMBA",
+            "name": "SITIAWAN",
+            "country": "Malaysia",
+            "lat": 4.2163889,
+            "lon": 100.6986111
+        },
+        {
+            "id": "WMKA",
+            "name": "ALOR STAR/SULTAN ABDUL  HALIM",
+            "country": "Malaysia",
+            "lat": 6.194472222222222,
+            "lon": 100.40083333333334
+        }
+    ]
+}

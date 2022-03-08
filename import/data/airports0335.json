@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 335,
+    "data": [
+        {
+            "id": "YWGT",
+            "name": "WANGARATTA",
+            "country": "Australia",
+            "lat": -36.41583333333333,
+            "lon": 146.30694444444447
+        },
+        {
+            "id": "YWHA",
+            "name": "WHYALLA",
+            "country": "Australia",
+            "lat": -33.05888888888889,
+            "lon": 137.51444444444445
+        },
+        {
+            "id": "YWLM",
+            "name": "WILLIAMTOWN",
+            "country": "Australia",
+            "lat": -32.79493055555555,
+            "lon": 151.83447222222225
+        },
+        {
+            "id": "NZAA",
+            "name": "AUCKLAND INTL",
+            "country": "New Zealand",
+            "lat": -37.00805555555556,
+            "lon": 174.79166666666666
+        },
+        {
+            "id": "NZCH",
+            "name": "CHRISTCHURCH INTL",
+            "country": "New Zealand",
+            "lat": -43.489444444444445,
+            "lon": 172.53444444444443
+        },
+        {
+            "id": "NZWN",
+            "name": "WELLINGTON INTL",
+            "country": "New Zealand",
+            "lat": -41.327222222222225,
+            "lon": 174.8052777777778
+        },
+        {
+            "id": "NZSP",
+            "name": "SOUTH POLE STATION (ANTARCTIC)",
+            "country": "New Zealand",
+            "lat": -89.98201666666667,
+            "lon": -144.5087861111111
+        },
+        {
+            "id": "NVSC",
+            "name": "SOLA",
+            "country": "Vanuatu",
+            "lat": -13.8530556,
+            "lon": 167.5372222
+        },
+        {
+            "id": "NVSG",
+            "name": "LONGANA",
+            "country": "Vanuatu",
+            "lat": -15.3055556,
+            "lon": 167.9680556
+        },
+        {
+            "id": "NVSL",
+            "name": "LAMAP",
+            "country": "Vanuatu",
+            "lat": -16.455,
+            "lon": 167.8266667
+        }
+    ]
+}

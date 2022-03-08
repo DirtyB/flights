@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 241,
+    "data": [
+        {
+            "id": "LTAG",
+            "name": "ADANA/INCIRLIK (MIL)",
+            "country": "Turkey",
+            "lat": 37.00205555555556,
+            "lon": 35.425975
+        },
+        {
+            "id": "LTAI",
+            "name": "ANTALYA (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 36.900277777777774,
+            "lon": 30.79277777777778
+        },
+        {
+            "id": "LTAJ",
+            "name": "GAZIANTEP",
+            "country": "Turkey",
+            "lat": 36.94777777777777,
+            "lon": 37.47888888888889
+        },
+        {
+            "id": "LTAL",
+            "name": "KASTAMONU",
+            "country": "Turkey",
+            "lat": 41.316944444444445,
+            "lon": 33.79611111111111
+        },
+        {
+            "id": "LTAN",
+            "name": "KONYA (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 37.980555555555554,
+            "lon": 32.5625
+        },
+        {
+            "id": "LTAP",
+            "name": "AMASYA/MERZIFON (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 40.82944444444445,
+            "lon": 35.52222222222222
+        },
+        {
+            "id": "LTAR",
+            "name": "SIVAS/NURI DEMIRAG ",
+            "country": "Turkey",
+            "lat": 39.814166666666665,
+            "lon": 36.902499999999996
+        },
+        {
+            "id": "LTAS",
+            "name": "ZONGULDAK/CAYCUMA",
+            "country": "Turkey",
+            "lat": 41.50694444444444,
+            "lon": 32.08972222222222
+        },
+        {
+            "id": "LTAT",
+            "name": "MALATYA (MIL/CIV)",
+            "country": "Turkey",
+            "lat": 38.43222222222222,
+            "lon": 38.08305555555556
+        },
+        {
+            "id": "LTAU",
+            "name": "KAYSERI (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 38.77027777777778,
+            "lon": 35.49527777777778
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 283,
+    "data": [
+        {
+            "id": "OMAA",
+            "name": "ABU DHABI INTERNATIONAL",
+            "country": "United Arab Emirates",
+            "lat": 24.43305555555556,
+            "lon": 54.651111111111106
+        },
+        {
+            "id": "OMAD",
+            "name": "ABU DHABI/AL BATEEN EXECUTIVE AIRPORT",
+            "country": "United Arab Emirates",
+            "lat": 24.428333333333335,
+            "lon": 54.45805555555556
+        },
+        {
+            "id": "OMAL",
+            "name": "AL AIN INTERNATIONAL",
+            "country": "United Arab Emirates",
+            "lat": 24.261666666666667,
+            "lon": 55.60916666666667
+        },
+        {
+            "id": "OMDB",
+            "name": "DUBAI INTERNATIONAL",
+            "country": "United Arab Emirates",
+            "lat": 25.252777777777776,
+            "lon": 55.364444444444445
+        },
+        {
+            "id": "OMDW",
+            "name": "DUBAI/AL MAKTOUM INTERNATIONAL",
+            "country": "United Arab Emirates",
+            "lat": 24.918333333333333,
+            "lon": 55.175555555555555
+        },
+        {
+            "id": "OMFJ",
+            "name": "FUJAIRAH INTERNATIONAL",
+            "country": "United Arab Emirates",
+            "lat": 25.112222222222222,
+            "lon": 56.32416666666667
+        },
+        {
+            "id": "OMRK",
+            "name": "RAS AL KHAIMAH INTERNATIONAL",
+            "country": "United Arab Emirates",
+            "lat": 25.613333333333333,
+            "lon": 55.93888888888888
+        },
+        {
+            "id": "OMSJ",
+            "name": "SHARJAH INTERNATIONAL",
+            "country": "United Arab Emirates",
+            "lat": 25.329166666666666,
+            "lon": 55.51611111111111
+        },
+        {
+            "id": "OOMS",
+            "name": "MUSCAT/MUSCAT INTL",
+            "country": "Oman",
+            "lat": 23.592858333333332,
+            "lon": 58.281797222222224
+        },
+        {
+            "id": "OOSA",
+            "name": "SALALAH",
+            "country": "Oman",
+            "lat": 17.03872777777778,
+            "lon": 54.091297222222224
+        }
+    ]
+}

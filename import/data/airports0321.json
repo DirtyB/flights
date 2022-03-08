@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 321,
+    "data": [
+        {
+            "id": "WADL",
+            "name": "PRAYA/LOMBOK INTERNATIONAL",
+            "country": "Indonesia",
+            "lat": -8.7575,
+            "lon": 116.27666666666667
+        },
+        {
+            "id": "WAMM",
+            "name": "MANADO/SAMRATULANGI",
+            "country": "Indonesia",
+            "lat": 1.5455555555555553,
+            "lon": 124.92500000000001
+        },
+        {
+            "id": "WAPP",
+            "name": "AMBON/PATTIMURA",
+            "country": "Indonesia",
+            "lat": -3.7075,
+            "lon": 128.08944444444447
+        },
+        {
+            "id": "WARR",
+            "name": "SURABAYA/JUANDA",
+            "country": "Indonesia",
+            "lat": -7.383611111111112,
+            "lon": 112.78
+        },
+        {
+            "id": "WARS",
+            "name": "SEMARANG/ACHMAD YANI",
+            "country": "Indonesia",
+            "lat": -6.9713889,
+            "lon": 110.3741667
+        },
+        {
+            "id": "WARQ",
+            "name": "SOLO/ADI SUMARMO",
+            "country": "Indonesia",
+            "lat": -7.5161111,
+            "lon": 110.7569444
+        },
+        {
+            "id": "WIBB",
+            "name": "PEKANBARU/SULTAN SYARIF KASIM II",
+            "country": "Indonesia",
+            "lat": 0.4633333333333333,
+            "lon": 101.44666666666667
+        },
+        {
+            "id": "WIDD",
+            "name": "BATAM/HANG NADIM",
+            "country": "Indonesia",
+            "lat": 1.1186111111111112,
+            "lon": 104.11388888888888
+        },
+        {
+            "id": "WIHH",
+            "name": "JAKARTA/HALIM PERDANAKUSUMA",
+            "country": "Indonesia",
+            "lat": -6.2675,
+            "lon": 106.8863888888889
+        },
+        {
+            "id": "WIII",
+            "name": "JAKARTA INTL/SOEKARNO-HATTA",
+            "country": "Indonesia",
+            "lat": -6.123611111111111,
+            "lon": 106.66111111111111
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 302,
+    "data": [
+        {
+            "id": "ZSAM",
+            "name": "XIAMEN/GAOQI",
+            "country": "China",
+            "lat": 24.545,
+            "lon": 118.12666666666667
+        },
+        {
+            "id": "ZSFZ",
+            "name": "FUZHOU/CHANGLE",
+            "country": "China",
+            "lat": 25.933333333333334,
+            "lon": 119.665
+        },
+        {
+            "id": "ZSHC",
+            "name": "HANGZHOU/XIAOSHAN",
+            "country": "China",
+            "lat": 30.22833333333333,
+            "lon": 120.43333333333334
+        },
+        {
+            "id": "ZSNB",
+            "name": "NINGBO/LISHE",
+            "country": "China",
+            "lat": 29.826666666666668,
+            "lon": 121.46333333333334
+        },
+        {
+            "id": "ZSNJ",
+            "name": "NANJING/LUKOU",
+            "country": "China",
+            "lat": 31.743333333333336,
+            "lon": 118.86333333333333
+        },
+        {
+            "id": "ZSOF",
+            "name": "HEFEI/XINQIAO",
+            "country": "China",
+            "lat": 31.986666666666668,
+            "lon": 116.97500000000001
+        },
+        {
+            "id": "ZSPD",
+            "name": "SHANGHAI/PUDONG",
+            "country": "China",
+            "lat": 31.145,
+            "lon": 121.79333333333334
+        },
+        {
+            "id": "ZSQD",
+            "name": "QINGDAO/LIUTING",
+            "country": "China",
+            "lat": 36.265,
+            "lon": 120.37333333333332
+        },
+        {
+            "id": "ZSSS",
+            "name": "SHANGHAI/HONGQIAO",
+            "country": "China",
+            "lat": 31.196666666666665,
+            "lon": 121.335
+        },
+        {
+            "id": "ZUCK",
+            "name": "CHONGQING/JIANGBEI",
+            "country": "China",
+            "lat": 29.72,
+            "lon": 106.64
+        }
+    ]
+}

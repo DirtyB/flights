@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 2,
+    "data": [
+        {
+            "id": "KTMB",
+            "name": "KENDALL-TAMIAMI EXECUTIVE",
+            "country": "United States of America",
+            "lat": 25.64756111111111,
+            "lon": -80.43322222222223
+        },
+        {
+            "id": "KMIA",
+            "name": "MIAMI INTL",
+            "country": "United States of America",
+            "lat": 25.795361111111113,
+            "lon": -80.29011111111112
+        },
+        {
+            "id": "KOPF",
+            "name": "OPA-LOCKA EXECUTIVE",
+            "country": "United States of America",
+            "lat": 25.907416666666666,
+            "lon": -80.27822222222223
+        },
+        {
+            "id": "KAPF",
+            "name": "NAPLES MUNI",
+            "country": "United States of America",
+            "lat": 26.152438888888888,
+            "lon": -81.77563611111111
+        },
+        {
+            "id": "KOCF",
+            "name": "OCALA INTL-JIM TAYLOR FIELD",
+            "country": "United States of America",
+            "lat": 29.171875,
+            "lon": -82.2241138888889
+        },
+        {
+            "id": "KOBE",
+            "name": "OKEECHOBEE COUNTY",
+            "country": "United States of America",
+            "lat": 27.266583333333333,
+            "lon": -80.85038888888889
+        },
+        {
+            "id": "KMCO",
+            "name": "ORLANDO INTL",
+            "country": "United States of America",
+            "lat": 28.42938888888889,
+            "lon": -81.309
+        },
+        {
+            "id": "KORL",
+            "name": "EXECUTIVE",
+            "country": "United States of America",
+            "lat": 28.545472222222223,
+            "lon": -81.33291666666666
+        },
+        {
+            "id": "KECP",
+            "name": "NORTHWEST FLORIDA BEACHES INTL",
+            "country": "United States of America",
+            "lat": 30.35825,
+            "lon": -85.79561111111111
+        },
+        {
+            "id": "KCOF",
+            "name": "PATRICK AFB",
+            "country": "United States of America",
+            "lat": 28.234922222222224,
+            "lon": -80.610125
+        }
+    ]
+}

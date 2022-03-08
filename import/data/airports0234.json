@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 234,
+    "data": [
+        {
+            "id": "LOWG",
+            "name": "GRAZ",
+            "country": "Austria",
+            "lat": 46.99305555555556,
+            "lon": 15.439166666666667
+        },
+        {
+            "id": "LOWI",
+            "name": "INNSBRUCK",
+            "country": "Austria",
+            "lat": 47.26027777777778,
+            "lon": 11.34388888888889
+        },
+        {
+            "id": "LOWK",
+            "name": "KLAGENFURT",
+            "country": "Austria",
+            "lat": 46.64277777777778,
+            "lon": 14.337222222222223
+        },
+        {
+            "id": "LOWL",
+            "name": "LINZ",
+            "country": "Austria",
+            "lat": 48.23527777777778,
+            "lon": 14.188055555555556
+        },
+        {
+            "id": "LOWS",
+            "name": "SALZBURG",
+            "country": "Austria",
+            "lat": 47.794444444444444,
+            "lon": 13.003333333333334
+        },
+        {
+            "id": "LOWW",
+            "name": "WIEN-SCHWECHAT",
+            "country": "Austria",
+            "lat": 48.11027777777778,
+            "lon": 16.56972222222222
+        },
+        {
+            "id": "LOWZ",
+            "name": "ZELL AM SEE",
+            "country": "Austria",
+            "lat": 47.29222222222222,
+            "lon": 12.7875
+        },
+        {
+            "id": "LOXZ",
+            "name": "ZELTWEG MIL",
+            "country": "Austria",
+            "lat": 47.203611111111115,
+            "lon": 14.745833333333332
+        },
+        {
+            "id": "LPAZ",
+            "name": "SANTA MARIA",
+            "country": "Portugal",
+            "lat": 36.973888888888894,
+            "lon": -25.171111111111113
+        },
+        {
+            "id": "LPBJ",
+            "name": "BEJA",
+            "country": "Portugal",
+            "lat": 38.07888888888889,
+            "lon": -7.9325
+        }
+    ]
+}

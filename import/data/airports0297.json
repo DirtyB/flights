@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 297,
+    "data": [
+        {
+            "id": "UKLL",
+            "name": "L'VIV",
+            "country": "Ukraine",
+            "lat": 49.80972222222222,
+            "lon": 23.958333333333332
+        },
+        {
+            "id": "UKLN",
+            "name": "CHERNIVTSI",
+            "country": "Ukraine",
+            "lat": 48.259166666666665,
+            "lon": 25.979999999999997
+        },
+        {
+            "id": "UKLR",
+            "name": "RIVNE",
+            "country": "Ukraine",
+            "lat": 50.608333333333334,
+            "lon": 26.139722222222222
+        },
+        {
+            "id": "UKLU",
+            "name": "UZHHOROD",
+            "country": "Ukraine",
+            "lat": 48.63444444444444,
+            "lon": 22.263333333333332
+        },
+        {
+            "id": "UKON",
+            "name": "MYKOLAIV",
+            "country": "Ukraine",
+            "lat": 47.0577778,
+            "lon": 31.9197222
+        },
+        {
+            "id": "UKOO",
+            "name": "ODESA",
+            "country": "Ukraine",
+            "lat": 46.42666666666666,
+            "lon": 30.67638888888889
+        },
+        {
+            "id": "EVLA",
+            "name": "LIEPAJA",
+            "country": "Latvia",
+            "lat": 56.5175,
+            "lon": 21.096944444444443
+        },
+        {
+            "id": "EVRA",
+            "name": "RIGA",
+            "country": "Latvia",
+            "lat": 56.92361111111111,
+            "lon": 23.97111111111111
+        },
+        {
+            "id": "EVVA",
+            "name": "VENTSPILS",
+            "country": "Latvia",
+            "lat": 57.35777777777778,
+            "lon": 21.54416666666667
+        },
+        {
+            "id": "UMBB",
+            "name": "BREST",
+            "country": "Belarus",
+            "lat": 52.108333333333334,
+            "lon": 23.89638888888889
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 366,
+    "data": [
+        {
+            "id": "KTRM",
+            "name": "JACQUELINE COCHRAN RGNL",
+            "country": "United States of America",
+            "lat": 33.626666666666665,
+            "lon": -116.15965277777778
+        },
+        {
+            "id": "KTOA",
+            "name": "ZAMPERINI FIELD",
+            "country": "United States of America",
+            "lat": 33.803380555555556,
+            "lon": -118.33960555555555
+        },
+        {
+            "id": "KSUU",
+            "name": "TRAVIS AFB",
+            "country": "United States of America",
+            "lat": 38.26453611111111,
+            "lon": -121.92413055555556
+        },
+        {
+            "id": "KTSP",
+            "name": "TEHACHAPI MUNI",
+            "country": "United States of America",
+            "lat": 35.134994444444445,
+            "lon": -118.4393
+        },
+        {
+            "id": "KUKI",
+            "name": "UKIAH MUNI",
+            "country": "United States of America",
+            "lat": 39.12594444444444,
+            "lon": -123.20086111111111
+        },
+        {
+            "id": "KVNY",
+            "name": "VAN NUYS",
+            "country": "United States of America",
+            "lat": 34.20980555555556,
+            "lon": -118.48997222222222
+        },
+        {
+            "id": "KVBG",
+            "name": "VANDENBURG AFB",
+            "country": "United States of America",
+            "lat": 34.73733611111111,
+            "lon": -120.58430833333333
+        },
+        {
+            "id": "KVCV",
+            "name": "SOUTHERN CALIFORNIA LOGISTICS",
+            "country": "United States of America",
+            "lat": 34.59745277777778,
+            "lon": -117.38299444444444
+        },
+        {
+            "id": "KVIS",
+            "name": "VISALIA MUNI",
+            "country": "United States of America",
+            "lat": 36.31863888888889,
+            "lon": -119.39286111111112
+        },
+        {
+            "id": "KWVI",
+            "name": "WATSONVILLE MUNI",
+            "country": "United States of America",
+            "lat": 36.93572222222222,
+            "lon": -121.78963888888889
+        }
+    ]
+}

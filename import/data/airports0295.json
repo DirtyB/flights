@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 295,
+    "data": [
+        {
+            "id": "UUWW",
+            "name": "MOSCOW/VNUKOVO",
+            "country": "Russian Federation",
+            "lat": 55.59916666666667,
+            "lon": 37.27305555555555
+        },
+        {
+            "id": "UUYY",
+            "name": "SYKTYVKAR",
+            "country": "Russian Federation",
+            "lat": 61.646966666666664,
+            "lon": 50.845105555555556
+        },
+        {
+            "id": "UWGG",
+            "name": "NIZHNY NOVGOROD/STRIGINO",
+            "country": "Russian Federation",
+            "lat": 56.230000000000004,
+            "lon": 43.784166666666664
+        },
+        {
+            "id": "UWKD",
+            "name": "KAZAN",
+            "country": "Russian Federation",
+            "lat": 55.606944444444444,
+            "lon": 49.280277777777776
+        },
+        {
+            "id": "UWKE",
+            "name": "BEGISHEVO",
+            "country": "Russian Federation",
+            "lat": 55.56472222222222,
+            "lon": 52.0925
+        },
+        {
+            "id": "UWKS",
+            "name": "CHEBOKSARY",
+            "country": "Russian Federation",
+            "lat": 56.09027777777778,
+            "lon": 47.34722222222222
+        },
+        {
+            "id": "UWLW",
+            "name": "ULYANOVSK/VOSTOCHNY",
+            "country": "Russian Federation",
+            "lat": 54.39944444444444,
+            "lon": 48.801111111111105
+        },
+        {
+            "id": "UWOO",
+            "name": "ORENBURG",
+            "country": "Russian Federation",
+            "lat": 51.795833333333334,
+            "lon": 55.45666666666667
+        },
+        {
+            "id": "UWOR",
+            "name": "ORSK",
+            "country": "Russian Federation",
+            "lat": 51.072500000000005,
+            "lon": 58.59583333333334
+        },
+        {
+            "id": "UWSS",
+            "name": "SARATOV/TSENTRALNY",
+            "country": "Russian Federation",
+            "lat": 51.565555555555555,
+            "lon": 46.04555555555555
+        }
+    ]
+}

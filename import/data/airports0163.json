@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 163,
+    "data": [
+        {
+            "id": "SARF",
+            "name": "FORMOSA (F)",
+            "country": "Argentina",
+            "lat": -26.212777777777777,
+            "lon": -58.22805555555556
+        },
+        {
+            "id": "SARI",
+            "name": "CATARATAS DEL IGUAZU/MY. D. CARLOS EDUARDO KRAUSE (MS)",
+            "country": "Argentina",
+            "lat": -25.737222222222222,
+            "lon": -54.473333333333336
+        },
+        {
+            "id": "SARL",
+            "name": "PASO DE LOS LIBRES (CTS)",
+            "country": "Argentina",
+            "lat": -29.688055555555557,
+            "lon": -57.15222222222222
+        },
+        {
+            "id": "SARP",
+            "name": "POSADAS/LIBERTADOR GRAL. D. JOSE DE SAN MARTIN (MS)",
+            "country": "Argentina",
+            "lat": -27.385833333333334,
+            "lon": -55.970555555555556
+        },
+        {
+            "id": "SASA",
+            "name": "SALTA/GENERAL D. MARTIN MIGUEL DE GUEMES (S)",
+            "country": "Argentina",
+            "lat": -24.859722222222224,
+            "lon": -65.48694444444445
+        },
+        {
+            "id": "SASJ",
+            "name": "JUJUY/GOBERNADOR GUZMAN (J)",
+            "country": "Argentina",
+            "lat": -24.392777777777777,
+            "lon": -65.09777777777778
+        },
+        {
+            "id": "SAVC",
+            "name": "COMODORO RIVADAVIA/GRAL. E. MOSCONI (CHT)",
+            "country": "Argentina",
+            "lat": -45.78527777777778,
+            "lon": -67.46555555555555
+        },
+        {
+            "id": "SAVE",
+            "name": "ESQUEL/BRIG. ANTONIO PARODI (CHT)",
+            "country": "Argentina",
+            "lat": -42.903888888888886,
+            "lon": -71.13555555555556
+        },
+        {
+            "id": "SAWE",
+            "name": "RIO GRANDE (TAIS)",
+            "country": "Argentina",
+            "lat": -53.777499999999996,
+            "lon": -67.75
+        },
+        {
+            "id": "SAWG",
+            "name": "RIO GALLEGOS/PILOTO CIVIL NORBERTO FERNANDEZ (SC)",
+            "country": "Argentina",
+            "lat": -51.60888888888889,
+            "lon": -69.31277777777777
+        }
+    ]
+}

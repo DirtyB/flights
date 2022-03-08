@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 253,
+    "data": [
+        {
+            "id": "DAUB",
+            "name": "BISKRA/MOHAMED KHIDER",
+            "country": "Algeria",
+            "lat": 34.80166666666666,
+            "lon": 5.741666666666667
+        },
+        {
+            "id": "DAUE",
+            "name": "EL GOLEA",
+            "country": "Algeria",
+            "lat": 30.56888888888889,
+            "lon": 2.8647222222222224
+        },
+        {
+            "id": "DAUG",
+            "name": "GHARDAIA/NOUMERAT-MOUFDI ZAKARIA",
+            "country": "Algeria",
+            "lat": 32.38166666666667,
+            "lon": 3.799444444444444
+        },
+        {
+            "id": "DAUH",
+            "name": "HASSI MESSAOUD/OUED IRARA-KRIM BELKACEM",
+            "country": "Algeria",
+            "lat": 31.67388888888889,
+            "lon": 6.140555555555556
+        },
+        {
+            "id": "DAUI",
+            "name": "IN SALAH",
+            "country": "Algeria",
+            "lat": 27.253611111111113,
+            "lon": 2.5108333333333333
+        },
+        {
+            "id": "DAUK",
+            "name": "TOUGGOURT/SIDI MAHDI",
+            "country": "Algeria",
+            "lat": 33.059999999999995,
+            "lon": 6.087222222222222
+        },
+        {
+            "id": "DAUL",
+            "name": "LAGHOUAT/MOULAY AHMED MEDEGHRI",
+            "country": "Algeria",
+            "lat": 33.7644444,
+            "lon": 2.9283333
+        },
+        {
+            "id": "DAUO",
+            "name": "EL OUED/GUEMAR",
+            "country": "Algeria",
+            "lat": 33.51305555555555,
+            "lon": 6.7825
+        },
+        {
+            "id": "DAUT",
+            "name": "TIMIMOUN",
+            "country": "Algeria",
+            "lat": 29.241111111111113,
+            "lon": 0.2836111111111111
+        },
+        {
+            "id": "DAUU",
+            "name": "OUARGLA/AIN BEIDA",
+            "country": "Algeria",
+            "lat": 31.93138888888889,
+            "lon": 5.406666666666667
+        }
+    ]
+}

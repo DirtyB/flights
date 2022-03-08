@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 206,
+    "data": [
+        {
+            "id": "LELO",
+            "name": "LOGRONO/AGONCILLO (MILITAR)",
+            "country": "Spain",
+            "lat": 42.45416666666667,
+            "lon": -2.3208333333333333
+        },
+        {
+            "id": "LEMD",
+            "name": "MADRID/ADOLFO SUAREZ MADRID-BARAJAS",
+            "country": "Spain",
+            "lat": 40.47222222222222,
+            "lon": -3.560833333333333
+        },
+        {
+            "id": "LEMG",
+            "name": "MALAGA/COSTA DEL SOL",
+            "country": "Spain",
+            "lat": 36.675,
+            "lon": -4.4991666666666665
+        },
+        {
+            "id": "LEMH",
+            "name": "MENORCA",
+            "country": "Spain",
+            "lat": 39.862500000000004,
+            "lon": 4.2186111111111115
+        },
+        {
+            "id": "LEMO",
+            "name": "SEVILLA/MORON (MILITAR)",
+            "country": "Spain",
+            "lat": 37.175,
+            "lon": -5.616111111111111
+        },
+        {
+            "id": "LEPA",
+            "name": "PALMA DE MALLORCA",
+            "country": "Spain",
+            "lat": 39.55166666666666,
+            "lon": 2.738888888888889
+        },
+        {
+            "id": "LEPP",
+            "name": "PAMPLONA",
+            "country": "Spain",
+            "lat": 42.769999999999996,
+            "lon": -1.646388888888889
+        },
+        {
+            "id": "LERI",
+            "name": "MURCIA/ALCANTARILLA (MILITAR)",
+            "country": "Spain",
+            "lat": 37.952222222222225,
+            "lon": -1.2308333333333334
+        },
+        {
+            "id": "LERS",
+            "name": "REUS",
+            "country": "Spain",
+            "lat": 41.1475,
+            "lon": 1.1672222222222224
+        },
+        {
+            "id": "LERT",
+            "name": "CADIZ/ROTA (BASE AERO-NAVAL)",
+            "country": "Spain",
+            "lat": 36.64527777777778,
+            "lon": -6.349444444444444
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 218,
+    "data": [
+        {
+            "id": "LFSB",
+            "name": "BALE-MULHOUSE",
+            "country": "France",
+            "lat": 47.59,
+            "lon": 7.529166666666667
+        },
+        {
+            "id": "LFSD",
+            "name": "DIJON-LONGVIC",
+            "country": "France",
+            "lat": 47.26583333333333,
+            "lon": 5.095
+        },
+        {
+            "id": "LFSI",
+            "name": "SAINT-DIZIER-ROBINSON",
+            "country": "France",
+            "lat": 48.63361111111111,
+            "lon": 4.908055555555556
+        },
+        {
+            "id": "LFSL",
+            "name": "BRIVE SOUILLAC",
+            "country": "France",
+            "lat": 45.03972222222222,
+            "lon": 1.4855555555555555
+        },
+        {
+            "id": "LFSN",
+            "name": "NANCY-ESSEY",
+            "country": "France",
+            "lat": 48.69222222222222,
+            "lon": 6.226111111111111
+        },
+        {
+            "id": "LFSO",
+            "name": "NANCY-OCHEY",
+            "country": "France",
+            "lat": 48.58318611111111,
+            "lon": 5.954525
+        },
+        {
+            "id": "LFST",
+            "name": "STRASBOURG-ENTZHEIM",
+            "country": "France",
+            "lat": 48.54194444444444,
+            "lon": 7.634444444444444
+        },
+        {
+            "id": "LFSX",
+            "name": "LUXEUIL SAINT SAUVEUR",
+            "country": "France",
+            "lat": 47.78722222222222,
+            "lon": 6.364999999999999
+        },
+        {
+            "id": "LFTH",
+            "name": "HYERES-LE PALYVESTRE",
+            "country": "France",
+            "lat": 43.09722222222222,
+            "lon": 6.146111111111112
+        },
+        {
+            "id": "LFTW",
+            "name": "NIMES-GARONS",
+            "country": "France",
+            "lat": 43.7575,
+            "lon": 4.416388888888889
+        }
+    ]
+}

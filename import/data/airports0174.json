@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 174,
+    "data": [
+        {
+            "id": "ETSN",
+            "name": "NEUBURG",
+            "country": "Germany",
+            "lat": 48.711000000000006,
+            "lon": 11.2115
+        },
+        {
+            "id": "ETWM",
+            "name": "MEPPEN",
+            "country": "Germany",
+            "lat": 52.72316666666667,
+            "lon": 7.326333333333333
+        },
+        {
+            "id": "EEKA",
+            "name": "KARDLA",
+            "country": "Estonia",
+            "lat": 58.990833333333335,
+            "lon": 22.830833333333334
+        },
+        {
+            "id": "EEKE",
+            "name": "KURESSAARE",
+            "country": "Estonia",
+            "lat": 58.230000000000004,
+            "lon": 22.509444444444444
+        },
+        {
+            "id": "EEPU",
+            "name": "PARNU",
+            "country": "Estonia",
+            "lat": 58.41888888888889,
+            "lon": 24.472777777777775
+        },
+        {
+            "id": "EETN",
+            "name": "LENNART MERI TALLINN",
+            "country": "Estonia",
+            "lat": 59.413333333333334,
+            "lon": 24.8325
+        },
+        {
+            "id": "EETU",
+            "name": "TARTU",
+            "country": "Estonia",
+            "lat": 58.3075,
+            "lon": 26.686944444444446
+        },
+        {
+            "id": "EFET",
+            "name": "ENONTEKIO",
+            "country": "Finland",
+            "lat": 68.36444444444444,
+            "lon": 23.427500000000002
+        },
+        {
+            "id": "EFHA",
+            "name": "HALLI",
+            "country": "Finland",
+            "lat": 61.85638888888889,
+            "lon": 24.789166666666667
+        },
+        {
+            "id": "EFHF",
+            "name": "HELSINKI-MALMI",
+            "country": "Finland",
+            "lat": 60.25388888888889,
+            "lon": 25.04416666666667
+        }
+    ]
+}

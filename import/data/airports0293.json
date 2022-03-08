@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 293,
+    "data": [
+        {
+            "id": "URWA",
+            "name": "ASTRAKHAN",
+            "country": "Russian Federation",
+            "lat": 46.28333333333333,
+            "lon": 48.006388888888885
+        },
+        {
+            "id": "URWI",
+            "name": "ELISTA",
+            "country": "Russian Federation",
+            "lat": 46.374722222222225,
+            "lon": 44.323888888888895
+        },
+        {
+            "id": "URWW",
+            "name": "VOLGOGRAD/GUMRAK",
+            "country": "Russian Federation",
+            "lat": 48.7825,
+            "lon": 44.345555555555556
+        },
+        {
+            "id": "USCC",
+            "name": "CHELYABINSK/BALANDINO",
+            "country": "Russian Federation",
+            "lat": 55.30583333333333,
+            "lon": 61.50361111111111
+        },
+        {
+            "id": "USCM",
+            "name": "MAGNITOGORSK",
+            "country": "Russian Federation",
+            "lat": 53.393055555555556,
+            "lon": 58.75555555555555
+        },
+        {
+            "id": "USHH",
+            "name": "KHANTY-MANSIYSK",
+            "country": "Russian Federation",
+            "lat": 61.02861111111111,
+            "lon": 69.08611111111111
+        },
+        {
+            "id": "USPP",
+            "name": "PERM/BOLSHOE SAVINO",
+            "country": "Russian Federation",
+            "lat": 57.91444444444444,
+            "lon": 56.021388888888886
+        },
+        {
+            "id": "USRR",
+            "name": "SURGUT",
+            "country": "Russian Federation",
+            "lat": 61.34388888888889,
+            "lon": 73.40222222222222
+        },
+        {
+            "id": "USNN",
+            "name": "NIZHNEVARTOVSK",
+            "country": "Russian Federation",
+            "lat": 60.948611111111106,
+            "lon": 76.48055555555555
+        },
+        {
+            "id": "USSS",
+            "name": "YEKATERINBURG/KOLTSOVO",
+            "country": "Russian Federation",
+            "lat": 56.74305555555556,
+            "lon": 60.80305555555555
+        }
+    ]
+}

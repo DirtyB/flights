@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 80,
+    "data": [
+        {
+            "id": "KGGG",
+            "name": "EAST TEXAS RGNL",
+            "country": "United States of America",
+            "lat": 32.38401388888889,
+            "lon": -94.71148611111111
+        },
+        {
+            "id": "KLBB",
+            "name": "LUBBOCK PRESTON SMITH INTL",
+            "country": "United States of America",
+            "lat": 33.663666666666664,
+            "lon": -101.82055555555556
+        },
+        {
+            "id": "KLFK",
+            "name": "ANGELINA COUNTY",
+            "country": "United States of America",
+            "lat": 31.23402777777778,
+            "lon": -94.75
+        },
+        {
+            "id": "KMRF",
+            "name": "MARFA MUNI",
+            "country": "United States of America",
+            "lat": 30.371111111111112,
+            "lon": -104.01752777777777
+        },
+        {
+            "id": "KASL",
+            "name": "HARRISON COUNTY",
+            "country": "United States of America",
+            "lat": 32.5205,
+            "lon": -94.30777777777777
+        },
+        {
+            "id": "KMFE",
+            "name": "MC ALLEN MILLER INTL",
+            "country": "United States of America",
+            "lat": 26.175833333333333,
+            "lon": -98.23861111111111
+        },
+        {
+            "id": "KMAF",
+            "name": "MIDLAND INTL",
+            "country": "United States of America",
+            "lat": 31.942527777777777,
+            "lon": -102.20191666666668
+        },
+        {
+            "id": "KMDD",
+            "name": "MIDLAND AIRPARK",
+            "country": "United States of America",
+            "lat": 32.036569444444446,
+            "lon": -102.101525
+        },
+        {
+            "id": "KMWL",
+            "name": "MINERAL WELLS",
+            "country": "United States of America",
+            "lat": 32.78160555555556,
+            "lon": -98.060175
+        },
+        {
+            "id": "KOCH",
+            "name": "A L MANGHAM JR. RGNL",
+            "country": "United States of America",
+            "lat": 31.57776388888889,
+            "lon": -94.71011111111112
+        }
+    ]
+}

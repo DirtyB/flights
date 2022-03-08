@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 333,
+    "data": [
+        {
+            "id": "YPKG",
+            "name": "KALGOORLIE-BOULDER",
+            "country": "Australia",
+            "lat": -30.789444444444445,
+            "lon": 121.46166666666667
+        },
+        {
+            "id": "YPKU",
+            "name": "KUNUNURRA",
+            "country": "Australia",
+            "lat": -15.778055555555556,
+            "lon": 128.70749999999998
+        },
+        {
+            "id": "YPLM",
+            "name": "LEARMONTH",
+            "country": "Australia",
+            "lat": -22.235555555555557,
+            "lon": 114.0886111111111
+        },
+        {
+            "id": "YPPD",
+            "name": "PORT HEDLAND",
+            "country": "Australia",
+            "lat": -20.37777777777778,
+            "lon": 118.62638888888888
+        },
+        {
+            "id": "YPPH",
+            "name": "PERTH/PERTH INTL",
+            "country": "Australia",
+            "lat": -31.940277777777776,
+            "lon": 115.96694444444445
+        },
+        {
+            "id": "YPTN",
+            "name": "TINDAL",
+            "country": "Australia",
+            "lat": -14.521111111111113,
+            "lon": 132.3777777777778
+        },
+        {
+            "id": "YPWR",
+            "name": "WOOMERA",
+            "country": "Australia",
+            "lat": -31.144166666666667,
+            "lon": 136.81694444444443
+        },
+        {
+            "id": "YPXM",
+            "name": "CHRISTMAS ISLAND",
+            "country": "Australia",
+            "lat": -10.450555555555555,
+            "lon": 105.69027777777778
+        },
+        {
+            "id": "YRMD",
+            "name": "RICHMOND (QLD)",
+            "country": "Australia",
+            "lat": -20.701944444444443,
+            "lon": 143.1147222222222
+        },
+        {
+            "id": "YSCB",
+            "name": "CANBERRA",
+            "country": "Australia",
+            "lat": -35.306822222222216,
+            "lon": 149.19503333333333
+        }
+    ]
+}

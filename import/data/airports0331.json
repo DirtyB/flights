@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 331,
+    "data": [
+        {
+            "id": "YMTG",
+            "name": "MOUNT GAMBIER",
+            "country": "Australia",
+            "lat": -37.745555555555555,
+            "lon": 140.78527777777776
+        },
+        {
+            "id": "YNAR",
+            "name": "NARRANDERA",
+            "country": "Australia",
+            "lat": -34.702222222222225,
+            "lon": 146.51222222222222
+        },
+        {
+            "id": "YNBR",
+            "name": "NARRABRI",
+            "country": "Australia",
+            "lat": -30.319166666666668,
+            "lon": 149.82722222222222
+        },
+        {
+            "id": "YNTN",
+            "name": "NORMANTON",
+            "country": "Australia",
+            "lat": -17.685,
+            "lon": 141.07027777777776
+        },
+        {
+            "id": "YNWN",
+            "name": "NEWMAN",
+            "country": "Australia",
+            "lat": -23.41777777777778,
+            "lon": 119.80277777777778
+        },
+        {
+            "id": "YOLD",
+            "name": "OLYMPIC DAM",
+            "country": "Australia",
+            "lat": -30.485,
+            "lon": 136.87666666666667
+        },
+        {
+            "id": "YPGV",
+            "name": "GOVE",
+            "country": "Australia",
+            "lat": -12.269444444444446,
+            "lon": 136.81833333333333
+        },
+        {
+            "id": "YPJT",
+            "name": "PERTH/JANDAKOT",
+            "country": "Australia",
+            "lat": -32.097500000000004,
+            "lon": 115.88111111111111
+        },
+        {
+            "id": "YPMQ",
+            "name": "PORT MACQUARIE",
+            "country": "Australia",
+            "lat": -31.435833333333335,
+            "lon": 152.86333333333332
+        },
+        {
+            "id": "YMAV",
+            "name": "AVALON",
+            "country": "Australia",
+            "lat": -38.03944444444444,
+            "lon": 144.46944444444443
+        }
+    ]
+}

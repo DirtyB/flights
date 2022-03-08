@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 288,
+    "data": [
+        {
+            "id": "UATT",
+            "name": "AKTOBE",
+            "country": "Kazakhstan",
+            "lat": 50.24583333333334,
+            "lon": 57.20666666666667
+        },
+        {
+            "id": "UAUU",
+            "name": "KOSTANAY",
+            "country": "Kazakhstan",
+            "lat": 53.20722222222223,
+            "lon": 63.54888888888889
+        },
+        {
+            "id": "UBBB",
+            "name": "HEYDAR ALIYEV INTERNATIONAL AIRPORT",
+            "country": "Azerbaijan",
+            "lat": 40.469722222222224,
+            "lon": 50.05138888888889
+        },
+        {
+            "id": "UBBG",
+            "name": "GANJA",
+            "country": "Azerbaijan",
+            "lat": 40.73888888888889,
+            "lon": 46.32
+        },
+        {
+            "id": "UBBL",
+            "name": "LENKORAN",
+            "country": "Azerbaijan",
+            "lat": 38.75861111111111,
+            "lon": 48.80638888888888
+        },
+        {
+            "id": "UBBN",
+            "name": "NAKHCHIVAN",
+            "country": "Azerbaijan",
+            "lat": 39.18873333333333,
+            "lon": 45.457280555555556
+        },
+        {
+            "id": "UBBQ",
+            "name": "GABALA",
+            "country": "Azerbaijan",
+            "lat": 40.80888888888889,
+            "lon": 47.72527777777778
+        },
+        {
+            "id": "UBBY",
+            "name": "ZAGATALA",
+            "country": "Azerbaijan",
+            "lat": 41.56222222222222,
+            "lon": 46.66722222222222
+        },
+        {
+            "id": "UCFM",
+            "name": "BISHKEK/MANAS",
+            "country": "Kyrgyzstan",
+            "lat": 43.06127222222222,
+            "lon": 74.47750833333333
+        },
+        {
+            "id": "UCFO",
+            "name": "OSH",
+            "country": "Kyrgyzstan",
+            "lat": 40.60899722222222,
+            "lon": 72.79321388888889
+        }
+    ]
+}

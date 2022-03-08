@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 144,
+    "data": [
+        {
+            "id": "SPCL",
+            "name": "PUCALLPA/INTL. CAPITAN FAP DAVID ARMANDO ABENSUR RENGIFO",
+            "country": "Peru",
+            "lat": -8.377941666666667,
+            "lon": -74.5743
+        },
+        {
+            "id": "SPGM",
+            "name": "TINGO MARIA",
+            "country": "Peru",
+            "lat": -9.289666666666667,
+            "lon": -76.00505555555556
+        },
+        {
+            "id": "SPHI",
+            "name": "CHICLAYO/INTL. CAPITAN FAP JOSE ABELARDO QUINONES GONZALEZ",
+            "country": "Peru",
+            "lat": -6.787477777777777,
+            "lon": -79.82809999999999
+        },
+        {
+            "id": "SPHO",
+            "name": "AYACUCHO/CORONEL FAP ALFREDO MENDIVIL DUARTE",
+            "country": "Peru",
+            "lat": -13.154836111111111,
+            "lon": -74.20441666666667
+        },
+        {
+            "id": "SPHY",
+            "name": "ANDAHUAYLAS",
+            "country": "Peru",
+            "lat": -13.708819444444444,
+            "lon": -73.35155555555555
+        },
+        {
+            "id": "SPJL",
+            "name": "JULIACA/INTL. INCA MANCO CAPAC",
+            "country": "Peru",
+            "lat": -15.466858333333333,
+            "lon": -70.15788333333334
+        },
+        {
+            "id": "SPJR",
+            "name": "CAJAMARCA/MAYOR GENERAL FAP ARMANDO REVOREDO IGLESIAS",
+            "country": "Peru",
+            "lat": -7.139222222222223,
+            "lon": -78.48952777777778
+        },
+        {
+            "id": "SPME",
+            "name": "TUMBES/CAPITAN FAP PEDRO CANGA RODRIGUEZ",
+            "country": "Peru",
+            "lat": -3.5522638888888887,
+            "lon": -80.38106944444444
+        },
+        {
+            "id": "SPMS",
+            "name": "YURIMAGUAS/MOISES BENZAQUEN RENGIFO",
+            "country": "Peru",
+            "lat": -5.8936111111111105,
+            "lon": -76.11805555555554
+        },
+        {
+            "id": "SPQT",
+            "name": "IQUITOS/INTL. CORONEL FAP FRANCISCO SECADA VIGNETTA",
+            "country": "Peru",
+            "lat": -3.7847388888888887,
+            "lon": -73.30880555555555
+        }
+    ]
+}

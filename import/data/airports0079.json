@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 79,
+    "data": [
+        {
+            "id": "KEFD",
+            "name": "ELLINGTON",
+            "country": "United States of America",
+            "lat": 29.607333333333333,
+            "lon": -95.15875000000001
+        },
+        {
+            "id": "KJAS",
+            "name": "JASPER COUNTY-BELL FIELD",
+            "country": "United States of America",
+            "lat": 30.885694444444443,
+            "lon": -94.03494444444445
+        },
+        {
+            "id": "KJCT",
+            "name": "KIMBLE COUNTY",
+            "country": "United States of America",
+            "lat": 30.511111111111113,
+            "lon": -99.7628888888889
+        },
+        {
+            "id": "KSKF",
+            "name": "LACKLAND AFB (KELLY FLD ANNEX)",
+            "country": "United States of America",
+            "lat": 29.384233333333334,
+            "lon": -98.58111666666666
+        },
+        {
+            "id": "KGRK",
+            "name": "ROBERT GRAY AAF",
+            "country": "United States of America",
+            "lat": 31.06725,
+            "lon": -97.82891666666666
+        },
+        {
+            "id": "KERV",
+            "name": "KERRVILLE MUNI/LOUIS SCHREINER FIELD",
+            "country": "United States of America",
+            "lat": 29.976666666666667,
+            "lon": -99.08547222222222
+        },
+        {
+            "id": "KILE",
+            "name": "SKYLARK FIELD",
+            "country": "United States of America",
+            "lat": 31.085833333333333,
+            "lon": -97.68650000000001
+        },
+        {
+            "id": "KNQI",
+            "name": "KINGSVILLE NAS",
+            "country": "United States of America",
+            "lat": 27.504527777777778,
+            "lon": -97.80827777777777
+        },
+        {
+            "id": "KLRD",
+            "name": "LAREDO INTL",
+            "country": "United States of America",
+            "lat": 27.544194444444447,
+            "lon": -99.46158333333334
+        },
+        {
+            "id": "KDLF",
+            "name": "LAUGHLIN AFB",
+            "country": "United States of America",
+            "lat": 29.359483333333333,
+            "lon": -100.777975
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 291,
+    "data": [
+        {
+            "id": "ULLI",
+            "name": "SANKT-PETERBURG/PULKOVO",
+            "country": "Russian Federation",
+            "lat": 59.80027777777777,
+            "lon": 30.2625
+        },
+        {
+            "id": "ULMM",
+            "name": "MURMANSK",
+            "country": "Russian Federation",
+            "lat": 68.78166666666667,
+            "lon": 32.75111111111111
+        },
+        {
+            "id": "ULWC",
+            "name": "CHEREPOVETS",
+            "country": "Russian Federation",
+            "lat": 59.27611111111111,
+            "lon": 38.01888888888889
+        },
+        {
+            "id": "UMKK",
+            "name": "KALININGRAD/KHRABROVO",
+            "country": "Russian Federation",
+            "lat": 54.89,
+            "lon": 20.592499999999998
+        },
+        {
+            "id": "UNAA",
+            "name": "ABAKAN",
+            "country": "Russian Federation",
+            "lat": 53.74,
+            "lon": 91.38527777777779
+        },
+        {
+            "id": "UNBB",
+            "name": "BARNAUL/MIKHAYLOVKA",
+            "country": "Russian Federation",
+            "lat": 53.36333333333334,
+            "lon": 83.53972222222222
+        },
+        {
+            "id": "UNEE",
+            "name": "KEMEROVO",
+            "country": "Russian Federation",
+            "lat": 55.269999999999996,
+            "lon": 86.10749999999999
+        },
+        {
+            "id": "UNKL",
+            "name": "KRASNOYARSK/YEMELYANOVO",
+            "country": "Russian Federation",
+            "lat": 56.17305555555555,
+            "lon": 92.49333333333334
+        },
+        {
+            "id": "UNNT",
+            "name": "NOVOSIBIRSK/TOLMACHEVO",
+            "country": "Russian Federation",
+            "lat": 55.03333333333333,
+            "lon": 82.59916666666666
+        },
+        {
+            "id": "UNOO",
+            "name": "OMSK/TSENTRALNY",
+            "country": "Russian Federation",
+            "lat": 54.967222222222226,
+            "lon": 73.31027777777777
+        }
+    ]
+}

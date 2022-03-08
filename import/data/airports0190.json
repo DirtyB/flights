@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 190,
+    "data": [
+        {
+            "id": "EKYT",
+            "name": "AALBORG (CIV/MIL)",
+            "country": "Denmark",
+            "lat": 57.09278888888889,
+            "lon": 9.849163888888889
+        },
+        {
+            "id": "ELLX",
+            "name": "LUXEMBOURG/LUXEMBOURG",
+            "country": "Luxembourg",
+            "lat": 49.623333333333335,
+            "lon": 6.204444444444444
+        },
+        {
+            "id": "ENAL",
+            "name": "ALESUND/VIGRA",
+            "country": "Norway",
+            "lat": 62.5625,
+            "lon": 6.119722222222221
+        },
+        {
+            "id": "ENAN",
+            "name": "ANDOYA/ANDENES",
+            "country": "Norway",
+            "lat": 69.2925,
+            "lon": 16.144166666666667
+        },
+        {
+            "id": "ENAT",
+            "name": "ALTA",
+            "country": "Norway",
+            "lat": 69.97611111111111,
+            "lon": 23.371666666666666
+        },
+        {
+            "id": "ENBL",
+            "name": "FORDE/BRINGELAND",
+            "country": "Norway",
+            "lat": 61.39111111111111,
+            "lon": 5.756944444444445
+        },
+        {
+            "id": "ENBN",
+            "name": "BRONNOYSUND/BRONNOY",
+            "country": "Norway",
+            "lat": 65.46111111111111,
+            "lon": 12.2175
+        },
+        {
+            "id": "ENBO",
+            "name": "BODO",
+            "country": "Norway",
+            "lat": 67.26916666666666,
+            "lon": 14.365277777777777
+        },
+        {
+            "id": "ENBR",
+            "name": "BERGEN/FLESLAND",
+            "country": "Norway",
+            "lat": 60.29361111111111,
+            "lon": 5.218055555555556
+        },
+        {
+            "id": "ENBS",
+            "name": "BATSFJORD",
+            "country": "Norway",
+            "lat": 70.60027777777778,
+            "lon": 29.6925
+        }
+    ]
+}

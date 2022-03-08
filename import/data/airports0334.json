@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 334,
+    "data": [
+        {
+            "id": "YSDU",
+            "name": "DUBBO",
+            "country": "Australia",
+            "lat": -32.21666666666667,
+            "lon": 148.57472222222222
+        },
+        {
+            "id": "YSNF",
+            "name": "NORFOLK ISLAND",
+            "country": "Australia",
+            "lat": -29.0425,
+            "lon": 167.93805555555556
+        },
+        {
+            "id": "YSNW",
+            "name": "NOWRA",
+            "country": "Australia",
+            "lat": -34.94888888888889,
+            "lon": 150.53694444444443
+        },
+        {
+            "id": "YSRI",
+            "name": "RICHMOND (NSW)",
+            "country": "Australia",
+            "lat": -33.60055555555556,
+            "lon": 150.78083333333333
+        },
+        {
+            "id": "YSSY",
+            "name": "SYDNEY/SYDNEY (KINGSFORD SMITH) INTL",
+            "country": "Australia",
+            "lat": -33.94611111111111,
+            "lon": 151.1772222222222
+        },
+        {
+            "id": "YSTW",
+            "name": "TAMWORTH",
+            "country": "Australia",
+            "lat": -31.083888888888886,
+            "lon": 150.84666666666666
+        },
+        {
+            "id": "YSWG",
+            "name": "WAGGA WAGGA",
+            "country": "Australia",
+            "lat": -35.165277777777774,
+            "lon": 147.46638888888887
+        },
+        {
+            "id": "YTEF",
+            "name": "TELFER",
+            "country": "Australia",
+            "lat": -21.715,
+            "lon": 122.2286111111111
+        },
+        {
+            "id": "YTNK",
+            "name": "TENNANT CREEK",
+            "country": "Australia",
+            "lat": -19.634444444444444,
+            "lon": 134.18333333333334
+        },
+        {
+            "id": "YTRE",
+            "name": "TAREE",
+            "country": "Australia",
+            "lat": -31.88861111111111,
+            "lon": 152.51388888888889
+        }
+    ]
+}

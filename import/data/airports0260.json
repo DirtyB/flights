@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 260,
+    "data": [
+        {
+            "id": "HKNI",
+            "name": "NYERI",
+            "country": "Kenya",
+            "lat": -0.36666666666666664,
+            "lon": 36.96666666666667
+        },
+        {
+            "id": "HKNK",
+            "name": "NAKURU LANET",
+            "country": "Kenya",
+            "lat": -0.30269444444444443,
+            "lon": 36.15083333333333
+        },
+        {
+            "id": "HKNO",
+            "name": "NAROK",
+            "country": "Kenya",
+            "lat": -1.152611111111111,
+            "lon": 35.767472222222224
+        },
+        {
+            "id": "HKNW",
+            "name": "NAIROBI WILSON",
+            "country": "Kenya",
+            "lat": -1.3212694444444444,
+            "lon": 36.81496666666666
+        },
+        {
+            "id": "HKVO",
+            "name": "VOI",
+            "country": "Kenya",
+            "lat": -3.369108333333333,
+            "lon": 38.53425
+        },
+        {
+            "id": "HKWJ",
+            "name": "WAJIR",
+            "country": "Kenya",
+            "lat": 1.7331666666666667,
+            "lon": 40.091525000000004
+        },
+        {
+            "id": "HLLM",
+            "name": "TRIPOLI (MITIGA INTL)",
+            "country": "Libya",
+            "lat": 32.894444444444446,
+            "lon": 13.277777777777779
+        },
+        {
+            "id": "HRYR",
+            "name": "KIGALI INTERNATIONAL AIRPORT",
+            "country": "Rwanda",
+            "lat": -1.9684472222222222,
+            "lon": 30.13838611111111
+        },
+        {
+            "id": "HSSS",
+            "name": "KHARTOUM",
+            "country": "Sudan",
+            "lat": 15.590355555555556,
+            "lon": 32.553152777777775
+        },
+        {
+            "id": "HTAR",
+            "name": "ARUSHA",
+            "country": "United Republic of Tanzania",
+            "lat": -3.3677944444444443,
+            "lon": 36.62040833333334
+        }
+    ]
+}

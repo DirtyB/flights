@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 5,
+    "data": [
+        {
+            "id": "KFTY",
+            "name": "FULTON COUNTY AIRPORT-BROWN FIELD",
+            "country": "United States of America",
+            "lat": 33.779125,
+            "lon": -84.52136388888889
+        },
+        {
+            "id": "KPUJ",
+            "name": "PAULDING NORTHWEST ATLANTA",
+            "country": "United States of America",
+            "lat": 33.91204166666667,
+            "lon": -84.94061944444445
+        },
+        {
+            "id": "KDNL",
+            "name": "DANIEL FIELD",
+            "country": "United States of America",
+            "lat": 33.46658333333334,
+            "lon": -82.0393888888889
+        },
+        {
+            "id": "KAGS",
+            "name": "AUGUSTA RGNL AT BUSH FIELD",
+            "country": "United States of America",
+            "lat": 33.36994444444444,
+            "lon": -81.9645
+        },
+        {
+            "id": "KBGE",
+            "name": "DECATUR COUNTY INDUSTRIAL AIR PARK",
+            "country": "United States of America",
+            "lat": 30.971597222222222,
+            "lon": -84.63692777777779
+        },
+        {
+            "id": "KSSI",
+            "name": "MALCOM MC KINNON",
+            "country": "United States of America",
+            "lat": 31.15197222222222,
+            "lon": -81.39105555555557
+        },
+        {
+            "id": "KBQK",
+            "name": "BRUNSWICK GOLDEN ISLES",
+            "country": "United States of America",
+            "lat": 31.259033333333335,
+            "lon": -81.46631388888889
+        },
+        {
+            "id": "KCSG",
+            "name": "COLUMBUS",
+            "country": "United States of America",
+            "lat": 32.516333333333336,
+            "lon": -84.93886111111111
+        },
+        {
+            "id": "KDNN",
+            "name": "DALTON MUNI",
+            "country": "United States of America",
+            "lat": 34.72293611111111,
+            "lon": -84.87023888888888
+        },
+        {
+            "id": "KMGE",
+            "name": "DOBBINS AIR RESERVE BASE",
+            "country": "United States of America",
+            "lat": 33.91444166666667,
+            "lon": -84.51424722222222
+        }
+    ]
+}

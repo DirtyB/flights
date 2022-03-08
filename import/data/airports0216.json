@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 216,
+    "data": [
+        {
+            "id": "LFQB",
+            "name": "TROYES-BARBEREY",
+            "country": "France",
+            "lat": 48.32166666666667,
+            "lon": 4.016666666666667
+        },
+        {
+            "id": "LFQG",
+            "name": "NEVERS-FOURCHAMBAULT",
+            "country": "France",
+            "lat": 47.00361111111111,
+            "lon": 3.1108333333333333
+        },
+        {
+            "id": "LFQQ",
+            "name": "LILLE-LESQUIN",
+            "country": "France",
+            "lat": 50.56333333333333,
+            "lon": 3.0869444444444447
+        },
+        {
+            "id": "LFRB",
+            "name": "BREST-BRETAGNE",
+            "country": "France",
+            "lat": 48.447222222222216,
+            "lon": -4.421666666666667
+        },
+        {
+            "id": "LFRC",
+            "name": "CHERBOURG-MAUPERTUS",
+            "country": "France",
+            "lat": 49.65083333333333,
+            "lon": -1.475277777777778
+        },
+        {
+            "id": "LFRD",
+            "name": "DINARD PLEURTUIT SAINT MALO",
+            "country": "France",
+            "lat": 48.58777777777778,
+            "lon": -2.08
+        },
+        {
+            "id": "LFRG",
+            "name": "DEAUVILLE-NORMANDIE",
+            "country": "France",
+            "lat": 49.36333333333334,
+            "lon": 0.16
+        },
+        {
+            "id": "LFRH",
+            "name": "LORIENT-LANN-BIHOUE",
+            "country": "France",
+            "lat": 47.760555555555555,
+            "lon": -3.4400000000000004
+        },
+        {
+            "id": "LFRI",
+            "name": "LA ROCHE SUR YON LES AJONCS",
+            "country": "France",
+            "lat": 46.7025,
+            "lon": -1.3816666666666666
+        },
+        {
+            "id": "LFRJ",
+            "name": "LANDIVISIAU",
+            "country": "France",
+            "lat": 48.530277777777776,
+            "lon": -4.151666666666667
+        }
+    ]
+}

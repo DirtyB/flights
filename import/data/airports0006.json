@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 6,
+    "data": [
+        {
+            "id": "KDBN",
+            "name": "W H 'BUD' BARRON",
+            "country": "United States of America",
+            "lat": 32.56472222222222,
+            "lon": -82.98497222222223
+        },
+        {
+            "id": "KLSF",
+            "name": "LAWSON AAF (FORT BENNING)",
+            "country": "United States of America",
+            "lat": 32.33733333333333,
+            "lon": -84.99133333333333
+        },
+        {
+            "id": "KGVL",
+            "name": "LEE GILMER MEMORIAL",
+            "country": "United States of America",
+            "lat": 34.272625,
+            "lon": -83.83022222222222
+        },
+        {
+            "id": "KLGC",
+            "name": "LAGRANGE-CALLAWAY",
+            "country": "United States of America",
+            "lat": 33.00886111111111,
+            "lon": -85.0726111111111
+        },
+        {
+            "id": "KLZU",
+            "name": "GWINNETT COUNTY - BRISCOE FIELD",
+            "country": "United States of America",
+            "lat": 33.978075000000004,
+            "lon": -83.96237777777777
+        },
+        {
+            "id": "KMCN",
+            "name": "MIDDLE GEORGIA RGNL",
+            "country": "United States of America",
+            "lat": 32.69283333333333,
+            "lon": -83.64922222222224
+        },
+        {
+            "id": "KMLJ",
+            "name": "BALDWIN COUNTY",
+            "country": "United States of America",
+            "lat": 33.15416666666667,
+            "lon": -83.24069444444444
+        },
+        {
+            "id": "KVAD",
+            "name": "MOODY AFB",
+            "country": "United States of America",
+            "lat": 30.9687,
+            "lon": -83.1929638888889
+        },
+        {
+            "id": "KMGR",
+            "name": "MOULTRIE MUNI",
+            "country": "United States of America",
+            "lat": 31.084916666666665,
+            "lon": -83.80324999999999
+        },
+        {
+            "id": "KPDK",
+            "name": "DEKALB-PEACHTREE",
+            "country": "United States of America",
+            "lat": 33.87561111111111,
+            "lon": -84.30197222222222
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 87,
+    "data": [
+        {
+            "id": "KMVL",
+            "name": "MORRISVILLE-STOWE STATE",
+            "country": "United States of America",
+            "lat": 44.53435277777778,
+            "lon": -72.61399166666666
+        },
+        {
+            "id": "KMPV",
+            "name": "EDWARD F KNAPP STATE",
+            "country": "United States of America",
+            "lat": 44.20348888888889,
+            "lon": -72.56209722222222
+        },
+        {
+            "id": "KEFK",
+            "name": "NEWPORT STATE",
+            "country": "United States of America",
+            "lat": 44.887994444444445,
+            "lon": -72.22858333333333
+        },
+        {
+            "id": "KRUT",
+            "name": "RUTLAND-SOUTHERN VERMONT RGNL",
+            "country": "United States of America",
+            "lat": 43.529916666666665,
+            "lon": -72.9496388888889
+        },
+        {
+            "id": "KVSF",
+            "name": "HARTNESS STATE (SPRINGFIELD)",
+            "country": "United States of America",
+            "lat": 43.343722222222226,
+            "lon": -72.51727777777778
+        },
+        {
+            "id": "KBLI",
+            "name": "BELLINGHAM INTL",
+            "country": "United States of America",
+            "lat": 48.79269444444444,
+            "lon": -122.53752777777778
+        },
+        {
+            "id": "KPWT",
+            "name": "BREMERTON NATIONAL",
+            "country": "United States of America",
+            "lat": 47.49025,
+            "lon": -122.76480555555555
+        },
+        {
+            "id": "KCLS",
+            "name": "CHEHALIS-CENTRALIA",
+            "country": "United States of America",
+            "lat": 46.677027777777774,
+            "lon": -122.98275
+        },
+        {
+            "id": "KELN",
+            "name": "BOWERS FIELD",
+            "country": "United States of America",
+            "lat": 47.033027777777775,
+            "lon": -120.53069444444445
+        },
+        {
+            "id": "KEPH",
+            "name": "EPHRATA MUNI",
+            "country": "United States of America",
+            "lat": 47.30806944444444,
+            "lon": -119.51691111111111
+        }
+    ]
+}

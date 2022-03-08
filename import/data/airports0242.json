@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 242,
+    "data": [
+        {
+            "id": "LTAW",
+            "name": "TOKAT",
+            "country": "Turkey",
+            "lat": 40.31166666666666,
+            "lon": 36.37361111111111
+        },
+        {
+            "id": "LTAY",
+            "name": "DENIZLI/CARDAK (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 37.78777777777778,
+            "lon": 29.705
+        },
+        {
+            "id": "LTAZ",
+            "name": "KAPADOKYA",
+            "country": "Turkey",
+            "lat": 38.775277777777774,
+            "lon": 34.526666666666664
+        },
+        {
+            "id": "LTBA",
+            "name": "ISTANBUL/ATATURK",
+            "country": "Turkey",
+            "lat": 40.976111111111116,
+            "lon": 28.81416666666667
+        },
+        {
+            "id": "LTBF",
+            "name": "BALIKESIR/MERKEZ (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 39.61555555555556,
+            "lon": 27.93277777777778
+        },
+        {
+            "id": "LTBH",
+            "name": "CANAKKALE (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 40.138333333333335,
+            "lon": 26.42777777777778
+        },
+        {
+            "id": "LTBJ",
+            "name": "IZMIR/ADNAN MENDERES",
+            "country": "Turkey",
+            "lat": 38.28916666666667,
+            "lon": 27.154999999999998
+        },
+        {
+            "id": "LTBL",
+            "name": "IZMIR/CIGLI (MIL)",
+            "country": "Turkey",
+            "lat": 38.526666666666664,
+            "lon": 27.01
+        },
+        {
+            "id": "LTBO",
+            "name": "USAK",
+            "country": "Turkey",
+            "lat": 38.68138888888889,
+            "lon": 29.471666666666664
+        },
+        {
+            "id": "LTBQ",
+            "name": "KOCAELI/CENGIZ TOPEL (MIL-CIV)",
+            "country": "Turkey",
+            "lat": 40.735,
+            "lon": 30.083333333333332
+        }
+    ]
+}

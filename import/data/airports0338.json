@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 338,
+    "data": [
+        {
+            "id": "PAKP",
+            "name": "ANATUVUK PASS",
+            "country": "United States of America",
+            "lat": 68.13361111111112,
+            "lon": -151.7433333333333
+        },
+        {
+            "id": "PANC",
+            "name": "TED STEVENS ANCHORAGE INTL",
+            "country": "United States of America",
+            "lat": 61.17415555555555,
+            "lon": -149.9981861111111
+        },
+        {
+            "id": "PALH",
+            "name": "ANCHORAGE",
+            "country": "United States of America",
+            "lat": 61.186636111111106,
+            "lon": -149.96539166666665
+        },
+        {
+            "id": "PAMR",
+            "name": "MERRILL FIELD",
+            "country": "United States of America",
+            "lat": 61.213544444444445,
+            "lon": -149.84472222222223
+        },
+        {
+            "id": "PAGN",
+            "name": "ANGOON",
+            "country": "United States of America",
+            "lat": 57.5036111,
+            "lon": -134.585
+        },
+        {
+            "id": "PANI",
+            "name": "ANIAK",
+            "country": "United States of America",
+            "lat": 61.58159444444445,
+            "lon": -159.54304166666665
+        },
+        {
+            "id": "PANT",
+            "name": "ANNETTE ISLAND",
+            "country": "United States of America",
+            "lat": 55.042291666666664,
+            "lon": -131.57089722222221
+        },
+        {
+            "id": "PANV",
+            "name": "ANVIK",
+            "country": "United States of America",
+            "lat": 62.647333333333336,
+            "lon": -160.19005555555555
+        },
+        {
+            "id": "PARC",
+            "name": "ARCTIC VILLAGE",
+            "country": "United States of America",
+            "lat": 68.11466944444444,
+            "lon": -145.5794138888889
+        },
+        {
+            "id": "PATQ",
+            "name": "ATQASUK EDWARD BURNELL SR MEMORIAL",
+            "country": "United States of America",
+            "lat": 70.46711111111111,
+            "lon": -157.43566666666666
+        }
+    ]
+}

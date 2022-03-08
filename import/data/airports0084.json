@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 84,
+    "data": [
+        {
+            "id": "KCNY",
+            "name": "CANYONLANDS FIELD",
+            "country": "United States of America",
+            "lat": 38.754955555555554,
+            "lon": -109.75484444444444
+        },
+        {
+            "id": "KOGD",
+            "name": "OGDEN-HINCKLEY",
+            "country": "United States of America",
+            "lat": 41.19566388888889,
+            "lon": -112.01293611111112
+        },
+        {
+            "id": "KPUC",
+            "name": "CARBON COUNTY RGNL/BUCK DAVIS FIELD",
+            "country": "United States of America",
+            "lat": 39.61391666666667,
+            "lon": -110.75144444444445
+        },
+        {
+            "id": "KPVU",
+            "name": "PROVO MUNI",
+            "country": "United States of America",
+            "lat": 40.21919444444445,
+            "lon": -111.72336111111112
+        },
+        {
+            "id": "KVEL",
+            "name": "VERNAL RGNL",
+            "country": "United States of America",
+            "lat": 40.44090277777777,
+            "lon": -109.50991944444445
+        },
+        {
+            "id": "KENV",
+            "name": "WENDOVER",
+            "country": "United States of America",
+            "lat": 40.718722222222226,
+            "lon": -114.02866666666667
+        },
+        {
+            "id": "KROA",
+            "name": "ROANOKE RGNL/WOODRUM FIELD",
+            "country": "United States of America",
+            "lat": 37.32546944444445,
+            "lon": -79.97542777777778
+        },
+        {
+            "id": "KVJI",
+            "name": "VIRGINIA HIGHLANDS",
+            "country": "United States of America",
+            "lat": 36.687099999999994,
+            "lon": -82.033325
+        },
+        {
+            "id": "KBCB",
+            "name": "VIRGINIA TECH/MONTGOMERY EXECUTIVE",
+            "country": "United States of America",
+            "lat": 37.207638888888894,
+            "lon": -80.40783333333334
+        },
+        {
+            "id": "KCHO",
+            "name": "CHARLOTTESVILLE-ALBEMARLE",
+            "country": "United States of America",
+            "lat": 38.13964166666667,
+            "lon": -78.45234166666667
+        }
+    ]
+}

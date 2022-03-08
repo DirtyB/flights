@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 81,
+    "data": [
+        {
+            "id": "KOZA",
+            "name": "OZONA MUNI",
+            "country": "United States of America",
+            "lat": 30.735194444444446,
+            "lon": -101.20219444444444
+        },
+        {
+            "id": "KPSX",
+            "name": "PALACIOS MUNI",
+            "country": "United States of America",
+            "lat": 28.7275,
+            "lon": -96.25094444444444
+        },
+        {
+            "id": "KPSN",
+            "name": "PALESTINE MUNI",
+            "country": "United States of America",
+            "lat": 31.779694444444445,
+            "lon": -95.70630555555556
+        },
+        {
+            "id": "KPPA",
+            "name": "PERRY LEFORS FIELD",
+            "country": "United States of America",
+            "lat": 35.613,
+            "lon": -100.99625
+        },
+        {
+            "id": "KPRX",
+            "name": "COX FIELD",
+            "country": "United States of America",
+            "lat": 33.63661111111111,
+            "lon": -95.45075
+        },
+        {
+            "id": "KPEQ",
+            "name": "PECOS MUNI",
+            "country": "United States of America",
+            "lat": 31.38238888888889,
+            "lon": -103.51072222222223
+        },
+        {
+            "id": "KPVW",
+            "name": "HALE COUNTY",
+            "country": "United States of America",
+            "lat": 34.16814722222222,
+            "lon": -101.71733611111111
+        },
+        {
+            "id": "KRND",
+            "name": "RANDOLF AFB",
+            "country": "United States of America",
+            "lat": 29.528905555555554,
+            "lon": -98.27803055555556
+        },
+        {
+            "id": "KRKP",
+            "name": "ARANSAS CO",
+            "country": "United States of America",
+            "lat": 28.086222222222222,
+            "lon": -97.04369444444444
+        },
+        {
+            "id": "KSJT",
+            "name": "SAN ANGELO RGNL/MATHIS FIELD",
+            "country": "United States of America",
+            "lat": 31.35776388888889,
+            "lon": -100.49630555555555
+        }
+    ]
+}

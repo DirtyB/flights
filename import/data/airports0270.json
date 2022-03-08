@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 270,
+    "data": [
+        {
+            "id": "FQNP",
+            "name": "NAMPULA",
+            "country": "Mozambique",
+            "lat": -15.102777777777778,
+            "lon": 39.28444444444444
+        },
+        {
+            "id": "FQPB",
+            "name": "PEMBA",
+            "country": "Mozambique",
+            "lat": -12.991647222222221,
+            "lon": 40.52425
+        },
+        {
+            "id": "FQQL",
+            "name": "QUELIMANE",
+            "country": "Mozambique",
+            "lat": -17.85,
+            "lon": 36.86666666666667
+        },
+        {
+            "id": "FQTT",
+            "name": "TETE CHINGODZI",
+            "country": "Mozambique",
+            "lat": -16.10808888888889,
+            "lon": 33.640225
+        },
+        {
+            "id": "FQVL",
+            "name": "VILANKULO",
+            "country": "Mozambique",
+            "lat": -22.016666666666666,
+            "lon": 35.31666666666667
+        },
+        {
+            "id": "FSIA",
+            "name": "SEYCHELLES INTERNATIONAL AIRPORT",
+            "country": "Seychelles",
+            "lat": -4.674344444444444,
+            "lon": 55.521852777777774
+        },
+        {
+            "id": "FTTA",
+            "name": "SARH",
+            "country": "Chad",
+            "lat": 9.151166666666667,
+            "lon": 18.379333333333335
+        },
+        {
+            "id": "FTTC",
+            "name": "ABECHE",
+            "country": "Chad",
+            "lat": 13.847222222222223,
+            "lon": 20.848888888888887
+        },
+        {
+            "id": "FTTD",
+            "name": "MOUNDOU",
+            "country": "Chad",
+            "lat": 8.620138888888889,
+            "lon": 16.06838888888889
+        },
+        {
+            "id": "FTTJ",
+            "name": "N'DJAMENA/AEROPORT",
+            "country": "Chad",
+            "lat": 12.124947222222223,
+            "lon": 15.024819444444445
+        }
+    ]
+}

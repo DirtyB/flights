@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 314,
+    "data": [
+        {
+            "id": "VEJS",
+            "name": "JAMSHEDPUR",
+            "country": "India",
+            "lat": 22.81455,
+            "lon": 86.16901111111112
+        },
+        {
+            "id": "VEPT",
+            "name": "PATNA",
+            "country": "India",
+            "lat": 25.59361111111111,
+            "lon": 85.09194444444444
+        },
+        {
+            "id": "VERC",
+            "name": "RANCHI",
+            "country": "India",
+            "lat": 23.31416666666667,
+            "lon": 85.32111111111111
+        },
+        {
+            "id": "VIAR",
+            "name": "AMRITSAR",
+            "country": "India",
+            "lat": 31.704722222222223,
+            "lon": 74.80194444444444
+        },
+        {
+            "id": "VIDP",
+            "name": "DELHI (IGI)",
+            "country": "India",
+            "lat": 28.56861111111111,
+            "lon": 77.11222222222221
+        },
+        {
+            "id": "VIJP",
+            "name": "JAIPUR",
+            "country": "India",
+            "lat": 26.824166666666667,
+            "lon": 75.8025
+        },
+        {
+            "id": "VILK",
+            "name": "LUCKNOW",
+            "country": "India",
+            "lat": 26.761944444444445,
+            "lon": 80.88333333333334
+        },
+        {
+            "id": "VOBL",
+            "name": "BANGALORE INTL. AIRPORT",
+            "country": "India",
+            "lat": 13.19888888888889,
+            "lon": 77.70555555555556
+        },
+        {
+            "id": "VOCB",
+            "name": "COIMBATORE",
+            "country": "India",
+            "lat": 11.026944444444446,
+            "lon": 77.04166666666667
+        },
+        {
+            "id": "VOCI",
+            "name": "COCHIN INTL.",
+            "country": "India",
+            "lat": 10.15388888888889,
+            "lon": 76.40694444444445
+        }
+    ]
+}

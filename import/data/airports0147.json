@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 147,
+    "data": [
+        {
+            "id": "SLRB",
+            "name": "ROBORE",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -18.32777777777778,
+            "lon": -59.76583333333333
+        },
+        {
+            "id": "SLRI",
+            "name": "RIBERALTA",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -11.01,
+            "lon": -66.07277777777777
+        },
+        {
+            "id": "SLRQ",
+            "name": "RURRENABAQUE",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -14.42611111111111,
+            "lon": -67.49861111111112
+        },
+        {
+            "id": "SLRY",
+            "name": "REYES",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -14.302777777777779,
+            "lon": -67.3536111111111
+        },
+        {
+            "id": "SLSA",
+            "name": "SANTA ANA DEL YACUMA",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -13.761666666666667,
+            "lon": -65.43472222222222
+        },
+        {
+            "id": "SLSI",
+            "name": "SAN IGNACIO DE VELASCO",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -16.384444444444444,
+            "lon": -60.961666666666666
+        },
+        {
+            "id": "SLSU",
+            "name": "SUCRE",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -19.008055555555554,
+            "lon": -65.28861111111111
+        },
+        {
+            "id": "SLTJ",
+            "name": "TARIJA",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -21.551111111111112,
+            "lon": -64.70833333333334
+        },
+        {
+            "id": "SLTR",
+            "name": "TRINIDAD",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -14.819444444444445,
+            "lon": -64.91888888888889
+        },
+        {
+            "id": "SLVM",
+            "name": "VILLAMONTES",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -21.254166666666666,
+            "lon": -63.406666666666666
+        }
+    ]
+}

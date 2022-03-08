@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 167,
+    "data": [
+        {
+            "id": "EBLG",
+            "name": "LIEGE/LIEGE",
+            "country": "Belgium",
+            "lat": 50.63638888888889,
+            "lon": 5.442777777777778
+        },
+        {
+            "id": "EBOS",
+            "name": "OOSTENDE-BRUGGE/OOSTENDE",
+            "country": "Belgium",
+            "lat": 51.19888888888889,
+            "lon": 2.8622222222222224
+        },
+        {
+            "id": "EDAC",
+            "name": "LEIPZIG-ALTENBURG AIRPORT",
+            "country": "Germany",
+            "lat": 50.98181666666667,
+            "lon": 12.506361111111111
+        },
+        {
+            "id": "EDAH",
+            "name": "HERINGSDORF",
+            "country": "Germany",
+            "lat": 53.878705555555555,
+            "lon": 14.152347222222222
+        },
+        {
+            "id": "EDBC",
+            "name": "MAGDEBURG/COCHSTEDT",
+            "country": "Germany",
+            "lat": 51.85592777777778,
+            "lon": 11.418008333333333
+        },
+        {
+            "id": "EDDB",
+            "name": "BERLIN-SCHOENEFELD",
+            "country": "Germany",
+            "lat": 52.36224722222222,
+            "lon": 13.500672222222223
+        },
+        {
+            "id": "EDDC",
+            "name": "DRESDEN",
+            "country": "Germany",
+            "lat": 51.134344444444444,
+            "lon": 13.768
+        },
+        {
+            "id": "EDDE",
+            "name": "ERFURT-WEIMAR",
+            "country": "Germany",
+            "lat": 50.97981111111111,
+            "lon": 10.958105555555555
+        },
+        {
+            "id": "EDDF",
+            "name": "FRANKFURT/MAIN",
+            "country": "Germany",
+            "lat": 50.03330555555556,
+            "lon": 8.570455555555556
+        },
+        {
+            "id": "EDDG",
+            "name": "MUENSTER/OSNABRUECK",
+            "country": "Germany",
+            "lat": 52.13464166666667,
+            "lon": 7.684830555555556
+        }
+    ]
+}

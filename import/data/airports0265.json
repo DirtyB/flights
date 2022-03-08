@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 265,
+    "data": [
+        {
+            "id": "FAWK",
+            "name": "WATERKLOOF (SAAF)",
+            "country": "South Africa",
+            "lat": -25.82768888888889,
+            "lon": 28.220891666666667
+        },
+        {
+            "id": "FBFT",
+            "name": "FRANCISTOWN",
+            "country": "Botswana",
+            "lat": -21.1575,
+            "lon": 27.46944444444444
+        },
+        {
+            "id": "FBKE",
+            "name": "KASANE",
+            "country": "Botswana",
+            "lat": -17.83084722222222,
+            "lon": 25.162599999999998
+        },
+        {
+            "id": "FBMN",
+            "name": "MAUN",
+            "country": "Botswana",
+            "lat": -19.972499999999997,
+            "lon": 23.428055555555556
+        },
+        {
+            "id": "FBSK",
+            "name": "GABORONE/SIR SERETSE KHAMA INT'L",
+            "country": "Botswana",
+            "lat": -24.555833333333332,
+            "lon": 25.91888888888889
+        },
+        {
+            "id": "FBSP",
+            "name": "SELIBE-PHIKWE",
+            "country": "Botswana",
+            "lat": -22.0566,
+            "lon": 27.820458333333335
+        },
+        {
+            "id": "FCBB",
+            "name": "BRAZZAVILLE/MAYA-MAYA",
+            "country": "Congo",
+            "lat": -4.2505,
+            "lon": 15.2515
+        },
+        {
+            "id": "FCPP",
+            "name": "POINTE NOIRE",
+            "country": "Congo",
+            "lat": -4.814805555555555,
+            "lon": 11.886277777777778
+        },
+        {
+            "id": "FZAA",
+            "name": "KINSHASA/N'DJILI",
+            "country": "Democratic Republic of the Congo",
+            "lat": -4.385586111111111,
+            "lon": 15.444697222222223
+        },
+        {
+            "id": "FDMS",
+            "name": "MANZINI/MATSAPHA",
+            "country": "Swaziland",
+            "lat": -26.529999999999998,
+            "lon": 31.308333333333334
+        }
+    ]
+}

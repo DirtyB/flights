@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 342,
+    "data": [
+        {
+            "id": "PAFB",
+            "name": "LADD AAF",
+            "country": "United States of America",
+            "lat": 64.83651666666667,
+            "lon": -147.61686666666668
+        },
+        {
+            "id": "PFYU",
+            "name": "FORT YUKON",
+            "country": "United States of America",
+            "lat": 66.57241666666667,
+            "lon": -145.24633333333333
+        },
+        {
+            "id": "PAGA",
+            "name": "EDWARD G. PITKA SR",
+            "country": "United States of America",
+            "lat": 64.73617777777778,
+            "lon": -156.9374138888889
+        },
+        {
+            "id": "PAGM",
+            "name": "GAMBELL",
+            "country": "United States of America",
+            "lat": 63.76661111111111,
+            "lon": -171.73277777777778
+        },
+        {
+            "id": "PAGL",
+            "name": "GOLOVIN",
+            "country": "United States of America",
+            "lat": 64.55044444444444,
+            "lon": -163.00716666666668
+        },
+        {
+            "id": "PAGK",
+            "name": "GULKANA",
+            "country": "United States of America",
+            "lat": 62.154944444444446,
+            "lon": -145.45433333333332
+        },
+        {
+            "id": "PAGS",
+            "name": "GUSTAVUS",
+            "country": "United States of America",
+            "lat": 58.42527777777777,
+            "lon": -135.70741666666666
+        },
+        {
+            "id": "PAHN",
+            "name": "HAINES",
+            "country": "United States of America",
+            "lat": 59.24382777777778,
+            "lon": -135.52353611111113
+        },
+        {
+            "id": "PAHO",
+            "name": "HOMER",
+            "country": "United States of America",
+            "lat": 59.64554722222222,
+            "lon": -151.47659166666668
+        },
+        {
+            "id": "PAOH",
+            "name": "HOONAH",
+            "country": "United States of America",
+            "lat": 58.09619722222222,
+            "lon": -135.40875555555556
+        }
+    ]
+}

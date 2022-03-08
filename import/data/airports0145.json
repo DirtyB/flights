@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 145,
+    "data": [
+        {
+            "id": "SPQU",
+            "name": "AREQUIPA/INTL. ALFREDO RODRIGUEZ BALLON",
+            "country": "Peru",
+            "lat": -16.340577777777778,
+            "lon": -71.57080277777777
+        },
+        {
+            "id": "SPRU",
+            "name": "TRUJILLO/INTL. CAP. CARLOS MARTINEZ DE PINILLOS",
+            "country": "Peru",
+            "lat": -8.081708333333333,
+            "lon": -79.10864722222222
+        },
+        {
+            "id": "SPSO",
+            "name": "PISCO/INTL.",
+            "country": "Peru",
+            "lat": -13.7448,
+            "lon": -76.22041111111112
+        },
+        {
+            "id": "SPST",
+            "name": "TARAPOTO/CADETE FAP GUILLERMO DEL CASTILLO PAREDES",
+            "country": "Peru",
+            "lat": -6.50875,
+            "lon": -76.37325
+        },
+        {
+            "id": "SPTN",
+            "name": "TACNA/INTL. CORONEL FAP CARLOS CIRIANI SANTA ROSA",
+            "country": "Peru",
+            "lat": -18.05328888888889,
+            "lon": -70.27582222222222
+        },
+        {
+            "id": "SPTU",
+            "name": "PUERTO MALDONADO/PADRE ALDAMIZ",
+            "country": "Peru",
+            "lat": -12.613830555555555,
+            "lon": -69.22867777777778
+        },
+        {
+            "id": "SPZA",
+            "name": "NASCA/MARIA REICHE NEUMAN",
+            "country": "Peru",
+            "lat": -14.854138888888889,
+            "lon": -74.96177222222222
+        },
+        {
+            "id": "SPZO",
+            "name": "CUSCO/INTL. TENIENTE FAP ALEJANDRO VELASCO ASTETE",
+            "country": "Peru",
+            "lat": -13.535722222222223,
+            "lon": -71.93878055555555
+        },
+        {
+            "id": "SLCA",
+            "name": "CAMIRI",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -20.006944444444443,
+            "lon": -63.529444444444444
+        },
+        {
+            "id": "SLCB",
+            "name": "COCHABAMBA",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -17.418333333333333,
+            "lon": -66.17722222222223
+        }
+    ]
+}

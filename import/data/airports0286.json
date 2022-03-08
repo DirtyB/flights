@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 286,
+    "data": [
+        {
+            "id": "OYRN",
+            "name": "MUKALLA/INTL",
+            "country": "Yemen",
+            "lat": 14.6625,
+            "lon": 49.375
+        },
+        {
+            "id": "OYSH",
+            "name": "SAADAH",
+            "country": "Yemen",
+            "lat": 16.966666666666665,
+            "lon": 43.72777777777778
+        },
+        {
+            "id": "OYSN",
+            "name": "SANAA/INTL",
+            "country": "Yemen",
+            "lat": 15.479444444444445,
+            "lon": 44.219722222222224
+        },
+        {
+            "id": "OYSQ",
+            "name": "SOCOTRA/INTL",
+            "country": "Yemen",
+            "lat": 12.631944444444445,
+            "lon": 53.906388888888884
+        },
+        {
+            "id": "OYSY",
+            "name": "SAYUN/INTL",
+            "country": "Yemen",
+            "lat": 15.96361111111111,
+            "lon": 48.785
+        },
+        {
+            "id": "OYTZ",
+            "name": "TAIZ/INTL",
+            "country": "Yemen",
+            "lat": 13.686111111111112,
+            "lon": 44.138888888888886
+        },
+        {
+            "id": "OYGD",
+            "name": "AL-GHAIDAH/INTL",
+            "country": "Yemen",
+            "lat": 16.193333333333335,
+            "lon": 52.174166666666665
+        },
+        {
+            "id": "UAAA",
+            "name": "ALMATY",
+            "country": "Kazakhstan",
+            "lat": 43.355555555555554,
+            "lon": 77.04388888888889
+        },
+        {
+            "id": "UACC",
+            "name": "ASTANA",
+            "country": "Kazakhstan",
+            "lat": 51.0225,
+            "lon": 71.46611111111112
+        },
+        {
+            "id": "UACP",
+            "name": "PETROPAVLOSVK",
+            "country": "Kazakhstan",
+            "lat": 54.77444444444444,
+            "lon": 69.185
+        }
+    ]
+}

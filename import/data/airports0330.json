@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 330,
+    "data": [
+        {
+            "id": "YHUG",
+            "name": "HUGHENDEN",
+            "country": "Australia",
+            "lat": -20.815,
+            "lon": 144.2252777777778
+        },
+        {
+            "id": "YKRY",
+            "name": "KINGAROY",
+            "country": "Australia",
+            "lat": -26.580833333333334,
+            "lon": 151.84111111111113
+        },
+        {
+            "id": "YLEC",
+            "name": "LEIGH CREEK",
+            "country": "Australia",
+            "lat": -30.598333333333333,
+            "lon": 138.42583333333332
+        },
+        {
+            "id": "YLIS",
+            "name": "LISMORE",
+            "country": "Australia",
+            "lat": -28.826666666666668,
+            "lon": 153.2575
+        },
+        {
+            "id": "YLRE",
+            "name": "LONGREACH",
+            "country": "Australia",
+            "lat": -23.434166666666666,
+            "lon": 144.2802777777778
+        },
+        {
+            "id": "YMDG",
+            "name": "MUDGEE",
+            "country": "Australia",
+            "lat": -32.5625,
+            "lon": 149.61111111111111
+        },
+        {
+            "id": "YMEK",
+            "name": "MEEKATHARRA",
+            "country": "Australia",
+            "lat": -26.611666666666668,
+            "lon": 118.54777777777778
+        },
+        {
+            "id": "YMER",
+            "name": "MERIMBULA",
+            "country": "Australia",
+            "lat": -36.90861111111111,
+            "lon": 149.9013888888889
+        },
+        {
+            "id": "YMIA",
+            "name": "MILDURA",
+            "country": "Australia",
+            "lat": -34.22916666666667,
+            "lon": 142.08555555555557
+        },
+        {
+            "id": "YMOR",
+            "name": "MOREE",
+            "country": "Australia",
+            "lat": -29.49888888888889,
+            "lon": 149.84472222222223
+        }
+    ]
+}

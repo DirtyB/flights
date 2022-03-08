@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 70,
+    "data": [
+        {
+            "id": "KCDN",
+            "name": "WOODWARD FIELD",
+            "country": "United States of America",
+            "lat": 34.28358333333333,
+            "lon": -80.56486111111111
+        },
+        {
+            "id": "KCHS",
+            "name": "CHARLESTON AFB/INTL",
+            "country": "United States of America",
+            "lat": 32.89864722222222,
+            "lon": -80.04052777777778
+        },
+        {
+            "id": "KCEU",
+            "name": "OCONEE COUNTY RGNL",
+            "country": "United States of America",
+            "lat": 34.67222222222222,
+            "lon": -82.8858888888889
+        },
+        {
+            "id": "KCAE",
+            "name": "COLUMBIA MTROPOLITAN",
+            "country": "United States of America",
+            "lat": 33.93883888888889,
+            "lon": -81.11953888888888
+        },
+        {
+            "id": "KCUB",
+            "name": "JIM HAMILTON L.B. OWENS",
+            "country": "United States of America",
+            "lat": 33.97047222222223,
+            "lon": -80.99525
+        },
+        {
+            "id": "KFLO",
+            "name": "FLORENCE RGNL",
+            "country": "United States of America",
+            "lat": 34.185361111111106,
+            "lon": -79.7238888888889
+        },
+        {
+            "id": "KGGE",
+            "name": "GEORGETOWN COUNTY",
+            "country": "United States of America",
+            "lat": 33.311388888888885,
+            "lon": -79.32030555555555
+        },
+        {
+            "id": "KGRD",
+            "name": "GREENWOOD COUNTY",
+            "country": "United States of America",
+            "lat": 34.250391666666665,
+            "lon": -82.15780833333334
+        },
+        {
+            "id": "KGSP",
+            "name": "GREENVILLE SPARTANBURG INTL",
+            "country": "United States of America",
+            "lat": 34.89566666666666,
+            "lon": -82.21885833333333
+        },
+        {
+            "id": "KGMU",
+            "name": "GREENVILLE DOWNTOWN",
+            "country": "United States of America",
+            "lat": 34.847944444444444,
+            "lon": -82.35
+        }
+    ]
+}

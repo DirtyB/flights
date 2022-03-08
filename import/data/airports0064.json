@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 64,
+    "data": [
+        {
+            "id": "KRVS",
+            "name": "RICHARD LLOYD JONES JR",
+            "country": "United States of America",
+            "lat": 36.03962222222222,
+            "lon": -95.98463333333333
+        },
+        {
+            "id": "KWWR",
+            "name": "WEST WOODWARD",
+            "country": "United States of America",
+            "lat": 36.437999999999995,
+            "lon": -99.52266666666667
+        },
+        {
+            "id": "KPDX",
+            "name": "PORTLAND INTL",
+            "country": "United States of America",
+            "lat": 45.58870833333334,
+            "lon": -122.59686666666666
+        },
+        {
+            "id": "KHIO",
+            "name": "PORTLAND-HILLSBORO",
+            "country": "United States of America",
+            "lat": 45.542119444444445,
+            "lon": -122.95071944444445
+        },
+        {
+            "id": "KBKE",
+            "name": "BAKER CITY MUNI",
+            "country": "United States of America",
+            "lat": 44.83733333333333,
+            "lon": -117.80913888888888
+        },
+        {
+            "id": "KBOK",
+            "name": "BROOKINGS",
+            "country": "United States of America",
+            "lat": 42.07393611111112,
+            "lon": -124.28976944444445
+        },
+        {
+            "id": "KBNO",
+            "name": "BURNS MUNI",
+            "country": "United States of America",
+            "lat": 43.59191666666667,
+            "lon": -118.95544444444445
+        },
+        {
+            "id": "KCVO",
+            "name": "CORVALLIS MUNI",
+            "country": "United States of America",
+            "lat": 44.49711111111111,
+            "lon": -123.28952777777778
+        },
+        {
+            "id": "KEUG",
+            "name": "MAHLON SWEET FIELD",
+            "country": "United States of America",
+            "lat": 44.124583333333334,
+            "lon": -123.21197222222223
+        },
+        {
+            "id": "KLMT",
+            "name": "KLAMATH FALLS",
+            "country": "United States of America",
+            "lat": 42.15613888888889,
+            "lon": -121.73319444444445
+        }
+    ]
+}

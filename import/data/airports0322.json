@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 322,
+    "data": [
+        {
+            "id": "WIMM",
+            "name": "MEDAN/KUALANAMU",
+            "country": "Indonesia",
+            "lat": 3.6422222222222222,
+            "lon": 98.88527777777779
+        },
+        {
+            "id": "WIOO",
+            "name": "PONTIANAK/SUPADIO",
+            "country": "Indonesia",
+            "lat": -0.14805555555555555,
+            "lon": 109.40416666666667
+        },
+        {
+            "id": "WIPP",
+            "name": "PALEMBANG/SULTAN MAHMUD BADARUDDIN II",
+            "country": "Indonesia",
+            "lat": -2.9012249999999997,
+            "lon": 104.70004444444444
+        },
+        {
+            "id": "WIPT",
+            "name": "PANDANG/MINANGKABAU",
+            "country": "Indonesia",
+            "lat": -0.7869444,
+            "lon": 100.2808333
+        },
+        {
+            "id": "WAOO",
+            "name": "BANJARMASIN/SYAMSUDIN NOOR",
+            "country": "Indonesia",
+            "lat": -3.4397222222222226,
+            "lon": 114.75277777777778
+        },
+        {
+            "id": "WATT",
+            "name": "KUPANG/EL-TARI",
+            "country": "Indonesia",
+            "lat": -10.177777777777777,
+            "lon": 123.66388888888889
+        },
+        {
+            "id": "WALL",
+            "name": "BALIKPAPAN/SEPINGGAN",
+            "country": "Indonesia",
+            "lat": -1.2674999999999998,
+            "lon": 116.8938888888889
+        },
+        {
+            "id": "WBGB",
+            "name": "BINTULU",
+            "country": "Malaysia",
+            "lat": 3.124138888888889,
+            "lon": 113.01973888888888
+        },
+        {
+            "id": "WBGG",
+            "name": "KUCHING/INTL",
+            "country": "Malaysia",
+            "lat": 1.4847222222222223,
+            "lon": 110.33777777777777
+        },
+        {
+            "id": "WBGR",
+            "name": "MIRI",
+            "country": "Malaysia",
+            "lat": 4.3225,
+            "lon": 113.98722222222223
+        }
+    ]
+}

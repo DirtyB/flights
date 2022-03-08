@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 138,
+    "data": [
+        {
+            "id": "SKEJ",
+            "name": "BARRANCABERMEJA/SANTANDER",
+            "country": "Colombia",
+            "lat": 7.024438888888889,
+            "lon": -73.8068111111111
+        },
+        {
+            "id": "SKIB",
+            "name": "IBAGUE/TOLIMA",
+            "country": "Colombia",
+            "lat": 4.421652777777778,
+            "lon": -75.13361111111112
+        },
+        {
+            "id": "SKIP",
+            "name": "IPIALES/NARINO",
+            "country": "Colombia",
+            "lat": 0.8614999999999999,
+            "lon": -77.6675
+        },
+        {
+            "id": "SKLC",
+            "name": "CAREPA/ANTIOQUIA",
+            "country": "Colombia",
+            "lat": 7.81175,
+            "lon": -76.71644166666667
+        },
+        {
+            "id": "SKLT",
+            "name": "LETICIA INTL/AMAZONAS",
+            "country": "Colombia",
+            "lat": -4.191908333333334,
+            "lon": -69.94220277777778
+        },
+        {
+            "id": "SKMD",
+            "name": "MEDELLIN/ANTIOQUIA",
+            "country": "Colombia",
+            "lat": 6.220441666666667,
+            "lon": -75.59043333333332
+        },
+        {
+            "id": "SKMR",
+            "name": "MONTERIA/CORDOBA",
+            "country": "Colombia",
+            "lat": 8.822855555555556,
+            "lon": -75.82516944444444
+        },
+        {
+            "id": "SKNV",
+            "name": "NEIVA/HUILA",
+            "country": "Colombia",
+            "lat": 2.9501972222222226,
+            "lon": -75.29398888888889
+        },
+        {
+            "id": "SKPC",
+            "name": "PUERTO CARRENO/VICHADA",
+            "country": "Colombia",
+            "lat": 6.185116666666667,
+            "lon": -67.49257222222222
+        },
+        {
+            "id": "SKPE",
+            "name": "PEREIRA /RISARALDA",
+            "country": "Colombia",
+            "lat": 4.812761111111111,
+            "lon": -75.73931944444445
+        }
+    ]
+}

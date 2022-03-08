@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 310,
+    "data": [
+        {
+            "id": "RJSN",
+            "name": "NIIGATA",
+            "country": "Japan",
+            "lat": 37.95583333333334,
+            "lon": 139.11166666666665
+        },
+        {
+            "id": "RJSR",
+            "name": "ODATE-NOSHIRO",
+            "country": "Japan",
+            "lat": 40.19194444444444,
+            "lon": 140.37166666666667
+        },
+        {
+            "id": "RJSS",
+            "name": "SENDAI",
+            "country": "Japan",
+            "lat": 38.13972222222222,
+            "lon": 140.91694444444443
+        },
+        {
+            "id": "RJSY",
+            "name": "SHONAI",
+            "country": "Japan",
+            "lat": 38.81222222222222,
+            "lon": 139.78722222222223
+        },
+        {
+            "id": "RJTF",
+            "name": "CHOFU",
+            "country": "Japan",
+            "lat": 35.67166666666667,
+            "lon": 139.52805555555557
+        },
+        {
+            "id": "RJTI",
+            "name": "TOKYO HELIPORT",
+            "country": "Japan",
+            "lat": 35.6361111,
+            "lon": 139.8394444
+        },
+        {
+            "id": "RJTO",
+            "name": "OSHIMA",
+            "country": "Japan",
+            "lat": 34.78194444444444,
+            "lon": 139.36027777777778
+        },
+        {
+            "id": "RJTR",
+            "name": "ZAMA/KASTNER",
+            "country": "Japan",
+            "lat": 35.513666666666666,
+            "lon": 139.39366666666666
+        },
+        {
+            "id": "RJTT",
+            "name": "TOKYO INTL",
+            "country": "Japan",
+            "lat": 35.55333333333333,
+            "lon": 139.78111111111113
+        },
+        {
+            "id": "RJTY",
+            "name": "YOKOTA",
+            "country": "Japan",
+            "lat": 35.748491666666666,
+            "lon": 139.34848333333335
+        }
+    ]
+}

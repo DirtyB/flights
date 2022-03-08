@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 320,
+    "data": [
+        {
+            "id": "VVCT",
+            "name": "CAN THO/CAN THO INTERNATIONAL",
+            "country": "Viet Nam",
+            "lat": 10.084025,
+            "lon": 105.710025
+        },
+        {
+            "id": "VVDN",
+            "name": "DA NANG/DA NANG INTERNATIONAL",
+            "country": "Viet Nam",
+            "lat": 16.04388888888889,
+            "lon": 108.20027777777779
+        },
+        {
+            "id": "VVNB",
+            "name": "HA NOI/NOI BAI INTERNATIONAL",
+            "country": "Viet Nam",
+            "lat": 21.221666666666664,
+            "lon": 105.80555555555556
+        },
+        {
+            "id": "VVPB",
+            "name": "HUE/PHU BAI INTERNATIONAL",
+            "country": "Viet Nam",
+            "lat": 16.400683333333333,
+            "lon": 107.70249444444445
+        },
+        {
+            "id": "VVPQ",
+            "name": "KIEN GIANG/PHU QUOC INTERNATIONAL",
+            "country": "Viet Nam",
+            "lat": 10.169722222222221,
+            "lon": 103.99305555555556
+        },
+        {
+            "id": "VVTS",
+            "name": "HO CHI MINH/TAN SON NHAT INTERNATIONAL",
+            "country": "Viet Nam",
+            "lat": 10.820555555555556,
+            "lon": 106.66083333333334
+        },
+        {
+            "id": "VYYY",
+            "name": "YANGON INTERNATIONAL",
+            "country": "Myanmar",
+            "lat": 16.907266666666665,
+            "lon": 96.13323888888888
+        },
+        {
+            "id": "WAAA",
+            "name": "MAKASSAR/SULTAN HASANUDDIN",
+            "country": "Indonesia",
+            "lat": -5.060833333333333,
+            "lon": 119.55444444444444
+        },
+        {
+            "id": "WABB",
+            "name": "BIAK/FRANS KAISIEPO",
+            "country": "Indonesia",
+            "lat": -1.1918083333333334,
+            "lon": 136.10989166666667
+        },
+        {
+            "id": "WADD",
+            "name": "BALI INTL/NGURAH RAI",
+            "country": "Indonesia",
+            "lat": -8.747499999999999,
+            "lon": 115.16916666666667
+        }
+    ]
+}

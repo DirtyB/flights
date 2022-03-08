@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 294,
+    "data": [
+        {
+            "id": "USTR",
+            "name": "TYUMEN/ROSHCHINO",
+            "country": "Russian Federation",
+            "lat": 57.16833333333333,
+            "lon": 65.31611111111111
+        },
+        {
+            "id": "UUBP",
+            "name": "BRYANSK",
+            "country": "Russian Federation",
+            "lat": 53.214444444444446,
+            "lon": 34.17583333333333
+        },
+        {
+            "id": "UUBW",
+            "name": "RAMENSKOYE",
+            "country": "Russian Federation",
+            "lat": 55.55277777777778,
+            "lon": 38.14972222222222
+        },
+        {
+            "id": "UUDD",
+            "name": "MOSCOW/DOMODEDOVO",
+            "country": "Russian Federation",
+            "lat": 55.40861111111111,
+            "lon": 37.906388888888884
+        },
+        {
+            "id": "UUDL",
+            "name": "YAROSLAVL/TUNOSHNA",
+            "country": "Russian Federation",
+            "lat": 57.56055555555555,
+            "lon": 40.1575
+        },
+        {
+            "id": "UUEE",
+            "name": "MOSCOW/SHEREMETYEVO",
+            "country": "Russian Federation",
+            "lat": 55.972500000000004,
+            "lon": 37.41305555555555
+        },
+        {
+            "id": "UUMO",
+            "name": "OSTAFYEVO",
+            "country": "Russian Federation",
+            "lat": 55.5075,
+            "lon": 37.50416666666667
+        },
+        {
+            "id": "UUOB",
+            "name": "BELGOROD",
+            "country": "Russian Federation",
+            "lat": 50.64388888888889,
+            "lon": 36.59
+        },
+        {
+            "id": "UUOK",
+            "name": "KURSK/VOSTOCHNY",
+            "country": "Russian Federation",
+            "lat": 51.75055555555556,
+            "lon": 36.29555555555555
+        },
+        {
+            "id": "UUOO",
+            "name": "VORONEZH/CHERTOVITSKOYE",
+            "country": "Russian Federation",
+            "lat": 51.815,
+            "lon": 39.22972222222222
+        }
+    ]
+}

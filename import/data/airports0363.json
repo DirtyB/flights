@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 363,
+    "data": [
+        {
+            "id": "KPSP",
+            "name": "PALM SPRINGS INTL",
+            "country": "United States of America",
+            "lat": 33.82966666666667,
+            "lon": -116.50669444444445
+        },
+        {
+            "id": "KPMD",
+            "name": "PALMDALE USAF PLANT 42",
+            "country": "United States of America",
+            "lat": 34.62938888888889,
+            "lon": -118.08455277777777
+        },
+        {
+            "id": "KPRB",
+            "name": "PASO ROBLES MUNI",
+            "country": "United States of America",
+            "lat": 35.672888888888885,
+            "lon": -120.62708333333333
+        },
+        {
+            "id": "KPVF",
+            "name": "PLACERVILLE",
+            "country": "United States of America",
+            "lat": 38.72421111111111,
+            "lon": -120.75333888888889
+        },
+        {
+            "id": "KNTD",
+            "name": "POINT MUGU NAS (NAVAL BASE VENTURA CO)",
+            "country": "United States of America",
+            "lat": 34.119275,
+            "lon": -119.1195861111111
+        },
+        {
+            "id": "KPTV",
+            "name": "PORTERVILLE MUNI",
+            "country": "United States of America",
+            "lat": 36.029583333333335,
+            "lon": -119.06272222222222
+        },
+        {
+            "id": "KRBL",
+            "name": "RED BLUFF MUNI",
+            "country": "United States of America",
+            "lat": 40.150305555555555,
+            "lon": -122.25219444444444
+        },
+        {
+            "id": "KRDD",
+            "name": "REDDING MUNI",
+            "country": "United States of America",
+            "lat": 40.509,
+            "lon": -122.29338888888888
+        },
+        {
+            "id": "KRAL",
+            "name": "RIVERSIDE MUNI",
+            "country": "United States of America",
+            "lat": 33.951888888888895,
+            "lon": -117.44511111111112
+        },
+        {
+            "id": "KRIV",
+            "name": "MARCH ARB",
+            "country": "United States of America",
+            "lat": 33.88071111111111,
+            "lon": -117.25945
+        }
+    ]
+}

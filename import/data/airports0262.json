@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 262,
+    "data": [
+        {
+            "id": "HTSO",
+            "name": "SONGEA",
+            "country": "United Republic of Tanzania",
+            "lat": -10.681947222222222,
+            "lon": 35.58211666666667
+        },
+        {
+            "id": "HTSU",
+            "name": "SUMBAWANGA",
+            "country": "United Republic of Tanzania",
+            "lat": -7.948566666666667,
+            "lon": 31.610755555555556
+        },
+        {
+            "id": "HTTB",
+            "name": "TABORA",
+            "country": "United Republic of Tanzania",
+            "lat": -5.076,
+            "lon": 32.83030555555556
+        },
+        {
+            "id": "HTZA",
+            "name": "ZANZIBAR/ABEID AMANI INTERNATIONAL AIRPORT",
+            "country": "United Republic of Tanzania",
+            "lat": -6.224891666666667,
+            "lon": 39.225175
+        },
+        {
+            "id": "HUEN",
+            "name": "ENTEBBE (INTL)",
+            "country": "Uganda",
+            "lat": 0.040813888888888886,
+            "lon": 32.44054166666666
+        },
+        {
+            "id": "FABL",
+            "name": "BRAM FISCHER INTERNATIONAL AIRPORT",
+            "country": "South Africa",
+            "lat": -29.093788888888888,
+            "lon": 26.30396388888889
+        },
+        {
+            "id": "FABM",
+            "name": "BETHLEHEM",
+            "country": "South Africa",
+            "lat": -28.248611111111114,
+            "lon": 28.33611111111111
+        },
+        {
+            "id": "FACT",
+            "name": "CAPE TOWN (CAPE TOWN INTERNATIONAL AIRPORT)",
+            "country": "South Africa",
+            "lat": -33.97136944444445,
+            "lon": 18.60429166666667
+        },
+        {
+            "id": "FACV",
+            "name": "CALVINIA (MET)",
+            "country": "South Africa",
+            "lat": -31.50027777777778,
+            "lon": 19.72583333333333
+        },
+        {
+            "id": "FAEL",
+            "name": "EAST LONDON",
+            "country": "South Africa",
+            "lat": -33.03511944444444,
+            "lon": 27.82135
+        }
+    ]
+}

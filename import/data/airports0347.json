@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 347,
+    "data": [
+        {
+            "id": "PAPG",
+            "name": "PETERSBURG JAMES A JOHNSON",
+            "country": "United States of America",
+            "lat": 56.801472222222216,
+            "lon": -132.94622222222222
+        },
+        {
+            "id": "PAPN",
+            "name": "PILOT POINT",
+            "country": "United States of America",
+            "lat": 57.58038055555556,
+            "lon": -157.57195555555555
+        },
+        {
+            "id": "PAPM",
+            "name": "PLATINUM",
+            "country": "United States of America",
+            "lat": 59.017830555555555,
+            "lon": -161.82719166666666
+        },
+        {
+            "id": "PAPO",
+            "name": "POINT HOPE",
+            "country": "United States of America",
+            "lat": 68.34875,
+            "lon": -166.79927777777777
+        },
+        {
+            "id": "PPIZ",
+            "name": "POINT LAY LRRS",
+            "country": "United States of America",
+            "lat": 69.7328888888889,
+            "lon": -163.00533333333334
+        },
+        {
+            "id": "PAPH",
+            "name": "PORT HEIDEN",
+            "country": "United States of America",
+            "lat": 56.9591,
+            "lon": -158.6333611111111
+        },
+        {
+            "id": "PAQH",
+            "name": "QUINHAGAK",
+            "country": "United States of America",
+            "lat": 59.755094444444445,
+            "lon": -161.84536666666668
+        },
+        {
+            "id": "PADG",
+            "name": "RED DOG",
+            "country": "United States of America",
+            "lat": 68.0321111111111,
+            "lon": -162.89919444444445
+        },
+        {
+            "id": "PARY",
+            "name": "RUBY",
+            "country": "United States of America",
+            "lat": 64.72721111111112,
+            "lon": -155.4698888888889
+        },
+        {
+            "id": "PARS",
+            "name": "RUSSIAN MISSION",
+            "country": "United States of America",
+            "lat": 61.77488888888889,
+            "lon": -161.31938888888888
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 357,
+    "data": [
+        {
+            "id": "KDVT",
+            "name": "PHOENIX DEER VALLEY",
+            "country": "United States of America",
+            "lat": 33.68830555555555,
+            "lon": -112.08255555555556
+        },
+        {
+            "id": "KPRC",
+            "name": "ERNEST A LOVE FIELD",
+            "country": "United States of America",
+            "lat": 34.65483333333333,
+            "lon": -112.41922222222223
+        },
+        {
+            "id": "KSAD",
+            "name": "SAFFORD RGNL",
+            "country": "United States of America",
+            "lat": 32.85333333333333,
+            "lon": -109.63508333333334
+        },
+        {
+            "id": "KSOW",
+            "name": "SHOW LOW RGNL",
+            "country": "United States of America",
+            "lat": 34.26547222222222,
+            "lon": -110.00566666666667
+        },
+        {
+            "id": "KSJN",
+            "name": "ST JOHNS INDUSTRIAL AIR PARK",
+            "country": "United States of America",
+            "lat": 34.51855555555556,
+            "lon": -109.37875
+        },
+        {
+            "id": "KINW",
+            "name": "WINSLOW-LINDBERGH RGNL",
+            "country": "United States of America",
+            "lat": 35.02169444444444,
+            "lon": -110.72291666666666
+        },
+        {
+            "id": "KACV",
+            "name": "ARCATA",
+            "country": "United States of America",
+            "lat": 40.977833333333336,
+            "lon": -124.10847222222222
+        },
+        {
+            "id": "KAUN",
+            "name": "AUBURN MUNI",
+            "country": "United States of America",
+            "lat": 38.95480555555556,
+            "lon": -121.08172222222221
+        },
+        {
+            "id": "KAVX",
+            "name": "CATALINA",
+            "country": "United States of America",
+            "lat": 33.40499722222222,
+            "lon": -118.41576944444445
+        },
+        {
+            "id": "KBFL",
+            "name": "MEADOWS FIELD",
+            "country": "United States of America",
+            "lat": 35.433861111111106,
+            "lon": -119.05766666666666
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 252,
+    "data": [
+        {
+            "id": "DAFH",
+            "name": "HASSI R'MEL/TILREMPT",
+            "country": "Algeria",
+            "lat": 32.9305556,
+            "lon": 3.3116667
+        },
+        {
+            "id": "DAOB",
+            "name": "TIARET ABDELHAFID BOUSSOUF BOU CHEKIF",
+            "country": "Algeria",
+            "lat": 35.34138888888889,
+            "lon": 1.4669444444444446
+        },
+        {
+            "id": "DAOF",
+            "name": "TINDOUF",
+            "country": "Algeria",
+            "lat": 27.7,
+            "lon": -8.166666666666666
+        },
+        {
+            "id": "DAOI",
+            "name": "CHLEF",
+            "country": "Algeria",
+            "lat": 36.216944444444444,
+            "lon": 1.3399999999999999
+        },
+        {
+            "id": "DAON",
+            "name": "TLEMCEN/ZENATA-MESSALI EL HADJ",
+            "country": "Algeria",
+            "lat": 35.015277777777776,
+            "lon": -1.4508333333333332
+        },
+        {
+            "id": "DAOO",
+            "name": "ORAN/AHMED BENBELLA",
+            "country": "Algeria",
+            "lat": 35.62722222222222,
+            "lon": -0.6113888888888889
+        },
+        {
+            "id": "DAOR",
+            "name": "BECHAR/BOUDGHENE BEN ALI LOTFI",
+            "country": "Algeria",
+            "lat": 31.650569444444443,
+            "lon": -2.253152777777778
+        },
+        {
+            "id": "DAOV",
+            "name": "GHRISS",
+            "country": "Algeria",
+            "lat": 35.216944444444444,
+            "lon": 0.14833333333333332
+        },
+        {
+            "id": "DATM",
+            "name": "BORDJ MOKHTAR",
+            "country": "Algeria",
+            "lat": 21.375,
+            "lon": 0.9238888888888889
+        },
+        {
+            "id": "DAUA",
+            "name": "ADRAR/TOUAT-CHEIKH SIDI MOHAMED BELKEBIR",
+            "country": "Algeria",
+            "lat": 27.839166666666664,
+            "lon": -0.18527777777777776
+        }
+    ]
+}

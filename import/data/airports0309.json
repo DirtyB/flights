@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 309,
+    "data": [
+        {
+            "id": "RJOT",
+            "name": "TAKAMATSU",
+            "country": "Japan",
+            "lat": 34.21416666666667,
+            "lon": 134.01555555555555
+        },
+        {
+            "id": "RJOW",
+            "name": "IWAMI",
+            "country": "Japan",
+            "lat": 34.67638888888889,
+            "lon": 131.7902777777778
+        },
+        {
+            "id": "RJOY",
+            "name": "OSAKA/YAO",
+            "country": "Japan",
+            "lat": 34.59666666666667,
+            "lon": 135.60055555555556
+        },
+        {
+            "id": "RJOZ",
+            "name": "OZUKI",
+            "country": "Japan",
+            "lat": 34.04694444444444,
+            "lon": 131.05222222222224
+        },
+        {
+            "id": "RJSA",
+            "name": "AOMORI",
+            "country": "Japan",
+            "lat": 40.733333333333334,
+            "lon": 140.68861111111113
+        },
+        {
+            "id": "RJSC",
+            "name": "YAMAGATA",
+            "country": "Japan",
+            "lat": 38.411944444444444,
+            "lon": 140.3711111111111
+        },
+        {
+            "id": "RJSF",
+            "name": "FUKUSHIMA",
+            "country": "Japan",
+            "lat": 37.2275,
+            "lon": 140.42805555555555
+        },
+        {
+            "id": "RJSH",
+            "name": "HACHINOHE",
+            "country": "Japan",
+            "lat": 40.551944444444445,
+            "lon": 141.46722222222223
+        },
+        {
+            "id": "RJSI",
+            "name": "HANAMAKI",
+            "country": "Japan",
+            "lat": 39.42861111111111,
+            "lon": 141.13527777777776
+        },
+        {
+            "id": "RJSK",
+            "name": "AKITA",
+            "country": "Japan",
+            "lat": 39.61555555555556,
+            "lon": 140.2186111111111
+        }
+    ]
+}

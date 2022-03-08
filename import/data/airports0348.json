@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 348,
+    "data": [
+        {
+            "id": "PASM",
+            "name": "SAINT MARY'S",
+            "country": "United States of America",
+            "lat": 62.06083333333333,
+            "lon": -163.30183333333335
+        },
+        {
+            "id": "PASD",
+            "name": "SAND POINT",
+            "country": "United States of America",
+            "lat": 55.313694444444444,
+            "lon": -160.52141666666668
+        },
+        {
+            "id": "PASA",
+            "name": "SAVOONGA",
+            "country": "United States of America",
+            "lat": 63.686277777777775,
+            "lon": -170.49316666666667
+        },
+        {
+            "id": "PACM",
+            "name": "SCAMMON BAY",
+            "country": "United States of America",
+            "lat": 61.84454166666667,
+            "lon": -165.57375
+        },
+        {
+            "id": "PASK",
+            "name": "SELAWIK",
+            "country": "United States of America",
+            "lat": 66.60013888888888,
+            "lon": -159.98575
+        },
+        {
+            "id": "PASO",
+            "name": "SELDOVIA",
+            "country": "United States of America",
+            "lat": 59.44390555555555,
+            "lon": -151.70504166666666
+        },
+        {
+            "id": "PAWD",
+            "name": "SEWARD",
+            "country": "United States of America",
+            "lat": 60.13008055555556,
+            "lon": -149.41684444444442
+        },
+        {
+            "id": "PAHX",
+            "name": "SHAGELUK",
+            "country": "United States of America",
+            "lat": 62.69230555555555,
+            "lon": -159.5692222222222
+        },
+        {
+            "id": "PASH",
+            "name": "SHISHMAREF",
+            "country": "United States of America",
+            "lat": 66.24958333333333,
+            "lon": -166.08936111111112
+        },
+        {
+            "id": "PAGH",
+            "name": "SHUNGNAK",
+            "country": "United States of America",
+            "lat": 66.888075,
+            "lon": -157.16240000000002
+        }
+    ]
+}

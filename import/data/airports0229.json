@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 229,
+    "data": [
+        {
+            "id": "LIRI",
+            "name": "SALERNO/PONTECAGNANO",
+            "country": "Italy",
+            "lat": 40.62,
+            "lon": 14.9125
+        },
+        {
+            "id": "LIRK",
+            "name": "MONTE TERMINILLO",
+            "country": "Italy",
+            "lat": 42.4666667,
+            "lon": 12.9833333
+        },
+        {
+            "id": "LIRL",
+            "name": "LATINA (MIL)",
+            "country": "Italy",
+            "lat": 41.546905555555554,
+            "lon": 12.90826388888889
+        },
+        {
+            "id": "LIRM",
+            "name": "GRAZZANISE (MIL)",
+            "country": "Italy",
+            "lat": 41.06199722222222,
+            "lon": 14.082688888888889
+        },
+        {
+            "id": "LIRN",
+            "name": "NAPOLI/CAPODICHINO",
+            "country": "Italy",
+            "lat": 40.88444444444444,
+            "lon": 14.290833333333333
+        },
+        {
+            "id": "LIRP",
+            "name": "PISA/S. GIUSTO (MIL)",
+            "country": "Italy",
+            "lat": 43.68277777777777,
+            "lon": 10.395555555555555
+        },
+        {
+            "id": "LIRQ",
+            "name": "FIRENZE/PERETOLA",
+            "country": "Italy",
+            "lat": 43.808611111111105,
+            "lon": 11.202777777777778
+        },
+        {
+            "id": "LIRS",
+            "name": "GROSSETO (MIL)",
+            "country": "Italy",
+            "lat": 42.75972222222222,
+            "lon": 11.071944444444444
+        },
+        {
+            "id": "LIRT",
+            "name": "TREVICO",
+            "country": "Italy",
+            "lat": 41.05,
+            "lon": 15.2333333
+        },
+        {
+            "id": "LIRU",
+            "name": "ROMA/URBE",
+            "country": "Italy",
+            "lat": 41.95194444444445,
+            "lon": 12.500833333333333
+        }
+    ]
+}

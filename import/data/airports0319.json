@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 319,
+    "data": [
+        {
+            "id": "VTSS",
+            "name": "SONGKHLA/HAT YAI INTL AIRPORT",
+            "country": "Thailand",
+            "lat": 6.932777777777778,
+            "lon": 100.39500000000001
+        },
+        {
+            "id": "VTST",
+            "name": "TRANG",
+            "country": "Thailand",
+            "lat": 7.508616666666667,
+            "lon": 99.615775
+        },
+        {
+            "id": "VTUD",
+            "name": "UDON THANI",
+            "country": "Thailand",
+            "lat": 17.38643611111111,
+            "lon": 102.78824722222222
+        },
+        {
+            "id": "VTUI",
+            "name": "SAKON NAKHON/BAN KHAI",
+            "country": "Thailand",
+            "lat": 17.195141666666668,
+            "lon": 104.11862777777777
+        },
+        {
+            "id": "VTUK",
+            "name": "KHON KAEN",
+            "country": "Thailand",
+            "lat": 16.464552777777776,
+            "lon": 102.782275
+        },
+        {
+            "id": "VTUL",
+            "name": "LOEI",
+            "country": "Thailand",
+            "lat": 17.439133333333334,
+            "lon": 101.7220638888889
+        },
+        {
+            "id": "VTUU",
+            "name": "UBON RATCHATHANI",
+            "country": "Thailand",
+            "lat": 15.251275,
+            "lon": 104.87022777777777
+        },
+        {
+            "id": "VTUV",
+            "name": "ROI ET",
+            "country": "Thailand",
+            "lat": 16.11676111111111,
+            "lon": 103.77379722222223
+        },
+        {
+            "id": "VTUW",
+            "name": "NAKHON PHANOM",
+            "country": "Thailand",
+            "lat": 17.38533888888889,
+            "lon": 104.6418888888889
+        },
+        {
+            "id": "VVCR",
+            "name": "KHANH HOA/CAM RANH INTERNATIONAL",
+            "country": "Viet Nam",
+            "lat": 11.99546111111111,
+            "lon": 109.21841388888889
+        }
+    ]
+}

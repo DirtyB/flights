@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 46,
+    "data": [
+        {
+            "id": "KINT",
+            "name": "SMITH REYNOLDS",
+            "country": "United States of America",
+            "lat": 36.13371111111111,
+            "lon": -80.22198611111111
+        },
+        {
+            "id": "KBIS",
+            "name": "BISMARCK MUNI",
+            "country": "United States of America",
+            "lat": 46.77272222222222,
+            "lon": -100.74575
+        },
+        {
+            "id": "KDVL",
+            "name": "DEVILS LAKE RGNL",
+            "country": "United States of America",
+            "lat": 48.11658333333334,
+            "lon": -98.91000000000001
+        },
+        {
+            "id": "KDIK",
+            "name": "DICKINSON - THEODORE ROOSEVELT RGNL",
+            "country": "United States of America",
+            "lat": 46.797333333333334,
+            "lon": -102.80186111111111
+        },
+        {
+            "id": "KFAR",
+            "name": "HECTOR INTL",
+            "country": "United States of America",
+            "lat": 46.920649999999995,
+            "lon": -96.81576388888888
+        },
+        {
+            "id": "KRDR",
+            "name": "GRAND FORKS AFB",
+            "country": "United States of America",
+            "lat": 47.96128055555556,
+            "lon": -97.40081111111111
+        },
+        {
+            "id": "KGFK",
+            "name": "GRAND FORKS INTL",
+            "country": "United States of America",
+            "lat": 47.94727777777778,
+            "lon": -97.17377777777779
+        },
+        {
+            "id": "KJMS",
+            "name": "JAMESTOWN RGNL",
+            "country": "United States of America",
+            "lat": 46.92972222222222,
+            "lon": -98.67819444444444
+        },
+        {
+            "id": "KMIB",
+            "name": "MINOT AFB",
+            "country": "United States of America",
+            "lat": 48.41576944444444,
+            "lon": -101.35803888888888
+        },
+        {
+            "id": "KMOT",
+            "name": "MINOT INTL",
+            "country": "United States of America",
+            "lat": 48.25763888888889,
+            "lon": -101.27802777777778
+        }
+    ]
+}

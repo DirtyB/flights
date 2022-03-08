@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 249,
+    "data": [
+        {
+            "id": "GOGK",
+            "name": "KOLDA",
+            "country": "Senegal",
+            "lat": 12.9,
+            "lon": -14.966666666666667
+        },
+        {
+            "id": "GOGS",
+            "name": "CAP SKIRING",
+            "country": "Senegal",
+            "lat": 12.388958333333333,
+            "lon": -16.741583333333335
+        },
+        {
+            "id": "GOOK",
+            "name": "KAOLACK",
+            "country": "Senegal",
+            "lat": 14.14472222222222,
+            "lon": -16.054444444444446
+        },
+        {
+            "id": "GOOY",
+            "name": "DAKAR/YOFF",
+            "country": "Senegal",
+            "lat": 14.743833333333333,
+            "lon": -17.479305555555555
+        },
+        {
+            "id": "GOSM",
+            "name": "MATAM",
+            "country": "Senegal",
+            "lat": 15.59388888888889,
+            "lon": -13.322222222222223
+        },
+        {
+            "id": "GOSP",
+            "name": "PODOR",
+            "country": "Senegal",
+            "lat": 16.683333333333334,
+            "lon": -14.966666666666667
+        },
+        {
+            "id": "GOSS",
+            "name": "SAINT LOUIS",
+            "country": "Senegal",
+            "lat": 16.049805555555558,
+            "lon": -16.461055555555554
+        },
+        {
+            "id": "GOTK",
+            "name": "KEDOUGOU",
+            "country": "Senegal",
+            "lat": 12.5722222,
+            "lon": -12.2202778
+        },
+        {
+            "id": "GOTT",
+            "name": "TAMBACOUNDA",
+            "country": "Senegal",
+            "lat": 13.732691666666668,
+            "lon": -13.658
+        },
+        {
+            "id": "GQNI",
+            "name": "NEMA",
+            "country": "Mauritania",
+            "lat": 16.6219444,
+            "lon": -7.3166667
+        }
+    ]
+}

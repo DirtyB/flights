@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 121,
+    "data": [
+        {
+            "id": "MMCM",
+            "name": "CHETUMAL",
+            "country": "Mexico",
+            "lat": 18.50463611111111,
+            "lon": -88.32679444444445
+        },
+        {
+            "id": "MMCU",
+            "name": "CHIHUAHUA",
+            "country": "Mexico",
+            "lat": 28.70232777777778,
+            "lon": -105.9629638888889
+        },
+        {
+            "id": "MMCE",
+            "name": "CD. DEL CARMEN",
+            "country": "Mexico",
+            "lat": 18.651963888888886,
+            "lon": -91.79954166666667
+        },
+        {
+            "id": "MMCS",
+            "name": "CD. JUAREZ",
+            "country": "Mexico",
+            "lat": 31.636358333333334,
+            "lon": -106.42876111111111
+        },
+        {
+            "id": "MMCT",
+            "name": "CHICHEN-ITZA",
+            "country": "Mexico",
+            "lat": 20.64133888888889,
+            "lon": -88.44621666666667
+        },
+        {
+            "id": "MMCN",
+            "name": "CD. OBREGON",
+            "country": "Mexico",
+            "lat": 27.393044444444445,
+            "lon": -109.83338333333333
+        },
+        {
+            "id": "MMCV",
+            "name": "CD. VICTORIA",
+            "country": "Mexico",
+            "lat": 23.703430555555556,
+            "lon": -98.95644444444444
+        },
+        {
+            "id": "MMIA",
+            "name": "COLIMA",
+            "country": "Mexico",
+            "lat": 19.277016666666665,
+            "lon": -103.57759999999999
+        },
+        {
+            "id": "MMCZ",
+            "name": "COZUMEL",
+            "country": "Mexico",
+            "lat": 20.522063888888887,
+            "lon": -86.92927777777778
+        },
+        {
+            "id": "MMCB",
+            "name": "CUERNAVACA",
+            "country": "Mexico",
+            "lat": 18.834508333333332,
+            "lon": -99.26159166666666
+        }
+    ]
+}

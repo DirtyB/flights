@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 332,
+    "data": [
+        {
+            "id": "YMAY",
+            "name": "ALBURY",
+            "country": "Australia",
+            "lat": -36.06777777777778,
+            "lon": 146.95805555555555
+        },
+        {
+            "id": "YMEN",
+            "name": "ESSENDON",
+            "country": "Australia",
+            "lat": -37.72805555555556,
+            "lon": 144.90194444444444
+        },
+        {
+            "id": "YMHB",
+            "name": "HOBART",
+            "country": "Australia",
+            "lat": -42.836111111111116,
+            "lon": 147.5102777777778
+        },
+        {
+            "id": "YMLT",
+            "name": "LAUNCESTON",
+            "country": "Australia",
+            "lat": -41.54527777777778,
+            "lon": 147.21416666666664
+        },
+        {
+            "id": "YMML",
+            "name": "MELBOURNE/MELBOURNE INTL",
+            "country": "Australia",
+            "lat": -37.67333333333333,
+            "lon": 144.84333333333333
+        },
+        {
+            "id": "YPAD",
+            "name": "ADELAIDE/ADELAIDE INTL",
+            "country": "Australia",
+            "lat": -34.94499999999999,
+            "lon": 138.53055555555557
+        },
+        {
+            "id": "YPBO",
+            "name": "PARABURDOO",
+            "country": "Australia",
+            "lat": -23.171111111111113,
+            "lon": 117.74527777777777
+        },
+        {
+            "id": "YPCC",
+            "name": "COCOS (KEELING) ISLANS INTL",
+            "country": "Australia",
+            "lat": -12.188333333333334,
+            "lon": 96.83
+        },
+        {
+            "id": "YPDN",
+            "name": "DARWIN/DARWIN INTL",
+            "country": "Australia",
+            "lat": -12.414722222222222,
+            "lon": 130.87666666666667
+        },
+        {
+            "id": "YPEA",
+            "name": "PEARCE",
+            "country": "Australia",
+            "lat": -31.66777777777778,
+            "lon": 116.015
+        }
+    ]
+}

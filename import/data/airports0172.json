@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 172,
+    "data": [
+        {
+            "id": "ETHF",
+            "name": "FRITZLAR",
+            "country": "Germany",
+            "lat": 51.114583333333336,
+            "lon": 9.28586111111111
+        },
+        {
+            "id": "ETHL",
+            "name": "LAUPHEIM",
+            "country": "Germany",
+            "lat": 48.22016666666667,
+            "lon": 9.910166666666667
+        },
+        {
+            "id": "ETHN",
+            "name": "NIEDERSTETTEN",
+            "country": "Germany",
+            "lat": 49.39183333333333,
+            "lon": 9.958166666666665
+        },
+        {
+            "id": "ETHS",
+            "name": "FASSBERG",
+            "country": "Germany",
+            "lat": 52.91937222222222,
+            "lon": 10.183847222222223
+        },
+        {
+            "id": "ETIC",
+            "name": "GRAFENWOEHR AAF",
+            "country": "Germany",
+            "lat": 49.69868611111111,
+            "lon": 11.940175
+        },
+        {
+            "id": "ETIH",
+            "name": "HOHENFELS AAF",
+            "country": "Germany",
+            "lat": 49.2165,
+            "lon": 11.836166666666667
+        },
+        {
+            "id": "ETIK",
+            "name": "ILLESHEIM AHP",
+            "country": "Germany",
+            "lat": 49.4738889,
+            "lon": 10.3877778
+        },
+        {
+            "id": "ETMN",
+            "name": "NORDHOLZ",
+            "country": "Germany",
+            "lat": 53.76766666666666,
+            "lon": 8.6585
+        },
+        {
+            "id": "ETNH",
+            "name": "HOHN",
+            "country": "Germany",
+            "lat": 54.3122,
+            "lon": 9.538144444444445
+        },
+        {
+            "id": "ETNL",
+            "name": "LAAGE",
+            "country": "Germany",
+            "lat": 53.918166666666664,
+            "lon": 12.279333333333334
+        }
+    ]
+}

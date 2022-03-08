@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 189,
+    "data": [
+        {
+            "id": "EKHR",
+            "name": "HORNS REV  A (PRIVATE HELIDECK)",
+            "country": "Denmark",
+            "lat": 55.5088889,
+            "lon": 7.875
+        },
+        {
+            "id": "EKKA",
+            "name": "KARUP (MIL)",
+            "country": "Denmark",
+            "lat": 56.29745833333333,
+            "lon": 9.124627777777778
+        },
+        {
+            "id": "EKOD",
+            "name": "ODENSE",
+            "country": "Denmark",
+            "lat": 55.47666388888889,
+            "lon": 10.330933333333332
+        },
+        {
+            "id": "EKRK",
+            "name": "KOBENHAVN/ROSKILDE",
+            "country": "Denmark",
+            "lat": 55.58556666666667,
+            "lon": 12.131427777777779
+        },
+        {
+            "id": "EKRN",
+            "name": "BORNHOLM/RONNE",
+            "country": "Denmark",
+            "lat": 55.063266666666664,
+            "lon": 14.759558333333333
+        },
+        {
+            "id": "EKSB",
+            "name": "SONDERBORG",
+            "country": "Denmark",
+            "lat": 54.96436666666667,
+            "lon": 9.791730555555555
+        },
+        {
+            "id": "EKSP",
+            "name": "VOJENS/SKRYDSTRUP (MIL)",
+            "country": "Denmark",
+            "lat": 55.22555277777778,
+            "lon": 9.263930555555556
+        },
+        {
+            "id": "EKTE",
+            "name": "TYRA E (PRIVATE HELIDECK)",
+            "country": "Denmark",
+            "lat": 55.7213889,
+            "lon": 4.8019444
+        },
+        {
+            "id": "EKVD",
+            "name": "KOLDING/VAMDRUP",
+            "country": "Denmark",
+            "lat": 55.43628333333333,
+            "lon": 9.330925
+        },
+        {
+            "id": "EKVG",
+            "name": "VAGAR",
+            "country": "Denmark",
+            "lat": 62.063627777777775,
+            "lon": -7.2772194444444445
+        }
+    ]
+}

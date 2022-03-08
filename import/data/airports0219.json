@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 219,
+    "data": [
+        {
+            "id": "LFYR",
+            "name": "ROMORANTIN-PRUNIERS",
+            "country": "France",
+            "lat": 47.32083333333334,
+            "lon": 1.6888888888888889
+        },
+        {
+            "id": "LGAD",
+            "name": "ANDRAVIDA",
+            "country": "Greece",
+            "lat": 37.92527777777777,
+            "lon": 21.29138888888889
+        },
+        {
+            "id": "LGAL",
+            "name": "ALEXANDROUPOLIS/DIMOKRITOS",
+            "country": "Greece",
+            "lat": 40.85583333333334,
+            "lon": 25.95611111111111
+        },
+        {
+            "id": "LGAV",
+            "name": "ATHINAI/ELEFTHERIOS VENIZELOS",
+            "country": "Greece",
+            "lat": 37.936699999999995,
+            "lon": 23.9445
+        },
+        {
+            "id": "LGBL",
+            "name": "ALMIROS/NEA ANCHIALOS",
+            "country": "Greece",
+            "lat": 39.21944444444445,
+            "lon": 22.794444444444448
+        },
+        {
+            "id": "LGEL",
+            "name": "ELEFSIS",
+            "country": "Greece",
+            "lat": 38.069500000000005,
+            "lon": 23.554166666666667
+        },
+        {
+            "id": "LGHI",
+            "name": "CHIOS/OMIROS",
+            "country": "Greece",
+            "lat": 38.343333333333334,
+            "lon": 26.140555555555554
+        },
+        {
+            "id": "LGIR",
+            "name": "IRAKLION/NIKOS KAZANTZAKIS",
+            "country": "Greece",
+            "lat": 35.33972222222222,
+            "lon": 25.18027777777778
+        },
+        {
+            "id": "LGKC",
+            "name": "KITHIRA/ALEXANDROS ARISTOTELOUS ONASSIS",
+            "country": "Greece",
+            "lat": 36.274166666666666,
+            "lon": 23.016666666666666
+        },
+        {
+            "id": "LGKF",
+            "name": "KEFALLINIA/ANNA POLLATOU",
+            "country": "Greece",
+            "lat": 38.12,
+            "lon": 20.500555555555554
+        }
+    ]
+}

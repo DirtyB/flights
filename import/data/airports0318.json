@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 318,
+    "data": [
+        {
+            "id": "VTPO",
+            "name": "SUKHOTHAI",
+            "country": "Thailand",
+            "lat": 17.23777777777778,
+            "lon": 99.81833333333333
+        },
+        {
+            "id": "VTPP",
+            "name": "PHITSANULOK",
+            "country": "Thailand",
+            "lat": 16.782933333333332,
+            "lon": 100.279125
+        },
+        {
+            "id": "VTSB",
+            "name": "SURAT THANI",
+            "country": "Thailand",
+            "lat": 9.13613611111111,
+            "lon": 99.13904166666667
+        },
+        {
+            "id": "VTSC",
+            "name": "NARATHIWAT",
+            "country": "Thailand",
+            "lat": 6.523238888888889,
+            "lon": 101.74484166666667
+        },
+        {
+            "id": "VTSF",
+            "name": "NAKHON SI THAMMARAT",
+            "country": "Thailand",
+            "lat": 8.539616666666667,
+            "lon": 99.944725
+        },
+        {
+            "id": "VTSG",
+            "name": "KRABI",
+            "country": "Thailand",
+            "lat": 8.100163888888888,
+            "lon": 98.9853138888889
+        },
+        {
+            "id": "VTSH",
+            "name": "SONGKHLA",
+            "country": "Thailand",
+            "lat": 7.1857194444444445,
+            "lon": 100.60879444444444
+        },
+        {
+            "id": "VTSM",
+            "name": "SURA TAHNI/SAMUI",
+            "country": "Thailand",
+            "lat": 9.549166666666666,
+            "lon": 100.0625
+        },
+        {
+            "id": "VTSP",
+            "name": "PHUKET/PHUKET INTL AIRPORT",
+            "country": "Thailand",
+            "lat": 8.112499999999999,
+            "lon": 98.30916666666667
+        },
+        {
+            "id": "VTSR",
+            "name": "RANONG",
+            "country": "Thailand",
+            "lat": 9.777622222222224,
+            "lon": 98.58548333333333
+        }
+    ]
+}

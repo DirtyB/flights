@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 284,
+    "data": [
+        {
+            "id": "OPKC",
+            "name": "KARACHI/JIAP",
+            "country": "Pakistan",
+            "lat": 24.908558333333332,
+            "lon": 67.16276111111112
+        },
+        {
+            "id": "OPLA",
+            "name": "LAHORE/ALLAP",
+            "country": "Pakistan",
+            "lat": 31.52156111111111,
+            "lon": 74.40457500000001
+        },
+        {
+            "id": "OPMT",
+            "name": "MULTAN/INTL.",
+            "country": "Pakistan",
+            "lat": 30.203222222222223,
+            "lon": 71.41911111111112
+        },
+        {
+            "id": "OPNH",
+            "name": "NAWABSHAH",
+            "country": "Pakistan",
+            "lat": 26.219441666666665,
+            "lon": 68.39005277777778
+        },
+        {
+            "id": "OPPS",
+            "name": "PESHAWAR/BKIAP INTL.",
+            "country": "Pakistan",
+            "lat": 33.99391388888889,
+            "lon": 71.51458333333333
+        },
+        {
+            "id": "OPRN",
+            "name": "ISLAMABAD/BBIAP",
+            "country": "Pakistan",
+            "lat": 33.61676666666667,
+            "lon": 73.09873888888889
+        },
+        {
+            "id": "OPSK",
+            "name": "SUKKUR",
+            "country": "Pakistan",
+            "lat": 27.722016666666665,
+            "lon": 68.79182777777777
+        },
+        {
+            "id": "OPST",
+            "name": "SIALKOT INTERNATIONAL",
+            "country": "Pakistan",
+            "lat": 32.535738888888886,
+            "lon": 74.36383055555555
+        },
+        {
+            "id": "ORBI",
+            "name": "BAGHDAD INTERNATIONAL AIRPORT",
+            "country": "Iraq",
+            "lat": 33.26253888888889,
+            "lon": 44.23457777777778
+        },
+        {
+            "id": "ORER",
+            "name": "ERBIL INTL AIRPORT",
+            "country": "Iraq",
+            "lat": 36.238055555555555,
+            "lon": 43.946666666666665
+        }
+    ]
+}

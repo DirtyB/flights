@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 53,
+    "data": [
+        {
+            "id": "KLRU",
+            "name": "LAS CRUCES INTL",
+            "country": "United States of America",
+            "lat": 32.28941666666667,
+            "lon": -106.92197222222222
+        },
+        {
+            "id": "KLVS",
+            "name": "LAS VEGAS MUNI",
+            "country": "United States of America",
+            "lat": 35.654222222222224,
+            "lon": -105.1423888888889
+        },
+        {
+            "id": "KLSB",
+            "name": "LORDSBURG MUNI",
+            "country": "United States of America",
+            "lat": 32.33346388888889,
+            "lon": -108.69173888888889
+        },
+        {
+            "id": "KLAM",
+            "name": "LOS ALAMOS",
+            "country": "United States of America",
+            "lat": 35.87968611111111,
+            "lon": -106.26868611111111
+        },
+        {
+            "id": "KRTN",
+            "name": "RATON MUNI/CREWS FIELD",
+            "country": "United States of America",
+            "lat": 36.74243055555556,
+            "lon": -104.50173055555555
+        },
+        {
+            "id": "KROW",
+            "name": "ROSWELL INTL AIR CENTER",
+            "country": "United States of America",
+            "lat": 33.30155555555555,
+            "lon": -104.53055555555555
+        },
+        {
+            "id": "KSRR",
+            "name": "RUIDOSO/SIERRA BLANCA REGNAL NM.",
+            "country": "United States of America",
+            "lat": 33.46094444444445,
+            "lon": -105.53013888888889
+        },
+        {
+            "id": "KSAF",
+            "name": "SANTA FE MUNI",
+            "country": "United States of America",
+            "lat": 35.617111111111114,
+            "lon": -106.08941666666666
+        },
+        {
+            "id": "KSVC",
+            "name": "GRANT COUNTY",
+            "country": "United States of America",
+            "lat": 32.63654722222222,
+            "lon": -108.15638611111112
+        },
+        {
+            "id": "KONM",
+            "name": "SOCORRO MUNI",
+            "country": "United States of America",
+            "lat": 34.02247222222222,
+            "lon": -106.90313888888889
+        }
+    ]
+}

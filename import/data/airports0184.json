@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 184,
+    "data": [
+        {
+            "id": "EGUL",
+            "name": "LAKENHEATH",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.40940277777778,
+            "lon": 0.5610111111111111
+        },
+        {
+            "id": "EGUN",
+            "name": "MILDENHALL",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.36193333333333,
+            "lon": 0.48640833333333333
+        },
+        {
+            "id": "EGUO",
+            "name": "COLERNE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.44107777777777,
+            "lon": -2.2790805555555553
+        },
+        {
+            "id": "EGUW",
+            "name": "WATTISHAM",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 52.127027777777776,
+            "lon": 0.9554138888888889
+        },
+        {
+            "id": "EGVA",
+            "name": "FAIRFORD",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.68351944444444,
+            "lon": -1.7899916666666666
+        },
+        {
+            "id": "EGVN",
+            "name": "BRIZE NORTON",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.74998611111111,
+            "lon": -1.5829472222222223
+        },
+        {
+            "id": "EGVO",
+            "name": "ODIHAM",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.23419166666667,
+            "lon": -0.9428083333333334
+        },
+        {
+            "id": "EGVP",
+            "name": "MIDDLE WALLOP",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.14935833333333,
+            "lon": -1.57025
+        },
+        {
+            "id": "EGWU",
+            "name": "NORTHOLT",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.55271388888889,
+            "lon": -0.41959722222222223
+        },
+        {
+            "id": "EGXC",
+            "name": "CONINGSBY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.09316666666667,
+            "lon": -0.16611666666666666
+        }
+    ]
+}

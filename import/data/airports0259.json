@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 259,
+    "data": [
+        {
+            "id": "HKKI",
+            "name": "KISUMU",
+            "country": "Kenya",
+            "lat": -0.08592777777777777,
+            "lon": 34.72888888888889
+        },
+        {
+            "id": "HKKS",
+            "name": "KISII SUNEKA",
+            "country": "Kenya",
+            "lat": -0.6693055555555555,
+            "lon": 34.70077777777778
+        },
+        {
+            "id": "HKKT",
+            "name": "KITALE",
+            "country": "Kenya",
+            "lat": 0.967,
+            "lon": 34.95438888888889
+        },
+        {
+            "id": "HKLO",
+            "name": "LODWAR",
+            "country": "Kenya",
+            "lat": 3.1246666666666667,
+            "lon": 35.60863888888889
+        },
+        {
+            "id": "HKLU",
+            "name": "LAMU",
+            "country": "Kenya",
+            "lat": -2.2523444444444443,
+            "lon": 40.913108333333334
+        },
+        {
+            "id": "HKMA",
+            "name": "MANDERA",
+            "country": "Kenya",
+            "lat": 3.9302777777777775,
+            "lon": 41.851
+        },
+        {
+            "id": "HKMB",
+            "name": "MARSABIT",
+            "country": "Kenya",
+            "lat": 2.3470833333333334,
+            "lon": 37.98422222222222
+        },
+        {
+            "id": "HKML",
+            "name": "MALINDI",
+            "country": "Kenya",
+            "lat": -3.22305,
+            "lon": 40.10049166666667
+        },
+        {
+            "id": "HKMO",
+            "name": "MOMBASA",
+            "country": "Kenya",
+            "lat": -4.026277777777778,
+            "lon": 39.59906388888889
+        },
+        {
+            "id": "HKMU",
+            "name": "MAKINDU",
+            "country": "Kenya",
+            "lat": -2.285861111111111,
+            "lon": 37.83419444444445
+        }
+    ]
+}

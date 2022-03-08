@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 343,
+    "data": [
+        {
+            "id": "PAHP",
+            "name": "HOOPER BAY",
+            "country": "United States of America",
+            "lat": 61.52386111111111,
+            "lon": -166.1466111111111
+        },
+        {
+            "id": "PAHL",
+            "name": "HUSLIA",
+            "country": "United States of America",
+            "lat": 65.69786111111111,
+            "lon": -156.3513888888889
+        },
+        {
+            "id": "PAHY",
+            "name": "HYDABURG",
+            "country": "United States of America",
+            "lat": 55.206306,
+            "lon": -132.828305666667
+        },
+        {
+            "id": "PAIG",
+            "name": "IGIUGIG",
+            "country": "United States of America",
+            "lat": 59.32404166666667,
+            "lon": -155.90177222222223
+        },
+        {
+            "id": "PAIL",
+            "name": "ILIAMNA",
+            "country": "United States of America",
+            "lat": 59.75557777777778,
+            "lon": -154.91774999999998
+        },
+        {
+            "id": "PAIM",
+            "name": "INDIAN MOUNTAIN LRRS",
+            "country": "United States of America",
+            "lat": 65.99277222222223,
+            "lon": -153.70348888888887
+        },
+        {
+            "id": "PAJN",
+            "name": "JUNEAU INTL",
+            "country": "United States of America",
+            "lat": 58.354711111111115,
+            "lon": -134.57846944444444
+        },
+        {
+            "id": "PAFE",
+            "name": "KAKE",
+            "country": "United States of America",
+            "lat": 56.96136111111112,
+            "lon": -133.9102611111111
+        },
+        {
+            "id": "PALG",
+            "name": "KALSKAG",
+            "country": "United States of America",
+            "lat": 61.53597222222222,
+            "lon": -160.34558333333334
+        },
+        {
+            "id": "PAKV",
+            "name": "KALTAG",
+            "country": "United States of America",
+            "lat": 64.31897777777777,
+            "lon": -158.74130555555556
+        }
+    ]
+}

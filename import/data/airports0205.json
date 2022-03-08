@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 205,
+    "data": [
+        {
+            "id": "LEGA",
+            "name": "GRANADA/ARMILLA (MILITAR)",
+            "country": "Spain",
+            "lat": 37.13333333333333,
+            "lon": -3.6358333333333333
+        },
+        {
+            "id": "LEGE",
+            "name": "GIRONA",
+            "country": "Spain",
+            "lat": 41.90083333333333,
+            "lon": 2.7605555555555554
+        },
+        {
+            "id": "LEGR",
+            "name": "GRANADA/FEDERICO GARCIA LORCA GRANADA-JAEN",
+            "country": "Spain",
+            "lat": 37.18861111111111,
+            "lon": -3.777222222222222
+        },
+        {
+            "id": "LEGT",
+            "name": "MADRID/GETAFE",
+            "country": "Spain",
+            "lat": 40.29416666666666,
+            "lon": -3.7236111111111114
+        },
+        {
+            "id": "LEHC",
+            "name": "HUESCA/PIRINEOS",
+            "country": "Spain",
+            "lat": 42.08083333333334,
+            "lon": -0.3233333333333333
+        },
+        {
+            "id": "LEIB",
+            "name": "IBIZA",
+            "country": "Spain",
+            "lat": 38.87277777777778,
+            "lon": 1.3730555555555557
+        },
+        {
+            "id": "LEJR",
+            "name": "JEREZ",
+            "country": "Spain",
+            "lat": 36.74472222222222,
+            "lon": -6.06
+        },
+        {
+            "id": "LELC",
+            "name": "MURCIA/SAN JAVIER",
+            "country": "Spain",
+            "lat": 37.775,
+            "lon": -0.8125
+        },
+        {
+            "id": "LELL",
+            "name": "SABADELL",
+            "country": "Spain",
+            "lat": 41.520833333333336,
+            "lon": 2.105
+        },
+        {
+            "id": "LELN",
+            "name": "LEON",
+            "country": "Spain",
+            "lat": 42.58861111111111,
+            "lon": -5.6561111111111115
+        }
+    ]
+}

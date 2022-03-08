@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 71,
+    "data": [
+        {
+            "id": "KMMT",
+            "name": "MC ENTIRE JNGB",
+            "country": "United States of America",
+            "lat": 33.920766666666665,
+            "lon": -80.80114166666667
+        },
+        {
+            "id": "KMYR",
+            "name": "MYRTLE BEACH INTL",
+            "country": "United States of America",
+            "lat": 33.67975,
+            "lon": -78.92833333333334
+        },
+        {
+            "id": "KCRE",
+            "name": "GRAND STRAND",
+            "country": "United States of America",
+            "lat": 33.811749999999996,
+            "lon": -78.72394444444444
+        },
+        {
+            "id": "KOGB",
+            "name": "ORANGEBURG MUNI",
+            "country": "United States of America",
+            "lat": 33.45691666666667,
+            "lon": -80.85940555555555
+        },
+        {
+            "id": "KLQK",
+            "name": "PICKENS COUNTY",
+            "country": "United States of America",
+            "lat": 34.80997222222222,
+            "lon": -82.70288888888889
+        },
+        {
+            "id": "KSSC",
+            "name": "SHAW AFB",
+            "country": "United States of America",
+            "lat": 33.972725000000004,
+            "lon": -80.47056388888889
+        },
+        {
+            "id": "KSPA",
+            "name": "SPARTANBURG DOWNTOWN MEMORIAL",
+            "country": "United States of America",
+            "lat": 34.91572222222222,
+            "lon": -81.9565
+        },
+        {
+            "id": "KRBW",
+            "name": "LOWCOUNTRY RGNL",
+            "country": "United States of America",
+            "lat": 32.921,
+            "lon": -80.64061111111111
+        },
+        {
+            "id": "KABR",
+            "name": "ABERDEEN RGNL",
+            "country": "United States of America",
+            "lat": 45.44830555555555,
+            "lon": -98.42244444444445
+        },
+        {
+            "id": "KRCA",
+            "name": "ELLSWORTH AFB",
+            "country": "United States of America",
+            "lat": 44.145094444444446,
+            "lon": -103.10356666666667
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 44,
+    "data": [
+        {
+            "id": "KFBG",
+            "name": "SIMONS AAF",
+            "country": "United States of America",
+            "lat": 35.13183333333333,
+            "lon": -78.93666666666667
+        },
+        {
+            "id": "KGSB",
+            "name": "SEYMOUR OHNSON  AFB",
+            "country": "United States of America",
+            "lat": 35.33938611111111,
+            "lon": -77.96059444444445
+        },
+        {
+            "id": "KGSO",
+            "name": "PIEDMONT TRIAD INTL",
+            "country": "United States of America",
+            "lat": 36.101325,
+            "lon": -79.94112222222222
+        },
+        {
+            "id": "KHKY",
+            "name": "HICKORY RGNL",
+            "country": "United States of America",
+            "lat": 35.741147222222224,
+            "lon": -81.38955
+        },
+        {
+            "id": "KOAJ",
+            "name": "ALBERT J ELLIS",
+            "country": "United States of America",
+            "lat": 34.82916666666667,
+            "lon": -77.61213888888888
+        },
+        {
+            "id": "KFFA",
+            "name": "FIRST LIGHT",
+            "country": "United States of America",
+            "lat": 36.017583333333334,
+            "lon": -75.67158333333334
+        },
+        {
+            "id": "KISO",
+            "name": "KINSTON RGNL JETPORT AT STALLINGS FLD",
+            "country": "United States of America",
+            "lat": 35.33144444444445,
+            "lon": -77.60883333333332
+        },
+        {
+            "id": "KLBT",
+            "name": "LUMBERTON RGNL",
+            "country": "United States of America",
+            "lat": 34.60980555555556,
+            "lon": -79.05955555555555
+        },
+        {
+            "id": "KMRN",
+            "name": "FOOTHILLS REGIONAL",
+            "country": "United States of America",
+            "lat": 35.82022222222223,
+            "lon": -81.61141666666666
+        },
+        {
+            "id": "KEWN",
+            "name": "COASTAL CAROLINA REGIONAL",
+            "country": "United States of America",
+            "lat": 35.07285,
+            "lon": -77.04301944444444
+        }
+    ]
+}

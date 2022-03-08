@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 134,
+    "data": [
+        {
+            "id": "MGGT",
+            "name": "LA AURORA",
+            "country": "Guatemala",
+            "lat": 14.583333333333334,
+            "lon": -90.5275
+        },
+        {
+            "id": "MGHT",
+            "name": "HUEHUETENANGO",
+            "country": "Guatemala",
+            "lat": 15.3083333,
+            "lon": -91.5083333
+        },
+        {
+            "id": "MGMM",
+            "name": "MUNDO MAYA",
+            "country": "Guatemala",
+            "lat": 16.913888888888888,
+            "lon": -89.86638888888888
+        },
+        {
+            "id": "MGPB",
+            "name": "PUERTO BARRIOS",
+            "country": "Guatemala",
+            "lat": 15.748333333333333,
+            "lon": -88.585
+        },
+        {
+            "id": "MGQZ",
+            "name": "QUETZALTENANGO",
+            "country": "Guatemala",
+            "lat": 14.8638889,
+            "lon": -91.5036111
+        },
+        {
+            "id": "MGRT",
+            "name": "RETALHULEU",
+            "country": "Guatemala",
+            "lat": 14.518333333333334,
+            "lon": -91.69666666666667
+        },
+        {
+            "id": "MGSJ",
+            "name": "PUERTO SAN JOSE",
+            "country": "Guatemala",
+            "lat": 13.936111111111112,
+            "lon": -90.83583333333333
+        },
+        {
+            "id": "MGZA",
+            "name": "ZACAPA",
+            "country": "Guatemala",
+            "lat": 14.9605556,
+            "lon": -89.5394444
+        },
+        {
+            "id": "MHCA",
+            "name": "CATACAMAS",
+            "country": "Honduras",
+            "lat": 14.916666666666666,
+            "lon": -85.9
+        },
+        {
+            "id": "MHLC",
+            "name": "LA CEIBA/GOLOSON INTL",
+            "country": "Honduras",
+            "lat": 15.742363888888889,
+            "lon": -86.85330277777777
+        }
+    ]
+}

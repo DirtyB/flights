@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 179,
+    "data": [
+        {
+            "id": "EGGP",
+            "name": "LIVERPOOL",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.33361111111111,
+            "lon": -2.8497222222222223
+        },
+        {
+            "id": "EGGW",
+            "name": "LONDON LUTON",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.874722222222225,
+            "lon": -0.3683333333333333
+        },
+        {
+            "id": "EGHH",
+            "name": "BOURNEMOUTH",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 50.78,
+            "lon": -1.8425000000000002
+        },
+        {
+            "id": "EGHI",
+            "name": "SOUTHAMPTON",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 50.95027777777778,
+            "lon": -1.3566666666666667
+        },
+        {
+            "id": "EGJA",
+            "name": "ALDERNEY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 49.70675833333333,
+            "lon": -2.214480555555556
+        },
+        {
+            "id": "EGJB",
+            "name": "GUERNSEY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 49.43493055555555,
+            "lon": -2.6028000000000002
+        },
+        {
+            "id": "EGJJ",
+            "name": "JERSEY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 49.207952777777784,
+            "lon": -2.195525
+        },
+        {
+            "id": "EGKA",
+            "name": "SHOREHAM",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 50.83555555555556,
+            "lon": -0.2972222222222222
+        },
+        {
+            "id": "EGKB",
+            "name": "BIGGIN HILL",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.33083333333334,
+            "lon": 0.0325
+        },
+        {
+            "id": "EGKK",
+            "name": "LONDON GATWICK",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.14805555555556,
+            "lon": -0.19027777777777777
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 83,
+    "data": [
+        {
+            "id": "KACT",
+            "name": "WACO RGNL",
+            "country": "United States of America",
+            "lat": 31.612194444444444,
+            "lon": -97.23030555555556
+        },
+        {
+            "id": "KCNW",
+            "name": "TSTC WACO",
+            "country": "United States of America",
+            "lat": 31.637805555555556,
+            "lon": -97.07413888888888
+        },
+        {
+            "id": "KSPS",
+            "name": "SHEPPARD AFB/WICHITA FALLS MUNI",
+            "country": "United States of America",
+            "lat": 33.98880277777778,
+            "lon": -98.49190277777778
+        },
+        {
+            "id": "KINK",
+            "name": "WINKLER COUNTY",
+            "country": "United States of America",
+            "lat": 31.779805555555555,
+            "lon": -103.20169444444444
+        },
+        {
+            "id": "KSLC",
+            "name": "SALT LAKE CITY INTL",
+            "country": "United States of America",
+            "lat": 40.78838888888889,
+            "lon": -111.97777222222223
+        },
+        {
+            "id": "KBCE",
+            "name": "BRYCE CANYON",
+            "country": "United States of America",
+            "lat": 37.70644444444445,
+            "lon": -112.14580555555557
+        },
+        {
+            "id": "KCDC",
+            "name": "CEDAR CITY RGNL",
+            "country": "United States of America",
+            "lat": 37.700966666666666,
+            "lon": -113.09884722222222
+        },
+        {
+            "id": "KHIF",
+            "name": "HILL AFB",
+            "country": "United States of America",
+            "lat": 41.12393888888889,
+            "lon": -111.9730388888889
+        },
+        {
+            "id": "KLGU",
+            "name": "LOGAN-CACHE",
+            "country": "United States of America",
+            "lat": 41.79128333333333,
+            "lon": -111.85160833333333
+        },
+        {
+            "id": "KMLF",
+            "name": "MILFORD MUNI/BEN AND JUDY BRISCOE FIELD",
+            "country": "United States of America",
+            "lat": 38.42663333333333,
+            "lon": -113.01327222222223
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 130,
+    "data": [
+        {
+            "id": "MWCR",
+            "name": "OWEN ROBERTS INTERNATIONAL AIRPORT/GRAND CAYMAN",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 19.29277777777778,
+            "lon": -81.35776944444444
+        },
+        {
+            "id": "MWCB",
+            "name": "CHARLES KIRKCONNELL INTERNATIONAL AIRPORT/CAYMAN BRAC",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 19.686983333333334,
+            "lon": -79.88280555555555
+        },
+        {
+            "id": "MDAB",
+            "name": "SAMANA/ARROYO BARRIL",
+            "country": "Dominican Republic",
+            "lat": 19.2,
+            "lon": -69.43333333333334
+        },
+        {
+            "id": "MDBH",
+            "name": "BARAHONA/INTL MARIA MONTEZ",
+            "country": "Dominican Republic",
+            "lat": 18.25178888888889,
+            "lon": -71.12019166666666
+        },
+        {
+            "id": "MDCY",
+            "name": "SAMANA/ INTL CATEY",
+            "country": "Dominican Republic",
+            "lat": 19.269547222222222,
+            "lon": -69.73697777777778
+        },
+        {
+            "id": "MDSD",
+            "name": "SANTO DOMINGO/INTL JOSE FRANCISCO PENA GOMEZ",
+            "country": "Dominican Republic",
+            "lat": 18.42966388888889,
+            "lon": -69.668925
+        },
+        {
+            "id": "MDJB",
+            "name": "HIGUERO/INTL DR. JOAQUIN BALAGUER",
+            "country": "Dominican Republic",
+            "lat": 18.572275,
+            "lon": -69.98566944444444
+        },
+        {
+            "id": "MDLR",
+            "name": "LA ROMANA/INTL CASA DE CAMPO",
+            "country": "Dominican Republic",
+            "lat": 18.4525,
+            "lon": -68.9113888888889
+        },
+        {
+            "id": "MDPP",
+            "name": "PUERTO PLATA /INTL GREGORIO LUPERON.",
+            "country": "Dominican Republic",
+            "lat": 19.7579,
+            "lon": -70.57003333333333
+        },
+        {
+            "id": "MDPC",
+            "name": "PUNTA CANA INTL.",
+            "country": "Dominican Republic",
+            "lat": 18.570780555555555,
+            "lon": -68.3661861111111
+        }
+    ]
+}

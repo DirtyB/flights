@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 308,
+    "data": [
+        {
+            "id": "RJOA",
+            "name": "HIROSHIMA",
+            "country": "Japan",
+            "lat": 34.43611111111111,
+            "lon": 132.91944444444442
+        },
+        {
+            "id": "RJOB",
+            "name": "OKAYAMA",
+            "country": "Japan",
+            "lat": 34.75694444444444,
+            "lon": 133.8552777777778
+        },
+        {
+            "id": "RJOC",
+            "name": "IZUMO",
+            "country": "Japan",
+            "lat": 35.41361111111111,
+            "lon": 132.89
+        },
+        {
+            "id": "RJOE",
+            "name": "AKENO",
+            "country": "Japan",
+            "lat": 34.53333333333333,
+            "lon": 136.67222222222222
+        },
+        {
+            "id": "RJOH",
+            "name": "MIHO",
+            "country": "Japan",
+            "lat": 35.49333333333333,
+            "lon": 133.23916666666665
+        },
+        {
+            "id": "RJOI",
+            "name": "IWAKUNI",
+            "country": "Japan",
+            "lat": 34.14491666666667,
+            "lon": 132.246975
+        },
+        {
+            "id": "RJOK",
+            "name": "KOCHI",
+            "country": "Japan",
+            "lat": 33.54611111111111,
+            "lon": 133.66944444444442
+        },
+        {
+            "id": "RJOM",
+            "name": "MATSUYAMA",
+            "country": "Japan",
+            "lat": 33.827222222222225,
+            "lon": 132.69972222222222
+        },
+        {
+            "id": "RJOO",
+            "name": "OSAKA INTL",
+            "country": "Japan",
+            "lat": 34.78444444444444,
+            "lon": 135.43916666666667
+        },
+        {
+            "id": "RJOR",
+            "name": "TOTTORI",
+            "country": "Japan",
+            "lat": 35.53,
+            "lon": 134.165
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 209,
+    "data": [
+        {
+            "id": "GCXO",
+            "name": "TENERIFE NORTE",
+            "country": "Spain",
+            "lat": 28.482777777777777,
+            "lon": -16.341666666666665
+        },
+        {
+            "id": "GEML",
+            "name": "MELILLA",
+            "country": "Spain",
+            "lat": 35.27972222222222,
+            "lon": -2.956388888888889
+        },
+        {
+            "id": "LFAQ",
+            "name": "ALBERT-BRAY",
+            "country": "France",
+            "lat": 49.97,
+            "lon": 2.6925000000000003
+        },
+        {
+            "id": "LFAT",
+            "name": "LE TOUQUET-COTE D'OPALE",
+            "country": "France",
+            "lat": 50.514722222222225,
+            "lon": 1.6275
+        },
+        {
+            "id": "LFBA",
+            "name": "AGEN-LA GARENNE",
+            "country": "France",
+            "lat": 44.17472222222222,
+            "lon": 0.5905555555555556
+        },
+        {
+            "id": "LFBC",
+            "name": "CAZAUX; CAZAUX CCER",
+            "country": "France",
+            "lat": 44.535,
+            "lon": -1.131388888888889
+        },
+        {
+            "id": "LFBD",
+            "name": "BORDEAUX-MERIGNAC",
+            "country": "France",
+            "lat": 44.828611111111115,
+            "lon": -0.7152777777777777
+        },
+        {
+            "id": "LFBE",
+            "name": "BERGERAC-ROUMANIERE",
+            "country": "France",
+            "lat": 44.824444444444445,
+            "lon": 0.5205555555555557
+        },
+        {
+            "id": "LFBG",
+            "name": "COGNAC-CHATEAUBERNARD",
+            "country": "France",
+            "lat": 45.65833333333333,
+            "lon": -0.3175
+        },
+        {
+            "id": "LFBH",
+            "name": "LA ROCHELLE-ILE DE RE",
+            "country": "France",
+            "lat": 46.17916666666667,
+            "lon": -1.1952777777777779
+        }
+    ]
+}

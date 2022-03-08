@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 325,
+    "data": [
+        {
+            "id": "WMKP",
+            "name": "PENANG/INTL",
+            "country": "Malaysia",
+            "lat": 5.2972222222222225,
+            "lon": 100.27666666666667
+        },
+        {
+            "id": "WMSA",
+            "name": "SUBANG/SULTAN ABDUL AZIZ SHAH",
+            "country": "Malaysia",
+            "lat": 3.131111111111111,
+            "lon": 101.54805555555555
+        },
+        {
+            "id": "WSAP",
+            "name": "PAYA LEBAR (RSAF)",
+            "country": "Singapore",
+            "lat": 1.3557222222222223,
+            "lon": 103.90277777777779
+        },
+        {
+            "id": "WSSL",
+            "name": "SELETAR",
+            "country": "Singapore",
+            "lat": 1.4169555555555555,
+            "lon": 103.86764444444444
+        },
+        {
+            "id": "WSSS",
+            "name": "SINGAPORE/CHANGI",
+            "country": "Singapore",
+            "lat": 1.3592111111111111,
+            "lon": 103.98932500000001
+        },
+        {
+            "id": "AGGH",
+            "name": "HONIARA (HENDERSON)",
+            "country": "Solomon Islands",
+            "lat": -9.421666666666667,
+            "lon": 160.05166666666668
+        },
+        {
+            "id": "YABA",
+            "name": "ALBANY",
+            "country": "Australia",
+            "lat": -34.94333333333333,
+            "lon": 117.80888888888889
+        },
+        {
+            "id": "YAMB",
+            "name": "AMBERLEY",
+            "country": "Australia",
+            "lat": -27.640555555555554,
+            "lon": 152.71194444444444
+        },
+        {
+            "id": "YARG",
+            "name": "ARGYLE",
+            "country": "Australia",
+            "lat": -16.636944444444445,
+            "lon": 128.45138888888889
+        },
+        {
+            "id": "YAYE",
+            "name": "AYERS ROCK",
+            "country": "Australia",
+            "lat": -25.18611111111111,
+            "lon": 130.97555555555556
+        }
+    ]
+}

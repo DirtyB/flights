@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 62,
+    "data": [
+        {
+            "id": "KWDG",
+            "name": "ENID WOODRING RGNL",
+            "country": "United States of America",
+            "lat": 36.375952777777776,
+            "lon": -97.78942222222221
+        },
+        {
+            "id": "KFSI",
+            "name": "HENRY POST AAF (FORT SILL)",
+            "country": "United States of America",
+            "lat": 34.64983333333333,
+            "lon": -98.40216666666667
+        },
+        {
+            "id": "KFDR",
+            "name": "FREDERICK RGNL",
+            "country": "United States of America",
+            "lat": 34.35209444444445,
+            "lon": -98.98390833333333
+        },
+        {
+            "id": "KGAG",
+            "name": "GAGE",
+            "country": "United States of America",
+            "lat": 36.295538888888885,
+            "lon": -99.776425
+        },
+        {
+            "id": "KGOK",
+            "name": "GUTHRIE-EDMOND RGNL",
+            "country": "United States of America",
+            "lat": 35.85152222222222,
+            "lon": -97.41617500000001
+        },
+        {
+            "id": "KGUY",
+            "name": "GUYMON MUNI",
+            "country": "United States of America",
+            "lat": 36.68506111111111,
+            "lon": -101.50779722222222
+        },
+        {
+            "id": "KHBR",
+            "name": "HOBART RGNL",
+            "country": "United States of America",
+            "lat": 34.99173611111111,
+            "lon": -99.05180833333333
+        },
+        {
+            "id": "KLAW",
+            "name": "LAWTON-FORT SILL RGNL",
+            "country": "United States of America",
+            "lat": 34.56771388888889,
+            "lon": -98.41663611111112
+        },
+        {
+            "id": "KMLC",
+            "name": "MC ALESTER RGNL",
+            "country": "United States of America",
+            "lat": 34.88238888888889,
+            "lon": -95.78347222222222
+        },
+        {
+            "id": "KMKO",
+            "name": "DAVIS FIELD",
+            "country": "United States of America",
+            "lat": 35.65775,
+            "lon": -95.36163888888888
+        }
+    ]
+}

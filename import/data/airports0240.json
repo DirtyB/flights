@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 240,
+    "data": [
+        {
+            "id": "LSZC",
+            "name": "BUOCHS",
+            "country": "Switzerland",
+            "lat": 46.974444444444444,
+            "lon": 8.396944444444443
+        },
+        {
+            "id": "LSZG",
+            "name": "GRENCHEN",
+            "country": "Switzerland",
+            "lat": 47.18138888888889,
+            "lon": 7.416388888888889
+        },
+        {
+            "id": "LSZH",
+            "name": "ZURICH",
+            "country": "Switzerland",
+            "lat": 47.45805555555556,
+            "lon": 8.548055555555555
+        },
+        {
+            "id": "LSZL",
+            "name": "LOCARNO",
+            "country": "Switzerland",
+            "lat": 46.16083333333333,
+            "lon": 8.87861111111111
+        },
+        {
+            "id": "LSZR",
+            "name": "ST. GALLEN-ALTENRHEIN",
+            "country": "Switzerland",
+            "lat": 47.485,
+            "lon": 9.561944444444444
+        },
+        {
+            "id": "LSZS",
+            "name": "SAMEDAN",
+            "country": "Switzerland",
+            "lat": 46.53444444444444,
+            "lon": 9.883888888888889
+        },
+        {
+            "id": "LTAC",
+            "name": "ANKARA/ESENBOGA",
+            "country": "Turkey",
+            "lat": 40.128055555555555,
+            "lon": 32.995
+        },
+        {
+            "id": "LTAD",
+            "name": "ANKARA/ETIMESGUT (MIL)",
+            "country": "Turkey",
+            "lat": 39.95166666666667,
+            "lon": 32.6875
+        },
+        {
+            "id": "LTAE",
+            "name": "ANKARA/AKINCI (MIL)",
+            "country": "Turkey",
+            "lat": 40.07888888888889,
+            "lon": 32.565555555555555
+        },
+        {
+            "id": "LTAF",
+            "name": "ADANA",
+            "country": "Turkey",
+            "lat": 36.98222222222223,
+            "lon": 35.280277777777776
+        }
+    ]
+}

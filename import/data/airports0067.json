@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 67,
+    "data": [
+        {
+            "id": "KDUJ",
+            "name": "DUBOIS RGNL",
+            "country": "United States of America",
+            "lat": 41.17827777777777,
+            "lon": -78.89869444444444
+        },
+        {
+            "id": "KERI",
+            "name": "ERIE INTL/TOM RIDGE FIELD",
+            "country": "United States of America",
+            "lat": 42.083083333333335,
+            "lon": -80.17394444444444
+        },
+        {
+            "id": "KFKL",
+            "name": "VENANGO RGNL",
+            "country": "United States of America",
+            "lat": 41.37741666666667,
+            "lon": -79.86063888888889
+        },
+        {
+            "id": "KHZL",
+            "name": "HAZLETON RGNL",
+            "country": "United States of America",
+            "lat": 40.98677777777778,
+            "lon": -75.9948888888889
+        },
+        {
+            "id": "KIDI",
+            "name": "INDIANA COUNTY/JIMMY STEWART FLD/",
+            "country": "United States of America",
+            "lat": 40.631058333333335,
+            "lon": -79.101525
+        },
+        {
+            "id": "KJST",
+            "name": "JOHN MURTHA JOHNSTOWN-CAMBRIA CO",
+            "country": "United States of America",
+            "lat": 40.315552777777775,
+            "lon": -78.83465833333332
+        },
+        {
+            "id": "KLNS",
+            "name": "LANCASTER",
+            "country": "United States of America",
+            "lat": 40.12236111111111,
+            "lon": -76.29436111111112
+        },
+        {
+            "id": "KLBE",
+            "name": "ARNOLD PALMER RGNL",
+            "country": "United States of America",
+            "lat": 40.27460833333333,
+            "lon": -79.40675
+        },
+        {
+            "id": "KMDT",
+            "name": "HARRISBURG INTL",
+            "country": "United States of America",
+            "lat": 40.19318888888888,
+            "lon": -76.76261944444444
+        },
+        {
+            "id": "KMPO",
+            "name": "POCONO MOUNTAINS MUNI",
+            "country": "United States of America",
+            "lat": 41.13769444444444,
+            "lon": -75.38005555555554
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 266,
+    "data": [
+        {
+            "id": "FEFF",
+            "name": "BANGUI/M'POKO",
+            "country": "Central African Republic",
+            "lat": 4.397777777777778,
+            "lon": 18.51972222222222
+        },
+        {
+            "id": "FEFT",
+            "name": "BERBERATI",
+            "country": "Central African Republic",
+            "lat": 4.226,
+            "lon": 15.785416666666666
+        },
+        {
+            "id": "FGBT",
+            "name": "BATA",
+            "country": "Equatorial Guinea",
+            "lat": 1.9022055555555555,
+            "lon": 9.802811111111112
+        },
+        {
+            "id": "FGSL",
+            "name": "MALABO",
+            "country": "Equatorial Guinea",
+            "lat": 3.7552777777777777,
+            "lon": 8.70861111111111
+        },
+        {
+            "id": "FHAW",
+            "name": "ASCENSION I.",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": -7.969597222222222,
+            "lon": -14.393663888888888
+        },
+        {
+            "id": "FIMP",
+            "name": "SIR SEEWOOSAGUR RAMGOOLAM INTERNATIONAL AIRPORT",
+            "country": "Mauritius",
+            "lat": -20.43,
+            "lon": 57.683055555555555
+        },
+        {
+            "id": "FIMR",
+            "name": "RODRIGUES/SIR GAETAN DUVAL AIRPORT",
+            "country": "Mauritius",
+            "lat": -19.757727777777777,
+            "lon": 63.36126388888889
+        },
+        {
+            "id": "FJDG",
+            "name": "DIEGO GARCIA (SEE/VOIR/VES KJDG)",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": -7.313275,
+            "lon": 72.41105555555556
+        },
+        {
+            "id": "FKKD",
+            "name": "DOUALA/AEROPORT",
+            "country": "Cameroon",
+            "lat": 4.011666666666667,
+            "lon": 9.708333333333332
+        },
+        {
+            "id": "FKKN",
+            "name": "NGAOUNDERE",
+            "country": "Cameroon",
+            "lat": 7.359166666666666,
+            "lon": 13.56
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 170,
+    "data": [
+        {
+            "id": "EDLV",
+            "name": "NIEDERRHEIN",
+            "country": "Germany",
+            "lat": 51.60241388888889,
+            "lon": 6.142172222222222
+        },
+        {
+            "id": "EDLW",
+            "name": "DORTMUND",
+            "country": "Germany",
+            "lat": 51.51831388888889,
+            "lon": 7.612241666666666
+        },
+        {
+            "id": "EDMA",
+            "name": "AUGSBURG",
+            "country": "Germany",
+            "lat": 48.42515833333333,
+            "lon": 10.931763888888888
+        },
+        {
+            "id": "EDMO",
+            "name": "OBERPFAFFENHOFEN",
+            "country": "Germany",
+            "lat": 48.081363888888895,
+            "lon": 11.283066666666668
+        },
+        {
+            "id": "EDNY",
+            "name": "FRIEDRICHSHAFEN",
+            "country": "Germany",
+            "lat": 47.67131666666666,
+            "lon": 9.511486111111111
+        },
+        {
+            "id": "EDOP",
+            "name": "SCHWERIN-PARCHIM",
+            "country": "Germany",
+            "lat": 53.42699722222222,
+            "lon": 11.783436111111111
+        },
+        {
+            "id": "EDQM",
+            "name": "HOF-PLAUEN",
+            "country": "Germany",
+            "lat": 50.28883611111111,
+            "lon": 11.854919444444445
+        },
+        {
+            "id": "EDRZ",
+            "name": "ZWEIBRUECKEN",
+            "country": "Germany",
+            "lat": 49.209525,
+            "lon": 7.400647222222222
+        },
+        {
+            "id": "EDSB",
+            "name": "KARLSRUHE/BADEN-BADEN",
+            "country": "Germany",
+            "lat": 48.779352777777774,
+            "lon": 8.080499999999999
+        },
+        {
+            "id": "EDTL",
+            "name": "LAHR",
+            "country": "Germany",
+            "lat": 48.36925,
+            "lon": 7.827722222222222
+        }
+    ]
+}

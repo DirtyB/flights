@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 82,
+    "data": [
+        {
+            "id": "KSSF",
+            "name": "STINSON MUNI",
+            "country": "United States of America",
+            "lat": 29.336980555555556,
+            "lon": -98.47104444444444
+        },
+        {
+            "id": "KSAT",
+            "name": "SAN ANTONIO INTL",
+            "country": "United States of America",
+            "lat": 29.533955555555558,
+            "lon": -98.46905555555556
+        },
+        {
+            "id": "KSNK",
+            "name": "WINSTON FIELD",
+            "country": "United States of America",
+            "lat": 32.69338888888888,
+            "lon": -100.95047222222223
+        },
+        {
+            "id": "KSEP",
+            "name": "STEPHENVILLE CLARK RGNL",
+            "country": "United States of America",
+            "lat": 32.215333333333334,
+            "lon": -98.17766666666667
+        },
+        {
+            "id": "KSLR",
+            "name": "SULPHUR SPRINGS MUNI",
+            "country": "United States of America",
+            "lat": 33.15983333333333,
+            "lon": -95.62113888888888
+        },
+        {
+            "id": "KSWW",
+            "name": "AVENGER FIELD",
+            "country": "United States of America",
+            "lat": 32.46736111111111,
+            "lon": -100.46655555555556
+        },
+        {
+            "id": "KTPL",
+            "name": "DRAUGHON-MILLER CENTRAL TEXAS RGNL",
+            "country": "United States of America",
+            "lat": 31.151899999999998,
+            "lon": -97.40766111111111
+        },
+        {
+            "id": "KTRL",
+            "name": "TERRELL MUNI",
+            "country": "United States of America",
+            "lat": 32.70849444444445,
+            "lon": -96.26709444444444
+        },
+        {
+            "id": "KTYR",
+            "name": "TYLER POUNDS RGNL",
+            "country": "United States of America",
+            "lat": 32.353830555555554,
+            "lon": -95.40268888888889
+        },
+        {
+            "id": "KVCT",
+            "name": "VICTORIA RGNL",
+            "country": "United States of America",
+            "lat": 28.852544444444447,
+            "lon": -96.91848611111112
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 51,
+    "data": [
+        {
+            "id": "KMIV",
+            "name": "MILLVILLE MUNI",
+            "country": "United States of America",
+            "lat": 39.367805555555556,
+            "lon": -75.07222222222222
+        },
+        {
+            "id": "KMMU",
+            "name": "MORRISTOWN MUNI",
+            "country": "United States of America",
+            "lat": 40.79933333333333,
+            "lon": -74.4148888888889
+        },
+        {
+            "id": "KEWR",
+            "name": "NEWARK LIBERTY INTL",
+            "country": "United States of America",
+            "lat": 40.692477777777775,
+            "lon": -74.16868611111111
+        },
+        {
+            "id": "KTEB",
+            "name": "TETERBORO",
+            "country": "United States of America",
+            "lat": 40.85011111111111,
+            "lon": -74.06083333333333
+        },
+        {
+            "id": "KMJX",
+            "name": "OCEAN COUNTY",
+            "country": "United States of America",
+            "lat": 39.92603888888889,
+            "lon": -74.29553333333334
+        },
+        {
+            "id": "KTTN",
+            "name": "TRENTON MERCER",
+            "country": "United States of America",
+            "lat": 40.276694444444445,
+            "lon": -74.81347222222222
+        },
+        {
+            "id": "KWWD",
+            "name": "CAPE MAY COUNTY",
+            "country": "United States of America",
+            "lat": 39.0085,
+            "lon": -74.90858333333334
+        },
+        {
+            "id": "KWRI",
+            "name": "MC GUIRE FLD (JOINT BASE MC GUIRE DIX LAKEHURST)",
+            "country": "United States of America",
+            "lat": 40.01558333333333,
+            "lon": -74.59169999999999
+        },
+        {
+            "id": "KGUP",
+            "name": "GALLUP MUNI",
+            "country": "United States of America",
+            "lat": 35.51105833333333,
+            "lon": -108.78930833333334
+        },
+        {
+            "id": "KALM",
+            "name": "ALAMOGORDO-WHITE SANDS RGNL",
+            "country": "United States of America",
+            "lat": 32.84127777777778,
+            "lon": -105.9888611111111
+        }
+    ]
+}

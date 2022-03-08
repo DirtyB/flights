@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 305,
+    "data": [
+        {
+            "id": "RJCB",
+            "name": "OBIHIRO",
+            "country": "Japan",
+            "lat": 42.733333333333334,
+            "lon": 143.21722222222223
+        },
+        {
+            "id": "RJCC",
+            "name": "SAPPORO/NEW CHITOSE",
+            "country": "Japan",
+            "lat": 42.775277777777774,
+            "lon": 141.6925
+        },
+        {
+            "id": "RJCH",
+            "name": "HAKODATE",
+            "country": "Japan",
+            "lat": 41.769999999999996,
+            "lon": 140.82194444444445
+        },
+        {
+            "id": "RJCK",
+            "name": "KUSHIRO",
+            "country": "Japan",
+            "lat": 43.04083333333333,
+            "lon": 144.19305555555556
+        },
+        {
+            "id": "RJCM",
+            "name": "MEMANBETSU",
+            "country": "Japan",
+            "lat": 43.88055555555555,
+            "lon": 144.16416666666666
+        },
+        {
+            "id": "RJCN",
+            "name": "NAKASHIBETSU",
+            "country": "Japan",
+            "lat": 43.5775,
+            "lon": 144.95999999999998
+        },
+        {
+            "id": "RJCO",
+            "name": "SAPPORO/OKADAMA",
+            "country": "Japan",
+            "lat": 43.1175,
+            "lon": 141.3813888888889
+        },
+        {
+            "id": "RJCW",
+            "name": "WAKKANAI",
+            "country": "Japan",
+            "lat": 45.404444444444444,
+            "lon": 141.80222222222224
+        },
+        {
+            "id": "RJDC",
+            "name": "YAMAGUCHI-UBE",
+            "country": "Japan",
+            "lat": 33.93,
+            "lon": 131.27861111111113
+        },
+        {
+            "id": "RJDT",
+            "name": "TSUSHIMA",
+            "country": "Japan",
+            "lat": 34.285,
+            "lon": 129.33055555555555
+        }
+    ]
+}

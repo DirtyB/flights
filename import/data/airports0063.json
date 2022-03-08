@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 63,
+    "data": [
+        {
+            "id": "KOUN",
+            "name": "UNIVERSITY OF OKLAHOMA WESTHEIMER",
+            "country": "United States of America",
+            "lat": 35.245555555555555,
+            "lon": -97.47213888888889
+        },
+        {
+            "id": "KOKC",
+            "name": "WILL ROGER WORLD",
+            "country": "United States of America",
+            "lat": 35.39307222222222,
+            "lon": -97.60076111111111
+        },
+        {
+            "id": "KPWA",
+            "name": "WILEY POST",
+            "country": "United States of America",
+            "lat": 35.534166666666664,
+            "lon": -97.64705555555557
+        },
+        {
+            "id": "KOKM",
+            "name": "OKMULGEE RGNL",
+            "country": "United States of America",
+            "lat": 35.66811111111111,
+            "lon": -95.94852777777778
+        },
+        {
+            "id": "KPNC",
+            "name": "PONCA CITY RGNL",
+            "country": "United States of America",
+            "lat": 36.73191666666667,
+            "lon": -97.09977777777777
+        },
+        {
+            "id": "KRKR",
+            "name": "ROBERT S KERR",
+            "country": "United States of America",
+            "lat": 35.02162777777777,
+            "lon": -94.62125277777777
+        },
+        {
+            "id": "KSNL",
+            "name": "SHAWNEE RGNL",
+            "country": "United States of America",
+            "lat": 35.357305555555556,
+            "lon": -96.94283333333334
+        },
+        {
+            "id": "KSWO",
+            "name": "STILLWATER RGNL",
+            "country": "United States of America",
+            "lat": 36.16138888888889,
+            "lon": -97.08588888888889
+        },
+        {
+            "id": "KTIK",
+            "name": "TINKER AFB",
+            "country": "United States of America",
+            "lat": 35.414738888888884,
+            "lon": -97.38663055555556
+        },
+        {
+            "id": "KTUL",
+            "name": "TULSA INTL",
+            "country": "United States of America",
+            "lat": 36.198388888888886,
+            "lon": -95.88811111111112
+        }
+    ]
+}

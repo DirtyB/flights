@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 223,
+    "data": [
+        {
+            "id": "LHSN",
+            "name": "SZOLNOK",
+            "country": "Hungary",
+            "lat": 47.12277777777778,
+            "lon": 20.235555555555557
+        },
+        {
+            "id": "LHUD",
+            "name": "SZEGED",
+            "country": "Hungary",
+            "lat": 46.25083333333333,
+            "lon": 20.089166666666664
+        },
+        {
+            "id": "LIBC",
+            "name": "CROTONE",
+            "country": "Italy",
+            "lat": 38.99666666666667,
+            "lon": 17.079166666666666
+        },
+        {
+            "id": "LIBD",
+            "name": "BARI/PALESE",
+            "country": "Italy",
+            "lat": 41.13805555555555,
+            "lon": 16.765
+        },
+        {
+            "id": "LIBF",
+            "name": "FOGGIA/GINO LISA",
+            "country": "Italy",
+            "lat": 41.43333333333333,
+            "lon": 15.534722222222221
+        },
+        {
+            "id": "LIBG",
+            "name": "TARANTO/GROTTAGLIE",
+            "country": "Italy",
+            "lat": 40.51722222222222,
+            "lon": 17.399722222222223
+        },
+        {
+            "id": "LIBN",
+            "name": "LECCE/GALATINA (MIL)",
+            "country": "Italy",
+            "lat": 40.23922777777778,
+            "lon": 18.133325
+        },
+        {
+            "id": "LIBP",
+            "name": "PESCARA",
+            "country": "Italy",
+            "lat": 42.43722222222222,
+            "lon": 14.187222222222223
+        },
+        {
+            "id": "LIBR",
+            "name": "BRINDISI/CASALE",
+            "country": "Italy",
+            "lat": 40.660555555555554,
+            "lon": 17.948055555555555
+        },
+        {
+            "id": "LIBV",
+            "name": "GIOIA DEL COLLE (MIL)",
+            "country": "Italy",
+            "lat": 40.7697,
+            "lon": 16.933016666666667
+        }
+    ]
+}

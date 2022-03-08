@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 352,
+    "data": [
+        {
+            "id": "KEUF",
+            "name": "WEEDON FIELD",
+            "country": "United States of America",
+            "lat": 31.951305555555553,
+            "lon": -85.12891666666665
+        },
+        {
+            "id": "KGAD",
+            "name": "NORTHEAST ALABAMA RGNL",
+            "country": "United States of America",
+            "lat": 33.97264722222222,
+            "lon": -86.08908333333333
+        },
+        {
+            "id": "KHSV",
+            "name": "HUNTSVILLE INTL-CARL T JONES FIELD",
+            "country": "United States of America",
+            "lat": 34.63719444444445,
+            "lon": -86.77505555555555
+        },
+        {
+            "id": "KMXF",
+            "name": "MAXWELL AFB",
+            "country": "United States of America",
+            "lat": 32.38294444444445,
+            "lon": -86.36577777777777
+        },
+        {
+            "id": "KBFM",
+            "name": "MOBILE DOWNTOWN",
+            "country": "United States of America",
+            "lat": 30.62677777777778,
+            "lon": -88.06808333333333
+        },
+        {
+            "id": "KMOB",
+            "name": "MOBILE RGNL",
+            "country": "United States of America",
+            "lat": 30.691416666666665,
+            "lon": -88.24283333333334
+        },
+        {
+            "id": "KMGM",
+            "name": "MONTGOMERY RGNL (DANNELLY FIELD)",
+            "country": "United States of America",
+            "lat": 32.300638888888884,
+            "lon": -86.39397222222223
+        },
+        {
+            "id": "KMSL",
+            "name": "NORTHWEST ALABAMA RGNL",
+            "country": "United States of America",
+            "lat": 34.745305555555554,
+            "lon": -87.61022222222222
+        },
+        {
+            "id": "KSEM",
+            "name": "CRAIG FIELD",
+            "country": "United States of America",
+            "lat": 32.343947222222226,
+            "lon": -86.98780277777777
+        },
+        {
+            "id": "KASN",
+            "name": "TALLADEGA MUNI",
+            "country": "United States of America",
+            "lat": 33.56950277777778,
+            "lon": -86.0512
+        }
+    ]
+}

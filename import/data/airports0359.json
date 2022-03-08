@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 359,
+    "data": [
+        {
+            "id": "KCEC",
+            "name": "JACK MCNAMARA FIELD",
+            "country": "United States of America",
+            "lat": 41.780166666666666,
+            "lon": -124.23652777777778
+        },
+        {
+            "id": "KDAG",
+            "name": "BARSTOW-DAGGETT",
+            "country": "United States of America",
+            "lat": 34.853722222222224,
+            "lon": -116.78669444444444
+        },
+        {
+            "id": "KEDW",
+            "name": "EDWARDS AFB",
+            "country": "United States of America",
+            "lat": 34.918033333333334,
+            "lon": -117.87904999999999
+        },
+        {
+            "id": "KNJK",
+            "name": "EL CENTRO NAF",
+            "country": "United States of America",
+            "lat": 32.82916666666667,
+            "lon": -115.67166666666667
+        },
+        {
+            "id": "KEMT",
+            "name": "EL MONTE",
+            "country": "United States of America",
+            "lat": 34.08600833333334,
+            "lon": -118.03484444444445
+        },
+        {
+            "id": "KBLU",
+            "name": "BLUE CANYON - NYACK",
+            "country": "United States of America",
+            "lat": 39.274972222222225,
+            "lon": -120.70975
+        },
+        {
+            "id": "KFAT",
+            "name": "FRESNO YOSEMITE INTL",
+            "country": "United States of America",
+            "lat": 36.776555555555554,
+            "lon": -119.71883333333334
+        },
+        {
+            "id": "KFUL",
+            "name": "FULLERTON MUNI",
+            "country": "United States of America",
+            "lat": 33.87201388888889,
+            "lon": -117.97978333333333
+        },
+        {
+            "id": "KHAF",
+            "name": "HALF MOON BAY",
+            "country": "United States of America",
+            "lat": 37.513444444444445,
+            "lon": -122.50116666666666
+        },
+        {
+            "id": "KHHR",
+            "name": "JACK NORTHROP FIELD/HAWTHORNE MUNI",
+            "country": "United States of America",
+            "lat": 33.92283333333333,
+            "lon": -118.33519444444444
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 93,
+    "data": [
+        {
+            "id": "KSBM",
+            "name": "SHEBOYGAN COUNTY MEMORIAL",
+            "country": "United States of America",
+            "lat": 43.76976944444444,
+            "lon": -87.85172222222222
+        },
+        {
+            "id": "KCMY",
+            "name": "SPARTA/FORT MC COY",
+            "country": "United States of America",
+            "lat": 43.95829166666667,
+            "lon": -90.73793333333333
+        },
+        {
+            "id": "KSTE",
+            "name": "STEVENS POINT MUNI",
+            "country": "United States of America",
+            "lat": 44.54513611111111,
+            "lon": -89.53028333333333
+        },
+        {
+            "id": "KSUE",
+            "name": "DOOR COUNTY CHERRYLAND",
+            "country": "United States of America",
+            "lat": 44.84366666666667,
+            "lon": -87.42152777777778
+        },
+        {
+            "id": "KSUW",
+            "name": "RICHARD I BONG",
+            "country": "United States of America",
+            "lat": 46.68968333333333,
+            "lon": -92.09464166666666
+        },
+        {
+            "id": "KVOK",
+            "name": "VOLK FIELD",
+            "country": "United States of America",
+            "lat": 43.93923888888889,
+            "lon": -90.25316111111111
+        },
+        {
+            "id": "KUES",
+            "name": "WAUKESHA COUNTY",
+            "country": "United States of America",
+            "lat": 43.04102777777778,
+            "lon": -88.23705555555556
+        },
+        {
+            "id": "KAUW",
+            "name": "WAUSAU DOWNTOWN",
+            "country": "United States of America",
+            "lat": 44.92628333333333,
+            "lon": -89.627
+        },
+        {
+            "id": "KETB",
+            "name": "WEST BEND MUNI",
+            "country": "United States of America",
+            "lat": 43.42216666666666,
+            "lon": -88.12791666666666
+        },
+        {
+            "id": "KISW",
+            "name": "ALEXANDER FIELD SOUTH WOOD COUNTY",
+            "country": "United States of America",
+            "lat": 44.360644444444446,
+            "lon": -89.83813888888888
+        }
+    ]
+}

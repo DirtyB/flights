@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 289,
+    "data": [
+        {
+            "id": "UGTB",
+            "name": "TBILISI/TBILISI",
+            "country": "Georgia",
+            "lat": 41.669155555555555,
+            "lon": 44.95479166666667
+        },
+        {
+            "id": "UGKO",
+            "name": "KUTAISI/KOPITNARI",
+            "country": "Georgia",
+            "lat": 42.176825,
+            "lon": 42.48271388888889
+        },
+        {
+            "id": "UGSB",
+            "name": "BATUMI",
+            "country": "Georgia",
+            "lat": 41.61017777777778,
+            "lon": 41.59943888888889
+        },
+        {
+            "id": "UDSG",
+            "name": "GYUMRI",
+            "country": "Armenia",
+            "lat": 40.750475,
+            "lon": 43.859325
+        },
+        {
+            "id": "UDYZ",
+            "name": "YEREVAN",
+            "country": "Armenia",
+            "lat": 40.14722222222222,
+            "lon": 44.395833333333336
+        },
+        {
+            "id": "UASK",
+            "name": "UST-KAMENOGORSK",
+            "country": "Kazakhstan",
+            "lat": 50.03666666666666,
+            "lon": 82.49361111111111
+        },
+        {
+            "id": "UEEE",
+            "name": "YAKUTSK",
+            "country": "Russian Federation",
+            "lat": 62.093333333333334,
+            "lon": 129.77333333333334
+        },
+        {
+            "id": "UHBB",
+            "name": "BLAGOVESHCHENSK/IGNATYEVO",
+            "country": "Russian Federation",
+            "lat": 50.425555555555555,
+            "lon": 127.41250000000001
+        },
+        {
+            "id": "UHHH",
+            "name": "KHABAROVSK/NOVY",
+            "country": "Russian Federation",
+            "lat": 48.528055555555554,
+            "lon": 135.18805555555556
+        },
+        {
+            "id": "UHMA",
+            "name": "ANADYR/UGOLNY",
+            "country": "Russian Federation",
+            "lat": 64.735,
+            "lon": 177.73833333333332
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 180,
+    "data": [
+        {
+            "id": "EGLC",
+            "name": "LONDON/CITY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.50527777777778,
+            "lon": 0.05527777777777778
+        },
+        {
+            "id": "EGLF",
+            "name": "FARNBOROUGH",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.275277777777774,
+            "lon": -0.7775000000000001
+        },
+        {
+            "id": "EGLL",
+            "name": "LONDON HEATHROW",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.4775,
+            "lon": -0.4613888888888889
+        },
+        {
+            "id": "EGMC",
+            "name": "SOUTHEND",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 51.57027777777778,
+            "lon": 0.6933333333333334
+        },
+        {
+            "id": "EGMD",
+            "name": "LYDD",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 50.95611111111111,
+            "lon": 0.9391666666666667
+        },
+        {
+            "id": "EGNH",
+            "name": "BLACKPOOL",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.77166666666667,
+            "lon": -3.028611111111111
+        },
+        {
+            "id": "EGNJ",
+            "name": "HUMBERSIDE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.574444444444445,
+            "lon": -0.35083333333333333
+        },
+        {
+            "id": "EGNM",
+            "name": "LEEDS BRADFORD",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.866025,
+            "lon": -1.6607694444444443
+        },
+        {
+            "id": "EGNR",
+            "name": "HAWARDEN",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 53.17805555555555,
+            "lon": -2.977777777777778
+        },
+        {
+            "id": "EGNS",
+            "name": "ISLE OF MAN",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 54.083333333333336,
+            "lon": -4.623333333333334
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 171,
+    "data": [
+        {
+            "id": "EDVE",
+            "name": "BRAUNSCHWEIG-WOLFSBURG",
+            "country": "Germany",
+            "lat": 52.319361111111114,
+            "lon": 10.55888888888889
+        },
+        {
+            "id": "EDVK",
+            "name": "KASSEL-CALDEN",
+            "country": "Germany",
+            "lat": 51.420791666666666,
+            "lon": 9.392158333333333
+        },
+        {
+            "id": "EDXW",
+            "name": "SYLT",
+            "country": "Germany",
+            "lat": 54.91163611111111,
+            "lon": 8.34238611111111
+        },
+        {
+            "id": "ETAD",
+            "name": "SPANGDAHLEM AB",
+            "country": "Germany",
+            "lat": 49.97654166666667,
+            "lon": 6.698508333333334
+        },
+        {
+            "id": "ETAR",
+            "name": "RAMSTEIN AB",
+            "country": "Germany",
+            "lat": 49.43690833333333,
+            "lon": 7.600311111111111
+        },
+        {
+            "id": "ETEB",
+            "name": "ANSBACH AHP",
+            "country": "Germany",
+            "lat": 49.308166666666665,
+            "lon": 10.638666666666666
+        },
+        {
+            "id": "ETHA",
+            "name": "ALTENSTADT",
+            "country": "Germany",
+            "lat": 47.83551666666667,
+            "lon": 10.871252777777778
+        },
+        {
+            "id": "ETHB",
+            "name": "BUECKEBURG",
+            "country": "Germany",
+            "lat": 52.2785,
+            "lon": 9.082166666666666
+        },
+        {
+            "id": "ETHC",
+            "name": "CELLE",
+            "country": "Germany",
+            "lat": 52.591166666666666,
+            "lon": 10.022166666666667
+        },
+        {
+            "id": "ETHE",
+            "name": "RHEINE-BENTLAGE",
+            "country": "Germany",
+            "lat": 52.29116666666666,
+            "lon": 7.387019444444445
+        }
+    ]
+}

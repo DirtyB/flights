@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 292,
+    "data": [
+        {
+            "id": "UNTT",
+            "name": "TOMSK/BOGASHEVO",
+            "country": "Russian Federation",
+            "lat": 56.38305555555556,
+            "lon": 85.21055555555556
+        },
+        {
+            "id": "URKA",
+            "name": "ANAPA/VITYAZEVO",
+            "country": "Russian Federation",
+            "lat": 45.00222222222222,
+            "lon": 37.34722222222222
+        },
+        {
+            "id": "URKK",
+            "name": "KRASNODAR/PASHKOVSKIY",
+            "country": "Russian Federation",
+            "lat": 45.03472222222222,
+            "lon": 39.17027777777778
+        },
+        {
+            "id": "URML",
+            "name": "MAKHACHKALA/UYTASH",
+            "country": "Russian Federation",
+            "lat": 42.81679722222223,
+            "lon": 47.652408333333334
+        },
+        {
+            "id": "URMM",
+            "name": "MINERALNYYE VODY",
+            "country": "Russian Federation",
+            "lat": 44.22680555555556,
+            "lon": 43.08302777777778
+        },
+        {
+            "id": "URMN",
+            "name": "NALCHIK",
+            "country": "Russian Federation",
+            "lat": 43.513333333333335,
+            "lon": 43.63666666666666
+        },
+        {
+            "id": "URMO",
+            "name": "VLADIKAVKAZ/BESLAN",
+            "country": "Russian Federation",
+            "lat": 43.20527777777778,
+            "lon": 44.60666666666667
+        },
+        {
+            "id": "URMT",
+            "name": "STAVROPOL/SHPAKOVSKOYE",
+            "country": "Russian Federation",
+            "lat": 45.10916666666667,
+            "lon": 42.112500000000004
+        },
+        {
+            "id": "URRR",
+            "name": "ROSTOV-NA-DONU",
+            "country": "Russian Federation",
+            "lat": 47.25833333333333,
+            "lon": 39.81805555555556
+        },
+        {
+            "id": "URSS",
+            "name": "SOCHI",
+            "country": "Russian Federation",
+            "lat": 43.44444444444444,
+            "lon": 39.94694444444444
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 238,
+    "data": [
+        {
+            "id": "LRCK",
+            "name": "CONSTANTA/MIHAIL KOGALNICEANU-CONSTANTA",
+            "country": "Romania",
+            "lat": 44.36222222222222,
+            "lon": 28.488333333333333
+        },
+        {
+            "id": "LRCL",
+            "name": "CLUJ NAPOCA/AVRAM IANCU",
+            "country": "Romania",
+            "lat": 46.78916666666667,
+            "lon": 23.692222222222224
+        },
+        {
+            "id": "LRCV",
+            "name": "CRAIOVA/CRAIOVA",
+            "country": "Romania",
+            "lat": 44.31805555555556,
+            "lon": 23.88861111111111
+        },
+        {
+            "id": "LRIA",
+            "name": "IASI/IASI",
+            "country": "Romania",
+            "lat": 47.180277777777775,
+            "lon": 27.620833333333334
+        },
+        {
+            "id": "LROD",
+            "name": "ORADEA/ORADEA",
+            "country": "Romania",
+            "lat": 47.025277777777774,
+            "lon": 21.9025
+        },
+        {
+            "id": "LROP",
+            "name": "BUCURESTI/HENRI COANDA",
+            "country": "Romania",
+            "lat": 44.571111111111115,
+            "lon": 26.084999999999997
+        },
+        {
+            "id": "LRSB",
+            "name": "SIBIU/SIBIU",
+            "country": "Romania",
+            "lat": 45.78583333333333,
+            "lon": 24.085555555555555
+        },
+        {
+            "id": "LRSM",
+            "name": "SATU MARE/SATU MARE",
+            "country": "Romania",
+            "lat": 47.70333333333333,
+            "lon": 22.885555555555555
+        },
+        {
+            "id": "LRSV",
+            "name": "SUCEAVA/STEFAN CEL MARE-SUCEAVA",
+            "country": "Romania",
+            "lat": 47.686388888888885,
+            "lon": 26.354444444444447
+        },
+        {
+            "id": "LRTC",
+            "name": "TULCEA/DELTA DUNARII",
+            "country": "Romania",
+            "lat": 45.062777777777775,
+            "lon": 28.714444444444442
+        }
+    ]
+}

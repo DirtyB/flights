@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 345,
+    "data": [
+        {
+            "id": "PAKK",
+            "name": "KOYUK ALFRED ADAMS",
+            "country": "United States of America",
+            "lat": 64.93952777777778,
+            "lon": -161.1542777777778
+        },
+        {
+            "id": "PAKU",
+            "name": "KUPARUK",
+            "country": "United States of America",
+            "lat": 70.33066666666666,
+            "lon": -149.59805555555556
+        },
+        {
+            "id": "PADM",
+            "name": "MARSHALL",
+            "country": "United States of America",
+            "lat": 61.86416666666667,
+            "lon": -162.02611111111113
+        },
+        {
+            "id": "PAMC",
+            "name": "MC GRATH",
+            "country": "United States of America",
+            "lat": 62.952783333333336,
+            "lon": -155.6070472222222
+        },
+        {
+            "id": "PAIN",
+            "name": "MCKINLEY",
+            "country": "United States of America",
+            "lat": 63.732597222222225,
+            "lon": -148.9106361111111
+        },
+        {
+            "id": "PAMY",
+            "name": "MEKORYUK",
+            "country": "United States of America",
+            "lat": 60.37238888888889,
+            "lon": -166.27019444444446
+        },
+        {
+            "id": "PAMM",
+            "name": "METLAKATLA",
+            "country": "United States of America",
+            "lat": 55.1310276666667,
+            "lon": -131.578055666667
+        },
+        {
+            "id": "PAMD",
+            "name": "MIDDLETON ISLAND",
+            "country": "United States of America",
+            "lat": 59.44994166666666,
+            "lon": -146.3072388888889
+        },
+        {
+            "id": "PAMH",
+            "name": "MINCHUMINA",
+            "country": "United States of America",
+            "lat": 63.88597222222222,
+            "lon": -152.30183333333335
+        },
+        {
+            "id": "PAMO",
+            "name": "MOUNTAIN VILLAGE",
+            "country": "United States of America",
+            "lat": 62.09477777777778,
+            "lon": -163.6828611111111
+        }
+    ]
+}

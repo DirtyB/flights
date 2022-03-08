@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 263,
+    "data": [
+        {
+            "id": "FAEO",
+            "name": "ERMELO",
+            "country": "South Africa",
+            "lat": -26.4955556,
+            "lon": 29.9797222
+        },
+        {
+            "id": "FAGC",
+            "name": "GRAND CENTRAL",
+            "country": "South Africa",
+            "lat": -25.987066666666667,
+            "lon": 28.14054722222222
+        },
+        {
+            "id": "FAGG",
+            "name": "GEORGE (GEORGE AIRPORT)",
+            "country": "South Africa",
+            "lat": -34.006702777777775,
+            "lon": 22.374280555555558
+        },
+        {
+            "id": "FAGM",
+            "name": "RAND",
+            "country": "South Africa",
+            "lat": -26.24197777777778,
+            "lon": 28.151355555555554
+        },
+        {
+            "id": "FAJB",
+            "name": "JOHANNESBURG (CITY)",
+            "country": "South Africa",
+            "lat": 26.2666666666667,
+            "lon": 28.15
+        },
+        {
+            "id": "FAKM",
+            "name": "KIMBERLEY (KIMBERLEY AIRPORT)",
+            "country": "South Africa",
+            "lat": -28.804783333333333,
+            "lon": 24.764033333333334
+        },
+        {
+            "id": "FAKN",
+            "name": "KRUGER MPUMALANGA INTERNATIONAL AIRPORT",
+            "country": "South Africa",
+            "lat": -25.391583333333333,
+            "lon": 31.099277777777775
+        },
+        {
+            "id": "FALA",
+            "name": "LANSERIA",
+            "country": "South Africa",
+            "lat": -25.93969166666667,
+            "lon": 27.925575000000002
+        },
+        {
+            "id": "FALE",
+            "name": "KING SHAKA INTERNATIONAL AIRPORT",
+            "country": "South Africa",
+            "lat": -29.611772222222225,
+            "lon": 31.11931388888889
+        },
+        {
+            "id": "FALW",
+            "name": "LANGEBAANWEG (SAAF)",
+            "country": "South Africa",
+            "lat": -32.968811111111116,
+            "lon": 18.16526111111111
+        }
+    ]
+}

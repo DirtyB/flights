@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 182,
+    "data": [
+        {
+            "id": "EGPE",
+            "name": "INVERNESS",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 57.5425,
+            "lon": -4.0475
+        },
+        {
+            "id": "EGPF",
+            "name": "GLASGOW",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 55.871944444444445,
+            "lon": -4.433055555555556
+        },
+        {
+            "id": "EGPH",
+            "name": "EDINBURGH",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 55.95,
+            "lon": -3.3725
+        },
+        {
+            "id": "EGPI",
+            "name": "ISLAY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 55.68333333333333,
+            "lon": -6.259722222222222
+        },
+        {
+            "id": "EGPK",
+            "name": "PRESTWICK",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 55.50944444444445,
+            "lon": -4.594444444444444
+        },
+        {
+            "id": "EGPL",
+            "name": "BENBECULA",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 57.480555555555554,
+            "lon": -7.363888888888889
+        },
+        {
+            "id": "EGPM",
+            "name": "SCATSTA",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 60.43277777777777,
+            "lon": -1.296111111111111
+        },
+        {
+            "id": "EGPN",
+            "name": "DUNDEE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 56.4525,
+            "lon": -3.0258333333333334
+        },
+        {
+            "id": "EGPO",
+            "name": "STORNOWAY",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 58.21555555555556,
+            "lon": -6.3311111111111105
+        },
+        {
+            "id": "EGPU",
+            "name": "TIREE",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 56.49916666666667,
+            "lon": -6.8691666666666675
+        }
+    ]
+}

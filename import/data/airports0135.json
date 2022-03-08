@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 135,
+    "data": [
+        {
+            "id": "MHLE",
+            "name": "LA ESPERANZA",
+            "country": "Honduras",
+            "lat": 14.266666666666667,
+            "lon": -88.16666666666667
+        },
+        {
+            "id": "MHLM",
+            "name": "SAN PEDRO SULA/RAMON V MORALES INTL",
+            "country": "Honduras",
+            "lat": 15.451958333333332,
+            "lon": -87.92415277777778
+        },
+        {
+            "id": "MHPL",
+            "name": "PUERTO LEMPIRA",
+            "country": "Honduras",
+            "lat": 15.271111111111113,
+            "lon": -83.78388888888888
+        },
+        {
+            "id": "MHRO",
+            "name": "ROATAN/JUAN MANUEL GALVEZ INTL.",
+            "country": "Honduras",
+            "lat": 16.317283333333332,
+            "lon": -86.52229444444444
+        },
+        {
+            "id": "MHSC",
+            "name": "PALMEROLA /SOTO CANO (MIL)",
+            "country": "Honduras",
+            "lat": 14.382375,
+            "lon": -87.6211611111111
+        },
+        {
+            "id": "MHSR",
+            "name": "SANTA ROSA DE COPAN",
+            "country": "Honduras",
+            "lat": 15.4686111,
+            "lon": -87.8269444
+        },
+        {
+            "id": "MHTG",
+            "name": "TEGUCIGALPA/TONCONTIN INTL",
+            "country": "Honduras",
+            "lat": 14.060255555555557,
+            "lon": -87.21741111111112
+        },
+        {
+            "id": "MHTE",
+            "name": "TELA",
+            "country": "Honduras",
+            "lat": 15.776000000000002,
+            "lon": -87.47583333333334
+        },
+        {
+            "id": "MSLP",
+            "name": "AEROPUERTO INTERNACIONAL DE EL SAVADOR MONSENOR OSCAR ARNULFO ROMERO Y GALDAMEZ",
+            "country": "El Salvador",
+            "lat": 13.440936111111112,
+            "lon": -89.05575
+        },
+        {
+            "id": "MSSS",
+            "name": "AEROPUERTO INTERNACIONAL DE LLAPANGO",
+            "country": "El Salvador",
+            "lat": 13.691666666666666,
+            "lon": -89.12555555555555
+        }
+    ]
+}

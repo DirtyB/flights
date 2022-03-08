@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 274,
+    "data": [
+        {
+            "id": "OEBA",
+            "name": "AL BAHA",
+            "country": "Saudi Arabia",
+            "lat": 20.296111111111113,
+            "lon": 41.634166666666665
+        },
+        {
+            "id": "OEDM",
+            "name": "AL DAWADMI/KING SALMAN BIN ABDULAZIZ",
+            "country": "Saudi Arabia",
+            "lat": 24.449722222222224,
+            "lon": 44.12111111111111
+        },
+        {
+            "id": "OEBH",
+            "name": "BISHA",
+            "country": "Saudi Arabia",
+            "lat": 19.984166666666667,
+            "lon": 42.62305555555555
+        },
+        {
+            "id": "OEDF",
+            "name": "DAMMAM/KING FAHD INTERNATIONAL",
+            "country": "Saudi Arabia",
+            "lat": 26.47111111111111,
+            "lon": 49.797777777777775
+        },
+        {
+            "id": "OEDR",
+            "name": "DHAHRAN/KING ABDULAZIZ AIR BASE",
+            "country": "Saudi Arabia",
+            "lat": 26.264166666666668,
+            "lon": 50.152499999999996
+        },
+        {
+            "id": "OEGN",
+            "name": "JAZAN/KING ABDULLAH BIN ABDULAZIZ",
+            "country": "Saudi Arabia",
+            "lat": 16.90111111111111,
+            "lon": 42.58583333333333
+        },
+        {
+            "id": "OEGS",
+            "name": "GASSIM/PRINCE NAIF BIN ABDULAZIZ",
+            "country": "Saudi Arabia",
+            "lat": 26.302777777777777,
+            "lon": 43.774166666666666
+        },
+        {
+            "id": "OEGT",
+            "name": "GURIAT",
+            "country": "Saudi Arabia",
+            "lat": 31.411944444444444,
+            "lon": 37.279444444444444
+        },
+        {
+            "id": "OEHL",
+            "name": "HAIL",
+            "country": "Saudi Arabia",
+            "lat": 27.439722222222223,
+            "lon": 41.686388888888885
+        },
+        {
+            "id": "OEJN",
+            "name": "JEDDAH/KING ABDULAZIZ INTERNATIONAL",
+            "country": "Saudi Arabia",
+            "lat": 21.68111111111111,
+            "lon": 39.15555555555555
+        }
+    ]
+}

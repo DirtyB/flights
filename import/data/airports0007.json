@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 7,
+    "data": [
+        {
+            "id": "KRMG",
+            "name": "RICHARD B. RUSSELL REGIONAL-J.H. TOWERS FIELD",
+            "country": "United States of America",
+            "lat": 34.35078055555556,
+            "lon": -85.15866666666668
+        },
+        {
+            "id": "KSAV",
+            "name": "SAVANNAH/HILTON HEAD INTL",
+            "country": "United States of America",
+            "lat": 32.127583333333334,
+            "lon": -81.2021388888889
+        },
+        {
+            "id": "KSVN",
+            "name": "HUNTER AAF",
+            "country": "United States of America",
+            "lat": 32.01,
+            "lon": -81.14566666666667
+        },
+        {
+            "id": "KTBR",
+            "name": "STATESBORO-BULLOCH COUNTY",
+            "country": "United States of America",
+            "lat": 32.48275,
+            "lon": -81.73694444444445
+        },
+        {
+            "id": "KTMA",
+            "name": "HENRY TIFT MYERS",
+            "country": "United States of America",
+            "lat": 31.428972222222225,
+            "lon": -83.48852777777778
+        },
+        {
+            "id": "KTVI",
+            "name": "THOMASVILLE RGNL",
+            "country": "United States of America",
+            "lat": 30.901805555555555,
+            "lon": -83.88113888888888
+        },
+        {
+            "id": "KTOC",
+            "name": "TOCCOA RG LETOURNEAU FIELD",
+            "country": "United States of America",
+            "lat": 34.59281111111111,
+            "lon": -83.29636944444444
+        },
+        {
+            "id": "KVLD",
+            "name": "VALDOSTA RGNL",
+            "country": "United States of America",
+            "lat": 30.78137222222222,
+            "lon": -83.27621944444445
+        },
+        {
+            "id": "KVDI",
+            "name": "VIDALIA RGNL",
+            "country": "United States of America",
+            "lat": 32.192722222222216,
+            "lon": -82.37116666666665
+        },
+        {
+            "id": "KWRB",
+            "name": "ROBINS AFB",
+            "country": "United States of America",
+            "lat": 32.64017222222222,
+            "lon": -83.59191944444444
+        }
+    ]
+}

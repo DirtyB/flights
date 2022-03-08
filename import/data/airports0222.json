@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 222,
+    "data": [
+        {
+            "id": "LGZA",
+            "name": "ZAKINTHOS/DIONISIOS SOLOMOS",
+            "country": "Greece",
+            "lat": 37.75111111111111,
+            "lon": 20.884166666666665
+        },
+        {
+            "id": "LGIO",
+            "name": "IOANNINA/KING PYRROS",
+            "country": "Greece",
+            "lat": 39.697222222222216,
+            "lon": 20.821944444444444
+        },
+        {
+            "id": "LHBC",
+            "name": "BEKESCSABA",
+            "country": "Hungary",
+            "lat": 46.68333333333333,
+            "lon": 21.162499999999998
+        },
+        {
+            "id": "LHBP",
+            "name": "BUDAPEST LISZT FERENC INTERNATIONAL AIRPORT",
+            "country": "Hungary",
+            "lat": 47.43944444444444,
+            "lon": 19.261944444444445
+        },
+        {
+            "id": "LHDC",
+            "name": "DEBRECEN",
+            "country": "Hungary",
+            "lat": 47.48888888888889,
+            "lon": 21.61527777777778
+        },
+        {
+            "id": "LHKE",
+            "name": "KECSKEMET",
+            "country": "Hungary",
+            "lat": 46.9175,
+            "lon": 19.749166666666667
+        },
+        {
+            "id": "LHPA",
+            "name": "PAPA",
+            "country": "Hungary",
+            "lat": 47.36398611111111,
+            "lon": 17.500569444444444
+        },
+        {
+            "id": "LHPP",
+            "name": "PECS/POGANY",
+            "country": "Hungary",
+            "lat": 45.98916666666667,
+            "lon": 18.242222222222225
+        },
+        {
+            "id": "LHPR",
+            "name": "GYOR/PER",
+            "country": "Hungary",
+            "lat": 47.62722222222222,
+            "lon": 17.808333333333334
+        },
+        {
+            "id": "LHSM",
+            "name": "HEVIZ/BALATON",
+            "country": "Hungary",
+            "lat": 46.686388888888885,
+            "lon": 17.159166666666664
+        }
+    ]
+}

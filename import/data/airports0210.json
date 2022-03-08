@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 210,
+    "data": [
+        {
+            "id": "LFBI",
+            "name": "POITIERS-BIARD",
+            "country": "France",
+            "lat": 46.587500000000006,
+            "lon": 0.30666666666666664
+        },
+        {
+            "id": "LFBL",
+            "name": "LIMOGES-BELLEGARDE",
+            "country": "France",
+            "lat": 45.86083333333333,
+            "lon": 1.1802777777777778
+        },
+        {
+            "id": "LFBM",
+            "name": "MONT-DE-MARSAN",
+            "country": "France",
+            "lat": 43.91138888888889,
+            "lon": -0.5094444444444445
+        },
+        {
+            "id": "LFBO",
+            "name": "TOULOUSE-BLAGNAC ; TOULOUSE/CCER",
+            "country": "France",
+            "lat": 43.635,
+            "lon": 1.3677777777777778
+        },
+        {
+            "id": "LFBP",
+            "name": "PAU-PYRENEES",
+            "country": "France",
+            "lat": 43.38,
+            "lon": -0.41861111111111116
+        },
+        {
+            "id": "LFBT",
+            "name": "TARBES LOURDES PYRENEES",
+            "country": "France",
+            "lat": 43.18555555555555,
+            "lon": -0.002777777777777778
+        },
+        {
+            "id": "LFBU",
+            "name": "ANGOULEME-BRIE-CHAMPNIERS",
+            "country": "France",
+            "lat": 45.72944444444445,
+            "lon": 0.21916666666666668
+        },
+        {
+            "id": "LFBY",
+            "name": "DAX-SEYRESSE",
+            "country": "France",
+            "lat": 43.689166666666665,
+            "lon": -1.0688888888888888
+        },
+        {
+            "id": "LFBZ",
+            "name": "BIARRITZ-PAYS BASQUE",
+            "country": "France",
+            "lat": 43.468333333333334,
+            "lon": -1.531111111111111
+        },
+        {
+            "id": "LFCK",
+            "name": "CASTRES MAZAMET",
+            "country": "France",
+            "lat": 43.555,
+            "lon": 2.2905555555555552
+        }
+    ]
+}

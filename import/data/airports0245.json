@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 245,
+    "data": [
+        {
+            "id": "LTCU",
+            "name": "BINGOL",
+            "country": "Turkey",
+            "lat": 38.861111111111114,
+            "lon": 40.5925
+        },
+        {
+            "id": "LTCV",
+            "name": "SIRNAK/SERAFETTIN ELCI",
+            "country": "Turkey",
+            "lat": 37.36388888888889,
+            "lon": 42.059999999999995
+        },
+        {
+            "id": "LTDA",
+            "name": "HATAY",
+            "country": "Turkey",
+            "lat": 36.37222222222222,
+            "lon": 36.29861111111111
+        },
+        {
+            "id": "LTFC",
+            "name": "ISPARTA/S.DEMIREL",
+            "country": "Turkey",
+            "lat": 37.85583333333334,
+            "lon": 30.366944444444446
+        },
+        {
+            "id": "LTFD",
+            "name": "BALIKESIR/KOCA SEYIT",
+            "country": "Turkey",
+            "lat": 39.552499999999995,
+            "lon": 27.010277777777777
+        },
+        {
+            "id": "LTFE",
+            "name": "MUGLA/MILAS-BODRUM",
+            "country": "Turkey",
+            "lat": 37.24944444444444,
+            "lon": 27.66472222222222
+        },
+        {
+            "id": "LTFG",
+            "name": "GAZIPASA - ALANYA",
+            "country": "Turkey",
+            "lat": 36.29944444444444,
+            "lon": 32.30138888888889
+        },
+        {
+            "id": "LTFH",
+            "name": "SAMSUN/CARSAMBA",
+            "country": "Turkey",
+            "lat": 41.26555555555556,
+            "lon": 36.54861111111111
+        },
+        {
+            "id": "LTFJ",
+            "name": "ISTANBUL/SABIHA GOKCEN",
+            "country": "Turkey",
+            "lat": 40.89833333333333,
+            "lon": 29.309166666666666
+        },
+        {
+            "id": "LUKK",
+            "name": "CHISINAU/INTERNATIONAL",
+            "country": "Republic of Moldova",
+            "lat": 46.927794444444444,
+            "lon": 28.93092777777778
+        }
+    ]
+}

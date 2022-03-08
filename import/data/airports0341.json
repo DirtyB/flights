@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 341,
+    "data": [
+        {
+            "id": "PASY",
+            "name": "EARECKSON AS",
+            "country": "United States of America",
+            "lat": 52.71226111111111,
+            "lon": 174.11359444444443
+        },
+        {
+            "id": "PAII",
+            "name": "EGEGIK",
+            "country": "United States of America",
+            "lat": 58.185488888888884,
+            "lon": -157.3754277777778
+        },
+        {
+            "id": "PAEI",
+            "name": "EIELSON AFB",
+            "country": "United States of America",
+            "lat": 64.66564444444445,
+            "lon": -147.10144166666666
+        },
+        {
+            "id": "PAEL",
+            "name": "ELFIN COVE",
+            "country": "United States of America",
+            "lat": 58.1951663333333,
+            "lon": -136.347389333333
+        },
+        {
+            "id": "PFEL",
+            "name": "ELIM",
+            "country": "United States of America",
+            "lat": 64.61497222222222,
+            "lon": -162.2705277777778
+        },
+        {
+            "id": "PAED",
+            "name": "ELMENDORF AFB",
+            "country": "United States of America",
+            "lat": 61.251352777777775,
+            "lon": -149.8065277777778
+        },
+        {
+            "id": "PAEM",
+            "name": "EMMONAK",
+            "country": "United States of America",
+            "lat": 62.786138888888885,
+            "lon": -164.49075
+        },
+        {
+            "id": "PAZK",
+            "name": "EUREKA",
+            "country": "United States of America",
+            "lat": 65.1758333,
+            "lon": -150.2205556
+        },
+        {
+            "id": "PAFA",
+            "name": "FAIRBANKS INTL",
+            "country": "United States of America",
+            "lat": 64.81510833333333,
+            "lon": -147.85644722222222
+        },
+        {
+            "id": "PAKF",
+            "name": "FALSE PASS",
+            "country": "United States of America",
+            "lat": 54.847861111111115,
+            "lon": -163.4071111111111
+        }
+    ]
+}

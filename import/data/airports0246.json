@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 246,
+    "data": [
+        {
+            "id": "LUBL",
+            "name": "BALTI/INTERNATIONAL",
+            "country": "Republic of Moldova",
+            "lat": 47.83846666666667,
+            "lon": 27.780705555555553
+        },
+        {
+            "id": "LWSK",
+            "name": "SKOPJE",
+            "country": "The former Yugoslav Republic of Macedonia",
+            "lat": 41.961666666666666,
+            "lon": 21.62138888888889
+        },
+        {
+            "id": "LWOH",
+            "name": "OHRID",
+            "country": "The former Yugoslav Republic of Macedonia",
+            "lat": 41.17992222222222,
+            "lon": 20.742327777777778
+        },
+        {
+            "id": "LXGB",
+            "name": "GIBRALTAR (NORTH FRONT)",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": 36.15116666666667,
+            "lon": -5.349666666666667
+        },
+        {
+            "id": "GABS",
+            "name": "BAMAKO/SENOU",
+            "country": "Mali",
+            "lat": 12.53786388888889,
+            "lon": -7.943252777777778
+        },
+        {
+            "id": "GAMB",
+            "name": "MOPTI/AMBODEDJO",
+            "country": "Mali",
+            "lat": 14.508611111111112,
+            "lon": -4.0841666666666665
+        },
+        {
+            "id": "GANR",
+            "name": "NIORO",
+            "country": "Mali",
+            "lat": 15.238763888888888,
+            "lon": -9.576513888888888
+        },
+        {
+            "id": "GBYD",
+            "name": "BANJUL INTERNATIONAL",
+            "country": "Gambia",
+            "lat": 13.342522222222224,
+            "lon": -16.65781388888889
+        },
+        {
+            "id": "GFLL",
+            "name": "FREETOWN/LUNGI",
+            "country": "Sierra Leone",
+            "lat": 8.616458333333332,
+            "lon": -13.195583333333333
+        },
+        {
+            "id": "GGOV",
+            "name": "BISSAU/OSWALDO VIEIRA INTL",
+            "country": "Guinea-Bissau",
+            "lat": 11.88886111111111,
+            "lon": -15.655722222222222
+        }
+    ]
+}

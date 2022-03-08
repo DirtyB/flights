@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 68,
+    "data": [
+        {
+            "id": "KMUI",
+            "name": "MUIR AAF (FORT INDIANTOWN GAP)",
+            "country": "United States of America",
+            "lat": 40.43483333333333,
+            "lon": -76.56933333333333
+        },
+        {
+            "id": "KPHL",
+            "name": "PHILADELPHIA INTL",
+            "country": "United States of America",
+            "lat": 39.87224722222222,
+            "lon": -75.2408638888889
+        },
+        {
+            "id": "KPNE",
+            "name": "NORTHEAST PHILADELPHIA",
+            "country": "United States of America",
+            "lat": 40.081944444444446,
+            "lon": -75.01058333333333
+        },
+        {
+            "id": "KAGC",
+            "name": "ALLEGHENY COUNTY",
+            "country": "United States of America",
+            "lat": 40.35443611111111,
+            "lon": -79.92904444444444
+        },
+        {
+            "id": "KPIT",
+            "name": "PITTSBURGH INTL",
+            "country": "United States of America",
+            "lat": 40.491416666666666,
+            "lon": -80.23269444444445
+        },
+        {
+            "id": "KPTW",
+            "name": "HERITAGE FIELD",
+            "country": "United States of America",
+            "lat": 40.239555555555555,
+            "lon": -75.55672222222222
+        },
+        {
+            "id": "KUKT",
+            "name": "QUAKERTOWN",
+            "country": "United States of America",
+            "lat": 40.435138888888886,
+            "lon": -75.38194444444444
+        },
+        {
+            "id": "KRDG",
+            "name": "READING RGNL/CARL A SPAATZ FIELD",
+            "country": "United States of America",
+            "lat": 40.3785,
+            "lon": -75.96525
+        },
+        {
+            "id": "KSEG",
+            "name": "PENN VALLEY",
+            "country": "United States of America",
+            "lat": 40.82123333333334,
+            "lon": -76.86417222222222
+        },
+        {
+            "id": "KIPT",
+            "name": "WILLIAMSPORT RGNL",
+            "country": "United States of America",
+            "lat": 41.24166666666667,
+            "lon": -76.92180555555557
+        }
+    ]
+}

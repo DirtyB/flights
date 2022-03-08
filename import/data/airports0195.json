@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 195,
+    "data": [
+        {
+            "id": "ENSH",
+            "name": "SVOLVAER/HELLE",
+            "country": "Norway",
+            "lat": 68.24333333333334,
+            "lon": 14.669166666666666
+        },
+        {
+            "id": "ENSK",
+            "name": "STOKMARKNES/SKAGEN",
+            "country": "Norway",
+            "lat": 68.58083333333333,
+            "lon": 15.026111111111112
+        },
+        {
+            "id": "ENSL",
+            "name": "SLEIPNER A",
+            "country": "Norway",
+            "lat": 58.3666667,
+            "lon": 1.9069444
+        },
+        {
+            "id": "ENSN",
+            "name": "SKIEN/GEITERYGGEN",
+            "country": "Norway",
+            "lat": 59.184999999999995,
+            "lon": 9.566944444444443
+        },
+        {
+            "id": "ENSO",
+            "name": "STORD/SORSTOKKEN",
+            "country": "Norway",
+            "lat": 59.79277777777778,
+            "lon": 5.339722222222222
+        },
+        {
+            "id": "ENSR",
+            "name": "SORKJOSEN",
+            "country": "Norway",
+            "lat": 69.78666666666666,
+            "lon": 20.959722222222222
+        },
+        {
+            "id": "ENSS",
+            "name": "VARDO/SVARTNES",
+            "country": "Norway",
+            "lat": 70.35527777777777,
+            "lon": 31.045
+        },
+        {
+            "id": "ENST",
+            "name": "SANDNESSJOEN/STOKKA",
+            "country": "Norway",
+            "lat": 65.95971388888888,
+            "lon": 12.472216666666666
+        },
+        {
+            "id": "ENTC",
+            "name": "TROMSO/LANGNES",
+            "country": "Norway",
+            "lat": 69.68138888888889,
+            "lon": 18.91777777777778
+        },
+        {
+            "id": "ENTO",
+            "name": "SANDEFJORD/TORP",
+            "country": "Norway",
+            "lat": 59.18666666666666,
+            "lon": 10.258611111111112
+        }
+    ]
+}

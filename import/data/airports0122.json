@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 122,
+    "data": [
+        {
+            "id": "MMCL",
+            "name": "CULIACAN",
+            "country": "Mexico",
+            "lat": 24.765058333333332,
+            "lon": -107.47515
+        },
+        {
+            "id": "MMLO",
+            "name": "LEON",
+            "country": "Mexico",
+            "lat": 20.993305555555555,
+            "lon": -101.4809638888889
+        },
+        {
+            "id": "MMGL",
+            "name": "GUADALAJARA",
+            "country": "Mexico",
+            "lat": 20.521833333333333,
+            "lon": -103.31114444444444
+        },
+        {
+            "id": "MMDO",
+            "name": "DURANGO",
+            "country": "Mexico",
+            "lat": 24.126033333333332,
+            "lon": -104.52746111111111
+        },
+        {
+            "id": "MMGM",
+            "name": "GUAYMAS",
+            "country": "Mexico",
+            "lat": 27.96932222222222,
+            "lon": -110.92371666666668
+        },
+        {
+            "id": "MMHO",
+            "name": "HERMOSILLO",
+            "country": "Mexico",
+            "lat": 29.095816666666664,
+            "lon": -111.04785277777778
+        },
+        {
+            "id": "MMZH",
+            "name": "IXTAPA-ZIHUATANEJO",
+            "country": "Mexico",
+            "lat": 17.601622222222225,
+            "lon": -101.46055
+        },
+        {
+            "id": "MMLP",
+            "name": "LA PAZ",
+            "country": "Mexico",
+            "lat": 24.072744444444446,
+            "lon": -110.36254166666666
+        },
+        {
+            "id": "MMLT",
+            "name": "LORETO",
+            "country": "Mexico",
+            "lat": 25.989877777777778,
+            "lon": -111.34696666666666
+        },
+        {
+            "id": "MMLM",
+            "name": "LOS MOCHIS",
+            "country": "Mexico",
+            "lat": 25.68608888888889,
+            "lon": -109.0812
+        }
+    ]
+}

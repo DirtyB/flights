@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 304,
+    "data": [
+        {
+            "id": "RCKH",
+            "name": "GAOXIONG",
+            "country": "China",
+            "lat": 22.576944444444443,
+            "lon": 120.35027777777778
+        },
+        {
+            "id": "RCMQ",
+            "name": "QINGQUANGANG",
+            "country": "China",
+            "lat": 24.265,
+            "lon": 120.62083333333332
+        },
+        {
+            "id": "RJAA",
+            "name": "NARITA INTL",
+            "country": "Japan",
+            "lat": 35.765277777777776,
+            "lon": 140.38555555555556
+        },
+        {
+            "id": "RJAF",
+            "name": "MATSUMOTO",
+            "country": "Japan",
+            "lat": 36.166666666666664,
+            "lon": 137.92277777777778
+        },
+        {
+            "id": "RJAH",
+            "name": "HYAKURI",
+            "country": "Japan",
+            "lat": 36.181666666666665,
+            "lon": 140.41472222222222
+        },
+        {
+            "id": "RJAW",
+            "name": "IWOTO",
+            "country": "Japan",
+            "lat": 24.784166666666668,
+            "lon": 141.3227777777778
+        },
+        {
+            "id": "RJBB",
+            "name": "KANSAI INTL",
+            "country": "Japan",
+            "lat": 34.43416666666666,
+            "lon": 135.23277777777778
+        },
+        {
+            "id": "RJBD",
+            "name": "NANKI-SHIRAHAMA",
+            "country": "Japan",
+            "lat": 33.66222222222222,
+            "lon": 135.36444444444444
+        },
+        {
+            "id": "RJBE",
+            "name": "KOBE",
+            "country": "Japan",
+            "lat": 34.632777777777775,
+            "lon": 135.2238888888889
+        },
+        {
+            "id": "RJBT",
+            "name": "TAJIMA",
+            "country": "Japan",
+            "lat": 35.51277777777778,
+            "lon": 134.78694444444443
+        }
+    ]
+}

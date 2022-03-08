@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 60,
+    "data": [
+        {
+            "id": "KMWO",
+            "name": "MIDDLETOWN REGIONAL/HOOK FIELD",
+            "country": "United States of America",
+            "lat": 39.53180555555556,
+            "lon": -84.39644444444446
+        },
+        {
+            "id": "KPHD",
+            "name": "HARRY CLEVER FIELD",
+            "country": "United States of America",
+            "lat": 40.47016666666667,
+            "lon": -81.41994444444445
+        },
+        {
+            "id": "KLCK",
+            "name": "RICKENBACKER INTL",
+            "country": "United States of America",
+            "lat": 39.81377777777777,
+            "lon": -82.92780555555557
+        },
+        {
+            "id": "KSGH",
+            "name": "SPRINGFIELD-BECKLEY MUNI",
+            "country": "United States of America",
+            "lat": 39.84027777777778,
+            "lon": -83.84016666666666
+        },
+        {
+            "id": "KTDZ",
+            "name": "TOLEDO  EXECUTIVE",
+            "country": "United States of America",
+            "lat": 41.56494444444444,
+            "lon": -83.48222222222222
+        },
+        {
+            "id": "KTOL",
+            "name": "TOLEDO EXPRESS",
+            "country": "United States of America",
+            "lat": 41.58680555555556,
+            "lon": -83.80783333333333
+        },
+        {
+            "id": "KAXV",
+            "name": "NEIL ARMSTRONG",
+            "country": "United States of America",
+            "lat": 40.49338888888889,
+            "lon": -84.29894444444444
+        },
+        {
+            "id": "KILN",
+            "name": "WILMINGTON AIR PARK",
+            "country": "United States of America",
+            "lat": 39.42791666666666,
+            "lon": -83.79211111111111
+        },
+        {
+            "id": "KBJJ",
+            "name": "WAYNE COUNTY",
+            "country": "United States of America",
+            "lat": 40.874833333333335,
+            "lon": -81.88825000000001
+        },
+        {
+            "id": "KFFO",
+            "name": "WRIGHT-PATTERSON AFB",
+            "country": "United States of America",
+            "lat": 39.82611111111112,
+            "lon": -84.04833333333333
+        }
+    ]
+}

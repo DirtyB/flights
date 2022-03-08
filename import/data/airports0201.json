@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 201,
+    "data": [
+        {
+            "id": "ESSL",
+            "name": "LINKOPING/SAAB",
+            "country": "Sweden",
+            "lat": 58.406388888888884,
+            "lon": 15.679722222222221
+        },
+        {
+            "id": "ESSP",
+            "name": "NORRKOPING/KUNGSANGEN",
+            "country": "Sweden",
+            "lat": 58.586111111111116,
+            "lon": 16.24638888888889
+        },
+        {
+            "id": "ESSV",
+            "name": "VISBY",
+            "country": "Sweden",
+            "lat": 57.66277777777778,
+            "lon": 18.34611111111111
+        },
+        {
+            "id": "ESTL",
+            "name": "LJUNGBYHED",
+            "country": "Sweden",
+            "lat": 56.08527777777778,
+            "lon": 13.206944444444444
+        },
+        {
+            "id": "ESUD",
+            "name": "STORUMAM",
+            "country": "Sweden",
+            "lat": 64.96083333333334,
+            "lon": 17.696666666666665
+        },
+        {
+            "id": "ESUT",
+            "name": "HEMAVAN TARNABY",
+            "country": "Sweden",
+            "lat": 65.80611111111111,
+            "lon": 15.082777777777778
+        },
+        {
+            "id": "EYKA",
+            "name": "KAUNAS INTL",
+            "country": "Lithuania",
+            "lat": 54.96388888888889,
+            "lon": 24.084722222222222
+        },
+        {
+            "id": "EYPA",
+            "name": "PALANGA/INTERNATIONAL",
+            "country": "Lithuania",
+            "lat": 55.973333333333336,
+            "lon": 21.093888888888888
+        },
+        {
+            "id": "EYSA",
+            "name": "SIAULIAI/INTERNATIONAL",
+            "country": "Lithuania",
+            "lat": 55.89388888888889,
+            "lon": 23.395
+        },
+        {
+            "id": "EYVI",
+            "name": "VILNIUS/INTERNATIONAL",
+            "country": "Lithuania",
+            "lat": 54.636944444444445,
+            "lon": 25.28777777777778
+        }
+    ]
+}

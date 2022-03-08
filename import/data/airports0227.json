@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 227,
+    "data": [
+        {
+            "id": "LIPB",
+            "name": "BOLZANO",
+            "country": "Italy",
+            "lat": 46.46027777777778,
+            "lon": 11.32638888888889
+        },
+        {
+            "id": "LIPC",
+            "name": "CERVIA (MIL)",
+            "country": "Italy",
+            "lat": 44.22176666666667,
+            "lon": 12.317561111111111
+        },
+        {
+            "id": "LIPE",
+            "name": "BOLOGNA/BORGO PANIGALE",
+            "country": "Italy",
+            "lat": 44.530833333333334,
+            "lon": 11.296944444444444
+        },
+        {
+            "id": "LIPF",
+            "name": "FERRARA",
+            "country": "Italy",
+            "lat": 44.81583333333333,
+            "lon": 11.613333333333333
+        },
+        {
+            "id": "LIPH",
+            "name": "TREVISO/S.ANGELO",
+            "country": "Italy",
+            "lat": 45.65083333333333,
+            "lon": 12.197777777777778
+        },
+        {
+            "id": "LIPO",
+            "name": "BRESCIA/MONTICHIARI",
+            "country": "Italy",
+            "lat": 45.428888888888885,
+            "lon": 10.330555555555556
+        },
+        {
+            "id": "LIPQ",
+            "name": "TRIESTE/RONCHI DEI LEGIONARI",
+            "country": "Italy",
+            "lat": 45.8275,
+            "lon": 13.472222222222223
+        },
+        {
+            "id": "LIPR",
+            "name": "RIMINI/MIRAMARE",
+            "country": "Italy",
+            "lat": 44.019444444444446,
+            "lon": 12.609444444444444
+        },
+        {
+            "id": "LIPS",
+            "name": "TREVISO/ISTRANA (MIL.)",
+            "country": "Italy",
+            "lat": 45.684866666666665,
+            "lon": 12.082880555555555
+        },
+        {
+            "id": "LIPU",
+            "name": "PADOVA",
+            "country": "Italy",
+            "lat": 45.39611111111111,
+            "lon": 11.848055555555556
+        }
+    ]
+}

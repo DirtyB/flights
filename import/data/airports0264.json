@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 264,
+    "data": [
+        {
+            "id": "FAMM",
+            "name": "MAFIKENG  AD",
+            "country": "South Africa",
+            "lat": -25.807447222222223,
+            "lon": 25.544469444444445
+        },
+        {
+            "id": "FAOR",
+            "name": "JOHANNESBURG INTERNATIONAL AIRPORT",
+            "country": "South Africa",
+            "lat": -26.133694444444444,
+            "lon": 28.242316666666667
+        },
+        {
+            "id": "FAPE",
+            "name": "PORT ELIZABETH (PORT ELIZABETH AIRPORT)",
+            "country": "South Africa",
+            "lat": -33.99001388888889,
+            "lon": 25.610277777777778
+        },
+        {
+            "id": "FAPP",
+            "name": "POLOKWANE INTERNATIONAL AIRPORT",
+            "country": "South Africa",
+            "lat": -23.84964722222222,
+            "lon": 29.456488888888888
+        },
+        {
+            "id": "FASB",
+            "name": "SPRINGBOK",
+            "country": "South Africa",
+            "lat": -29.689444444444444,
+            "lon": 17.93888888888889
+        },
+        {
+            "id": "FASI",
+            "name": "SPRINGS",
+            "country": "South Africa",
+            "lat": -26.25,
+            "lon": 28.4
+        },
+        {
+            "id": "FAUP",
+            "name": "UPINGTON",
+            "country": "South Africa",
+            "lat": -28.40102222222222,
+            "lon": 21.25966111111111
+        },
+        {
+            "id": "FAUT",
+            "name": "MTHATHA",
+            "country": "South Africa",
+            "lat": -31.546247222222224,
+            "lon": 28.675316666666667
+        },
+        {
+            "id": "FAVV",
+            "name": "VEREENIGING",
+            "country": "South Africa",
+            "lat": -26.575,
+            "lon": 27.9625
+        },
+        {
+            "id": "FAWB",
+            "name": "WONDERBOOM",
+            "country": "South Africa",
+            "lat": -25.655305555555554,
+            "lon": 28.221341666666664
+        }
+    ]
+}

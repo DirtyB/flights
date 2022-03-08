@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 272,
+    "data": [
+        {
+            "id": "FYGB",
+            "name": "GOBABIS",
+            "country": "Namibia",
+            "lat": -22.504722222222224,
+            "lon": 18.97472222222222
+        },
+        {
+            "id": "FYGF",
+            "name": "GROOTFONTEIN",
+            "country": "Namibia",
+            "lat": -19.6,
+            "lon": 18.133333333333333
+        },
+        {
+            "id": "FYKT",
+            "name": "KEETMANSHOOP",
+            "country": "Namibia",
+            "lat": -26.53888888888889,
+            "lon": 18.111666666666668
+        },
+        {
+            "id": "FYKM",
+            "name": "KATIMA MULILO",
+            "country": "Namibia",
+            "lat": -17.634166666666665,
+            "lon": 24.17666666666667
+        },
+        {
+            "id": "FYLZ",
+            "name": "LUDERITZ",
+            "country": "Namibia",
+            "lat": -26.685277777777777,
+            "lon": 15.245555555555555
+        },
+        {
+            "id": "FYML",
+            "name": "MARIENTAL",
+            "country": "Namibia",
+            "lat": -24.604166666666668,
+            "lon": 17.925
+        },
+        {
+            "id": "FYOA",
+            "name": "ONDANGWA",
+            "country": "Namibia",
+            "lat": -17.877222222222223,
+            "lon": 15.95
+        },
+        {
+            "id": "FYOO",
+            "name": "OKAUKUEJO",
+            "country": "Namibia",
+            "lat": -19.1494444,
+            "lon": 15.9119444
+        },
+        {
+            "id": "FYOW",
+            "name": "OTJIWARONGO",
+            "country": "Namibia",
+            "lat": -20.4286111,
+            "lon": 17.1575
+        },
+        {
+            "id": "FYWB",
+            "name": "WALVIS BAY",
+            "country": "Namibia",
+            "lat": -22.979999999999997,
+            "lon": 14.645277777777777
+        }
+    ]
+}

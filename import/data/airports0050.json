@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 50,
+    "data": [
+        {
+            "id": "KLCI",
+            "name": "LACONIA MUNI",
+            "country": "United States of America",
+            "lat": 43.57304166666667,
+            "lon": -71.41784166666667
+        },
+        {
+            "id": "KLEB",
+            "name": "LEBANON MUNI",
+            "country": "United States of America",
+            "lat": 43.626111111111115,
+            "lon": -72.30419444444445
+        },
+        {
+            "id": "KMHT",
+            "name": "MANCHESTER",
+            "country": "United States of America",
+            "lat": 42.932805555555554,
+            "lon": -71.43575
+        },
+        {
+            "id": "KASH",
+            "name": "BOIRE FIELD",
+            "country": "United States of America",
+            "lat": 42.78241388888889,
+            "lon": -71.51409444444444
+        },
+        {
+            "id": "KPSM",
+            "name": "PORTSMOUTH INTL AT PEASE",
+            "country": "United States of America",
+            "lat": 43.07794444444445,
+            "lon": -70.82327777777778
+        },
+        {
+            "id": "KHIE",
+            "name": "MOUNT WASHINGTON RGNL",
+            "country": "United States of America",
+            "lat": 44.367555555555555,
+            "lon": -71.54580555555556
+        },
+        {
+            "id": "KACY",
+            "name": "ATLANTIC CITY INTL",
+            "country": "United States of America",
+            "lat": 39.45758333333334,
+            "lon": -74.57716666666666
+        },
+        {
+            "id": "KBLM",
+            "name": "MONMOUTH EXECUTIVE",
+            "country": "United States of America",
+            "lat": 40.186749999999996,
+            "lon": -74.12455555555555
+        },
+        {
+            "id": "KCDW",
+            "name": "ESSEX COUNTY",
+            "country": "United States of America",
+            "lat": 40.87522222222222,
+            "lon": -74.28136111111111
+        },
+        {
+            "id": "KLDJ",
+            "name": "LINDEN",
+            "country": "United States of America",
+            "lat": 40.617444444444445,
+            "lon": -74.24458333333334
+        }
+    ]
+}

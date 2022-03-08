@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 254,
+    "data": [
+        {
+            "id": "DAUZ",
+            "name": "ZARZAITINE/IN AMENAS",
+            "country": "Algeria",
+            "lat": 28.05138888888889,
+            "lon": 9.642777777777777
+        },
+        {
+            "id": "DBBB",
+            "name": "CARDINAL BERNARDIN GANTIN AEROPORT INTERNATIONAL/CADJEHOUN ",
+            "country": "Benin",
+            "lat": 6.356380555555555,
+            "lon": 2.38335
+        },
+        {
+            "id": "DFFD",
+            "name": "OUAGADOUGOU/AEROPORT",
+            "country": "Burkina Faso",
+            "lat": 12.353666666666665,
+            "lon": -1.512
+        },
+        {
+            "id": "DFOO",
+            "name": "BOBO DIOULASSO",
+            "country": "Burkina Faso",
+            "lat": 11.167416666666666,
+            "lon": -4.321055555555556
+        },
+        {
+            "id": "DGAA",
+            "name": "ACCRA/KOTOKA INTERNATIONAL",
+            "country": "Ghana",
+            "lat": 5.604413888888889,
+            "lon": -0.16754444444444444
+        },
+        {
+            "id": "DIAP",
+            "name": "ABIDJAN/FELIX HOUPHOUET BOIGNY",
+            "country": "Cote d'Ivoire",
+            "lat": 5.254502777777778,
+            "lon": -3.9286555555555553
+        },
+        {
+            "id": "DNMM",
+            "name": "LAGOS/MURTALA MUHAMMED",
+            "country": "Nigeria",
+            "lat": 6.5786444444444445,
+            "lon": 3.3225277777777777
+        },
+        {
+            "id": "DNPO",
+            "name": "PORT HARCOURT",
+            "country": "Nigeria",
+            "lat": 5.015458333333333,
+            "lon": 6.9495305555555555
+        },
+        {
+            "id": "DRRM",
+            "name": "MARADI",
+            "country": "Niger",
+            "lat": 13.501888888888889,
+            "lon": 7.119722222222221
+        },
+        {
+            "id": "DRRN",
+            "name": "NIAMEY",
+            "country": "Niger",
+            "lat": 13.481666666666667,
+            "lon": 2.170361111111111
+        }
+    ]
+}

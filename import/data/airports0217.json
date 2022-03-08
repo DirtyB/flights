@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 217,
+    "data": [
+        {
+            "id": "LFRK",
+            "name": "CAEN-CARPIQUET",
+            "country": "France",
+            "lat": 49.17333333333333,
+            "lon": -0.45
+        },
+        {
+            "id": "LFRL",
+            "name": "LANVEOC-POULMIC",
+            "country": "France",
+            "lat": 48.2825,
+            "lon": -4.443611111111111
+        },
+        {
+            "id": "LFRM",
+            "name": "LE MANS-ARNAGE",
+            "country": "France",
+            "lat": 47.948611111111106,
+            "lon": 0.2016666666666667
+        },
+        {
+            "id": "LFRN",
+            "name": "RENNES SAINT JACQUES",
+            "country": "France",
+            "lat": 48.07194444444445,
+            "lon": -1.7322222222222223
+        },
+        {
+            "id": "LFRO",
+            "name": "LANNION",
+            "country": "France",
+            "lat": 48.754444444444445,
+            "lon": -3.4719444444444445
+        },
+        {
+            "id": "LFRQ",
+            "name": "QUIMPER-PLUGUFFAN",
+            "country": "France",
+            "lat": 47.975,
+            "lon": -4.167777777777778
+        },
+        {
+            "id": "LFRS",
+            "name": "NANTES ATLANTIQUE",
+            "country": "France",
+            "lat": 47.15694444444444,
+            "lon": -1.607777777777778
+        },
+        {
+            "id": "LFRT",
+            "name": "SAINT BRIEUC ARMOR",
+            "country": "France",
+            "lat": 48.5375,
+            "lon": -2.856666666666667
+        },
+        {
+            "id": "LFRV",
+            "name": "VANNES-MEUCON",
+            "country": "France",
+            "lat": 47.719166666666666,
+            "lon": -2.7233333333333336
+        },
+        {
+            "id": "LFRZ",
+            "name": "SAINT-NAZAIRE-MONTOIR",
+            "country": "France",
+            "lat": 47.31055555555555,
+            "lon": -2.1566666666666667
+        }
+    ]
+}

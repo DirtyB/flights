@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 327,
+    "data": [
+        {
+            "id": "YBNA",
+            "name": "BALLINA/BYRON GATEWAY",
+            "country": "Australia",
+            "lat": -28.833888888888886,
+            "lon": 153.5625
+        },
+        {
+            "id": "YBOK",
+            "name": "OAKEY",
+            "country": "Australia",
+            "lat": -27.411388888888887,
+            "lon": 151.73527777777775
+        },
+        {
+            "id": "YBPN",
+            "name": "PROSPERPINE/WHITSUNDAY",
+            "country": "Australia",
+            "lat": -20.495,
+            "lon": 148.55222222222224
+        },
+        {
+            "id": "YBRK",
+            "name": "ROCKHAMPTON",
+            "country": "Australia",
+            "lat": -23.381944444444446,
+            "lon": 150.4752777777778
+        },
+        {
+            "id": "YBRM",
+            "name": "BROOME/BROOME INTL",
+            "country": "Australia",
+            "lat": -17.949722222222224,
+            "lon": 122.22777777777777
+        },
+        {
+            "id": "YBTL",
+            "name": "TOWNSVILLE/TOWNSVILLE INTL",
+            "country": "Australia",
+            "lat": -19.2525,
+            "lon": 146.76527777777778
+        },
+        {
+            "id": "YBUD",
+            "name": "BUNDABERG",
+            "country": "Australia",
+            "lat": -24.903888888888886,
+            "lon": 152.3186111111111
+        },
+        {
+            "id": "YBWP",
+            "name": "WEIPA",
+            "country": "Australia",
+            "lat": -12.67861111111111,
+            "lon": 141.92527777777778
+        },
+        {
+            "id": "YBWX",
+            "name": "BARROW ISLAND",
+            "country": "Australia",
+            "lat": -20.864444444444445,
+            "lon": 115.40611111111112
+        },
+        {
+            "id": "YCAR",
+            "name": "CARNARVON",
+            "country": "Australia",
+            "lat": -24.880555555555556,
+            "lon": 113.67222222222223
+        }
+    ]
+}

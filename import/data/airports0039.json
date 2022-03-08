@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 39,
+    "data": [
+        {
+            "id": "KSUS",
+            "name": "SPIRIT OF ST LOUIS",
+            "country": "United States of America",
+            "lat": 38.66211111111111,
+            "lon": -90.65205555555556
+        },
+        {
+            "id": "KSTL",
+            "name": "LAMBERT-ST LOUIS INTL",
+            "country": "United States of America",
+            "lat": 38.748697222222226,
+            "lon": -90.37002777777776
+        },
+        {
+            "id": "KVIH",
+            "name": "ROLLA NATIONAL",
+            "country": "United States of America",
+            "lat": 38.12741666666667,
+            "lon": -91.7695
+        },
+        {
+            "id": "KSZL",
+            "name": "WHITEMAN AFB",
+            "country": "United States of America",
+            "lat": 38.73030555555556,
+            "lon": -93.54786388888888
+        },
+        {
+            "id": "KBIX",
+            "name": "KEESLER AFB",
+            "country": "United States of America",
+            "lat": 30.410425,
+            "lon": -88.92443333333334
+        },
+        {
+            "id": "KCKM",
+            "name": "FLETCHER FIELD",
+            "country": "United States of America",
+            "lat": 34.29972222222222,
+            "lon": -90.51230555555556
+        },
+        {
+            "id": "KCBM",
+            "name": "COLUMBUS AFB",
+            "country": "United States of America",
+            "lat": 33.64516666666667,
+            "lon": -88.445925
+        },
+        {
+            "id": "KCRX",
+            "name": "ROSCOE TURNER",
+            "country": "United States of America",
+            "lat": 34.914966666666665,
+            "lon": -88.60348333333333
+        },
+        {
+            "id": "KGTR",
+            "name": "GOLDEN TRIANGLE RGNL",
+            "country": "United States of America",
+            "lat": 33.448277777777776,
+            "lon": -88.59138888888889
+        },
+        {
+            "id": "KGLH",
+            "name": "GREENVILLE MID-DELTA",
+            "country": "United States of America",
+            "lat": 33.48288055555556,
+            "lon": -90.98561388888889
+        }
+    ]
+}

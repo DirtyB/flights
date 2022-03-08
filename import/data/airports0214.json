@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 214,
+    "data": [
+        {
+            "id": "LFMY",
+            "name": "SALON DE PROVENCE",
+            "country": "France",
+            "lat": 43.60290833333333,
+            "lon": 5.1081666666666665
+        },
+        {
+            "id": "LFOA",
+            "name": "AVORD",
+            "country": "France",
+            "lat": 47.05694444444444,
+            "lon": 2.638888888888889
+        },
+        {
+            "id": "LFOB",
+            "name": "BEAUVAIS-TILLE",
+            "country": "France",
+            "lat": 49.45444444444445,
+            "lon": 2.112777777777778
+        },
+        {
+            "id": "LFOC",
+            "name": "CHATEAUDUN",
+            "country": "France",
+            "lat": 48.05777777777777,
+            "lon": 1.3794444444444445
+        },
+        {
+            "id": "LFOE",
+            "name": "EVREUX-FAUVILLE",
+            "country": "France",
+            "lat": 49.02861111111111,
+            "lon": 1.2200000000000002
+        },
+        {
+            "id": "LFOH",
+            "name": "LE HAVRE-OCTEVILLE",
+            "country": "France",
+            "lat": 49.53388888888889,
+            "lon": 0.08805555555555555
+        },
+        {
+            "id": "LFOJ",
+            "name": "ORLEANS-BRICY",
+            "country": "France",
+            "lat": 47.98777777777778,
+            "lon": 1.7605555555555557
+        },
+        {
+            "id": "LFOK",
+            "name": "CHALONS-VATRY",
+            "country": "France",
+            "lat": 48.77333333333333,
+            "lon": 4.206111111111111
+        },
+        {
+            "id": "LFOP",
+            "name": "ROUEN-VALLEE DE SEINE",
+            "country": "France",
+            "lat": 49.39083333333333,
+            "lon": 1.183888888888889
+        },
+        {
+            "id": "LFOT",
+            "name": "TOURS VAL DE LOIRE",
+            "country": "France",
+            "lat": 47.43194444444444,
+            "lon": 0.7230555555555556
+        }
+    ]
+}

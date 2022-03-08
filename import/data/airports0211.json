@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 211,
+    "data": [
+        {
+            "id": "LFCR",
+            "name": "RODEZ-AVEYRON",
+            "country": "France",
+            "lat": 44.4075,
+            "lon": 2.4833333333333334
+        },
+        {
+            "id": "LFGJ",
+            "name": "DOLE-TAVAUX",
+            "country": "France",
+            "lat": 47.04277777777778,
+            "lon": 5.4350000000000005
+        },
+        {
+            "id": "LFJL",
+            "name": "METZ NANCY-LORRAINE",
+            "country": "France",
+            "lat": 48.97833333333333,
+            "lon": 6.246666666666667
+        },
+        {
+            "id": "LFJR",
+            "name": "ANGERS MARCE",
+            "country": "France",
+            "lat": 47.56027777777778,
+            "lon": -0.31222222222222223
+        },
+        {
+            "id": "LFKB",
+            "name": "BASTIA-PORETTA",
+            "country": "France",
+            "lat": 42.55,
+            "lon": 9.48472222222222
+        },
+        {
+            "id": "LFKC",
+            "name": "CALVI-SAINTE-CATHERINE",
+            "country": "France",
+            "lat": 42.52444444444444,
+            "lon": 8.793055555555556
+        },
+        {
+            "id": "LFKF",
+            "name": "FIGARI-SUD-CORSE",
+            "country": "France",
+            "lat": 41.50222222222222,
+            "lon": 9.096666666666668
+        },
+        {
+            "id": "LFKJ",
+            "name": "AJACCIO-NAPOLEON-BONAPARTE",
+            "country": "France",
+            "lat": 41.92388888888889,
+            "lon": 8.8025
+        },
+        {
+            "id": "LFKS",
+            "name": "SOLENZARA",
+            "country": "France",
+            "lat": 41.926288888888884,
+            "lon": 9.405302777777779
+        },
+        {
+            "id": "LFLB",
+            "name": "CHAMBERY-AIX-LES-BAINS",
+            "country": "France",
+            "lat": 45.63916666666667,
+            "lon": 5.880000000000001
+        }
+    ]
+}

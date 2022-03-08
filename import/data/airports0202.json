@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 202,
+    "data": [
+        {
+            "id": "LATI",
+            "name": "TIRANA",
+            "country": "Albania",
+            "lat": 41.414722222222224,
+            "lon": 19.720555555555553
+        },
+        {
+            "id": "LBBG",
+            "name": "BURGAS",
+            "country": "Bulgaria",
+            "lat": 42.57027777777778,
+            "lon": 27.51527777777778
+        },
+        {
+            "id": "LBGO",
+            "name": "GORNA ORYAHOVITSA",
+            "country": "Bulgaria",
+            "lat": 43.151666666666664,
+            "lon": 25.711944444444445
+        },
+        {
+            "id": "LBPD",
+            "name": "PLOVDIV",
+            "country": "Bulgaria",
+            "lat": 42.06777777777778,
+            "lon": 24.850833333333334
+        },
+        {
+            "id": "LBSF",
+            "name": "SOFIA",
+            "country": "Bulgaria",
+            "lat": 42.69499999999999,
+            "lon": 23.40833333333333
+        },
+        {
+            "id": "LBWN",
+            "name": "VARNA",
+            "country": "Bulgaria",
+            "lat": 43.231944444444444,
+            "lon": 27.825277777777778
+        },
+        {
+            "id": "LCLK",
+            "name": "LARNAKA/INTL",
+            "country": "Cyprus",
+            "lat": 34.87888888888889,
+            "lon": 33.63027777777778
+        },
+        {
+            "id": "LCPH",
+            "name": "PAFOS/INTL",
+            "country": "Cyprus",
+            "lat": 34.718333333333334,
+            "lon": 32.485
+        },
+        {
+            "id": "LCRA",
+            "name": "AKROTIRI MIL",
+            "country": "Cyprus",
+            "lat": 34.59037222222222,
+            "lon": 32.98778055555556
+        },
+        {
+            "id": "LDDU",
+            "name": "DUBROVNIK/CILIPI",
+            "country": "Croatia",
+            "lat": 42.56135277777778,
+            "lon": 18.268244444444445
+        }
+    ]
+}

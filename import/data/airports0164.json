@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 164,
+    "data": [
+        {
+            "id": "SAWH",
+            "name": "USHUAIA/MALVINAS ARGENTINAS (TAIS)",
+            "country": "Argentina",
+            "lat": -54.843333333333334,
+            "lon": -68.29555555555555
+        },
+        {
+            "id": "SAZM",
+            "name": "MAR DEL PLATA/ASTOR PIAZZOLLA (BA)",
+            "country": "Argentina",
+            "lat": -37.93416666666666,
+            "lon": -57.57333333333334
+        },
+        {
+            "id": "SAZN",
+            "name": "NEUQUEN/PRESIDENTE PERON (N)",
+            "country": "Argentina",
+            "lat": -38.94888888888889,
+            "lon": -68.15583333333333
+        },
+        {
+            "id": "SAZS",
+            "name": "SAN CARLOS DE BARILOCHE (RN)",
+            "country": "Argentina",
+            "lat": -41.151111111111106,
+            "lon": -71.15777777777778
+        },
+        {
+            "id": "EGYP",
+            "name": "MOUNT PLEASANT",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "lat": -51.82178888888889,
+            "lon": -58.45611111111111
+        },
+        {
+            "id": "SMJP",
+            "name": "JOHAN ADOLF PENGEL",
+            "country": "Suriname",
+            "lat": 5.451388888888889,
+            "lon": -55.200833333333335
+        },
+        {
+            "id": "SMZO",
+            "name": "ZORG EN HOOP",
+            "country": "Suriname",
+            "lat": 5.811111111111111,
+            "lon": -55.19361111111111
+        },
+        {
+            "id": "BGBW",
+            "name": "NARSARSUAQ",
+            "country": "Denmark",
+            "lat": 61.160719444444446,
+            "lon": -45.425675
+        },
+        {
+            "id": "BGGH",
+            "name": "NUUK",
+            "country": "Denmark",
+            "lat": 64.19092222222223,
+            "lon": -51.678063888888886
+        },
+        {
+            "id": "BGJN",
+            "name": "ILULISSAT",
+            "country": "Denmark",
+            "lat": 69.24321666666667,
+            "lon": -51.057111111111105
+        }
+    ]
+}

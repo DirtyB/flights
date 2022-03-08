@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 306,
+    "data": [
+        {
+            "id": "RJEB",
+            "name": "MONBETSU",
+            "country": "Japan",
+            "lat": 44.30416666666667,
+            "lon": 143.40416666666667
+        },
+        {
+            "id": "RJEC",
+            "name": "ASAHIKAWA (CIVIL)",
+            "country": "Japan",
+            "lat": 43.670833333333334,
+            "lon": 142.4475
+        },
+        {
+            "id": "RJFF",
+            "name": "FUKUOKA",
+            "country": "Japan",
+            "lat": 33.58444444444444,
+            "lon": 130.45166666666665
+        },
+        {
+            "id": "RJFG",
+            "name": "TANEGASHIMA",
+            "country": "Japan",
+            "lat": 30.605,
+            "lon": 130.99166666666665
+        },
+        {
+            "id": "RJFK",
+            "name": "KAGOSHIMA",
+            "country": "Japan",
+            "lat": 31.803333333333335,
+            "lon": 130.71944444444443
+        },
+        {
+            "id": "RJFM",
+            "name": "MIYAZAKI",
+            "country": "Japan",
+            "lat": 31.877222222222223,
+            "lon": 131.44861111111112
+        },
+        {
+            "id": "RJFO",
+            "name": "OITA",
+            "country": "Japan",
+            "lat": 33.47944444444445,
+            "lon": 131.73722222222221
+        },
+        {
+            "id": "RJFR",
+            "name": "KITAKYUSHU",
+            "country": "Japan",
+            "lat": 33.845555555555556,
+            "lon": 131.035
+        },
+        {
+            "id": "RJFS",
+            "name": "SAGA",
+            "country": "Japan",
+            "lat": 33.14972222222222,
+            "lon": 130.30222222222224
+        },
+        {
+            "id": "RJFT",
+            "name": "KUMAMOTO",
+            "country": "Japan",
+            "lat": 32.83722222222222,
+            "lon": 130.8552777777778
+        }
+    ]
+}

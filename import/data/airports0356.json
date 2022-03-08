@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 356,
+    "data": [
+        {
+            "id": "KDUG",
+            "name": "BISBEE DOUGLAS INTL",
+            "country": "United States of America",
+            "lat": 31.468944444444443,
+            "lon": -109.60374999999999
+        },
+        {
+            "id": "KFLG",
+            "name": "FLAGSTAFF PULLIAM",
+            "country": "United States of America",
+            "lat": 35.14030555555556,
+            "lon": -111.66925
+        },
+        {
+            "id": "KFHU",
+            "name": "SIERRA VISTA MUNI-LIBBY AAF",
+            "country": "United States of America",
+            "lat": 31.588472222222222,
+            "lon": -110.34438888888889
+        },
+        {
+            "id": "KLUF",
+            "name": "LUKE AFB",
+            "country": "United States of America",
+            "lat": 33.534977777777776,
+            "lon": -112.38317777777777
+        },
+        {
+            "id": "KGYR",
+            "name": "PHOENIX GOODYEAR",
+            "country": "United States of America",
+            "lat": 33.423944444444444,
+            "lon": -112.37474999999999
+        },
+        {
+            "id": "KGCN",
+            "name": "GRAND CANYON NATIONAL PARK",
+            "country": "United States of America",
+            "lat": 35.95236111111112,
+            "lon": -112.14697222222223
+        },
+        {
+            "id": "KIGM",
+            "name": "KINGMAN",
+            "country": "United States of America",
+            "lat": 35.25947222222222,
+            "lon": -113.93805555555556
+        },
+        {
+            "id": "KHII",
+            "name": "LAKE HAVASU CITY",
+            "country": "United States of America",
+            "lat": 34.571111111111115,
+            "lon": -114.35827777777777
+        },
+        {
+            "id": "KOLS",
+            "name": "NOGALES INTL",
+            "country": "United States of America",
+            "lat": 31.417722222222224,
+            "lon": -110.84788888888889
+        },
+        {
+            "id": "KPGA",
+            "name": "PAGE MUNI",
+            "country": "United States of America",
+            "lat": 36.92608333333333,
+            "lon": -111.44836111111111
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 207,
+    "data": [
+        {
+            "id": "LESA",
+            "name": "SALAMANCA",
+            "country": "Spain",
+            "lat": 40.95194444444445,
+            "lon": -5.501944444444445
+        },
+        {
+            "id": "LESO",
+            "name": "SAN SEBASTIAN",
+            "country": "Spain",
+            "lat": 43.35638888888889,
+            "lon": -1.7905555555555555
+        },
+        {
+            "id": "LEST",
+            "name": "SANTIAGO",
+            "country": "Spain",
+            "lat": 42.896388888888886,
+            "lon": -8.415277777777778
+        },
+        {
+            "id": "LETL",
+            "name": "TERUEL",
+            "country": "Spain",
+            "lat": 40.411944444444444,
+            "lon": -1.2175
+        },
+        {
+            "id": "LETO",
+            "name": "MADRID/TORREJON",
+            "country": "Spain",
+            "lat": 40.49666666666667,
+            "lon": -3.4458333333333337
+        },
+        {
+            "id": "LEVC",
+            "name": "VALENCIA",
+            "country": "Spain",
+            "lat": 39.489444444444445,
+            "lon": -0.4816666666666667
+        },
+        {
+            "id": "LEVD",
+            "name": "VALLADOLID",
+            "country": "Spain",
+            "lat": 41.70611111111111,
+            "lon": -4.851944444444444
+        },
+        {
+            "id": "LEVS",
+            "name": "MADRID/CUATRO VIENTOS (MIL)",
+            "country": "Spain",
+            "lat": 40.3705556,
+            "lon": -3.7852778
+        },
+        {
+            "id": "LEVT",
+            "name": "VITORIA",
+            "country": "Spain",
+            "lat": 42.882777777777775,
+            "lon": -2.7244444444444444
+        },
+        {
+            "id": "LEVX",
+            "name": "VIGO",
+            "country": "Spain",
+            "lat": 42.22916666666667,
+            "lon": -8.627500000000001
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 233,
+    "data": [
+        {
+            "id": "LZZI",
+            "name": "ZILINA",
+            "country": "Slovakia",
+            "lat": 49.233333333333334,
+            "lon": 18.613611111111112
+        },
+        {
+            "id": "LLBG",
+            "name": "TEL-AVIV/BEN GURION AIRPORT",
+            "country": "Israel",
+            "lat": 32.00944444444445,
+            "lon": 34.885555555555555
+        },
+        {
+            "id": "LLET",
+            "name": "EILAT/J. HOZMAN AIRPORT",
+            "country": "Israel",
+            "lat": 29.558333333333334,
+            "lon": 34.95888888888889
+        },
+        {
+            "id": "LLHA",
+            "name": "HAIFA/U. MICHAELI AIRPORT",
+            "country": "Israel",
+            "lat": 32.80833333333333,
+            "lon": 35.04277777777778
+        },
+        {
+            "id": "LLIB",
+            "name": "ROSH-PINA AIRPORT",
+            "country": "Israel",
+            "lat": 32.9811111,
+            "lon": 35.5719444
+        },
+        {
+            "id": "LLSD",
+            "name": "TEL-AVIV/SDE-DOV AIRPORT",
+            "country": "Israel",
+            "lat": 32.11416666666667,
+            "lon": 34.78194444444444
+        },
+        {
+            "id": "LMML",
+            "name": "LUQA AIRPORT",
+            "country": "Malta",
+            "lat": 35.85754166666667,
+            "lon": 14.477438888888889
+        },
+        {
+            "id": "LOAN",
+            "name": "WR. NEUSTADT/OST",
+            "country": "Austria",
+            "lat": 47.843333333333334,
+            "lon": 16.260277777777777
+        },
+        {
+            "id": "LOAV",
+            "name": "VOSLAU",
+            "country": "Austria",
+            "lat": 47.964444444444446,
+            "lon": 16.259444444444444
+        },
+        {
+            "id": "LOIH",
+            "name": "HOHENEMS-DORNBIRN",
+            "country": "Austria",
+            "lat": 47.38444444444444,
+            "lon": 9.699722222222222
+        }
+    ]
+}

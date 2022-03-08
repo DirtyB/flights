@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 146,
+    "data": [
+        {
+            "id": "SLCO",
+            "name": "COBIJA",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -11.040555555555555,
+            "lon": -68.78361111111111
+        },
+        {
+            "id": "SLCP",
+            "name": "CONCEPCION",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -16.138333333333332,
+            "lon": -62.02861111111111
+        },
+        {
+            "id": "SLET",
+            "name": "EL TROMPILLO",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -17.81138888888889,
+            "lon": -63.170833333333334
+        },
+        {
+            "id": "SLJE",
+            "name": "SAN JOSE DE CHIQUITOS",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -17.830833333333334,
+            "lon": -60.74305555555556
+        },
+        {
+            "id": "SLJO",
+            "name": "SAN JOAQUIN",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -13.065833333333334,
+            "lon": -64.67444444444445
+        },
+        {
+            "id": "SLLP",
+            "name": "LA PAZ",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -16.5125,
+            "lon": -68.19222222222223
+        },
+        {
+            "id": "SLMG",
+            "name": "MAGDALENA",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -13.258611111111112,
+            "lon": -64.06194444444444
+        },
+        {
+            "id": "SLOR",
+            "name": "ORURO",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -17.955555555555556,
+            "lon": -67.075
+        },
+        {
+            "id": "SLPO",
+            "name": "POTOSI",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -19.542222222222225,
+            "lon": -65.72333333333333
+        },
+        {
+            "id": "SLPS",
+            "name": "PUERTO SUAREZ",
+            "country": "Bolivia (Plurinational State of)",
+            "lat": -18.980555555555554,
+            "lon": -57.823888888888895
+        }
+    ]
+}

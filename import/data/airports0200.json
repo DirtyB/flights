@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 200,
+    "data": [
+        {
+            "id": "ESNX",
+            "name": "ARVIDSJAUR",
+            "country": "Sweden",
+            "lat": 65.59027777777777,
+            "lon": 19.281944444444445
+        },
+        {
+            "id": "ESOE",
+            "name": "OREBRO",
+            "country": "Sweden",
+            "lat": 59.22805555555556,
+            "lon": 15.04
+        },
+        {
+            "id": "ESOK",
+            "name": "KARLSTAD",
+            "country": "Sweden",
+            "lat": 59.44472222222222,
+            "lon": 13.3375
+        },
+        {
+            "id": "ESOW",
+            "name": "STOCKHOLM/VASTERAS",
+            "country": "Sweden",
+            "lat": 59.589444444444446,
+            "lon": 16.63361111111111
+        },
+        {
+            "id": "ESPA",
+            "name": "LULEA/KALLAX",
+            "country": "Sweden",
+            "lat": 65.54333333333334,
+            "lon": 22.12361111111111
+        },
+        {
+            "id": "ESNZ",
+            "name": "ARE OSTERSUND",
+            "country": "Sweden",
+            "lat": 63.19444444444444,
+            "lon": 14.500277777777777
+        },
+        {
+            "id": "ESPE",
+            "name": "VIDSEL",
+            "country": "Sweden",
+            "lat": 65.87527777777777,
+            "lon": 20.15
+        },
+        {
+            "id": "ESSA",
+            "name": "STOCKHOLM/ARLANDA",
+            "country": "Sweden",
+            "lat": 59.651944444444446,
+            "lon": 17.91861111111111
+        },
+        {
+            "id": "ESSB",
+            "name": "STOCKHOLM/BROMMA",
+            "country": "Sweden",
+            "lat": 59.35444444444445,
+            "lon": 17.942222222222224
+        },
+        {
+            "id": "ESSD",
+            "name": "BORLANGE",
+            "country": "Sweden",
+            "lat": 60.42222222222222,
+            "lon": 15.515
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 27,
+    "data": [
+        {
+            "id": "KPSF",
+            "name": "PITTSFIELD MUNI",
+            "country": "United States of America",
+            "lat": 42.42761944444444,
+            "lon": -73.29083888888889
+        },
+        {
+            "id": "KPYM",
+            "name": "PLYMOUTH MUNI",
+            "country": "United States of America",
+            "lat": 41.90902777777777,
+            "lon": -70.72877777777778
+        },
+        {
+            "id": "KPVC",
+            "name": "PROVINCETOWN MUNI",
+            "country": "United States of America",
+            "lat": 42.07227777777778,
+            "lon": -70.22072222222222
+        },
+        {
+            "id": "KBAF",
+            "name": "WESTFIELD-BARNES RGNL",
+            "country": "United States of America",
+            "lat": 42.157944444444446,
+            "lon": -72.71586111111111
+        },
+        {
+            "id": "KORH",
+            "name": "WORCESTER RGNL",
+            "country": "United States of America",
+            "lat": 42.26713888888889,
+            "lon": -71.8756111111111
+        },
+        {
+            "id": "KADW",
+            "name": "JOINT BASE ANDREWS",
+            "country": "United States of America",
+            "lat": 38.810824999999994,
+            "lon": -76.86704444444443
+        },
+        {
+            "id": "KBWI",
+            "name": "BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL",
+            "country": "United States of America",
+            "lat": 39.175725,
+            "lon": -76.66899166666667
+        },
+        {
+            "id": "KMTN",
+            "name": "MARTIN STATE",
+            "country": "United States of America",
+            "lat": 39.32566666666667,
+            "lon": -76.41377777777778
+        },
+        {
+            "id": "KCGE",
+            "name": "CAMBRIDGE-DORCHESTER",
+            "country": "United States of America",
+            "lat": 38.53933333333333,
+            "lon": -76.0303888888889
+        },
+        {
+            "id": "KCBE",
+            "name": "GREATER CUMBERLAND RGNL",
+            "country": "United States of America",
+            "lat": 39.615386111111114,
+            "lon": -78.76080555555555
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 96,
+    "data": [
+        {
+            "id": "KGCC",
+            "name": "GILLETTE-CAMPBELL COUNTY",
+            "country": "United States of America",
+            "lat": 44.34891666666667,
+            "lon": -105.5393611111111
+        },
+        {
+            "id": "KGEY",
+            "name": "SOUTH BIG HORN COUNTY",
+            "country": "United States of America",
+            "lat": 44.517944444444446,
+            "lon": -108.083
+        },
+        {
+            "id": "KJAC",
+            "name": "JACKSON HOLE",
+            "country": "United States of America",
+            "lat": 43.60733333333334,
+            "lon": -110.73775
+        },
+        {
+            "id": "KEMM",
+            "name": "KEMMERER MUNI",
+            "country": "United States of America",
+            "lat": 41.824083333333334,
+            "lon": -110.55694444444444
+        },
+        {
+            "id": "KLND",
+            "name": "HUNT FIELD",
+            "country": "United States of America",
+            "lat": 42.81558333333333,
+            "lon": -108.72825
+        },
+        {
+            "id": "KLAR",
+            "name": "LARAMIE RGNL",
+            "country": "United States of America",
+            "lat": 41.31205555555555,
+            "lon": -105.67500000000001
+        },
+        {
+            "id": "KECS",
+            "name": "MONDELL FIELD",
+            "country": "United States of America",
+            "lat": 43.88423888888889,
+            "lon": -104.31449722222222
+        },
+        {
+            "id": "KRWL",
+            "name": "RAWLINS MUNI/HARVEY FIELD",
+            "country": "United States of America",
+            "lat": 41.80572222222222,
+            "lon": -107.20033333333333
+        },
+        {
+            "id": "KRIW",
+            "name": "RIVERTON RGNL",
+            "country": "United States of America",
+            "lat": 43.064249999999994,
+            "lon": -108.45983333333334
+        },
+        {
+            "id": "KRKS",
+            "name": "ROCKSPRINGS-SWETWATER COUNTY",
+            "country": "United States of America",
+            "lat": 41.59422222222222,
+            "lon": -109.06519444444444
+        }
+    ]
+}

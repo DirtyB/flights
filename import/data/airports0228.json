@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 228,
+    "data": [
+        {
+            "id": "LIPX",
+            "name": "VERONA/VILLAFRANCA",
+            "country": "Italy",
+            "lat": 45.396388888888886,
+            "lon": 10.887777777777778
+        },
+        {
+            "id": "LIPY",
+            "name": "ANCONA/FALCONARA",
+            "country": "Italy",
+            "lat": 43.61666666666667,
+            "lon": 13.360277777777778
+        },
+        {
+            "id": "LIPZ",
+            "name": "VENEZIA/TESSERA",
+            "country": "Italy",
+            "lat": 45.50527777777778,
+            "lon": 12.351944444444444
+        },
+        {
+            "id": "LIQC",
+            "name": "CAPRI/ANACAPRI DAMECUTA",
+            "country": "Italy",
+            "lat": 40.5586111,
+            "lon": 14.2013889
+        },
+        {
+            "id": "LIQN",
+            "name": "RIETI",
+            "country": "Italy",
+            "lat": 42.42666666666666,
+            "lon": 12.85
+        },
+        {
+            "id": "LIQO",
+            "name": "MONTE ARGENTARIO",
+            "country": "Italy",
+            "lat": 42.3833333,
+            "lon": 11.1666667
+        },
+        {
+            "id": "LIRA",
+            "name": "ROMA/CIAMPINO",
+            "country": "Italy",
+            "lat": 41.79944444444444,
+            "lon": 12.597222222222223
+        },
+        {
+            "id": "LIRE",
+            "name": "PRATICA DI MARE (MIL)",
+            "country": "Italy",
+            "lat": 41.659372222222224,
+            "lon": 12.445155555555555
+        },
+        {
+            "id": "LIRF",
+            "name": "ROMA/FIUMICINO",
+            "country": "Italy",
+            "lat": 41.80027777777777,
+            "lon": 12.238888888888889
+        },
+        {
+            "id": "LIRH",
+            "name": "FROSINONE (MIL)",
+            "country": "Italy",
+            "lat": 41.644925,
+            "lon": 13.299022222222222
+        }
+    ]
+}

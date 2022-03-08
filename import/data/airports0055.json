@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 55,
+    "data": [
+        {
+            "id": "KTPH",
+            "name": "TONOPAH",
+            "country": "United States of America",
+            "lat": 38.06019444444444,
+            "lon": -117.08680555555556
+        },
+        {
+            "id": "KWMC",
+            "name": "WINNEMUCCA MUNI",
+            "country": "United States of America",
+            "lat": 40.89661111111111,
+            "lon": -117.80588888888889
+        },
+        {
+            "id": "KALB",
+            "name": "ALBANY INTL",
+            "country": "United States of America",
+            "lat": 42.74911111111111,
+            "lon": -73.80197222222222
+        },
+        {
+            "id": "KBGM",
+            "name": "GREATER BINGHAMTON/EDWIN A LINK FIELD",
+            "country": "United States of America",
+            "lat": 42.20844166666667,
+            "lon": -75.97960555555555
+        },
+        {
+            "id": "KBUF",
+            "name": "BUFFALO NIAGARA INTL",
+            "country": "United States of America",
+            "lat": 42.940416666666664,
+            "lon": -78.73058333333333
+        },
+        {
+            "id": "KDSV",
+            "name": "DANSVILLE MUNI",
+            "country": "United States of America",
+            "lat": 42.570688888888895,
+            "lon": -77.71297222222222
+        },
+        {
+            "id": "KDKK",
+            "name": "CHAUTAUQUA COUNTY/DUNKIRK",
+            "country": "United States of America",
+            "lat": 42.49393333333333,
+            "lon": -79.27109722222222
+        },
+        {
+            "id": "KHTO",
+            "name": "EAST HAMPTON",
+            "country": "United States of America",
+            "lat": 40.95941666666667,
+            "lon": -72.25166666666667
+        },
+        {
+            "id": "KELM",
+            "name": "ELMIRA/CORNING RGNL",
+            "country": "United States of America",
+            "lat": 42.15985555555555,
+            "lon": -76.89174444444446
+        },
+        {
+            "id": "KFRG",
+            "name": "REPUBLIC",
+            "country": "United States of America",
+            "lat": 40.72877777777778,
+            "lon": -73.41341666666668
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 329,
+    "data": [
+        {
+            "id": "YDBY",
+            "name": "DERBY",
+            "country": "Australia",
+            "lat": -17.37,
+            "lon": 123.66055555555556
+        },
+        {
+            "id": "YEML",
+            "name": "EMERALD",
+            "country": "Australia",
+            "lat": -23.5675,
+            "lon": 148.17916666666665
+        },
+        {
+            "id": "YESP",
+            "name": "ESPERANCE",
+            "country": "Australia",
+            "lat": -33.68444444444444,
+            "lon": 121.82277777777777
+        },
+        {
+            "id": "YFRT",
+            "name": "FORREST",
+            "country": "Australia",
+            "lat": -30.838055555555556,
+            "lon": 128.11499999999998
+        },
+        {
+            "id": "YGEL",
+            "name": "GERALDTON",
+            "country": "Australia",
+            "lat": -28.796111111111113,
+            "lon": 114.7075
+        },
+        {
+            "id": "YGFN",
+            "name": "GRAFTON",
+            "country": "Australia",
+            "lat": -29.759444444444444,
+            "lon": 153.03
+        },
+        {
+            "id": "YGLA",
+            "name": "GLADSTONE",
+            "country": "Australia",
+            "lat": -23.869722222222222,
+            "lon": 151.2227777777778
+        },
+        {
+            "id": "YGTE",
+            "name": "GROOTE EYLANDT",
+            "country": "Australia",
+            "lat": -13.973333333333333,
+            "lon": 136.4608333333333
+        },
+        {
+            "id": "YGTH",
+            "name": "GRIFFITH",
+            "country": "Australia",
+            "lat": -34.25083333333333,
+            "lon": 146.06722222222223
+        },
+        {
+            "id": "YHID",
+            "name": "HORN ISLAND",
+            "country": "Australia",
+            "lat": -10.586388888888889,
+            "lon": 142.29
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 296,
+    "data": [
+        {
+            "id": "UWUU",
+            "name": "UFA",
+            "country": "Russian Federation",
+            "lat": 54.55777777777777,
+            "lon": 55.87388888888889
+        },
+        {
+            "id": "UWWW",
+            "name": "SAMARA/KURUMOCH",
+            "country": "Russian Federation",
+            "lat": 53.50111111111111,
+            "lon": 50.153888888888886
+        },
+        {
+            "id": "UKBB",
+            "name": "KYIV/BORYSPIL",
+            "country": "Ukraine",
+            "lat": 50.344722222222224,
+            "lon": 30.893333333333334
+        },
+        {
+            "id": "UKDD",
+            "name": "DNIPROPETROVS'K",
+            "country": "Ukraine",
+            "lat": 48.35722222222223,
+            "lon": 35.10055555555556
+        },
+        {
+            "id": "UKDE",
+            "name": "ZAPORIZHZHIA/MOKRAYA",
+            "country": "Ukraine",
+            "lat": 47.867222222222225,
+            "lon": 35.315
+        },
+        {
+            "id": "UKDR",
+            "name": "KRYVYI RIH/LOZUVATKA",
+            "country": "Ukraine",
+            "lat": 48.04416666666666,
+            "lon": 33.20805555555556
+        },
+        {
+            "id": "UKHH",
+            "name": "KHARKIV/OSNOVA",
+            "country": "Ukraine",
+            "lat": 49.926944444444445,
+            "lon": 36.29
+        },
+        {
+            "id": "UKKK",
+            "name": "KYIV/ZHULIANY",
+            "country": "Ukraine",
+            "lat": 50.401944444444446,
+            "lon": 30.451944444444443
+        },
+        {
+            "id": "UKKM",
+            "name": "KYIV/ANTONOV-2",
+            "country": "Ukraine",
+            "lat": 50.60027777777778,
+            "lon": 30.19361111111111
+        },
+        {
+            "id": "UKLI",
+            "name": "IVANO-FRANKIVS'K",
+            "country": "Ukraine",
+            "lat": 48.88388888888889,
+            "lon": 24.684444444444445
+        }
+    ]
+}

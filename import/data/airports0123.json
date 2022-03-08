@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 123,
+    "data": [
+        {
+            "id": "MMZO",
+            "name": "MANZANILLO",
+            "country": "Mexico",
+            "lat": 19.14476388888889,
+            "lon": -104.558475
+        },
+        {
+            "id": "MMMA",
+            "name": "MATAMOROS",
+            "country": "Mexico",
+            "lat": 25.76994722222222,
+            "lon": -97.52523333333333
+        },
+        {
+            "id": "MMMZ",
+            "name": "MAZATLAN",
+            "country": "Mexico",
+            "lat": 23.161483333333333,
+            "lon": -106.26455833333333
+        },
+        {
+            "id": "MMMD",
+            "name": "MERIDA",
+            "country": "Mexico",
+            "lat": 20.93702222222222,
+            "lon": -89.65769444444445
+        },
+        {
+            "id": "MMML",
+            "name": "MEXICALI",
+            "country": "Mexico",
+            "lat": 32.63068888888889,
+            "lon": -115.24191111111111
+        },
+        {
+            "id": "MMMX",
+            "name": "MEXICO",
+            "country": "Mexico",
+            "lat": 19.436394444444446,
+            "lon": -99.07196944444443
+        },
+        {
+            "id": "MMMT",
+            "name": "MINATITLAN",
+            "country": "Mexico",
+            "lat": 18.10334166666667,
+            "lon": -94.58061388888889
+        },
+        {
+            "id": "MMMV",
+            "name": "MONCLOVA",
+            "country": "Mexico",
+            "lat": 26.9555,
+            "lon": -101.47103888888888
+        },
+        {
+            "id": "MMAN",
+            "name": "AEROPUERTO DEL NORTE",
+            "country": "Mexico",
+            "lat": 25.865605555555558,
+            "lon": -100.23721111111111
+        },
+        {
+            "id": "MMMY",
+            "name": "MONTERREY",
+            "country": "Mexico",
+            "lat": 25.775858333333332,
+            "lon": -100.10694444444444
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 52,
+    "data": [
+        {
+            "id": "KABQ",
+            "name": "ALBUQUERQUE INTL. SUNPORT",
+            "country": "United States of America",
+            "lat": 35.03893055555555,
+            "lon": -106.6082611111111
+        },
+        {
+            "id": "KCVS",
+            "name": "CANNON AFB",
+            "country": "United States of America",
+            "lat": 34.38236944444444,
+            "lon": -103.32236666666667
+        },
+        {
+            "id": "KCNM",
+            "name": "CAVERN CITY AIR TRML",
+            "country": "United States of America",
+            "lat": 32.33744444444444,
+            "lon": -104.26336111111111
+        },
+        {
+            "id": "KCAO",
+            "name": "CLAYTON MUNI ARPK",
+            "country": "United States of America",
+            "lat": 36.44627777777777,
+            "lon": -103.14994444444446
+        },
+        {
+            "id": "KCVN",
+            "name": "CLOVIS MUNI",
+            "country": "United States of America",
+            "lat": 34.42658888888889,
+            "lon": -103.07757777777778
+        },
+        {
+            "id": "KDMN",
+            "name": "DEMING MUNI",
+            "country": "United States of America",
+            "lat": 32.262388888888886,
+            "lon": -107.71900000000001
+        },
+        {
+            "id": "KFMN",
+            "name": "FOUR CORNERS RGNL",
+            "country": "United States of America",
+            "lat": 36.74125,
+            "lon": -108.22994444444444
+        },
+        {
+            "id": "KGNT",
+            "name": "GRANTS-MILAN MUNI",
+            "country": "United States of America",
+            "lat": 35.16727777777778,
+            "lon": -107.90205555555556
+        },
+        {
+            "id": "KHOB",
+            "name": "LEA COUNTY RGNL",
+            "country": "United States of America",
+            "lat": 32.6875,
+            "lon": -103.21733333333333
+        },
+        {
+            "id": "KHMN",
+            "name": "HOLLOMAN AFB",
+            "country": "United States of America",
+            "lat": 32.852111111111114,
+            "lon": -106.10911944444445
+        }
+    ]
+}

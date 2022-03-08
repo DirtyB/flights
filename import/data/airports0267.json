@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 267,
+    "data": [
+        {
+            "id": "FKKR",
+            "name": "GAROUA",
+            "country": "Cameroon",
+            "lat": 9.336666666666668,
+            "lon": 13.381111111111112
+        },
+        {
+            "id": "FKYS",
+            "name": "YAOUNDE/NSIMALEN",
+            "country": "Cameroon",
+            "lat": 3.7173333333333334,
+            "lon": 11.552444444444445
+        },
+        {
+            "id": "FLHN",
+            "name": "HARRY NKUMBULA INTERNATIONAL",
+            "country": "Zambia",
+            "lat": -17.821358333333333,
+            "lon": 25.817075
+        },
+        {
+            "id": "FLKK",
+            "name": "KENNETH KAUNDA",
+            "country": "Zambia",
+            "lat": -15.326666666666666,
+            "lon": 28.456666666666667
+        },
+        {
+            "id": "FLSK",
+            "name": "SIMON KAPWEPWE",
+            "country": "Zambia",
+            "lat": -12.995,
+            "lon": 28.665
+        },
+        {
+            "id": "FMCH",
+            "name": "MORONI/PRINCE SAID IBRAHIM",
+            "country": "Comoros",
+            "lat": -11.536519444444444,
+            "lon": 43.271325
+        },
+        {
+            "id": "FMCZ",
+            "name": "DZAOUDZI",
+            "country": "Madagascar",
+            "lat": -12.806666666666667,
+            "lon": 45.28055555555555
+        },
+        {
+            "id": "FMMI",
+            "name": "ANTANANARIVO/IVATO",
+            "country": "Madagascar",
+            "lat": -18.79652777777778,
+            "lon": 47.476083333333335
+        },
+        {
+            "id": "FMMS",
+            "name": "SAINTE-MARIE",
+            "country": "Madagascar",
+            "lat": -17.090277777777775,
+            "lon": 49.815555555555555
+        },
+        {
+            "id": "FMMT",
+            "name": "TOAMASINA",
+            "country": "Madagascar",
+            "lat": -18.115833333333335,
+            "lon": 49.39333333333333
+        }
+    ]
+}

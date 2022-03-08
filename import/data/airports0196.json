@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 196,
+    "data": [
+        {
+            "id": "ENVA",
+            "name": "TRONDHEIM/VAERNES",
+            "country": "Norway",
+            "lat": 63.4575,
+            "lon": 10.924166666666666
+        },
+        {
+            "id": "ENVD",
+            "name": "VADSO",
+            "country": "Norway",
+            "lat": 70.06527777777778,
+            "lon": 29.84472222222222
+        },
+        {
+            "id": "ENVH",
+            "name": "VALHALL A",
+            "country": "Norway",
+            "lat": 56.2780556,
+            "lon": 3.3927778
+        },
+        {
+            "id": "ENZV",
+            "name": "STAVANGER/SOLA",
+            "country": "Norway",
+            "lat": 58.876666666666665,
+            "lon": 5.637777777777777
+        },
+        {
+            "id": "EPBY",
+            "name": "BYDGOSZCZ/SZWEDEROWO",
+            "country": "Poland",
+            "lat": 53.09666666666667,
+            "lon": 17.977777777777778
+        },
+        {
+            "id": "EPGD",
+            "name": "GDANSK IM LECHA WALESY",
+            "country": "Poland",
+            "lat": 54.3775,
+            "lon": 18.46611111111111
+        },
+        {
+            "id": "EPKK",
+            "name": "KRAKOW/BALICE",
+            "country": "Poland",
+            "lat": 50.07777777777778,
+            "lon": 19.784722222222225
+        },
+        {
+            "id": "EPKT",
+            "name": "KATOWICE/PYRZOWICE",
+            "country": "Poland",
+            "lat": 50.47416666666667,
+            "lon": 19.08
+        },
+        {
+            "id": "EPLB",
+            "name": "LUBLIN",
+            "country": "Poland",
+            "lat": 51.24027777777778,
+            "lon": 22.71361111111111
+        },
+        {
+            "id": "EPLL",
+            "name": "LODZ/LUBLINEK",
+            "country": "Poland",
+            "lat": 51.721944444444446,
+            "lon": 19.398055555555555
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 225,
+    "data": [
+        {
+            "id": "LIEA",
+            "name": "ALGHERO/FERTILIA",
+            "country": "Italy",
+            "lat": 40.63111111111111,
+            "lon": 8.288611111111111
+        },
+        {
+            "id": "LIEB",
+            "name": "CAPO BELLAVISTA",
+            "country": "Italy",
+            "lat": 39.9333333,
+            "lon": 9.7166667
+        },
+        {
+            "id": "LIED",
+            "name": "DECIMOMANNU (MIL)",
+            "country": "Italy",
+            "lat": 39.35385,
+            "lon": 8.971725
+        },
+        {
+            "id": "LIEE",
+            "name": "CAGLIARI/ELMAS",
+            "country": "Italy",
+            "lat": 39.24722222222222,
+            "lon": 9.056111111111111
+        },
+        {
+            "id": "LIEO",
+            "name": "OLBIA/COSTA SMERALDA",
+            "country": "Italy",
+            "lat": 40.89861111111111,
+            "lon": 9.517777777777779
+        },
+        {
+            "id": "LIMA",
+            "name": "TORINO/AERITALIA",
+            "country": "Italy",
+            "lat": 45.08444444444444,
+            "lon": 7.603055555555555
+        },
+        {
+            "id": "LIMC",
+            "name": "MILANO/MALPENSA",
+            "country": "Italy",
+            "lat": 45.63,
+            "lon": 8.723055555555556
+        },
+        {
+            "id": "LIME",
+            "name": "BERGAMO/ORIO AL SERIO",
+            "country": "Italy",
+            "lat": 45.66888888888889,
+            "lon": 9.700277777777776
+        },
+        {
+            "id": "LIMF",
+            "name": "TORINO/CASELLE",
+            "country": "Italy",
+            "lat": 45.2025,
+            "lon": 7.649444444444444
+        },
+        {
+            "id": "LIMG",
+            "name": "ALBENGA",
+            "country": "Italy",
+            "lat": 44.045833333333334,
+            "lon": 8.125555555555556
+        }
+    ]
+}

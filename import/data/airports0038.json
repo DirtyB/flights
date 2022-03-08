@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 38,
+    "data": [
+        {
+            "id": "KJEF",
+            "name": "JEFFERSON CITY MEMORIAL",
+            "country": "United States of America",
+            "lat": 38.591166666666666,
+            "lon": -92.15613888888889
+        },
+        {
+            "id": "KJLN",
+            "name": "JOPLIN RGNL",
+            "country": "United States of America",
+            "lat": 37.151805555555555,
+            "lon": -94.49827777777777
+        },
+        {
+            "id": "KAIZ",
+            "name": "LEE C FINE MEMORIAL",
+            "country": "United States of America",
+            "lat": 38.09602777777778,
+            "lon": -92.54947222222222
+        },
+        {
+            "id": "KMCI",
+            "name": "KANSAS CITY INTL",
+            "country": "United States of America",
+            "lat": 39.29761111111111,
+            "lon": -94.71388888888889
+        },
+        {
+            "id": "KMKC",
+            "name": "CHARLES B. WHEELER DOWNTOWN",
+            "country": "United States of America",
+            "lat": 39.12294444444444,
+            "lon": -94.59283333333333
+        },
+        {
+            "id": "KIRK",
+            "name": "KIRKSVILLE RGNL",
+            "country": "United States of America",
+            "lat": 40.093472222222225,
+            "lon": -92.54491666666667
+        },
+        {
+            "id": "KPOF",
+            "name": "POPLAR BLUFF MUNI",
+            "country": "United States of America",
+            "lat": 36.773944444444446,
+            "lon": -90.3248611111111
+        },
+        {
+            "id": "KDMO",
+            "name": "SEDALIA RGNL",
+            "country": "United States of America",
+            "lat": 38.70741666666667,
+            "lon": -93.17591666666667
+        },
+        {
+            "id": "KSGF",
+            "name": "SPRINGFIELD-BRANSON NATIONAL",
+            "country": "United States of America",
+            "lat": 37.245666666666665,
+            "lon": -93.38863888888889
+        },
+        {
+            "id": "KSTJ",
+            "name": "ROSECRANS MEMORIAL",
+            "country": "United States of America",
+            "lat": 39.77194444444444,
+            "lon": -94.90970555555556
+        }
+    ]
+}

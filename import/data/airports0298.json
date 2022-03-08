@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 298,
+    "data": [
+        {
+            "id": "UMGG",
+            "name": "HOMIEL",
+            "country": "Belarus",
+            "lat": 52.526944444444446,
+            "lon": 31.016666666666666
+        },
+        {
+            "id": "UMII",
+            "name": "VICIEBSK",
+            "country": "Belarus",
+            "lat": 55.12638888888889,
+            "lon": 30.349722222222223
+        },
+        {
+            "id": "UMMG",
+            "name": "HRODNA",
+            "country": "Belarus",
+            "lat": 53.60194444444445,
+            "lon": 24.05388888888889
+        },
+        {
+            "id": "UMMS",
+            "name": "MINSK-2",
+            "country": "Belarus",
+            "lat": 53.8825,
+            "lon": 28.030833333333334
+        },
+        {
+            "id": "UMOO",
+            "name": "MAHILIOU",
+            "country": "Belarus",
+            "lat": 53.95527777777778,
+            "lon": 30.094166666666666
+        },
+        {
+            "id": "UTAA",
+            "name": "ASHGABAT",
+            "country": "Turkmenistan",
+            "lat": 37.99166666666667,
+            "lon": 58.36194444444445
+        },
+        {
+            "id": "UTAK",
+            "name": "TURKMENBASHI",
+            "country": "Turkmenistan",
+            "lat": 40.06333333333333,
+            "lon": 53.007222222222225
+        },
+        {
+            "id": "UTAM",
+            "name": "MARY",
+            "country": "Turkmenistan",
+            "lat": 37.62166666666667,
+            "lon": 61.89666666666667
+        },
+        {
+            "id": "UTAT",
+            "name": "DASHOGUZ",
+            "country": "Turkmenistan",
+            "lat": 41.76166666666666,
+            "lon": 59.84166666666667
+        },
+        {
+            "id": "UTAV",
+            "name": "TURKMENABAT",
+            "country": "Turkmenistan",
+            "lat": 39.083333333333336,
+            "lon": 63.61333333333334
+        }
+    ]
+}

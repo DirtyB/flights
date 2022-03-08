@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 337,
+    "data": [
+        {
+            "id": "NSTU",
+            "name": "PAGO PAGO INTL",
+            "country": "United States of America",
+            "lat": -14.331658333333333,
+            "lon": -170.71150277777775
+        },
+        {
+            "id": "NSFA",
+            "name": "FALEOLO/INTL",
+            "country": "Samoa",
+            "lat": -13.829666666666666,
+            "lon": -171.99716666666666
+        },
+        {
+            "id": "NCRG",
+            "name": "RAROTONGA INTL.",
+            "country": "Cook Islands",
+            "lat": -21.200875,
+            "lon": -159.79495
+        },
+        {
+            "id": "NIUE",
+            "name": "NIUE INTL",
+            "country": "New Zealand",
+            "lat": -19.07777777777778,
+            "lon": -169.92666666666665
+        },
+        {
+            "id": "NTAA",
+            "name": "TAHITI FAAA",
+            "country": "France",
+            "lat": -17.55666666666667,
+            "lon": -149.61138888888888
+        },
+        {
+            "id": "NWWW",
+            "name": "NOUMEA LA TONTOUTA",
+            "country": "France",
+            "lat": -22.01638888888889,
+            "lon": 166.2161111111111
+        },
+        {
+            "id": "NCAI",
+            "name": "AITUTAKI",
+            "country": "Cook Islands",
+            "lat": -18.830055555555557,
+            "lon": -159.76488333333333
+        },
+        {
+            "id": "NCPY",
+            "name": "PENRHYN",
+            "country": "Cook Islands",
+            "lat": -9.00611111111111,
+            "lon": -158.03631666666666
+        },
+        {
+            "id": "PADK",
+            "name": "ADAK",
+            "country": "United States of America",
+            "lat": 51.883580555555554,
+            "lon": -176.64247777777777
+        },
+        {
+            "id": "PAFM",
+            "name": "AMBLER",
+            "country": "United States of America",
+            "lat": 67.10641666666666,
+            "lon": -157.8575
+        }
+    ]
+}

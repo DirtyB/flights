@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 311,
+    "data": [
+        {
+            "id": "ROAH",
+            "name": "NAHA",
+            "country": "Japan",
+            "lat": 26.195833333333333,
+            "lon": 127.64583333333334
+        },
+        {
+            "id": "RODN",
+            "name": "KADENA",
+            "country": "Japan",
+            "lat": 26.355611111111113,
+            "lon": 127.76763888888888
+        },
+        {
+            "id": "ROIG",
+            "name": "NEW ISHIGAKI",
+            "country": "Japan",
+            "lat": 24.39638888888889,
+            "lon": 124.245
+        },
+        {
+            "id": "ROMY",
+            "name": "MIYAKO",
+            "country": "Japan",
+            "lat": 24.782777777777778,
+            "lon": 125.295
+        },
+        {
+            "id": "RORS",
+            "name": "SHIMOJISHIMA",
+            "country": "Japan",
+            "lat": 24.826666666666668,
+            "lon": 125.14472222222223
+        },
+        {
+            "id": "ROTM",
+            "name": "FUTENMA",
+            "country": "Japan",
+            "lat": 26.274272222222223,
+            "lon": 127.7565
+        },
+        {
+            "id": "RKJB",
+            "name": "MUAN",
+            "country": "Republic of Korea",
+            "lat": 34.99138888888889,
+            "lon": 126.38277777777778
+        },
+        {
+            "id": "RKJK",
+            "name": "GUNSAN",
+            "country": "Republic of Korea",
+            "lat": 35.90376666666666,
+            "lon": 126.61589444444444
+        },
+        {
+            "id": "RKNY",
+            "name": "YANGYANG",
+            "country": "Republic of Korea",
+            "lat": 38.061388888888885,
+            "lon": 128.66916666666665
+        },
+        {
+            "id": "RKPC",
+            "name": "JEJU INTL",
+            "country": "Republic of Korea",
+            "lat": 33.51222222222222,
+            "lon": 126.49277777777777
+        }
+    ]
+}

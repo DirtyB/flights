@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 49,
+    "data": [
+        {
+            "id": "KOGA",
+            "name": "SEARLE FIELD",
+            "country": "United States of America",
+            "lat": 41.11947222222222,
+            "lon": -101.76969444444444
+        },
+        {
+            "id": "KOMA",
+            "name": "EPPLEY AIRFIELD",
+            "country": "United States of America",
+            "lat": 41.30316666666666,
+            "lon": -95.89405555555557
+        },
+        {
+            "id": "KBFF",
+            "name": "WESTERN NEBRASKA RGNL/WILLIAM B.HEILIG FIELD",
+            "country": "United States of America",
+            "lat": 41.874027777777776,
+            "lon": -103.59563888888889
+        },
+        {
+            "id": "KSNY",
+            "name": "SIDNEY MUNI/LLOYD W. CARR FIELD",
+            "country": "United States of America",
+            "lat": 41.099805555555555,
+            "lon": -102.98496944444445
+        },
+        {
+            "id": "KVTN",
+            "name": "MILLER FIELD",
+            "country": "United States of America",
+            "lat": 42.85669444444444,
+            "lon": -100.54897222222222
+        },
+        {
+            "id": "KLCG",
+            "name": "WAYNE MUNI/STAN MORRIS FLD",
+            "country": "United States of America",
+            "lat": 42.24160555555556,
+            "lon": -96.98226944444444
+        },
+        {
+            "id": "KBML",
+            "name": "BERLIN RGNL",
+            "country": "United States of America",
+            "lat": 44.575361111111114,
+            "lon": -71.17591666666667
+        },
+        {
+            "id": "KCON",
+            "name": "CONCORD MUNI",
+            "country": "United States of America",
+            "lat": 43.20272222222223,
+            "lon": -71.50227777777778
+        },
+        {
+            "id": "KAFN",
+            "name": "JAFFREY AIRPORT-SILVER RANCH",
+            "country": "United States of America",
+            "lat": 42.805138888888884,
+            "lon": -72.003025
+        },
+        {
+            "id": "KEEN",
+            "name": "DILLANT-HOPKINS",
+            "country": "United States of America",
+            "lat": 42.8984,
+            "lon": -72.27078055555556
+        }
+    ]
+}

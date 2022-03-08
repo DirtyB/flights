@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 362,
+    "data": [
+        {
+            "id": "KNUQ",
+            "name": "MOFFETT FEDERAL AFLD",
+            "country": "United States of America",
+            "lat": 37.41613888888889,
+            "lon": -122.04913888888889
+        },
+        {
+            "id": "KMHV",
+            "name": "MOJAVE",
+            "country": "United States of America",
+            "lat": 35.05894166666666,
+            "lon": -118.15060833333334
+        },
+        {
+            "id": "KSIY",
+            "name": "SISKIYOU COUNTY",
+            "country": "United States of America",
+            "lat": 41.781444444444446,
+            "lon": -122.46810833333333
+        },
+        {
+            "id": "KMRY",
+            "name": "MONTEREY RGNL",
+            "country": "United States of America",
+            "lat": 36.58695,
+            "lon": -121.84278055555555
+        },
+        {
+            "id": "KAPC",
+            "name": "NAPA COUNTY",
+            "country": "United States of America",
+            "lat": 38.21319444444445,
+            "lon": -122.28069444444445
+        },
+        {
+            "id": "KEED",
+            "name": "NEEDLES",
+            "country": "United States of America",
+            "lat": 34.76634444444444,
+            "lon": -114.62327777777777
+        },
+        {
+            "id": "KNZY",
+            "name": "NORTH ISLAND NAS/HALSEY FIELD",
+            "country": "United States of America",
+            "lat": 32.69819444444444,
+            "lon": -117.21310833333334
+        },
+        {
+            "id": "KOAK",
+            "name": "METROPOLITAN OAKLAND INTL",
+            "country": "United States of America",
+            "lat": 37.72125833333334,
+            "lon": -122.22114722222223
+        },
+        {
+            "id": "KONT",
+            "name": "ONTARIO INTL",
+            "country": "United States of America",
+            "lat": 34.056,
+            "lon": -117.60119444444445
+        },
+        {
+            "id": "KOVE",
+            "name": "OROVILLE MUNI",
+            "country": "United States of America",
+            "lat": 39.48780555555555,
+            "lon": -121.622
+        }
+    ]
+}

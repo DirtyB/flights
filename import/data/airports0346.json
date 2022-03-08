@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 346,
+    "data": [
+        {
+            "id": "PANA",
+            "name": "NAPAKIAK",
+            "country": "United States of America",
+            "lat": 60.69033333333333,
+            "lon": -161.9785
+        },
+        {
+            "id": "PAOU",
+            "name": "NELSON LAGOON",
+            "country": "United States of America",
+            "lat": 56.00753611111111,
+            "lon": -161.16036666666668
+        },
+        {
+            "id": "PANN",
+            "name": "NENANA MUNI",
+            "country": "United States of America",
+            "lat": 64.54732777777778,
+            "lon": -149.073975
+        },
+        {
+            "id": "PANW",
+            "name": "NEW STUYAHOK",
+            "country": "United States of America",
+            "lat": 59.451527777777784,
+            "lon": -157.37316666666666
+        },
+        {
+            "id": "PAFS",
+            "name": "NIKOLAI",
+            "country": "United States of America",
+            "lat": 63.01855555555556,
+            "lon": -154.35844444444444
+        },
+        {
+            "id": "PAOM",
+            "name": "NOME",
+            "country": "United States of America",
+            "lat": 64.51255,
+            "lon": -165.44436944444445
+        },
+        {
+            "id": "PAOR",
+            "name": "NORTHWAY",
+            "country": "United States of America",
+            "lat": 62.96116666666667,
+            "lon": -141.92808333333332
+        },
+        {
+            "id": "PAWN",
+            "name": "NOATAK",
+            "country": "United States of America",
+            "lat": 67.56116666666667,
+            "lon": -162.98041666666666
+        },
+        {
+            "id": "PAQT",
+            "name": "NUIQSUT",
+            "country": "United States of America",
+            "lat": 70.20983333333334,
+            "lon": -151.00647222222221
+        },
+        {
+            "id": "PAAQ",
+            "name": "PALMER MUNI",
+            "country": "United States of America",
+            "lat": 61.59491388888889,
+            "lon": -149.0887111111111
+        }
+    ]
+}

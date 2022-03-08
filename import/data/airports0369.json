@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 369,
+    "data": [
+        {
+            "id": "KPUB",
+            "name": "PUEBLO MEMORIAL",
+            "country": "United States of America",
+            "lat": 38.289944444444444,
+            "lon": -104.49802777777778
+        },
+        {
+            "id": "KRIL",
+            "name": "GARFIELD COUNTY RGNL",
+            "country": "United States of America",
+            "lat": 39.52661111111111,
+            "lon": -107.72800000000001
+        },
+        {
+            "id": "KSBS",
+            "name": "STEAMBOAT SPRINGS/BOB ADAMS FIELD",
+            "country": "United States of America",
+            "lat": 40.51625,
+            "lon": -106.86630555555556
+        },
+        {
+            "id": "KTEX",
+            "name": "TELLURIDE RGNL",
+            "country": "United States of America",
+            "lat": 37.95380555555556,
+            "lon": -107.90875000000001
+        },
+        {
+            "id": "KTAD",
+            "name": "PERRY STOKES",
+            "country": "United States of America",
+            "lat": 37.25922222222222,
+            "lon": -104.34086111111111
+        },
+        {
+            "id": "KAFF",
+            "name": "USAF ACADEMY AFLD",
+            "country": "United States of America",
+            "lat": 38.97416944444445,
+            "lon": -104.81790555555555
+        },
+        {
+            "id": "KSTK",
+            "name": "STERLING MUNI",
+            "country": "United States of America",
+            "lat": 40.61429722222223,
+            "lon": -103.26426111111111
+        },
+        {
+            "id": "KBDR",
+            "name": "IGOR I SIKORSKY MEMORIAL",
+            "country": "United States of America",
+            "lat": 41.16347222222222,
+            "lon": -73.12616666666666
+        },
+        {
+            "id": "KGON",
+            "name": "GROTON-NEW LONDON",
+            "country": "United States of America",
+            "lat": 41.33005555555556,
+            "lon": -72.04513888888889
+        },
+        {
+            "id": "KHFD",
+            "name": "HARTFORD-BRAINARD",
+            "country": "United States of America",
+            "lat": 41.73672222222223,
+            "lon": -72.64944444444446
+        }
+    ]
+}

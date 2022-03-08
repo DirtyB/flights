@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 20,
+    "data": [
+        {
+            "id": "KCFV",
+            "name": "COFFEYVILLE MUNI",
+            "country": "United States of America",
+            "lat": 37.094,
+            "lon": -95.572
+        },
+        {
+            "id": "KCNK",
+            "name": "BLOSSER MUNI",
+            "country": "United States of America",
+            "lat": 39.54922222222222,
+            "lon": -97.65230555555556
+        },
+        {
+            "id": "KDDC",
+            "name": "DODGE CITY RGNL",
+            "country": "United States of America",
+            "lat": 37.76311111111111,
+            "lon": -99.96541666666667
+        },
+        {
+            "id": "KEMP",
+            "name": "EMPORIA MUNI",
+            "country": "United States of America",
+            "lat": 38.330555555555556,
+            "lon": -96.18994444444445
+        },
+        {
+            "id": "KFRI",
+            "name": "MARSHALL AAF",
+            "country": "United States of America",
+            "lat": 39.05533333333333,
+            "lon": -96.7645
+        },
+        {
+            "id": "KGCK",
+            "name": "GARDEN CITY RGNL",
+            "country": "United States of America",
+            "lat": 37.927527777777776,
+            "lon": -100.72441666666667
+        },
+        {
+            "id": "KGLD",
+            "name": "RENNER FLD /GOODLAND MUNI/",
+            "country": "United States of America",
+            "lat": 39.37063888888889,
+            "lon": -101.699
+        },
+        {
+            "id": "KGBD",
+            "name": "GREAT BEND MUNI",
+            "country": "United States of America",
+            "lat": 38.34425,
+            "lon": -98.85919444444444
+        },
+        {
+            "id": "KHYS",
+            "name": "HAYS RGNL",
+            "country": "United States of America",
+            "lat": 38.842222222222226,
+            "lon": -99.27316666666667
+        },
+        {
+            "id": "KHLC",
+            "name": "HILL CITY MUNI",
+            "country": "United States of America",
+            "lat": 39.38019444444444,
+            "lon": -99.83147222222222
+        }
+    ]
+}

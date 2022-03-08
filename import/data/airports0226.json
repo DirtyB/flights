@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 226,
+    "data": [
+        {
+            "id": "LIMH",
+            "name": "PIAN ROSA'",
+            "country": "Italy",
+            "lat": 45.9333333,
+            "lon": 7.7
+        },
+        {
+            "id": "LIMJ",
+            "name": "GENOVA/SESTRI",
+            "country": "Italy",
+            "lat": 44.413333333333334,
+            "lon": 8.8375
+        },
+        {
+            "id": "LIMK",
+            "name": "TORINO/BRIC DELLA CROCE",
+            "country": "Italy",
+            "lat": 45.0333333,
+            "lon": 7.7333333
+        },
+        {
+            "id": "LIML",
+            "name": "MILANO/LINATE",
+            "country": "Italy",
+            "lat": 45.44944444444444,
+            "lon": 9.278333333333334
+        },
+        {
+            "id": "LIMP",
+            "name": "PARMA",
+            "country": "Italy",
+            "lat": 44.82222222222222,
+            "lon": 10.295277777777777
+        },
+        {
+            "id": "LIMS",
+            "name": "PIACENZA/S.DAMIANO (MIL)",
+            "country": "Italy",
+            "lat": 44.91386388888889,
+            "lon": 9.72058611111111
+        },
+        {
+            "id": "LIMT",
+            "name": "PASSO DELLA CISA",
+            "country": "Italy",
+            "lat": 44.4333333,
+            "lon": 9.9333333
+        },
+        {
+            "id": "LIMU",
+            "name": "CAPO MELE",
+            "country": "Italy",
+            "lat": 43.95,
+            "lon": 8.1666667
+        },
+        {
+            "id": "LIMY",
+            "name": "MONDOVI' (MIL)",
+            "country": "Italy",
+            "lat": 44.25,
+            "lon": 7.8
+        },
+        {
+            "id": "LIMZ",
+            "name": "CUNEO/LEVALDIGI",
+            "country": "Italy",
+            "lat": 44.5475,
+            "lon": 7.623055555555556
+        }
+    ]
+}

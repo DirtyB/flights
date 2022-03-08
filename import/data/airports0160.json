@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 160,
+    "data": [
+        {
+            "id": "SUSO",
+            "name": "SALTO/INTL.NUEVA HESPERIDES",
+            "country": "Uruguay",
+            "lat": -31.434722222222224,
+            "lon": -57.98416666666667
+        },
+        {
+            "id": "SCAR",
+            "name": "ARICA/AP CHACALLUTA",
+            "country": "Chile",
+            "lat": -18.34861111111111,
+            "lon": -70.3386111111111
+        },
+        {
+            "id": "SCAT",
+            "name": "CALDERA/AD DESIERTO DE ATACAMA",
+            "country": "Chile",
+            "lat": -27.261666666666667,
+            "lon": -70.77916666666667
+        },
+        {
+            "id": "SCBA",
+            "name": "BALMACEDA/AD BALMACEDA",
+            "country": "Chile",
+            "lat": -45.91638888888889,
+            "lon": -71.68694444444445
+        },
+        {
+            "id": "SCCF",
+            "name": "CALAMA/AD EL LOA",
+            "country": "Chile",
+            "lat": -22.5,
+            "lon": -68.90305555555557
+        },
+        {
+            "id": "SCCI",
+            "name": "PUNTA ARENAS/AP PDTE. CARLOS IBANEZ DEL C.",
+            "country": "Chile",
+            "lat": -53.00361111111111,
+            "lon": -70.8536111111111
+        },
+        {
+            "id": "SCDA",
+            "name": "IQUIQUE/AP DIEGO ARACENA",
+            "country": "Chile",
+            "lat": -20.53527777777778,
+            "lon": -70.18138888888889
+        },
+        {
+            "id": "SCEL",
+            "name": "SANTIAGO/AP ARTURO MERINO BENITEZ",
+            "country": "Chile",
+            "lat": -33.394441666666665,
+            "lon": -70.79380277777777
+        },
+        {
+            "id": "SCFA",
+            "name": "ANTOFAGASTA/AD ANDRES SABELLA",
+            "country": "Chile",
+            "lat": -23.444444444444446,
+            "lon": -70.44500000000001
+        },
+        {
+            "id": "SCIE",
+            "name": "CONCEPCION/AD CARRIEL SUR",
+            "country": "Chile",
+            "lat": -36.771388888888886,
+            "lon": -73.0625
+        }
+    ]
+}

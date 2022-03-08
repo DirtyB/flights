@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 326,
+    "data": [
+        {
+            "id": "YBAS",
+            "name": "ALICE SPRINGS",
+            "country": "Australia",
+            "lat": -23.806944444444444,
+            "lon": 133.90222222222224
+        },
+        {
+            "id": "YBBN",
+            "name": "BRISBANE/BRISBANE INTL",
+            "country": "Australia",
+            "lat": -27.384166666666665,
+            "lon": 153.1175
+        },
+        {
+            "id": "YBCG",
+            "name": "GOLD COAST",
+            "country": "Australia",
+            "lat": -28.16444444444444,
+            "lon": 153.50472222222223
+        },
+        {
+            "id": "YBCS",
+            "name": "CAIRNS/CAIRNS INTL",
+            "country": "Australia",
+            "lat": -16.885833333333334,
+            "lon": 145.7552777777778
+        },
+        {
+            "id": "YBCV",
+            "name": "CHARLEVILLE",
+            "country": "Australia",
+            "lat": -26.41333333333333,
+            "lon": 146.26333333333332
+        },
+        {
+            "id": "YBDV",
+            "name": "BIRDSVILLE",
+            "country": "Australia",
+            "lat": -25.8975,
+            "lon": 139.3475
+        },
+        {
+            "id": "YBHI",
+            "name": "BROKEN HILL",
+            "country": "Australia",
+            "lat": -32.00138888888889,
+            "lon": 141.47166666666666
+        },
+        {
+            "id": "YBHM",
+            "name": "HAMILTON ISLAND",
+            "country": "Australia",
+            "lat": -20.358055555555556,
+            "lon": 148.95166666666665
+        },
+        {
+            "id": "YBMA",
+            "name": "MOUNT ISA",
+            "country": "Australia",
+            "lat": -20.663888888888888,
+            "lon": 139.4886111111111
+        },
+        {
+            "id": "YBMK",
+            "name": "MACKAY",
+            "country": "Australia",
+            "lat": -21.171666666666667,
+            "lon": 149.1797222222222
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 231,
+    "data": [
+        {
+            "id": "LIVT",
+            "name": "TRIESTE",
+            "country": "Italy",
+            "lat": 45.8266666666667,
+            "lon": 13.4722226666667
+        },
+        {
+            "id": "LJCE",
+            "name": "CERKLJE OB KRKI",
+            "country": "Slovenia",
+            "lat": 45.9,
+            "lon": 15.530277777777778
+        },
+        {
+            "id": "LJLJ",
+            "name": "LJUBLJANA/BRNIK",
+            "country": "Slovenia",
+            "lat": 46.224444444444444,
+            "lon": 14.45611111111111
+        },
+        {
+            "id": "LJMB",
+            "name": "MARIBOR/OREHOVA VAS",
+            "country": "Slovenia",
+            "lat": 46.480000000000004,
+            "lon": 15.686111111111112
+        },
+        {
+            "id": "LJPZ",
+            "name": "PORTOROZ/SECOVLJE",
+            "country": "Slovenia",
+            "lat": 45.473333333333336,
+            "lon": 13.615
+        },
+        {
+            "id": "LKCV",
+            "name": "CASLAV",
+            "country": "Czech Republic",
+            "lat": 49.939563888888884,
+            "lon": 15.381933333333334
+        },
+        {
+            "id": "LKKB",
+            "name": "KBELY",
+            "country": "Czech Republic",
+            "lat": 50.12136666666667,
+            "lon": 14.543641666666666
+        },
+        {
+            "id": "LKLN",
+            "name": "PLZEN/LINE",
+            "country": "Czech Republic",
+            "lat": 49.67527777777777,
+            "lon": 13.274444444444445
+        },
+        {
+            "id": "LKKU",
+            "name": "KUNOVICE",
+            "country": "Czech Republic",
+            "lat": 49.029444444444444,
+            "lon": 17.439722222222223
+        },
+        {
+            "id": "LKKV",
+            "name": "KARLOVY VARY",
+            "country": "Czech Republic",
+            "lat": 50.20305555555556,
+            "lon": 12.915000000000001
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 212,
+    "data": [
+        {
+            "id": "LFLC",
+            "name": "CLERMONT-FERRAND-AUVERGNE CLERMONT CCER",
+            "country": "France",
+            "lat": 45.78611111111111,
+            "lon": 3.1625
+        },
+        {
+            "id": "LFLL",
+            "name": "LYON SAINT-EXUPERY",
+            "country": "France",
+            "lat": 45.72555555555556,
+            "lon": 5.0811111111111105
+        },
+        {
+            "id": "LFLN",
+            "name": "SAINT-YAN",
+            "country": "France",
+            "lat": 46.406388888888884,
+            "lon": 4.021111111111111
+        },
+        {
+            "id": "LFLP",
+            "name": "ANNECY-MEYTHET",
+            "country": "France",
+            "lat": 45.93083333333333,
+            "lon": 6.106388888888889
+        },
+        {
+            "id": "LFLS",
+            "name": "GRENOBLE-ISERE",
+            "country": "France",
+            "lat": 45.363055555555555,
+            "lon": 5.332777777777777
+        },
+        {
+            "id": "LFLW",
+            "name": "AURILLAC",
+            "country": "France",
+            "lat": 44.8975,
+            "lon": 2.4166666666666665
+        },
+        {
+            "id": "LFLX",
+            "name": "CHATEAUROUX-DEOLS",
+            "country": "France",
+            "lat": 46.86027777777778,
+            "lon": 1.7211111111111113
+        },
+        {
+            "id": "LFLY",
+            "name": "LYON-BRON",
+            "country": "France",
+            "lat": 45.72944444444445,
+            "lon": 4.938888888888889
+        },
+        {
+            "id": "LFMC",
+            "name": "LE LUC-LE CANNET",
+            "country": "France",
+            "lat": 43.38472222222222,
+            "lon": 6.3869444444444445
+        },
+        {
+            "id": "LFMD",
+            "name": "CANNES-MANDELIEU",
+            "country": "France",
+            "lat": 43.546388888888885,
+            "lon": 6.954166666666667
+        }
+    ]
+}

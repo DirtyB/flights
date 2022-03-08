@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 168,
+    "data": [
+        {
+            "id": "EDDH",
+            "name": "HAMBURG",
+            "country": "Germany",
+            "lat": 53.63038888888889,
+            "lon": 9.988227777777777
+        },
+        {
+            "id": "EDDK",
+            "name": "KOELN/BONN",
+            "country": "Germany",
+            "lat": 50.86591666666667,
+            "lon": 7.142744444444445
+        },
+        {
+            "id": "EDDL",
+            "name": "DUESSELDORF",
+            "country": "Germany",
+            "lat": 51.280924999999996,
+            "lon": 6.757311111111111
+        },
+        {
+            "id": "EDDM",
+            "name": "MUENCHEN",
+            "country": "Germany",
+            "lat": 48.35378333333333,
+            "lon": 11.78608611111111
+        },
+        {
+            "id": "EDDN",
+            "name": "NUERNBERG",
+            "country": "Germany",
+            "lat": 49.4987,
+            "lon": 11.078008333333333
+        },
+        {
+            "id": "EDDP",
+            "name": "LEIPZIG/HALLE",
+            "country": "Germany",
+            "lat": 51.423991666666666,
+            "lon": 12.236383333333333
+        },
+        {
+            "id": "EDDR",
+            "name": "SAARBRUECKEN",
+            "country": "Germany",
+            "lat": 49.21455277777778,
+            "lon": 7.109508333333333
+        },
+        {
+            "id": "EDDS",
+            "name": "STUTTGART",
+            "country": "Germany",
+            "lat": 48.689877777777774,
+            "lon": 9.221963888888888
+        },
+        {
+            "id": "EDDT",
+            "name": "BERLIN-TEGEL",
+            "country": "Germany",
+            "lat": 52.559686111111105,
+            "lon": 13.287711111111111
+        },
+        {
+            "id": "EDDV",
+            "name": "HANNOVER",
+            "country": "Germany",
+            "lat": 52.460213888888894,
+            "lon": 9.683522222222223
+        }
+    ]
+}

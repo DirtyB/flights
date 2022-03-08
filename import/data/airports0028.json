@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 28,
+    "data": [
+        {
+            "id": "KESN",
+            "name": "EASTON/NEWNAM FIELD",
+            "country": "United States of America",
+            "lat": 38.80416666666667,
+            "lon": -76.069
+        },
+        {
+            "id": "KFME",
+            "name": "TIPTON",
+            "country": "United States of America",
+            "lat": 39.08538611111111,
+            "lon": -76.75941388888889
+        },
+        {
+            "id": "KFDK",
+            "name": "FREDERICK MUNI",
+            "country": "United States of America",
+            "lat": 39.41755555555555,
+            "lon": -77.37430555555555
+        },
+        {
+            "id": "KGAI",
+            "name": "MONTGOMERY COUNTY AIRPARK",
+            "country": "United States of America",
+            "lat": 39.16833333333333,
+            "lon": -77.16600000000001
+        },
+        {
+            "id": "KHGR",
+            "name": "HAGERSTOWN RGNL-RICHARD A HENSON FLD",
+            "country": "United States of America",
+            "lat": 39.7085,
+            "lon": -77.7265
+        },
+        {
+            "id": "KNHK",
+            "name": "PATUXENT RIVER NAS/TRAPNELL FIELD",
+            "country": "United States of America",
+            "lat": 38.28633333333333,
+            "lon": -76.40997222222222
+        },
+        {
+            "id": "KSBY",
+            "name": "SALISBURY-OCEAN CITY WICOMICO RGNL",
+            "country": "United States of America",
+            "lat": 38.34018888888889,
+            "lon": -75.50947777777778
+        },
+        {
+            "id": "KLEW",
+            "name": "AUBURN/LEWISTON MUNI",
+            "country": "United States of America",
+            "lat": 44.04847222222222,
+            "lon": -70.28350833333333
+        },
+        {
+            "id": "KAUG",
+            "name": "AUGUSTA STATE",
+            "country": "United States of America",
+            "lat": 44.32064722222223,
+            "lon": -69.79731666666666
+        },
+        {
+            "id": "KBGR",
+            "name": "BANGOR INTL",
+            "country": "United States of America",
+            "lat": 44.80744444444444,
+            "lon": -68.82813888888889
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 86,
+    "data": [
+        {
+            "id": "KNGU",
+            "name": "NORFOLK NS (CHAMBERS FLD)",
+            "country": "United States of America",
+            "lat": 36.937466666666666,
+            "lon": -76.28927777777777
+        },
+        {
+            "id": "KORF",
+            "name": "NORFOLK INTL",
+            "country": "United States of America",
+            "lat": 36.89461111111111,
+            "lon": -76.20122222222223
+        },
+        {
+            "id": "KNTU",
+            "name": "OCEANA NAS/APOLLO SOUCEK FIELD",
+            "country": "United States of America",
+            "lat": 36.82274166666667,
+            "lon": -76.03189722222223
+        },
+        {
+            "id": "KPTB",
+            "name": "DINWIDDIE COUNTY",
+            "country": "United States of America",
+            "lat": 37.183749999999996,
+            "lon": -77.50738888888888
+        },
+        {
+            "id": "KNYG",
+            "name": "QUANTICO MCAF /TURNER FIELD",
+            "country": "United States of America",
+            "lat": 38.50360555555555,
+            "lon": -77.30503333333333
+        },
+        {
+            "id": "KRIC",
+            "name": "RICHMOND INTL",
+            "country": "United States of America",
+            "lat": 37.50516666666667,
+            "lon": -77.31966666666666
+        },
+        {
+            "id": "KSHD",
+            "name": "SHENANDOAH VALLEY RGNL",
+            "country": "United States of America",
+            "lat": 38.26383333333333,
+            "lon": -78.89644444444446
+        },
+        {
+            "id": "KIAD",
+            "name": "WASHINGTON DULLES INTL",
+            "country": "United States of America",
+            "lat": 38.94744444444444,
+            "lon": -77.45994444444445
+        },
+        {
+            "id": "KLNP",
+            "name": "LONESOME PINE",
+            "country": "United States of America",
+            "lat": 36.98752777777778,
+            "lon": -82.53
+        },
+        {
+            "id": "KBTV",
+            "name": "BURLINGTON INTL",
+            "country": "United States of America",
+            "lat": 44.47195555555556,
+            "lon": -73.15327777777779
+        }
+    ]
+}

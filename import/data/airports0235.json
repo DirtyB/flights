@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 235,
+    "data": [
+        {
+            "id": "LPFL",
+            "name": "FLORES",
+            "country": "Portugal",
+            "lat": 39.45805555555556,
+            "lon": -31.13222222222222
+        },
+        {
+            "id": "LPFR",
+            "name": "FARO",
+            "country": "Portugal",
+            "lat": 37.01444444444444,
+            "lon": -7.965833333333333
+        },
+        {
+            "id": "LPHR",
+            "name": "HORTA",
+            "country": "Portugal",
+            "lat": 38.519999999999996,
+            "lon": -28.71638888888889
+        },
+        {
+            "id": "LPLA",
+            "name": "LAJES",
+            "country": "Portugal",
+            "lat": 38.761944444444445,
+            "lon": -27.090833333333332
+        },
+        {
+            "id": "LPMA",
+            "name": "MADEIRA",
+            "country": "Portugal",
+            "lat": 32.69416666666666,
+            "lon": -16.778055555555554
+        },
+        {
+            "id": "LPMR",
+            "name": "MONTE REAL",
+            "country": "Portugal",
+            "lat": 39.82833333333333,
+            "lon": -8.8875
+        },
+        {
+            "id": "LPMT",
+            "name": "MONTIJO",
+            "country": "Portugal",
+            "lat": 38.705000000000005,
+            "lon": -9.0375
+        },
+        {
+            "id": "LPOV",
+            "name": "OVAR",
+            "country": "Portugal",
+            "lat": 40.92027777777778,
+            "lon": -8.643888888888888
+        },
+        {
+            "id": "LPPD",
+            "name": "PONTA DELGADA",
+            "country": "Portugal",
+            "lat": 37.74194444444444,
+            "lon": -25.697777777777777
+        },
+        {
+            "id": "LPPR",
+            "name": "PORTO",
+            "country": "Portugal",
+            "lat": 41.23555555555556,
+            "lon": -8.678055555555554
+        }
+    ]
+}

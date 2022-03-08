@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 8,
+    "data": [
+        {
+            "id": "KWDR",
+            "name": "BARROW COUNTY",
+            "country": "United States of America",
+            "lat": 33.98286111111111,
+            "lon": -83.66741666666667
+        },
+        {
+            "id": "PHBK",
+            "name": "BARKING SANDS PMRF",
+            "country": "United States of America",
+            "lat": 22.022772222222223,
+            "lon": -159.78505833333332
+        },
+        {
+            "id": "PHSF",
+            "name": "BRADSHAW ARMY AIRFIELD",
+            "country": "United States of America",
+            "lat": 19.76001388888889,
+            "lon": -155.5537666666667
+        },
+        {
+            "id": "PHTO",
+            "name": "HILO INTL",
+            "country": "United States of America",
+            "lat": 19.720263888888887,
+            "lon": -155.04846944444444
+        },
+        {
+            "id": "PHNL",
+            "name": "HONOLULU INTL",
+            "country": "United States of America",
+            "lat": 21.317825,
+            "lon": -157.9202611111111
+        },
+        {
+            "id": "PHOG",
+            "name": "KAHULUI",
+            "country": "United States of America",
+            "lat": 20.89865,
+            "lon": -156.43045833333332
+        },
+        {
+            "id": "PHKO",
+            "name": "KONA INTL AT KEAHOLE ",
+            "country": "United States of America",
+            "lat": 19.73876388888889,
+            "lon": -156.04563055555556
+        },
+        {
+            "id": "PHNG",
+            "name": "KANEOHE BAY MCAS (MARION E. CARL FIELD)",
+            "country": "United States of America",
+            "lat": 21.450444444444443,
+            "lon": -157.76716666666667
+        },
+        {
+            "id": "PHJR",
+            "name": "KALAELOA (JOHN RODGERS FIELD)",
+            "country": "United States of America",
+            "lat": 21.30735277777778,
+            "lon": -158.07030277777778
+        },
+        {
+            "id": "PHJH",
+            "name": "KAPALUA",
+            "country": "United States of America",
+            "lat": 20.96293611111111,
+            "lon": -156.67303055555556
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 303,
+    "data": [
+        {
+            "id": "ZUGY",
+            "name": "GUIYANG/LONGDONGBAO",
+            "country": "China",
+            "lat": 26.53666666666667,
+            "lon": 106.8
+        },
+        {
+            "id": "ZUUU",
+            "name": "CHENGDU/SHUANGLIU",
+            "country": "China",
+            "lat": 30.58,
+            "lon": 103.94833333333334
+        },
+        {
+            "id": "ZWSH",
+            "name": "KASHI/KASHI",
+            "country": "China",
+            "lat": 39.544999999999995,
+            "lon": 76.02166666666666
+        },
+        {
+            "id": "ZWWW",
+            "name": "URUMQI/DIWOPU",
+            "country": "China",
+            "lat": 43.90833333333333,
+            "lon": 87.47500000000001
+        },
+        {
+            "id": "ZYCC",
+            "name": "CHANGCHUN/LONGJIA",
+            "country": "China",
+            "lat": 43.998333333333335,
+            "lon": 125.68833333333333
+        },
+        {
+            "id": "ZYHB",
+            "name": "HARBIN/TAIPING",
+            "country": "China",
+            "lat": 45.625,
+            "lon": 126.25166666666667
+        },
+        {
+            "id": "ZYTL",
+            "name": "DALIAN/ZHOUSHUIZI",
+            "country": "China",
+            "lat": 38.96666666666667,
+            "lon": 121.53999999999999
+        },
+        {
+            "id": "ZYTX",
+            "name": "SHENYANG/TAOXIAN",
+            "country": "China",
+            "lat": 41.641666666666666,
+            "lon": 123.485
+        },
+        {
+            "id": "RCTP",
+            "name": "TAIBEI CITY/TAIBEI INTL AP",
+            "country": "China",
+            "lat": 25.080277777777777,
+            "lon": 121.23222222222222
+        },
+        {
+            "id": "RCSS",
+            "name": "TAIBEI/SONGSHAN",
+            "country": "China",
+            "lat": 25.06972222222222,
+            "lon": 121.5525
+        }
+    ]
+}

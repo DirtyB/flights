@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 35,
+    "data": [
+        {
+            "id": "KFBL",
+            "name": "FARIBAULT MUNI",
+            "country": "United States of America",
+            "lat": 44.32896666666667,
+            "lon": -93.31307222222222
+        },
+        {
+            "id": "KFFM",
+            "name": "FERGUS FALLS MUNI-EINAR MICKELSON FLD",
+            "country": "United States of America",
+            "lat": 46.284388888888884,
+            "lon": -96.15669444444445
+        },
+        {
+            "id": "KGPZ",
+            "name": "GRAND RAPIDS/ITASCA CO-GORDON NEWSTROM FLD",
+            "country": "United States of America",
+            "lat": 47.21013888888889,
+            "lon": -93.50991666666667
+        },
+        {
+            "id": "KHIB",
+            "name": "RANGE RGNL",
+            "country": "United States of America",
+            "lat": 47.386583333333334,
+            "lon": -92.83897222222221
+        },
+        {
+            "id": "KINL",
+            "name": "FALLS INTL-EINARSON FIELD",
+            "country": "United States of America",
+            "lat": 48.56558333333333,
+            "lon": -93.40216666666667
+        },
+        {
+            "id": "KMJQ",
+            "name": "JACKSON MUNI",
+            "country": "United States of America",
+            "lat": 43.65014166666666,
+            "lon": -94.98657222222222
+        },
+        {
+            "id": "KMKT",
+            "name": "MANKATO RGNL",
+            "country": "United States of America",
+            "lat": 44.22277777777778,
+            "lon": -93.91930555555557
+        },
+        {
+            "id": "KMML",
+            "name": "SOUTHWEST MINNESOTA RGNL MARSHALL/RYAN FLD",
+            "country": "United States of America",
+            "lat": 44.45172222222222,
+            "lon": -95.82441666666666
+        },
+        {
+            "id": "KMSP",
+            "name": "MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN",
+            "country": "United States of America",
+            "lat": 44.881972222222224,
+            "lon": -93.22177777777777
+        },
+        {
+            "id": "KFCM",
+            "name": "FLYING CLOUD",
+            "country": "United States of America",
+            "lat": 44.8275,
+            "lon": -93.45858333333334
+        }
+    ]
+}

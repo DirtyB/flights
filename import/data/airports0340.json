@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 340,
+    "data": [
+        {
+            "id": "PAVA",
+            "name": "CHEVAK",
+            "country": "United States of America",
+            "lat": 61.540844444444446,
+            "lon": -165.60089166666666
+        },
+        {
+            "id": "PAJC",
+            "name": "CHIGNIK",
+            "country": "United States of America",
+            "lat": 56.31146111111111,
+            "lon": -158.3732361111111
+        },
+        {
+            "id": "PFCL",
+            "name": "CLARKS POINT",
+            "country": "United States of America",
+            "lat": 58.83369444444445,
+            "lon": -158.5293888888889
+        },
+        {
+            "id": "PACD",
+            "name": "COLD BAY",
+            "country": "United States of America",
+            "lat": 55.20526111111111,
+            "lon": -162.72451944444444
+        },
+        {
+            "id": "PACV",
+            "name": "MERLE K (MUDHOLE) SMITH",
+            "country": "United States of America",
+            "lat": 60.49177777777778,
+            "lon": -145.47755555555557
+        },
+        {
+            "id": "PASC",
+            "name": "DEADHORSE",
+            "country": "United States of America",
+            "lat": 70.19554444444445,
+            "lon": -148.46578888888888
+        },
+        {
+            "id": "PADE",
+            "name": "DEERING",
+            "country": "United States of America",
+            "lat": 66.06911111111111,
+            "lon": -162.76705555555557
+        },
+        {
+            "id": "PABI",
+            "name": "ALLEN AAF",
+            "country": "United States of America",
+            "lat": 63.994547222222224,
+            "lon": -145.72164166666667
+        },
+        {
+            "id": "PADL",
+            "name": "DILLINGHAM",
+            "country": "United States of America",
+            "lat": 59.044666666666664,
+            "lon": -158.5055
+        },
+        {
+            "id": "PAEG",
+            "name": "EAGLE",
+            "country": "United States of America",
+            "lat": 64.77808333333333,
+            "lon": -141.1496111111111
+        }
+    ]
+}

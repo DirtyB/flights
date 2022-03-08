@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 273,
+    "data": [
+        {
+            "id": "FYWE",
+            "name": "WINDHOEK/EROS",
+            "country": "Namibia",
+            "lat": -22.6075,
+            "lon": 17.079166666666666
+        },
+        {
+            "id": "FYWH",
+            "name": "HOSEA KUTAKO INTL AIRPORT",
+            "country": "Namibia",
+            "lat": -22.479894444444444,
+            "lon": 17.47095
+        },
+        {
+            "id": "OAKB",
+            "name": "KABUL INTERNATIONAL",
+            "country": "Afghanistan",
+            "lat": 34.56584722222222,
+            "lon": 69.21235555555556
+        },
+        {
+            "id": "OAHR",
+            "name": "HERAT",
+            "country": "Afghanistan",
+            "lat": 34.21,
+            "lon": 62.22833333333333
+        },
+        {
+            "id": "OAKN",
+            "name": "KANDAHAR",
+            "country": "Afghanistan",
+            "lat": 31.505872222222223,
+            "lon": 65.84779722222221
+        },
+        {
+            "id": "OAMS",
+            "name": "MAZAR-E-SHARIF",
+            "country": "Afghanistan",
+            "lat": 36.706944444444446,
+            "lon": 67.20944444444444
+        },
+        {
+            "id": "OBBI",
+            "name": "BAHRAIN INTERNATIONAL",
+            "country": "Bahrain",
+            "lat": 26.270833333333332,
+            "lon": 50.63361111111111
+        },
+        {
+            "id": "OEAB",
+            "name": "ABHA",
+            "country": "Saudi Arabia",
+            "lat": 18.240277777777777,
+            "lon": 42.656388888888884
+        },
+        {
+            "id": "OEAH",
+            "name": "AL AHSA",
+            "country": "Saudi Arabia",
+            "lat": 25.28611111111111,
+            "lon": 49.486111111111114
+        },
+        {
+            "id": "OEAO",
+            "name": "ALULA/PRINCE ABDULMAJEED BIN ABDULAZIZ",
+            "country": "Saudi Arabia",
+            "lat": 26.483055555555556,
+            "lon": 38.118611111111115
+        }
+    ]
+}

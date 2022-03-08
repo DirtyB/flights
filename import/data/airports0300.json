@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 300,
+    "data": [
+        {
+            "id": "UTTT",
+            "name": "TASHKENT-UZHNY",
+            "country": "Uzbekistan",
+            "lat": 41.25666666666667,
+            "lon": 69.28166666666667
+        },
+        {
+            "id": "ZBAA",
+            "name": "BEIJING/CAPITAL",
+            "country": "China",
+            "lat": 40.07333333333334,
+            "lon": 116.59833333333333
+        },
+        {
+            "id": "ZBHH",
+            "name": "HUHHOT/BAITA",
+            "country": "China",
+            "lat": 40.848333333333336,
+            "lon": 111.82333333333332
+        },
+        {
+            "id": "ZBSJ",
+            "name": "SHIJIAZHUANG/ZHENGDING",
+            "country": "China",
+            "lat": 38.281666666666666,
+            "lon": 114.69833333333334
+        },
+        {
+            "id": "ZBTJ",
+            "name": "TIANJIN/BINHAI",
+            "country": "China",
+            "lat": 39.123333333333335,
+            "lon": 117.345
+        },
+        {
+            "id": "ZBYN",
+            "name": "TAIYUAN/WUSU",
+            "country": "China",
+            "lat": 37.748333333333335,
+            "lon": 112.63
+        },
+        {
+            "id": "ZGGG",
+            "name": "GUANGZHOU/BAIYUN",
+            "country": "China",
+            "lat": 23.393333333333334,
+            "lon": 113.30833333333334
+        },
+        {
+            "id": "ZGHA",
+            "name": "CHANGSHA/HUANGHUA",
+            "country": "China",
+            "lat": 28.19,
+            "lon": 113.21833333333333
+        },
+        {
+            "id": "ZGKL",
+            "name": "GUILIN/LIANGJIANG",
+            "country": "China",
+            "lat": 25.216666666666665,
+            "lon": 110.03833333333333
+        },
+        {
+            "id": "ZGOW",
+            "name": "JIEYANG/CHAOSHAN",
+            "country": "China",
+            "lat": 23.553333333333335,
+            "lon": 116.50166666666667
+        }
+    ]
+}

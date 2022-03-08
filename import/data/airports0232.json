@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 232,
+    "data": [
+        {
+            "id": "LKMT",
+            "name": "OSTRAVA/MOSNOV",
+            "country": "Czech Republic",
+            "lat": 49.69611111111111,
+            "lon": 18.110833333333336
+        },
+        {
+            "id": "LKNA",
+            "name": "NAMEST",
+            "country": "Czech Republic",
+            "lat": 49.16620833333333,
+            "lon": 16.124383333333334
+        },
+        {
+            "id": "LKPD",
+            "name": "PARDUBICE",
+            "country": "Czech Republic",
+            "lat": 50.01345833333333,
+            "lon": 15.73857222222222
+        },
+        {
+            "id": "LKPR",
+            "name": "PRAHA/RUZYNE",
+            "country": "Czech Republic",
+            "lat": 50.100833333333334,
+            "lon": 14.26
+        },
+        {
+            "id": "LKTB",
+            "name": "BRNO/TURANY",
+            "country": "Czech Republic",
+            "lat": 49.15138888888889,
+            "lon": 16.69388888888889
+        },
+        {
+            "id": "LZIB",
+            "name": "BRATISLAVA/M.R.STEFANIK",
+            "country": "Slovakia",
+            "lat": 48.169999999999995,
+            "lon": 17.212777777777777
+        },
+        {
+            "id": "LZTT",
+            "name": "POPRAD-TATRY",
+            "country": "Slovakia",
+            "lat": 49.07361111111111,
+            "lon": 20.241111111111113
+        },
+        {
+            "id": "LZKZ",
+            "name": "KOSICE",
+            "country": "Slovakia",
+            "lat": 48.66305555555555,
+            "lon": 21.241111111111113
+        },
+        {
+            "id": "LZPP",
+            "name": "PIESTANY",
+            "country": "Slovakia",
+            "lat": 48.625,
+            "lon": 17.828611111111112
+        },
+        {
+            "id": "LZSL",
+            "name": "SLIAC",
+            "country": "Slovakia",
+            "lat": 48.63805555555555,
+            "lon": 19.134166666666665
+        }
+    ]
+}

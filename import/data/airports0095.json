@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 95,
+    "data": [
+        {
+            "id": "KHLG",
+            "name": "WHEELING OHIO CO",
+            "country": "United States of America",
+            "lat": 40.175,
+            "lon": -80.64627777777778
+        },
+        {
+            "id": "KAFO",
+            "name": "AFTON MUNI",
+            "country": "United States of America",
+            "lat": 42.70877777777778,
+            "lon": -110.94216666666667
+        },
+        {
+            "id": "KBPI",
+            "name": "MILEY MEMORIAL FIELD",
+            "country": "United States of America",
+            "lat": 42.58222222222223,
+            "lon": -110.10886111111111
+        },
+        {
+            "id": "KBYG",
+            "name": "JOHNSON COUNTY",
+            "country": "United States of America",
+            "lat": 44.381083333333336,
+            "lon": -106.72180555555556
+        },
+        {
+            "id": "KCPR",
+            "name": "CASPER/NATRONA COUNTY INTL",
+            "country": "United States of America",
+            "lat": 42.90586111111111,
+            "lon": -106.4636388888889
+        },
+        {
+            "id": "KCYS",
+            "name": "CHEYENNE RGNL/JERRY OLSON FIELD",
+            "country": "United States of America",
+            "lat": 41.15563888888889,
+            "lon": -104.81047222222222
+        },
+        {
+            "id": "KFEW",
+            "name": "FRANCIS E WARREN AFB",
+            "country": "United States of America",
+            "lat": 41.1333056666667,
+            "lon": -104.867166666667
+        },
+        {
+            "id": "KCOD",
+            "name": "YELLOWSTONE RGNL",
+            "country": "United States of America",
+            "lat": 44.52019444444444,
+            "lon": -109.02379722222223
+        },
+        {
+            "id": "KDGW",
+            "name": "CONVERSE COUNTY",
+            "country": "United States of America",
+            "lat": 42.79719444444444,
+            "lon": -105.38583333333334
+        },
+        {
+            "id": "KEVW",
+            "name": "EVANSTON-UINTA COUNTY BURNS FIELD",
+            "country": "United States of America",
+            "lat": 41.27477777777778,
+            "lon": -111.03463888888889
+        }
+    ]
+}

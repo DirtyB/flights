@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 136,
+    "data": [
+        {
+            "id": "MNBL",
+            "name": "BLUEFIELDS",
+            "country": "Nicaragua",
+            "lat": 11.990805555555555,
+            "lon": -83.77418888888889
+        },
+        {
+            "id": "MNMG",
+            "name": "MANAGUA/AEROPUERTO INERNACIONAL AGUSTO C. SANDINO",
+            "country": "Nicaragua",
+            "lat": 12.141741666666666,
+            "lon": -86.16976944444446
+        },
+        {
+            "id": "MNPC",
+            "name": "PUERTO CABEZAS",
+            "country": "Nicaragua",
+            "lat": 14.046208333333333,
+            "lon": -83.38770277777779
+        },
+        {
+            "id": "MNCH",
+            "name": "CHINANDEGA",
+            "country": "Nicaragua",
+            "lat": 12.640277777777778,
+            "lon": -87.13833333333334
+        },
+        {
+            "id": "MRLB",
+            "name": "LIBERIA/DANIEL ODUBER QUIROS INTL.",
+            "country": "Costa Rica",
+            "lat": 10.593013888888889,
+            "lon": -85.54554444444445
+        },
+        {
+            "id": "MRLM",
+            "name": "LIMON/ INTL.",
+            "country": "Costa Rica",
+            "lat": 9.957897222222222,
+            "lon": -83.02202777777778
+        },
+        {
+            "id": "MROC",
+            "name": "ALAJUELA/JUAN SANTAMARIA INTL.",
+            "country": "Costa Rica",
+            "lat": 9.993902777777777,
+            "lon": -84.20885555555556
+        },
+        {
+            "id": "MRPV",
+            "name": "PAVAS/TOBIAS BOLANOS INTL.",
+            "country": "Costa Rica",
+            "lat": 9.957138888888888,
+            "lon": -84.13955833333334
+        },
+        {
+            "id": "MPBO",
+            "name": "BOCAS DEL TORO",
+            "country": "Panama",
+            "lat": 9.340833333333334,
+            "lon": -82.25083333333333
+        },
+        {
+            "id": "MPDA",
+            "name": "ENRIQUE MALEK",
+            "country": "Panama",
+            "lat": 8.389166666666666,
+            "lon": -82.4363888888889
+        }
+    ]
+}

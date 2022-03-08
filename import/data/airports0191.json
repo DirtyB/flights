@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 191,
+    "data": [
+        {
+            "id": "ENBV",
+            "name": "BERLEVAG",
+            "country": "Norway",
+            "lat": 70.87138888888889,
+            "lon": 29.034166666666668
+        },
+        {
+            "id": "ENCN",
+            "name": "KRISTIANSAND/KJEVIK",
+            "country": "Norway",
+            "lat": 58.20388888888889,
+            "lon": 8.085
+        },
+        {
+            "id": "ENDR",
+            "name": "DRAUGEN",
+            "country": "Norway",
+            "lat": 64.3555556,
+            "lon": 7.7916667
+        },
+        {
+            "id": "ENDU",
+            "name": "BARDUFOSS",
+            "country": "Norway",
+            "lat": 69.05583333333333,
+            "lon": 18.540277777777778
+        },
+        {
+            "id": "ENEK",
+            "name": "EKOFISK H",
+            "country": "Norway",
+            "lat": 56.55,
+            "lon": 3.25
+        },
+        {
+            "id": "ENEV",
+            "name": "HARSTAD/NARVIK/EVENES",
+            "country": "Norway",
+            "lat": 68.4888888888889,
+            "lon": 16.678333333333335
+        },
+        {
+            "id": "ENFB",
+            "name": "STATFJORD B",
+            "country": "Norway",
+            "lat": 59.8955553333333,
+            "lon": 10.6172226666667
+        },
+        {
+            "id": "ENFG",
+            "name": "FAGERNES/LEIRIN",
+            "country": "Norway",
+            "lat": 61.01555555555556,
+            "lon": 9.288055555555555
+        },
+        {
+            "id": "ENFL",
+            "name": "FLORO",
+            "country": "Norway",
+            "lat": 61.58361111111111,
+            "lon": 5.0247222222222225
+        },
+        {
+            "id": "ENGM",
+            "name": "OSLO/GARDERMOEN",
+            "country": "Norway",
+            "lat": 60.20277777777778,
+            "lon": 11.08388888888889
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 258,
+    "data": [
+        {
+            "id": "HEMM",
+            "name": "MERSA MATRUH/ INTERNATIONAL",
+            "country": "Egypt",
+            "lat": 31.325277777777778,
+            "lon": 27.221666666666664
+        },
+        {
+            "id": "HEPS",
+            "name": "PORT SAID",
+            "country": "Egypt",
+            "lat": 31.279444444444444,
+            "lon": 32.24
+        },
+        {
+            "id": "HESC",
+            "name": "ST.CATHERINE",
+            "country": "Egypt",
+            "lat": 28.685277777777777,
+            "lon": 34.0625
+        },
+        {
+            "id": "HESH",
+            "name": "SHARM EL SHEIKH / INTL",
+            "country": "Egypt",
+            "lat": 27.97861111111111,
+            "lon": 34.39333333333333
+        },
+        {
+            "id": "HESN",
+            "name": "ASWAN / INTL",
+            "country": "Egypt",
+            "lat": 23.964444444444442,
+            "lon": 32.82
+        },
+        {
+            "id": "HKEL",
+            "name": "ELDORET INTL.",
+            "country": "Kenya",
+            "lat": 0.40401111111111115,
+            "lon": 35.23671388888889
+        },
+        {
+            "id": "HKEM",
+            "name": "EMBU",
+            "country": "Kenya",
+            "lat": -0.5723388888888888,
+            "lon": 37.49483888888889
+        },
+        {
+            "id": "HKGA",
+            "name": "GARISSA",
+            "country": "Kenya",
+            "lat": -0.4693888888888889,
+            "lon": 39.63425
+        },
+        {
+            "id": "HKJK",
+            "name": "JOMO KENYATTA INTL (TWR/APP/NOF/MET)",
+            "country": "Kenya",
+            "lat": -1.3192388888888888,
+            "lon": 36.927775
+        },
+        {
+            "id": "HKKG",
+            "name": "KAKAMEGA",
+            "country": "Kenya",
+            "lat": 0.2711111,
+            "lon": 34.7886111
+        }
+    ]
+}

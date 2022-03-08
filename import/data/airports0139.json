@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 139,
+    "data": [
+        {
+            "id": "SKPS",
+            "name": "PASTO/NARINO",
+            "country": "Colombia",
+            "lat": 1.3965055555555554,
+            "lon": -77.29107222222223
+        },
+        {
+            "id": "SKPV",
+            "name": "PROVIDENCIA/SAN ANDRES",
+            "country": "Colombia",
+            "lat": 13.357163888888888,
+            "lon": -81.357925
+        },
+        {
+            "id": "SKRG",
+            "name": "RIONEGRO INTL/ANTIOQUIA",
+            "country": "Colombia",
+            "lat": 6.164461111111112,
+            "lon": -75.423
+        },
+        {
+            "id": "SKRH",
+            "name": "RIOHACHA/GUAJIRA",
+            "country": "Colombia",
+            "lat": 11.526166666666667,
+            "lon": -72.92668333333334
+        },
+        {
+            "id": "SKSM",
+            "name": "SANTA MARTA /MAGDALENA",
+            "country": "Colombia",
+            "lat": 11.11968888888889,
+            "lon": -74.23063888888889
+        },
+        {
+            "id": "SKSP",
+            "name": "SAN ANDRES INTL/SAN ANDRES",
+            "country": "Colombia",
+            "lat": 12.583661111111113,
+            "lon": -81.71133888888889
+        },
+        {
+            "id": "SKUC",
+            "name": "ARAUCA/ARAUCA",
+            "country": "Colombia",
+            "lat": 7.0689111111111105,
+            "lon": -70.73695833333333
+        },
+        {
+            "id": "SKUI",
+            "name": "QUIBDO/CHOCO",
+            "country": "Colombia",
+            "lat": 5.690797222222223,
+            "lon": -76.64121944444445
+        },
+        {
+            "id": "SKVP",
+            "name": "VALLEDUPAR/CESAR",
+            "country": "Colombia",
+            "lat": 10.435130555555556,
+            "lon": -73.24939722222223
+        },
+        {
+            "id": "SKVV",
+            "name": "VILLAVICENCIO/META",
+            "country": "Colombia",
+            "lat": 4.168405555555556,
+            "lon": -73.61465833333332
+        }
+    ]
+}

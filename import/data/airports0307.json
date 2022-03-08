@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 307,
+    "data": [
+        {
+            "id": "RJFU",
+            "name": "NAGASAKI",
+            "country": "Japan",
+            "lat": 32.91694444444444,
+            "lon": 129.91361111111112
+        },
+        {
+            "id": "RJFY",
+            "name": "KANOYA",
+            "country": "Japan",
+            "lat": 31.368055555555557,
+            "lon": 130.83805555555557
+        },
+        {
+            "id": "RJGG",
+            "name": "CHUBU CENTRAIR INTL",
+            "country": "Japan",
+            "lat": 34.858333333333334,
+            "lon": 136.8052777777778
+        },
+        {
+            "id": "RJKA",
+            "name": "AMAMI",
+            "country": "Japan",
+            "lat": 28.430833333333336,
+            "lon": 129.71249999999998
+        },
+        {
+            "id": "RJNG",
+            "name": "GIFU",
+            "country": "Japan",
+            "lat": 35.394444444444446,
+            "lon": 136.86944444444444
+        },
+        {
+            "id": "RJNK",
+            "name": "KANAZAWA/KOMATSU",
+            "country": "Japan",
+            "lat": 36.39388888888889,
+            "lon": 136.4075
+        },
+        {
+            "id": "RJNS",
+            "name": "SHIZUOKA",
+            "country": "Japan",
+            "lat": 34.79611111111111,
+            "lon": 138.18944444444446
+        },
+        {
+            "id": "RJNT",
+            "name": "TOYAMA",
+            "country": "Japan",
+            "lat": 36.64833333333333,
+            "lon": 137.1875
+        },
+        {
+            "id": "RJNW",
+            "name": "NOTO",
+            "country": "Japan",
+            "lat": 37.29333333333333,
+            "lon": 136.9622222222222
+        },
+        {
+            "id": "RJNY",
+            "name": "YAIZU/SHIZUHAMA",
+            "country": "Japan",
+            "lat": 34.812777777777775,
+            "lon": 138.29805555555555
+        }
+    ]
+}

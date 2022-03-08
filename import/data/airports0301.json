@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 301,
+    "data": [
+        {
+            "id": "ZGNN",
+            "name": "NANNING/WUXU",
+            "country": "China",
+            "lat": 22.610000000000003,
+            "lon": 108.17333333333333
+        },
+        {
+            "id": "ZGSZ",
+            "name": "SHENZHEN/BAOAN",
+            "country": "China",
+            "lat": 22.638333333333332,
+            "lon": 113.81166666666667
+        },
+        {
+            "id": "ZHCC",
+            "name": "ZHENGZHOU/XINZHENG",
+            "country": "China",
+            "lat": 34.51833333333333,
+            "lon": 113.83999999999999
+        },
+        {
+            "id": "ZHHH",
+            "name": "WUHAN/TIANHE",
+            "country": "China",
+            "lat": 30.785,
+            "lon": 114.20666666666666
+        },
+        {
+            "id": "ZJHK",
+            "name": "HAIKOU/MEILAN",
+            "country": "China",
+            "lat": 19.933333333333334,
+            "lon": 110.46000000000001
+        },
+        {
+            "id": "ZJSY",
+            "name": "SANYA/PHOENIX",
+            "country": "China",
+            "lat": 18.301666666666666,
+            "lon": 109.41333333333334
+        },
+        {
+            "id": "ZLLL",
+            "name": "LANZHOU/ZHONGCHUAN",
+            "country": "China",
+            "lat": 36.516666666666666,
+            "lon": 103.62166666666666
+        },
+        {
+            "id": "ZLXY",
+            "name": "XI'AN/XIANYANG",
+            "country": "China",
+            "lat": 34.44499999999999,
+            "lon": 108.75
+        },
+        {
+            "id": "ZMUB",
+            "name": "ULAANBAATAR/CHINGGIS KHAAN",
+            "country": "Mongolia",
+            "lat": 47.8425,
+            "lon": 106.7675
+        },
+        {
+            "id": "ZPPP",
+            "name": "KUNMING/CHANGSHUI",
+            "country": "China",
+            "lat": 25.105,
+            "lon": 102.94166666666668
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 192,
+    "data": [
+        {
+            "id": "ENHD",
+            "name": "HAUGESUND/KARMOY",
+            "country": "Norway",
+            "lat": 59.343333333333334,
+            "lon": 5.2125
+        },
+        {
+            "id": "ENHE",
+            "name": "HEIDRUN TLP",
+            "country": "Norway",
+            "lat": 65.325,
+            "lon": 2.3266667
+        },
+        {
+            "id": "ENHF",
+            "name": "HAMMERFEST",
+            "country": "Norway",
+            "lat": 70.67972222222222,
+            "lon": 23.66861111111111
+        },
+        {
+            "id": "ENHK",
+            "name": "HASVIK",
+            "country": "Norway",
+            "lat": 70.48666666666666,
+            "lon": 22.139722222222222
+        },
+        {
+            "id": "ENHV",
+            "name": "HONNINGSVAG/VALAN",
+            "country": "Norway",
+            "lat": 71.00972222222222,
+            "lon": 25.983611111111113
+        },
+        {
+            "id": "ENKB",
+            "name": "KRISTIANSUND/KVERNBERGET",
+            "country": "Norway",
+            "lat": 63.11194444444445,
+            "lon": 7.826111111111111
+        },
+        {
+            "id": "ENKR",
+            "name": "KIRKENES/HOYBUKTMOEN",
+            "country": "Norway",
+            "lat": 69.72500000000001,
+            "lon": 29.887777777777778
+        },
+        {
+            "id": "ENLA",
+            "name": "ULA",
+            "country": "Norway",
+            "lat": 59.1108333,
+            "lon": 2.8458333
+        },
+        {
+            "id": "ENLK",
+            "name": "LEKNES",
+            "country": "Norway",
+            "lat": 68.1525,
+            "lon": 13.609444444444444
+        },
+        {
+            "id": "ENMH",
+            "name": "MEHAMN",
+            "country": "Norway",
+            "lat": 71.02972222222222,
+            "lon": 27.826666666666668
+        }
+    ]
+}

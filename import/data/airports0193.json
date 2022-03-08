@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 193,
+    "data": [
+        {
+            "id": "ENML",
+            "name": "MOLDE/ARO",
+            "country": "Norway",
+            "lat": 62.74472222222222,
+            "lon": 7.2625
+        },
+        {
+            "id": "ENMS",
+            "name": "MOSJOEN/KJAERSTAD",
+            "country": "Norway",
+            "lat": 65.78361111111111,
+            "lon": 13.215277777777777
+        },
+        {
+            "id": "ENNA",
+            "name": "LAKSELV/BANAK",
+            "country": "Norway",
+            "lat": 70.06666666666666,
+            "lon": 24.973888888888887
+        },
+        {
+            "id": "ENNK",
+            "name": "NARVIK/FRAMNES",
+            "country": "Norway",
+            "lat": 68.43694444444445,
+            "lon": 17.386666666666667
+        },
+        {
+            "id": "ENNM",
+            "name": "NAMSOS",
+            "country": "Norway",
+            "lat": 64.47222222222223,
+            "lon": 11.57861111111111
+        },
+        {
+            "id": "ENNO",
+            "name": "NOTODDEN/TUVEN",
+            "country": "Norway",
+            "lat": 59.565555555555555,
+            "lon": 9.212222222222222
+        },
+        {
+            "id": "ENOA",
+            "name": "OSEBERG A",
+            "country": "Norway",
+            "lat": 60.4916667,
+            "lon": 2.8252778
+        },
+        {
+            "id": "ENOL",
+            "name": "ORLAND",
+            "country": "Norway",
+            "lat": 63.69916666666666,
+            "lon": 9.60388888888889
+        },
+        {
+            "id": "ENOV",
+            "name": "ORSTA-VOLDA/HOVDEN",
+            "country": "Norway",
+            "lat": 62.18,
+            "lon": 6.074166666666667
+        },
+        {
+            "id": "ENQA",
+            "name": "TROLL A",
+            "country": "Norway",
+            "lat": 60.645,
+            "lon": 3.7247222
+        }
+    ]
+}

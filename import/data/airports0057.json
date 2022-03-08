@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 57,
+    "data": [
+        {
+            "id": "KJFK",
+            "name": "JOHN F KENNEDY INTL",
+            "country": "United States of America",
+            "lat": 40.639925,
+            "lon": -73.77869444444444
+        },
+        {
+            "id": "KLGA",
+            "name": "LA GUARDIA",
+            "country": "United States of America",
+            "lat": 40.77725,
+            "lon": -73.8726111111111
+        },
+        {
+            "id": "KOLE",
+            "name": "CATTARAUGUS COUNTY-OLEAN",
+            "country": "United States of America",
+            "lat": 42.24122222222222,
+            "lon": -78.3713611111111
+        },
+        {
+            "id": "KPBG",
+            "name": "PLATTSBURG INTL",
+            "country": "United States of America",
+            "lat": 44.65094444444444,
+            "lon": -73.46813888888889
+        },
+        {
+            "id": "KPOU",
+            "name": "DUTCHESS COUNTY",
+            "country": "United States of America",
+            "lat": 41.626583333333336,
+            "lon": -73.88419444444445
+        },
+        {
+            "id": "KROC",
+            "name": "GREATER ROCHESTER  INTL",
+            "country": "United States of America",
+            "lat": 43.119141666666664,
+            "lon": -77.67186666666667
+        },
+        {
+            "id": "KRME",
+            "name": "GRIFFISS INTL",
+            "country": "United States of America",
+            "lat": 43.233805555555556,
+            "lon": -75.40702777777778
+        },
+        {
+            "id": "KSLK",
+            "name": "ADIRONDACK RGNL",
+            "country": "United States of America",
+            "lat": 44.385305555555554,
+            "lon": -74.20618055555556
+        },
+        {
+            "id": "KSCH",
+            "name": "SCHENECTADY COUNTY",
+            "country": "United States of America",
+            "lat": 42.852555555555554,
+            "lon": -73.92897222222223
+        },
+        {
+            "id": "KSYR",
+            "name": "SYRACUSE HANCOCK INTL",
+            "country": "United States of America",
+            "lat": 43.11119444444444,
+            "lon": -76.10630555555555
+        }
+    ]
+}

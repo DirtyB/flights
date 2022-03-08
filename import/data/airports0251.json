@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 251,
+    "data": [
+        {
+            "id": "DAAJ",
+            "name": "DJANET/TISKA",
+            "country": "Algeria",
+            "lat": 24.293055555555558,
+            "lon": 9.451944444444443
+        },
+        {
+            "id": "DAAP",
+            "name": "ILLIZI/TAKHAMALT",
+            "country": "Algeria",
+            "lat": 26.723611111111108,
+            "lon": 8.617777777777778
+        },
+        {
+            "id": "DAAS",
+            "name": "SETIF/8 MAI 45",
+            "country": "Algeria",
+            "lat": 36.17861111111111,
+            "lon": 5.33
+        },
+        {
+            "id": "DAAT",
+            "name": "TAMANRASSET/AGUENAR-HADJ BEY AKHAMOK",
+            "country": "Algeria",
+            "lat": 22.811111111111114,
+            "lon": 5.450833333333334
+        },
+        {
+            "id": "DAAV",
+            "name": "JIJEL/FERHAT ABBAS",
+            "country": "Algeria",
+            "lat": 36.794444444444444,
+            "lon": 5.873611111111112
+        },
+        {
+            "id": "DAAY",
+            "name": "MECHERIA",
+            "country": "Algeria",
+            "lat": 33.5358333,
+            "lon": -0.2422222
+        },
+        {
+            "id": "DABB",
+            "name": "ANNABA/RABAH BITAT",
+            "country": "Algeria",
+            "lat": 36.82222222222222,
+            "lon": 7.809444444444444
+        },
+        {
+            "id": "DABC",
+            "name": "CONSTANTINE/MOHAMED BOUDIAF",
+            "country": "Algeria",
+            "lat": 36.28527777777778,
+            "lon": 6.6191666666666675
+        },
+        {
+            "id": "DABS",
+            "name": "TEBESSA/CHEIKH LARBI TEBESSI",
+            "country": "Algeria",
+            "lat": 35.43263611111111,
+            "lon": 8.1256
+        },
+        {
+            "id": "DABT",
+            "name": "BATNA/MOSTAPHA BEN BOULAID",
+            "country": "Algeria",
+            "lat": 35.759166666666665,
+            "lon": 6.3225
+        }
+    ]
+}

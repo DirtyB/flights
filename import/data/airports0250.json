@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 250,
+    "data": [
+        {
+            "id": "GQNN",
+            "name": "NOUAKCHOTT/AEROPORT",
+            "country": "Mauritania",
+            "lat": 18.095555555555553,
+            "lon": -15.95
+        },
+        {
+            "id": "GQPA",
+            "name": "ATAR",
+            "country": "Mauritania",
+            "lat": 20.498055555555556,
+            "lon": -13.04861111111111
+        },
+        {
+            "id": "GQPP",
+            "name": "NOUADHIBOU",
+            "country": "Mauritania",
+            "lat": 20.928441666666668,
+            "lon": -17.031138888888886
+        },
+        {
+            "id": "GVAC",
+            "name": "AMILCAR CABRAL/SAL ISLAND",
+            "country": "Cabo Verde",
+            "lat": 16.73758888888889,
+            "lon": -22.950016666666667
+        },
+        {
+            "id": "GVBA",
+            "name": "RABIL/ARISTIDES PEREIRA",
+            "country": "Cabo Verde",
+            "lat": 16.13722222222222,
+            "lon": -22.88861111111111
+        },
+        {
+            "id": "GVNP",
+            "name": "PRAIA/NELSON MANDELA",
+            "country": "Cabo Verde",
+            "lat": 14.94111111111111,
+            "lon": -23.484722222222224
+        },
+        {
+            "id": "GVSV",
+            "name": "SAO PEDRO/CESARIA EVORA",
+            "country": "Cabo Verde",
+            "lat": 16.83361111111111,
+            "lon": -25.054722222222225
+        },
+        {
+            "id": "DAAD",
+            "name": "BOUSAADA",
+            "country": "Algeria",
+            "lat": 35.331388888888895,
+            "lon": 4.204444444444444
+        },
+        {
+            "id": "DAAE",
+            "name": "BEJAIA/SOUMMAM-ABANE RAMDANE",
+            "country": "Algeria",
+            "lat": 36.71194444444445,
+            "lon": 5.069444444444445
+        },
+        {
+            "id": "DAAG",
+            "name": "ALGER/HOUARI BOUMEDIENE",
+            "country": "Algeria",
+            "lat": 36.69444444444444,
+            "lon": 3.2169444444444446
+        }
+    ]
+}

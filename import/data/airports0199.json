@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 199,
+    "data": [
+        {
+            "id": "ESMT",
+            "name": "HALMSTAD",
+            "country": "Sweden",
+            "lat": 56.69083333333333,
+            "lon": 12.82
+        },
+        {
+            "id": "ESMX",
+            "name": "VAXJO/KRONOBERG",
+            "country": "Sweden",
+            "lat": 56.930277777777775,
+            "lon": 14.72888888888889
+        },
+        {
+            "id": "ESNG",
+            "name": "GALLIVARE",
+            "country": "Sweden",
+            "lat": 67.13305555555554,
+            "lon": 20.81222222222222
+        },
+        {
+            "id": "ESNK",
+            "name": "KRAMFORS-SOLLEFTEA",
+            "country": "Sweden",
+            "lat": 63.04861111111111,
+            "lon": 17.76888888888889
+        },
+        {
+            "id": "ESNL",
+            "name": "LYCKSELE",
+            "country": "Sweden",
+            "lat": 64.5475,
+            "lon": 18.717777777777776
+        },
+        {
+            "id": "ESNN",
+            "name": "SUNDSVALL-TIMRA",
+            "country": "Sweden",
+            "lat": 62.529444444444444,
+            "lon": 17.442777777777778
+        },
+        {
+            "id": "ESNO",
+            "name": "ORNSKOLDSVIK",
+            "country": "Sweden",
+            "lat": 63.407777777777774,
+            "lon": 18.9925
+        },
+        {
+            "id": "ESNQ",
+            "name": "KIRUNA",
+            "country": "Sweden",
+            "lat": 67.82126111111111,
+            "lon": 20.335591666666666
+        },
+        {
+            "id": "ESNS",
+            "name": "SKELLEFTEA",
+            "country": "Sweden",
+            "lat": 64.62472222222222,
+            "lon": 21.076944444444443
+        },
+        {
+            "id": "ESNU",
+            "name": "UMEA",
+            "country": "Sweden",
+            "lat": 63.793055555555554,
+            "lon": 20.279999999999998
+        }
+    ]
+}

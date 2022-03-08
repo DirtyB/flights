@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 165,
+    "data": [
+        {
+            "id": "BGKK",
+            "name": "KULUSUK",
+            "country": "Denmark",
+            "lat": 65.5736111111111,
+            "lon": -37.12361111111111
+        },
+        {
+            "id": "BGSF",
+            "name": "KANGERLUSSUAQ",
+            "country": "Denmark",
+            "lat": 67.01696944444444,
+            "lon": -50.689325
+        },
+        {
+            "id": "BGTL",
+            "name": "THULE AIR BASE (MIL)",
+            "country": "Denmark",
+            "lat": 76.53120555555556,
+            "lon": -68.7031638888889
+        },
+        {
+            "id": "BIAR",
+            "name": "AKUREYRI",
+            "country": "Iceland",
+            "lat": 65.65666666666667,
+            "lon": -18.071944444444444
+        },
+        {
+            "id": "BIBD",
+            "name": "BILDUDALUR",
+            "country": "Iceland",
+            "lat": 65.6413888888889,
+            "lon": -23.546111111111113
+        },
+        {
+            "id": "BIEG",
+            "name": "EGILSSTADIR",
+            "country": "Iceland",
+            "lat": 65.28333333333333,
+            "lon": -14.401388888888889
+        },
+        {
+            "id": "BIHN",
+            "name": "HOFN HORNAFIRDI",
+            "country": "Iceland",
+            "lat": 64.29555555555555,
+            "lon": -15.227222222222222
+        },
+        {
+            "id": "BIIS",
+            "name": "ISAFJORDUR",
+            "country": "Iceland",
+            "lat": 66.05805555555555,
+            "lon": -23.135277777777777
+        },
+        {
+            "id": "BIKF",
+            "name": "KEFLAVIK",
+            "country": "Iceland",
+            "lat": 63.985,
+            "lon": -22.605555555555558
+        },
+        {
+            "id": "BIRK",
+            "name": "REYKJAVIK",
+            "country": "Iceland",
+            "lat": 64.13,
+            "lon": -21.940555555555555
+        }
+    ]
+}

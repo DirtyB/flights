@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 166,
+    "data": [
+        {
+            "id": "BIVM",
+            "name": "VESTMANNAEYJAR",
+            "country": "Iceland",
+            "lat": 63.425,
+            "lon": -20.279166666666665
+        },
+        {
+            "id": "EBAW",
+            "name": "ANTWERPEN/DEURNE",
+            "country": "Belgium",
+            "lat": 51.18944444444444,
+            "lon": 4.460277777777778
+        },
+        {
+            "id": "EBBE",
+            "name": "BEAUVECHAIN (MIL)",
+            "country": "Belgium",
+            "lat": 50.75783333333333,
+            "lon": 4.767
+        },
+        {
+            "id": "EBBL",
+            "name": "KLEINE BROGEL (MIL)",
+            "country": "Belgium",
+            "lat": 51.16833333333333,
+            "lon": 5.469833333333334
+        },
+        {
+            "id": "EBBR",
+            "name": "BRUSSELS/BRUSSELS-NATIONAL",
+            "country": "Belgium",
+            "lat": 50.90138888888889,
+            "lon": 4.484444444444445
+        },
+        {
+            "id": "EBCI",
+            "name": "CHARLEROI/BRUSSELS SOUTH",
+            "country": "Belgium",
+            "lat": 50.46,
+            "lon": 4.452777777777778
+        },
+        {
+            "id": "EBCV",
+            "name": "CHIEVRES (MIL)",
+            "country": "Belgium",
+            "lat": 50.575833333333335,
+            "lon": 3.831
+        },
+        {
+            "id": "EBDT",
+            "name": "DIEST/SCHAFFEN (MIL)",
+            "country": "Belgium",
+            "lat": 50.9991667,
+            "lon": 5.0655556
+        },
+        {
+            "id": "EBFN",
+            "name": "KOKSIJDE (MIL)",
+            "country": "Belgium",
+            "lat": 51.090333333333334,
+            "lon": 2.652833333333333
+        },
+        {
+            "id": "EBFS",
+            "name": "FLORENNES (MIL)",
+            "country": "Belgium",
+            "lat": 50.24333333333333,
+            "lon": 4.645833333333333
+        }
+    ]
+}

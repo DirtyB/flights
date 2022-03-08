@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 47,
+    "data": [
+        {
+            "id": "KISN",
+            "name": "SLOULIN FLD INTL",
+            "country": "United States of America",
+            "lat": 48.17793888888889,
+            "lon": -103.64234722222223
+        },
+        {
+            "id": "KANW",
+            "name": "AINSWORTH RGNL",
+            "country": "United States of America",
+            "lat": 42.579225,
+            "lon": -99.99296666666666
+        },
+        {
+            "id": "KAIA",
+            "name": "ALLIANCE MUNI",
+            "country": "United States of America",
+            "lat": 42.05322222222222,
+            "lon": -102.80377777777778
+        },
+        {
+            "id": "KBIE",
+            "name": "BEATRICE MUNI",
+            "country": "United States of America",
+            "lat": 40.30127777777778,
+            "lon": -96.75411111111111
+        },
+        {
+            "id": "KBBW",
+            "name": "BROKEN BOW MUNI/KEITH GLAZE FLD",
+            "country": "United States of America",
+            "lat": 41.43644444444444,
+            "lon": -99.64216666666667
+        },
+        {
+            "id": "KCDR",
+            "name": "CHADRON MUNI",
+            "country": "United States of America",
+            "lat": 42.83755555555556,
+            "lon": -103.0954
+        },
+        {
+            "id": "KOLU",
+            "name": "COLUMBUS MUNI",
+            "country": "United States of America",
+            "lat": 41.448722222222216,
+            "lon": -97.34094444444445
+        },
+        {
+            "id": "KFET",
+            "name": "FREMONT MUNI",
+            "country": "United States of America",
+            "lat": 41.44994444444444,
+            "lon": -96.52119444444445
+        },
+        {
+            "id": "KGRI",
+            "name": "CENTRAL NEBRASKA RGNL",
+            "country": "United States of America",
+            "lat": 40.96754166666667,
+            "lon": -98.30963888888888
+        },
+        {
+            "id": "KHSI",
+            "name": "HASTINGS MUNI",
+            "country": "United States of America",
+            "lat": 40.60525,
+            "lon": -98.42788888888889
+        }
+    ]
+}

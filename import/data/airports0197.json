@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 197,
+    "data": [
+        {
+            "id": "EPMO",
+            "name": "WARSZAWA/MODLIN",
+            "country": "Poland",
+            "lat": 52.45111111111111,
+            "lon": 20.651944444444442
+        },
+        {
+            "id": "EPPO",
+            "name": "POZNAN/LAWICA",
+            "country": "Poland",
+            "lat": 52.42111111111111,
+            "lon": 16.82638888888889
+        },
+        {
+            "id": "EPRZ",
+            "name": "RZESZOW/JASIONKA",
+            "country": "Poland",
+            "lat": 50.11,
+            "lon": 22.01888888888889
+        },
+        {
+            "id": "EPSC",
+            "name": "SZCZECIN/GOLENIOW",
+            "country": "Poland",
+            "lat": 53.584722222222226,
+            "lon": 14.902222222222223
+        },
+        {
+            "id": "EPWA",
+            "name": "CHOPINA W WARSZAWIE",
+            "country": "Poland",
+            "lat": 52.16583333333333,
+            "lon": 20.96722222222222
+        },
+        {
+            "id": "EPWR",
+            "name": "WROCLAW/STRACHOWICE",
+            "country": "Poland",
+            "lat": 51.10277777777778,
+            "lon": 16.885833333333334
+        },
+        {
+            "id": "EPZG",
+            "name": "ZIELONA GORA/BABIMOST",
+            "country": "Poland",
+            "lat": 52.13861111111111,
+            "lon": 15.79861111111111
+        },
+        {
+            "id": "ESCF",
+            "name": "LINKOPING/MALMEN",
+            "country": "Sweden",
+            "lat": 58.397777777777776,
+            "lon": 15.522777777777778
+        },
+        {
+            "id": "ESTA",
+            "name": "ANGELHOLM",
+            "country": "Sweden",
+            "lat": 56.29111111111111,
+            "lon": 12.855
+        },
+        {
+            "id": "ESDF",
+            "name": "RONNEBY",
+            "country": "Sweden",
+            "lat": 56.266666666666666,
+            "lon": 15.265
+        }
+    ]
+}

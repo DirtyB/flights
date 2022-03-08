@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 124,
+    "data": [
+        {
+            "id": "MMMM",
+            "name": "MORELIA",
+            "country": "Mexico",
+            "lat": 19.849869444444444,
+            "lon": -101.025375
+        },
+        {
+            "id": "MMNL",
+            "name": "NUEVO LAREDO",
+            "country": "Mexico",
+            "lat": 27.44336388888889,
+            "lon": -99.56991666666666
+        },
+        {
+            "id": "MMOX",
+            "name": "OAXACA",
+            "country": "Mexico",
+            "lat": 16.998586111111113,
+            "lon": -96.7260388888889
+        },
+        {
+            "id": "MMPG",
+            "name": "PIEDRAS NEGRAS",
+            "country": "Mexico",
+            "lat": 28.627369444444444,
+            "lon": -100.53440555555555
+        },
+        {
+            "id": "MMPA",
+            "name": "POZA RICA",
+            "country": "Mexico",
+            "lat": 20.602094444444447,
+            "lon": -97.46059166666667
+        },
+        {
+            "id": "MMPB",
+            "name": "PUEBLA",
+            "country": "Mexico",
+            "lat": 19.15813611111111,
+            "lon": -98.3715
+        },
+        {
+            "id": "MMPS",
+            "name": "PUERTO ESCONDIDO",
+            "country": "Mexico",
+            "lat": 15.876916666666666,
+            "lon": -97.08908333333333
+        },
+        {
+            "id": "MMPQ",
+            "name": "PALENQUE",
+            "country": "Mexico",
+            "lat": 17.53301388888889,
+            "lon": -92.01558888888889
+        },
+        {
+            "id": "MMPR",
+            "name": "PUERTO VALLARTA",
+            "country": "Mexico",
+            "lat": 20.680072222222222,
+            "lon": -105.2542
+        },
+        {
+            "id": "MMQT",
+            "name": "QUERETARO",
+            "country": "Mexico",
+            "lat": 20.617372222222222,
+            "lon": -100.18566111111112
+        }
+    ]
+}

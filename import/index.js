@@ -30,7 +30,17 @@ async function getPage(pageNumber, authCode) {
         })
         .then(res => {
             console.log(`retrieved airports page ` + pageNumber)
-            return res.data;
+            try {
+                let parsedData = JSON.parse(res.data);
+                if (parsedData.data.length === 0) {
+                    console.log("page " + pageNumber + " has empty data")
+                    return null;
+                }
+                return JSON.stringify(parsedData, null, 4);
+            } catch (e) {
+                console.warn("page " + pageNumber + " is invalid json");
+                return res.data;
+            }
         })
 }
 
@@ -41,10 +51,14 @@ function generateFileName(pageNumber) {
 getAuthCode(testUser, testPassword).then(async code => {
     console.log(code)
     let pageNumber = 1;
-    return getPage(pageNumber, code).then(data => {
-        console.log(data)
-        return fs.writeFile(generateFileName(pageNumber), data);
-    })
+    while(true) {
+        let data = await getPage(pageNumber, code)
+        if (data == null) {
+            break;
+        }
+        await fs.writeFile(generateFileName(pageNumber), data);
+        pageNumber++;
+    }
 }).catch(error => {
     console.error(error)
 });

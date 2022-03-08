@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 94,
+    "data": [
+        {
+            "id": "KBKW",
+            "name": "RALEIGH COUNTY MEMORIAL",
+            "country": "United States of America",
+            "lat": 37.78733333333333,
+            "lon": -81.12416666666665
+        },
+        {
+            "id": "KBLF",
+            "name": "MERCER COUNTY",
+            "country": "United States of America",
+            "lat": 37.29594722222222,
+            "lon": -81.20751666666666
+        },
+        {
+            "id": "KCRW",
+            "name": "YEAGER",
+            "country": "United States of America",
+            "lat": 38.375927777777775,
+            "lon": -81.59300277777777
+        },
+        {
+            "id": "KCKB",
+            "name": "NORTH CENTRAL WEST VIRGINIA",
+            "country": "United States of America",
+            "lat": 39.29765277777778,
+            "lon": -80.22753055555556
+        },
+        {
+            "id": "KEKN",
+            "name": "ELKINS-RANDOLPH CO-JENNINGS RANDOLPH FLD ",
+            "country": "United States of America",
+            "lat": 38.88944444444444,
+            "lon": -79.85713888888888
+        },
+        {
+            "id": "KHTS",
+            "name": "TRI-STATE/MILTON J.FERGUSON FIELD",
+            "country": "United States of America",
+            "lat": 38.36850555555556,
+            "lon": -82.56035833333333
+        },
+        {
+            "id": "KLWB",
+            "name": "GREENBRIER VALLEY",
+            "country": "United States of America",
+            "lat": 37.85830555555556,
+            "lon": -80.39947222222223
+        },
+        {
+            "id": "KMRB",
+            "name": "EASTERN WV RGNL/SHEPHERD FFD",
+            "country": "United States of America",
+            "lat": 39.40235555555555,
+            "lon": -77.98299722222222
+        },
+        {
+            "id": "KMGW",
+            "name": "MORGANTOWN MUNI-WALTER L. BILL HART FLD",
+            "country": "United States of America",
+            "lat": 39.643594444444446,
+            "lon": -79.91754444444445
+        },
+        {
+            "id": "KPKB",
+            "name": "MID-OHIO VALLEY RGNL",
+            "country": "United States of America",
+            "lat": 39.344972222222225,
+            "lon": -81.43930555555556
+        }
+    ]
+}

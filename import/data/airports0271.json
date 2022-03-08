@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 271,
+    "data": [
+        {
+            "id": "FTTY",
+            "name": "FAYA LARGEAU",
+            "country": "Chad",
+            "lat": 17.91607222222222,
+            "lon": 19.10886388888889
+        },
+        {
+            "id": "FVBU",
+            "name": "J.M. NKOMO",
+            "country": "Zimbabwe",
+            "lat": -20.01833333333333,
+            "lon": 28.62472222222222
+        },
+        {
+            "id": "FVCZ",
+            "name": "BUFFALO RANGE",
+            "country": "Zimbabwe",
+            "lat": -21.01,
+            "lon": 31.579444444444444
+        },
+        {
+            "id": "FVFA",
+            "name": "VICTORIA FALLS",
+            "country": "Zimbabwe",
+            "lat": -18.094166666666666,
+            "lon": 25.84
+        },
+        {
+            "id": "FVHA",
+            "name": "HARARE INTERNATIONAL",
+            "country": "Zimbabwe",
+            "lat": -17.93277777777778,
+            "lon": 31.093888888888888
+        },
+        {
+            "id": "FVKB",
+            "name": "KARIBA",
+            "country": "Zimbabwe",
+            "lat": -16.519444444444442,
+            "lon": 28.884999999999998
+        },
+        {
+            "id": "FVMV",
+            "name": "MASVINGO",
+            "country": "Zimbabwe",
+            "lat": -20.061944444444446,
+            "lon": 30.861944444444447
+        },
+        {
+            "id": "FWCL",
+            "name": "BLANTYRE/CHILEKA",
+            "country": "Malawi",
+            "lat": -15.679722222222221,
+            "lon": 34.9675
+        },
+        {
+            "id": "FWKI",
+            "name": "LILONGWE/KAMUZU INTERNATIONAL",
+            "country": "Malawi",
+            "lat": -13.783333333333333,
+            "lon": 33.777499999999996
+        },
+        {
+            "id": "FXMM",
+            "name": "MASERU MOSHOESHOE I",
+            "country": "Lesotho",
+            "lat": -29.454444444444444,
+            "lon": 27.55527777777778
+        }
+    ]
+}

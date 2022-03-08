@@ -1,0 +1,76 @@
+{
+    "status": "ok",
+    "page": 336,
+    "data": [
+        {
+            "id": "NVSS",
+            "name": "SANTO/PEKOA",
+            "country": "Vanuatu",
+            "lat": -15.505766666666666,
+            "lon": 167.22135833333334
+        },
+        {
+            "id": "NVVA",
+            "name": "ANEITYUM",
+            "country": "Vanuatu",
+            "lat": -20.2491667,
+            "lon": 169.7708333
+        },
+        {
+            "id": "NVVV",
+            "name": "PORT VILA/BAUERFIELD",
+            "country": "Vanuatu",
+            "lat": -17.699325,
+            "lon": 168.31979444444445
+        },
+        {
+            "id": "NVVW",
+            "name": "TANNA/WHITEGRASS",
+            "country": "Vanuatu",
+            "lat": -19.455,
+            "lon": 169.22333333333333
+        },
+        {
+            "id": "NFFN",
+            "name": "NADI/INTL",
+            "country": "Fiji",
+            "lat": -17.75638888888889,
+            "lon": 177.44361111111112
+        },
+        {
+            "id": "NFNA",
+            "name": "NAUSORI/INTL",
+            "country": "Fiji",
+            "lat": -18.044722222222223,
+            "lon": 178.55944444444447
+        },
+        {
+            "id": "NFTF",
+            "name": "FUA'AMOTU INTL.",
+            "country": "Tonga",
+            "lat": -21.24105,
+            "lon": -175.13963055555556
+        },
+        {
+            "id": "NGFU",
+            "name": "FUNAFUTI/INTL",
+            "country": "Tuvalu",
+            "lat": -8.525144444444445,
+            "lon": 179.19573888888888
+        },
+        {
+            "id": "NFTL",
+            "name": "HA'APAI",
+            "country": "Tonga",
+            "lat": -19.777055555555556,
+            "lon": -174.34039166666668
+        },
+        {
+            "id": "NFTV",
+            "name": "VAVA'U",
+            "country": "Tonga",
+            "lat": -18.585580555555556,
+            "lon": -173.96804444444444
+        }
+    ]
+}
