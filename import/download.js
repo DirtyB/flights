@@ -1,5 +1,6 @@
 const axios = require('axios')
 const fs = require('fs').promises;
+const common = require('./common');
 
 const testUser = 'test';
 const testPassword = '123';
@@ -44,9 +45,6 @@ async function getPage(pageNumber, authCode) {
         })
 }
 
-function generateFileName(pageNumber) {
-    return 'data/airports' + ('' + pageNumber).padStart(4, '0') + '.json';
-}
 
 getAuthCode(testUser, testPassword).then(async code => {
     console.log(code)
@@ -56,7 +54,7 @@ getAuthCode(testUser, testPassword).then(async code => {
         if (data == null) {
             break;
         }
-        await fs.writeFile(generateFileName(pageNumber), data);
+        await fs.writeFile(common.generateFileName(pageNumber), data);
         pageNumber++;
     }
 }).catch(error => {

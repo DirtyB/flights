@@ -1,7 +1,5 @@
 const fs = require('fs').promises;
-
-const path = 'data';
-const filePattern = /^airports\d{4}\.json$/
+const common = require('./common');
 
 const errorPattern1 = /"name":"([^"]+),"country"/g;
 const errorReplacement1 = "\"name\":\"$1\",\"country\"";
@@ -11,17 +9,6 @@ const errorReplacement2 = "\"$1\": \"$2\"$3";
 
 const errorPattern3 = "\"lon\": \"COM}\","
 const errorReplacement3 = "\"lon\": \"COM\"},";
-
-function listFiles(directory, filePattern) {
-    return fs.readdir(directory).then(files => {
-        const re = filePattern;
-        files = files.filter(value => {
-            return value.match(re);
-        })
-        files.sort();
-        return files;
-    });
-}
 
 function isValidJson(data) {
     try {
@@ -55,8 +42,8 @@ async function process_file(directory, file) {
     }
 }
 
-listFiles(path, filePattern).then(files => {
-    return Promise.all(files.map(file => process_file(path, file)))
+common.listFiles(common.path, common.filePattern).then(files => {
+    return Promise.all(files.map(file => process_file(common.path, file)))
 }).catch(error => {
     console.error(error)
 });
