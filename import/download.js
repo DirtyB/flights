@@ -45,7 +45,6 @@ async function getPage(pageNumber, authCode) {
         })
 }
 
-
 getAuthCode(testUser, testPassword).then(async code => {
     console.log(code)
     let pageNumber = 1;
