@@ -2,6 +2,7 @@ version: "3.9"
 services:
   db:
     image: flights-db:latest
+    restart: always
     ports:
       - 5432:5432
 
