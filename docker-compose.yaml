@@ -11,4 +11,21 @@ services:
     depends_on:
       - db
 
+  data_download:
+    image: flights-import:latest
+    volumes:
+      - ./import/data:/var/import/data
+    command: ["npm run download && npm run fix"]
+    depends_on:
+      - db
+
+  data_import:
+    image: flights-import:latest
+    volumes:
+      - ./import/data:/var/import/data
+    command: ["npm run import && npm run fix_sql && npm run commit_sql"]
+    depends_on:
+      - db
+
+
 

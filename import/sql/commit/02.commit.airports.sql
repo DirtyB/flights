@@ -8,7 +8,7 @@ $$
                    name,
                    c.id     country_id,
                    (CASE
-                        WHEN lat is not null AND lon IS NOT NULL THEN concat('POINT(', lat, ' ', lon, ')')::geography
+                        WHEN lat is not null AND lon IS NOT NULL THEN concat('POINT(', lon, ' ', lat, ')')::geography
                         ELSE null
                        END) coordinates
             FROM raw_airport
