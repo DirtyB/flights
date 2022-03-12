@@ -1,4 +1,4 @@
-UPDATE raw_ariport
+UPDATE raw_airport
 SET name = concat(name,'/',country),
     country_code = lat,
     country = lon,

@@ -1,2 +1,2 @@
-alter table raw_ariport
+alter table raw_airport
 drop column country_code;

@@ -4,8 +4,8 @@ const common = require('./common');
 
 require('dotenv').config()
 
-const clearAllRequest = "TRUNCATE raw_ariport;"
-const insertRequest = "INSERT INTO raw_ariport (code, name, country, lat, lon) VALUES ($1, $2, $3, $4, $5);";
+const clearAllRequest = "TRUNCATE raw_airport;"
+const insertRequest = "INSERT INTO raw_airport (code, name, country, lat, lon) VALUES ($1, $2, $3, $4, $5);";
 
 async function process_file(directory, file, pool) {
     let filePath = directory + "/" + file;

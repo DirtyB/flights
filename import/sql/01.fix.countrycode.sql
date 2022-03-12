@@ -1,4 +1,4 @@
-UPDATE raw_ariport
+UPDATE raw_airport
 SET country_code = country,
     country = lat,
     lat = lon,

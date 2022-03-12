@@ -1,4 +1,1 @@
-drop table raw_ariport;
-
-DROP EXTENSION postgis;
-DROP EXTENSION plpgsql;
+drop table raw_airport;

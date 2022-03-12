@@ -4,7 +4,8 @@ create table planetype
 (
     id        uuid
         constraint planetype_pk
-            primary key,
+            primary key
+        default gen_random_uuid(),
     type_name varchar(10) not null,
     speed     int         not null
 );
