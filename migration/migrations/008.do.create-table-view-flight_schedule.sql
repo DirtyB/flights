@@ -28,8 +28,8 @@ SELECT fs.flight_number,
        dst_a.code                          AS dst_airport_code,
        p.type_name                         AS plane_type,
        fs.schedule,
-       substr(fs.dpt_time_utc::text, 0, 6) AS dpt_time_utc,
-       substr(fs.dst_time_utc::text, 0, 6) AS dst_time_utc
+       substr(fs.dpt_time_utc::text, 1, 5) AS dpt_time_utc,
+       substr(fs.dst_time_utc::text, 1, 5) AS dst_time_utc
 FROM flight_schedule fs
          JOIN airport dpt_a ON dpt_a.id = fs.dpt_airport_id
          JOIN airport dst_a ON dst_a.id = fs.dst_airport_id
