@@ -5,8 +5,8 @@ const common = require('./common');
 
 require('dotenv').config()
 
-const user = '3182';
-const authCode = '4a414eb687efcb6230f9b88782faac72cf02cad0a4d6d271cb370952d7d0d9ec';
+const user = process.env.ASKGEO_USER;
+const authCode = process.env.ASKGEO_TOKEN;
 
 const dateTimeMillis = 1577836800000; // Jan 1, 2020, 00:00:00 UTC
 

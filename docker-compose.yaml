@@ -23,9 +23,23 @@ services:
     image: flights-import:latest
     volumes:
       - ./import/data:/var/import/data
-    command: ["npm run import && npm run fix_sql && npm run commit_sql"]
+    command: ["npm run import && npm run fix_sql"]
     depends_on:
       - db
 
+  tz_downlad:
+    image: flights-import:latest
+    volumes:
+      - ./import/tz_data:/var/import/tz_data
+    command: ["npm run download_tz"]
+    depends_on:
+      - db
 
+  data_commit:
+    image: flights-import:latest
+    volumes:
+      - ./import/tz_data:/var/import/tz_data
+    command: ["npm run enrich && npm run commit_sql" ]
+    depends_on:
+      - db
 
