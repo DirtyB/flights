@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 5035,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Tirane",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "Central European Standard Time",
+    "InDstNow": "false"
+}

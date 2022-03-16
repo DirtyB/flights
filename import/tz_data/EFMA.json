@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 13781,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Mariehamn",
+    "ShortName": "EET",
+    "CurrentOffsetMs": 7200000,
+    "WindowsStandardName": "E. Europe Standard Time",
+    "InDstNow": "false"
+}

@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 15026,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Istanbul",
+    "ShortName": "TRT",
+    "CurrentOffsetMs": 10800000,
+    "WindowsStandardName": "GTB Standard Time",
+    "InDstNow": "false"
+}

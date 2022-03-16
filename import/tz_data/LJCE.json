@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 12640,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Ljubljana",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "Central Europe Standard Time",
+    "InDstNow": "false"
+}

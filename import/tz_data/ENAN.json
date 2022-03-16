@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 24026,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Oslo",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "Central European Standard Time",
+    "InDstNow": "false"
+}

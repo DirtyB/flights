@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 14677,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Budapest",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "Central Europe Standard Time",
+    "InDstNow": "false"
+}

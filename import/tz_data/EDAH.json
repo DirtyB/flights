@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 53,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Berlin",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "W. Europe Standard Time",
+    "InDstNow": "false"
+}

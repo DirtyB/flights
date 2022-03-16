@@ -1,0 +1,10 @@
+{
+    "IsInside": "false",
+    "AskGeoId": 5331,
+    "MinDistanceKm": 0.238127,
+    "TimeZoneId": "America/Miquelon",
+    "ShortName": "PMST",
+    "CurrentOffsetMs": -10800000,
+    "WindowsStandardName": "Greenland Standard Time",
+    "InDstNow": "false"
+}

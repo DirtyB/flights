@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 5247,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Atlantic/Stanley",
+    "ShortName": "FKT",
+    "CurrentOffsetMs": -10800000,
+    "WindowsStandardName": "Pacific SA Standard Time",
+    "InDstNow": "false"
+}

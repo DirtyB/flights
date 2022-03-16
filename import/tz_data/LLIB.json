@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 19,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Asia/Jerusalem",
+    "ShortName": "IST",
+    "CurrentOffsetMs": 7200000,
+    "WindowsStandardName": "Israel Standard Time",
+    "InDstNow": "false"
+}

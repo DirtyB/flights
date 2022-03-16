@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 20450,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/London",
+    "ShortName": "GMT",
+    "CurrentOffsetMs": 0,
+    "WindowsStandardName": "GMT Standard Time",
+    "InDstNow": "false"
+}

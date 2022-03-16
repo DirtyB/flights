@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 25340,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Amsterdam",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "W. Europe Standard Time",
+    "InDstNow": "false"
+}

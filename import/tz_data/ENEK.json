@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": -1,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Etc/GMT",
+    "ShortName": "GMT",
+    "CurrentOffsetMs": 0,
+    "WindowsStandardName": "GMT Standard Time",
+    "InDstNow": "false"
+}

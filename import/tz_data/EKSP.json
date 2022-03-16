@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 21379,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Copenhagen",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "Romance Standard Time",
+    "InDstNow": "false"
+}

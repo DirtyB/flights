@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 18848,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Atlantic/Azores",
+    "ShortName": "AZOT",
+    "CurrentOffsetMs": -3600000,
+    "WindowsStandardName": "Azores Standard Time",
+    "InDstNow": "false"
+}

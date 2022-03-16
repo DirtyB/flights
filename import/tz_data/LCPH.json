@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 12626,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Asia/Nicosia",
+    "ShortName": "EET",
+    "CurrentOffsetMs": 7200000,
+    "WindowsStandardName": "Middle East Standard Time",
+    "InDstNow": "false"
+}

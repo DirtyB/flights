@@ -1,12 +1,17 @@
 const fs = require('fs').promises;
 
 const path = 'data';
+const tz_path = 'tz_data';
 
 module.exports.path = path;
 module.exports.filePattern = /^airports\d{4}\.json$/
 
 module.exports.generateFileName = function (pageNumber) {
     return path + '/airports' + ('' + pageNumber).padStart(4, '0') + '.json';
+};
+
+module.exports.generateTzFileName = function (code) {
+    return tz_path + '/' + code + '.json';
 };
 
 const listFiles = function (directory, filePattern) {

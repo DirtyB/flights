@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 22121,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Riga",
+    "ShortName": "EET",
+    "CurrentOffsetMs": 7200000,
+    "WindowsStandardName": "E. Europe Standard Time",
+    "InDstNow": "false"
+}

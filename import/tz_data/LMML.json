@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 20257,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Malta",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "Central European Standard Time",
+    "InDstNow": "false"
+}

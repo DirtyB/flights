@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 19847,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Chisinau",
+    "ShortName": "EET",
+    "CurrentOffsetMs": 7200000,
+    "WindowsStandardName": "E. Europe Standard Time",
+    "InDstNow": "false"
+}

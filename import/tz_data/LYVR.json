@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 14949,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Europe/Belgrade",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "Central Europe Standard Time",
+    "InDstNow": "false"
+}

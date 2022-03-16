@@ -1,0 +1,10 @@
+{
+    "IsInside": "true",
+    "AskGeoId": 7177,
+    "MinDistanceKm": 0,
+    "TimeZoneId": "Arctic/Longyearbyen",
+    "ShortName": "CET",
+    "CurrentOffsetMs": 3600000,
+    "WindowsStandardName": "W. Europe Standard Time",
+    "InDstNow": "false"
+}
