@@ -9,6 +9,7 @@
     "import": "node import.js",
     "fix_sql": "node apply_scripts.js sql/fix",
     "download_tz": "node download_tz.js",
+    "enrich": "node enrich.js",
     "commit_sql": "node apply_scripts.js sql/commit",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

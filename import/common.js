@@ -6,6 +6,9 @@ const tz_path = 'tz_data';
 module.exports.path = path;
 module.exports.filePattern = /^airports\d{4}\.json$/
 
+module.exports.tz_path = tz_path;
+module.exports.tz_filePattern = /^([A-Z]{4})\.json$/
+
 module.exports.generateFileName = function (pageNumber) {
     return path + '/airports' + ('' + pageNumber).padStart(4, '0') + '.json';
 };
