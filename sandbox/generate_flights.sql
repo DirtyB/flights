@@ -6,7 +6,12 @@ WITH days AS (
          SELECT *, extract(isodow from days.date)::int dow
          from days
      )
-INSERT INTO flight(flight_schedule_id, date)
-SELECT fs.id as flight_schedule_id, dow.date
+INSERT INTO flight(flight_schedule_id, date, planned_dpt_timestamp_utc, planned_dst_timestamp_utc)
+SELECT fs.id as                                                                    flight_schedule_id,
+       dow.date,
+--        dpt_local_time, dpt_a.timezone,
+       ((date + dpt_local_time)::timestamp at time zone dpt_a.timezone)            planned_dpt_timestamp_utc,
+       ((date + dpt_local_time)::timestamp at time zone dpt_a.timezone + duration) planned_dst_timestamp_utc
 from days_of_week dow
          JOIN flight_schedule fs ON (substr(fs.schedule, dow.dow, 1) <> '-')
+         JOIN airport dpt_a on fs.dpt_airport_id = dpt_a.id

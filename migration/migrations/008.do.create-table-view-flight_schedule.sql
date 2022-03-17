@@ -29,7 +29,7 @@ SELECT fs.flight_number,
        p.type_name AS                                                                       plane_type,
        fs.schedule,
        (('2020-01-01'::date + dpt_local_time)::timestamp at time zone dpt_a.timezone)::time dpt_time_utc,
-       (('2020-01-01'::date + dpt_local_time)::timestamp at time zone dpt_a.timezone + duration)::time dpt_time_utc
+       (('2020-01-01'::date + dpt_local_time)::timestamp at time zone dpt_a.timezone + duration)::time dst_time_utc
 FROM flight_schedule fs
          JOIN airport dpt_a ON dpt_a.id = fs.dpt_airport_id
          JOIN airport dst_a ON dst_a.id = fs.dst_airport_id

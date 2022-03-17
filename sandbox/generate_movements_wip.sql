@@ -2,6 +2,8 @@ WITH flights AS (
     SELECT id as    flight_id,
            date,
            flight_schedule_id,
+           planned_dpt_timestamp_utc,
+           planned_dst_timestamp_utc,
            random() delay_factor1,
            random() delay_factor2,
            random() delay_factor3
@@ -25,24 +27,20 @@ WITH flights AS (
      ),
      actual_fligts AS (
          select *,
-                date + dpt_time_utc + INTERVAL '1' minute * dpt_delay as dpt_actual_datetime_utc,
-                (date + interval '1' day * (CASE WHEN dst_time_utc < dpt_time_utc THEN 1 ELSE 0 END))::date
-                    + dst_time_utc + INTERVAL '1' minute * dst_delay  as dst_actual_datetime_utc
+                planned_dpt_timestamp_utc + interval '1' minute * dpt_delay dpt_actual_timestamp_utc,
+                planned_dst_timestamp_utc + interval '1' minute * dst_delay dst_actual_timestamp_utc
          from flights_with_delay
-                  JOIN flight_schedule fs on fs.id = flights_with_delay.flight_schedule_id
      )
 INSERT
-INTO flight_movement(flight_id, movement_type, date, time_utc)
+INTO flight_movement(flight_id, movement_type, timestamp_utc)
 SELECT *
 FROM (SELECT flight_id,
-             'departure'::movement_type    as movement_type,
-             dpt_actual_datetime_utc::date as date,
-             dpt_actual_datetime_utc::time as time_utc
+             'departure'::movement_type as movement_type,
+             dpt_actual_timestamp_utc   as timestamp_utc
       FROM actual_fligts
       UNION ALL
       SELECT flight_id,
              'arrival'::movement_type as movement_type,
-             dst_actual_datetime_utc::date as date,
-             dst_actual_datetime_utc::time as time_utc
-FROM actual_fligts) movements
-ORDER BY date, time_utc;
+             dst_actual_timestamp_utc as timestamp_utc
+      FROM actual_fligts) movements
+ORDER BY timestamp_utc;
