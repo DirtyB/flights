@@ -29,6 +29,9 @@ create table flight_movement
     timestamp_utc timestamp not null
 );
 
+create unique index flight_movement_flight_id_movement_type_uindex
+    on flight_movement (flight_id, movement_type);
+
 create view view_flight_movement(flight_number, movement_type, date, time_utc) as
 SELECT fs.flight_number,
        fm.movement_type,

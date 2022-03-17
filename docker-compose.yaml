@@ -43,3 +43,7 @@ services:
     depends_on:
       - db
 
+  generator:
+    image: flights-generator:latest
+    depends_on:
+      - db
