@@ -14,8 +14,8 @@ create table flight_schedule
         constraint flight_schedule_planetype_id_fk
             references planetype,
     schedule       varchar(7)                     not null,
-    dpt_time_utc   time with time zone            not null,
-    dst_time_utc   time with time zone            not null
+    dpt_local_time time without time zone         not null,
+    duration       interval                       not null
 );
 
 create unique index flight_schedule_flight_number_uindex
@@ -24,12 +24,12 @@ create unique index flight_schedule_flight_number_uindex
 create view view_flight_schedule
             (flight_number, dpt_airport_code, dst_airport_code, plane_type, schedule, dpt_time_utc, dst_time_utc) as
 SELECT fs.flight_number,
-       dpt_a.code                          AS dpt_airport_code,
-       dst_a.code                          AS dst_airport_code,
-       p.type_name                         AS plane_type,
+       dpt_a.code  AS                                                                       dpt_airport_code,
+       dst_a.code  AS                                                                       dst_airport_code,
+       p.type_name AS                                                                       plane_type,
        fs.schedule,
-       substr(fs.dpt_time_utc::text, 1, 5) AS dpt_time_utc,
-       substr(fs.dst_time_utc::text, 1, 5) AS dst_time_utc
+       (('2020-01-01'::date + dpt_local_time)::timestamp at time zone dpt_a.timezone)::time dpt_time_utc,
+       (('2020-01-01'::date + dpt_local_time)::timestamp at time zone dpt_a.timezone + duration)::time dpt_time_utc
 FROM flight_schedule fs
          JOIN airport dpt_a ON dpt_a.id = fs.dpt_airport_id
          JOIN airport dst_a ON dst_a.id = fs.dst_airport_id

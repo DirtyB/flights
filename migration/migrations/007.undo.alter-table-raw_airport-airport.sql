@@ -1,5 +1,5 @@
 alter table airport
-drop column utc_offset_millis;
+drop column timezone;
 
 alter table raw_airport
-drop column utc_offset_millis;
+drop column timezone;

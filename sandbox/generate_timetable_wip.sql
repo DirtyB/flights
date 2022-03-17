@@ -2,11 +2,11 @@ with euro_ports as
          (SELECT *
           FROM airport
           WHERE (code like 'E%' or code like 'L%' or code = 'BKPR'))
-INSERT INTO flight_schedule (flight_number, dpt_airport_id, dst_airport_id, plaintype_id, schedule, dpt_time_utc, dst_time_utc)
-SELECT LPAD((row_number() over ())::text, 4, '0')                       as flight_number,
-       dpt.id                                                           as dpt_airport_id,
-       dst.id                                                           as dst_airport_id,
-       aircraft.id                                                      as planetype_id,
+INSERT INTO flight_schedule (flight_number, dpt_airport_id, dst_airport_id, plaintype_id, schedule, dpt_local_time, duration)
+SELECT LPAD((row_number() over ())::text, 4, '0') as flight_number,
+       dpt.id                                     as dpt_airport_id,
+       dst.id                                     as dst_airport_id,
+       aircraft.id                                as planetype_id,
        CONCAT(
                CASE WHEN (schedule_factor >> 0)::bit(1) <> 0::bit THEN 'M' ELSE '-' END,
                CASE WHEN (schedule_factor >> 1)::bit(1) <> 0::bit THEN 'T' ELSE '-' END,
@@ -15,9 +15,9 @@ SELECT LPAD((row_number() over ())::text, 4, '0')                       as fligh
                CASE WHEN (schedule_factor >> 4)::bit(1) <> 0::bit THEN 'F' ELSE '-' END,
                CASE WHEN (schedule_factor >> 5)::bit(1) <> 0::bit THEN 'S' ELSE '-' END,
                CASE WHEN (schedule_factor >> 6)::bit(1) <> 0::bit THEN 'S' ELSE '-' END
-           )                                                            as schedule,
-       to_timestamp(dst.utc_time_seconds)::time                         as dpt_time_utc,
-       to_timestamp(dst.utc_time_seconds + duration_minutes * 60)::time as dst_time_utc
+           )                                      as schedule,
+       local_time                                 as dpt_local_time,
+       interval '1' minute * duration_minutes     as duration
 FROM (SELECT *,
              floor(random() * 5 + 3)::int as quan,
              random()                     as seed
@@ -50,15 +50,15 @@ FROM (SELECT *,
          ),
          local_dpt_times AS (
              SELECT m.*,
-                    last_time - 30 * rnum -
+                    last_time - 30 * (rnum - 1) -
                     coalesce((SELECT sum(rand_min) FROM minutes m2 WHERE m2.rnum < m.rnum), 0) local_time_min
              FROM minutes m
          )
     SELECT airport.*,
            ldt.local_time_min,
            ldt.seed,
-           (ldt.local_time_min * 60 - airport.utc_offset_millis / 1000)::int utc_time_seconds,
-           ST_Distance(dpt.coordinates, airport.coordinates)                 distance
+           to_timestamp(ldt.local_time_min * 60)::time       as local_time,
+           ST_Distance(dpt.coordinates, airport.coordinates) as distance
     FROM airport
              join local_dpt_times ldt on airport.id = ldt.id
 

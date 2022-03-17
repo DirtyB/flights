@@ -3,7 +3,7 @@ $$
     BEGIN
         IF (SELECT count(*) FROM airport) = 0
         THEN
-            INSERT INTO airport (code, name, country_id, coordinates, utc_offset_millis)
+            INSERT INTO airport (code, name, country_id, coordinates, timezone)
             SELECT code,
                    name,
                    c.id     country_id,
@@ -11,7 +11,7 @@ $$
                         WHEN lat is not null AND lon IS NOT NULL THEN concat('POINT(', lon, ' ', lat, ')')::geography
                         ELSE null
                        END) coordinates,
-                   utc_offset_millis
+                   timezone
             FROM raw_airport
                      JOIN country c on raw_airport.country = c.country_name;
         ELSE

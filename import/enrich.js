@@ -4,7 +4,7 @@ const common = require('./common');
 
 require('dotenv').config()
 
-const updateRequest = "UPDATE raw_airport SET utc_offset_millis = $1 WHERE code = $2;";
+const updateRequest = "UPDATE raw_airport SET timezone = $1 WHERE code = $2;";
 
 async function process_file(directory, file, pool) {
     let filePath = directory + "/" + file;
@@ -16,7 +16,7 @@ async function process_file(directory, file, pool) {
     let code = file.match(common.tz_filePattern)[1];
 
     let params = [
-        parsedData.CurrentOffsetMs,
+        parsedData.TimeZoneId,
         code
     ];
 
