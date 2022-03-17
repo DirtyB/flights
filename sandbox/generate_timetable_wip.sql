@@ -8,13 +8,13 @@ SELECT LPAD((row_number() over ())::text, 4, '0') as flight_number,
        dst.id                                     as dst_airport_id,
        aircraft.id                                as planetype_id,
        CONCAT(
-               CASE WHEN (schedule_factor >> 0)::bit(1) <> 0::bit THEN 'M' ELSE '-' END,
-               CASE WHEN (schedule_factor >> 1)::bit(1) <> 0::bit THEN 'T' ELSE '-' END,
-               CASE WHEN (schedule_factor >> 2)::bit(1) <> 0::bit THEN 'W' ELSE '-' END,
-               CASE WHEN (schedule_factor >> 3)::bit(1) <> 0::bit THEN 'T' ELSE '-' END,
-               CASE WHEN (schedule_factor >> 4)::bit(1) <> 0::bit THEN 'F' ELSE '-' END,
-               CASE WHEN (schedule_factor >> 5)::bit(1) <> 0::bit THEN 'S' ELSE '-' END,
-               CASE WHEN (schedule_factor >> 6)::bit(1) <> 0::bit THEN 'S' ELSE '-' END
+               CASE WHEN (schedule_factor >> 0) % 2 = 1 THEN 'M' ELSE '-' END,
+               CASE WHEN (schedule_factor >> 1) % 2 = 1 THEN 'T' ELSE '-' END,
+               CASE WHEN (schedule_factor >> 2) % 2 = 1 THEN 'W' ELSE '-' END,
+               CASE WHEN (schedule_factor >> 3) % 2 = 1 THEN 'T' ELSE '-' END,
+               CASE WHEN (schedule_factor >> 4) % 2 = 1 THEN 'F' ELSE '-' END,
+               CASE WHEN (schedule_factor >> 5) % 2 = 1 THEN 'S' ELSE '-' END,
+               CASE WHEN (schedule_factor >> 6) % 2 = 1 THEN 'S' ELSE '-' END
            )                                      as schedule,
        local_time                                 as dpt_local_time,
        interval '1' minute * duration_minutes     as duration
@@ -28,6 +28,7 @@ FROM (SELECT *,
         SELECT id
         FROM euro_ports
         WHERE euro_ports.id <> dpt.id
+          AND ST_Distance(dpt.coordinates, euro_ports.coordinates) < 8E+6
         ORDER BY random()
         LIMIT dpt.quan
     ),
@@ -64,8 +65,8 @@ FROM (SELECT *,
 
     ) dst ON true
          JOIN LATERAL (SELECT *,
-                              floor(random() * 254)::int + 1 as             schedule_factor,
-                              ceil(60 * dst.distance / (1852 * speed))::int duration_minutes
+                              ceil(random() * 255)::int                     as schedule_factor,
+                              ceil(60 * dst.distance / (1852 * speed))::int as duration_minutes
                        FROM planetype
-                       ORDER BY random()
+                       ORDER BY random() + dpt.seed
                        LIMIT 1) aircraft on true
