@@ -1,0 +1,8 @@
+planned,182234
+completed,173117
+cancelled,9117
+late_delayed,17411
+late_not_delayed,17415
+cancelled_rate,0.05
+late_delayed_rate,0.1
+late_not_delayed_rate,0.1

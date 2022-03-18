@@ -1,0 +1,22 @@
+completion_rate,0.95
+late_rate,0.2
+delayed_among_late_rate,0.5
+delayed_not_late_rate,0.3
+early_arrival_rate,0.05
+planned,182234
+completed,173117
+late,34826
+delayed_and_late,17411
+delayed_and_not_late,51862
+early_departure,8522
+early_arrival,8522
+min_delay,0 years 0 mons 0 days 0 hours 15 mins 0.0 secs
+max_delay,0 years 0 mons 0 days 1 hours 0 mins 0.0 secs
+min_late,0 years 0 mons 0 days 0 hours 15 mins 0.0 secs
+max_late,0 years 0 mons 0 days 1 hours 0 mins 0.0 secs
+min_delay_not_late,0 years 0 mons 0 days 0 hours 17 mins 0.0 secs
+max_delay_not_late,0 years 0 mons 0 days 0 hours 23 mins 0.0 secs
+min_early_departure,0 years 0 mons 0 days 0 hours 17 mins 0.0 secs
+max_early_departure,0 years 0 mons 0 days 0 hours 23 mins 0.0 secs
+min_early_arrival,0 years 0 mons 0 days 0 hours 17 mins 0.0 secs
+max_early_arrival,0 years 0 mons 0 days 0 hours 23 mins 0.0 secs
