@@ -27,7 +27,7 @@ services:
     depends_on:
       - db
 
-  tz_downlad:
+  tz_download:
     image: flights-import:latest
     volumes:
       - ./import/tz_data:/var/import/tz_data
