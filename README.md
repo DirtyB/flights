@@ -1,8 +1,8 @@
-#flights: Test project for Alar Studios
+# flights: Test project for Alar Studios
 
 by Boris Tolstukha (boris.tolstukha@gmail.com)
 
-##Steps to run
+## Steps to run
 
 ### Prerequisites
 
@@ -132,7 +132,7 @@ ORDER BY date, time_utc;
 
 ### Reports
 
-####[General report on schedule](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/01.report_general_schedule.sql)
+#### [General report on schedule](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/01.report_general_schedule.sql)
 
 For each airport: 
 - number of departing flights (must be 3-7), 
@@ -140,7 +140,7 @@ For each airport:
 - latest flight local time (must be between 22:30 and 23:00),
 - shortest time between flights (must be not less than 30 minutes)
 
-####[General report on movements](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/02.report_general_movements.sql)
+#### [General report on movements](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/02.report_general_movements.sql)
 
 - `completion_rate` - rate of actually completed flights among planned (must be 0.95)
 - `late_rate` - rate of late flights among completed (must be 0.2)
@@ -149,7 +149,7 @@ For each airport:
 - `early_arrival_rate` - rate of flights that arrived early among completed (must be 0.05)
 - _etc_
 
-####[Report on late flights](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/03.report_late_total.sql)
+#### [Report on late flights](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/03.report_late_total.sql)
 
 - `planned` - total planned flights
 - `completed` - total completed flights
@@ -160,15 +160,15 @@ For each airport:
 - `late_delayed_rate` - rate of flights late because of being delayed among completed (must be 0.1)
 - `late_delayed_rate` - rate of flights late while not being delayed among completed (must be 0.1)
 
-####[Report on late flights by destination country](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/04.report_late_by_country.sql-)
+#### [Report on late flights by destination country](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/04.report_late_by_country.sql-)
 
 For each country all metrics of the report above regarding flights arriving to this country.
 
-####[Report on weekdays by airport](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/05.report_weekdays_by_airport.sql)
+#### [Report on weekdays by airport](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/05.report_weekdays_by_airport.sql)
 
 For each airport and each weekday - number of flights departing from the airport on that weekday.
 
-####[Report on weekdays](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/06.report_weekdays_total.sql)
+#### [Report on weekdays](https://github.com/DirtyB/flights/blob/master/reporting/sql/report/06.report_weekdays_total.sql)
 
 For each weekday - total number of flights departing on that weekday.
 
